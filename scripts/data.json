@@ -4,14 +4,21 @@
       "name": "Ajax",
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
       "type": "Programming Technique",
-      "year_created": "1999",
-      "year_deprecated": ""
+      "year_created": "1999"
     },
     {
       "name": "Angular",
       "url": "https://angular.io",
       "type": "Framework",
       "year_created": "2016"
+    },
+    {
+      "name": "AngularJS",
+      "url": "https://angularjs.org",
+      "type": "Framework",
+      "year_created": "2010",
+      "year_deprecated": "2021",
+      "note": "Replaced by Angular"
     },
     {
       "name": "Anime.js",

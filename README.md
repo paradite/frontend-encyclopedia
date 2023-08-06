@@ -6,6 +6,7 @@
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
 - [Angular Universal](https://angular.io/guide/universal) - Technology
 - [Angular](https://angular.io) - Framework (2016)
+- [AngularJS](https://angularjs.org) - Framework (2010 - 2021)
 - [Anime.js](https://animejs.com) - Library (2016)
 - [Ant Design](https://ant.design) - UI Library (2015)
 - [Apollo](https://www.apollographql.com) - Library

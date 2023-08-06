@@ -48,6 +48,7 @@
 
 ### Framework
 - [Angular](https://angular.io)(2016)
+- [AngularJS](https://angularjs.org)(2010 - 2021)
 - [Astro](https://astro.build/)
 - [Backbone.js](https://backbonejs.org)
 - [Electron](https://www.electronjs.org)
