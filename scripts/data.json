@@ -46,12 +46,14 @@
     {
       "name": "Astro",
       "url": "https://astro.build/",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2022
     },
     {
       "name": "Angular Universal",
       "url": "https://angular.io/guide/universal",
-      "type": "Technology"
+      "type": "Technology",
+      "year_created": 2016
     }
   ],
   "B": [
@@ -195,7 +197,8 @@
     {
       "name": "Flowbite",
       "url": "https://flowbite.com/",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2021
     },
     {
       "name": "Fastify",
@@ -213,42 +216,50 @@
     {
       "name": "Gatsby",
       "url": "https://www.gatsbyjs.com",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2015
     },
     {
       "name": "Git",
       "url": "https://git-scm.com",
-      "type": "Version Control System"
+      "type": "Version Control System",
+      "year_created": 2005
     },
     {
       "name": "GitHub",
       "url": "https://github.com",
-      "type": "Version Control System"
+      "type": "Version Control System",
+      "year_created": 2008
     },
     {
       "name": "GitHub Desktop",
       "url": "https://desktop.github.com/",
-      "type": "Version Control System"
+      "type": "Version Control System",
+      "year_created": 2017
     },
     {
       "name": "GitHub Pages",
       "url": "https://pages.github.com/",
-      "type": "Deployment"
+      "type": "Deployment",
+      "year_created": 2008
     },
     {
       "name": "GitLab",
       "url": "https://docs.gitlab.com",
-      "type": "Version Control System"
+      "type": "Version Control System",
+      "year_created": 2014
     },
     {
       "name": "Grunt",
       "url": "https://gruntjs.com/",
-      "type": "Task Runner"
+      "type": "Task Runner",
+      "year_created": 2016
     },
     {
       "name": "Gulp",
       "url": "https://gulpjs.com",
-      "type": "Build Tool"
+      "type": "Build Tool",
+      "year_created": 2013
     },
     {
       "name": "GraphQL",
@@ -260,7 +271,8 @@
     {
       "name": "HTML",
       "url": "https://en.wikipedia.org/wiki/HTML",
-      "type": "Language"
+      "type": "Language",
+      "year_created": 1993
     }
   ],
   "I": [
@@ -289,7 +301,8 @@
     {
       "name": "Jest",
       "url": "https://jestjs.io",
-      "type": "Testing Library"
+      "type": "Testing Library",
+      "year_created": 2011
     },
     {
       "name": "JavaScript",
@@ -365,7 +378,8 @@
     {
       "name": "Materialize",
       "url": "https://materializecss.com/",
-      "type": "CSS Framework"
+      "type": "CSS Framework",
+      "year_created": 2022
     }
   ],
   "N": [
@@ -426,7 +440,8 @@
     {
       "name": "Passport",
       "url": "https://www.passportjs.org/",
-      "type": "Authentication Middleware"
+      "type": "Authentication Middleware",
+      "year_created": 2011
     },
     {
       "name": "Pug",
@@ -460,7 +475,8 @@
     {
       "name": "Qwik",
       "url": "https://qwik.builder.io/",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2023
     }
   ],
   "R": [
@@ -534,7 +550,8 @@
     {
       "name": "SolidJS",
       "url": "https://www.solidjs.com/",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2016
     },
     {
       "name": "Socket.IO",
