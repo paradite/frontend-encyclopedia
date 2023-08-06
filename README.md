@@ -17,35 +17,35 @@
 - [Bootstrap](https://getbootstrap.com) - UI Library
 
 ### C
-- [Chakra UI](https://chakra-ui.com) - UI Library
 - [Chai](https://www.chaijs.com) - Testing Library
+- [Chakra UI](https://chakra-ui.com) - UI Library
 - [Chart.js](https://www.chartjs.org) - Library
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language
 - [Cypress](https://www.cypress.io) - Testing Library
 
 ### D
-- [day.js](https://day.js.org) - Library
 - [D3.js](https://d3js.org) - Library
+- [day.js](https://day.js.org) - Library
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Specification
 
 ### E
 - [Electron](https://www.electronjs.org) - Framework
 - [Ember.js](https://emberjs.com) - Framework
-- [ESLint](https://eslint.org) - Linter
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Specification
+- [ESLint](https://eslint.org) - Linter
 
 ### F
 - [Figma](https://www.figma.com) - Design Tool
+- [Firebase](https://firebase.google.com) - Backend-as-a-Service
 - [Flutter](https://flutter.dev) - Framework
 - [Foundation](https://get.foundation) - UI Library
-- [Firebase](https://firebase.google.com) - Backend-as-a-Service
 
 ### G
 - [Gatsby](https://www.gatsbyjs.com) - Framework
 - [Git](https://git-scm.com) - Version Control System
 - [GitHub](https://github.com) - Version Control System
-- [Gulp](https://gulpjs.com) - Build Tool
 - [GraphQL](https://graphql.org) - Specification
+- [Gulp](https://gulpjs.com) - Build Tool
 
 ### H
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Language
@@ -56,8 +56,8 @@
 - [Ionic](https://ionicframework.com) - Framework
 
 ### J
-- [Jest](https://jestjs.io) - Testing Library
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language
+- [Jest](https://jestjs.io) - Testing Library
 - [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format
 
 ### K
@@ -75,25 +75,25 @@
 
 ### N
 - [Next.js](https://nextjs.org) - Framework
-- [npm](https://www.npmjs.com) - Package Manager
 - [Node.js](https://nodejs.org) - Runtime Environment
+- [npm](https://www.npmjs.com) - Package Manager
 
 ### O
 - [OAuth](https://oauth.net) - Specification
 
 ### P
 - [Parcel](https://parceljs.org) - Build Tool
-- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) - Technology
 - [Postman](https://www.postman.com) - API Client
 - [Prettier](https://prettier.io) - Code Formatter
+- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) - Technology
 
 ### Q
 - [Quasar](https://quasar.dev) - Framework
 
 ### R
-- [React](https://react.dev) - Framework
 - [React Native](https://reactnative.dev) - Framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
+- [React](https://react.dev) - Framework
 - [Redux](https://redux.js.org) - Library
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) - Specification
 - [RxJS](https://rxjs.dev) - Library
