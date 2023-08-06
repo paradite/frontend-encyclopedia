@@ -3,8 +3,8 @@
 [List by categories](categories.md)
 
 ### A
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique
-- [Angular](https://angular.io) - Framework
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
+- [Angular](https://angular.io) - Framework (2016)
 - [Anime.js](https://animejs.com) - Library
 - [Ant Design](https://ant.design) - UI Library
 - [Apollo](https://www.apollographql.com) - Library

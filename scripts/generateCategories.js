@@ -5,9 +5,18 @@ const categories = {};
 
 for (const key in data) {
   data[key].forEach((term) => {
+    let dateInfo = ``
+    if (term.year_created && term.year_deprecated) {
+      dateInfo = ` (${term.year_created} - ${term.year_deprecated})`
+    } else if (term.year_created) {
+      dateInfo = ` (${term.year_created})`
+    }
     if (term.type) {
       if (!categories[term.type]) categories[term.type] = [];
-      const nameWithLink = term.url ? `[${term.name}](${term.url})` : term.name;
+      let nameWithLink = term.url ? `[${term.name}](${term.url})` : term.name;
+
+      if (dateInfo) 
+        nameWithLink += dateInfo     
       categories[term.type].push(nameWithLink);
     }
   });
