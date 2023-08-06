@@ -11,7 +11,7 @@
       "type": "Framework"
     },
     {
-      "name": "AnimeJS",
+      "name": "Anime.js",
       "url": "https://animejs.com",
       "type": "Library"
     },
@@ -38,7 +38,7 @@
       "type": "Build Tool"
     },
     {
-      "name": "BackboneJS",
+      "name": "Backbone.js",
       "url": "https://backbonejs.org",
       "type": "Framework"
     },
@@ -104,7 +104,7 @@
       "type": "Framework"
     },
     {
-      "name": "EmberJS",
+      "name": "Ember.js",
       "url": "https://emberjs.com",
       "type": "Framework"
     },
@@ -189,8 +189,8 @@
     {
       "name": "Ionic",
       "url": "https://ionicframework.com",
-      "type": "UI Toolkit"
-    },
+      "type": "Framework"
+    }
   ],
   "J": [
     {

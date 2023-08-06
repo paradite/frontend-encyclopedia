@@ -5,12 +5,14 @@
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique
 - [Angular](https://angular.io) - Framework
+- [Anime.js](https://animejs.com) - Library
 - [Ant Design](https://ant.design) - UI Library
 - [Apollo](https://www.apollographql.com) - Library
 - [Axios](https://axios-http.com) - Library
 
 ### B
 - [Babel](https://babeljs.io) - Build Tool
+- [Backbone.js](https://backbonejs.org) - Framework
 - [BEM](https://en.bem.info) - CSS Methodology
 - [Bootstrap](https://getbootstrap.com) - UI Library
 
@@ -28,6 +30,7 @@
 
 ### E
 - [Electron](https://www.electronjs.org) - Framework
+- [Ember.js](https://emberjs.com) - Framework
 - [ESLint](https://eslint.org) - Linter
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Specification
 
@@ -50,6 +53,7 @@
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) - Programming Technique
 - [Immutable.js](https://immutable-js.com) - Library
+- [Ionic](https://ionicframework.com) - Framework
 
 ### J
 - [Jest](https://jestjs.io) - Testing Library
@@ -65,6 +69,7 @@
 
 ### M
 - [Material UI](https://mui.com) - UI Library
+- [Meteor.js](https://www.meteor.com) - Framework
 - [Mocha](https://mochajs.org) - Testing Library
 - [Moment.js](https://momentjs.com) - Library
 

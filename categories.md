@@ -30,9 +30,13 @@
 
 ### Framework
 - [Angular](https://angular.io)
+- [Backbone.js](https://backbonejs.org)
 - [Electron](https://www.electronjs.org)
+- [Ember.js](https://emberjs.com)
 - [Flutter](https://flutter.dev)
 - [Gatsby](https://www.gatsbyjs.com)
+- [Ionic](https://ionicframework.com)
+- [Meteor.js](https://www.meteor.com)
 - [Next.js](https://nextjs.org)
 - [Quasar](https://quasar.dev)
 - [React](https://react.dev)
@@ -50,6 +54,7 @@
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Library
+- [Anime.js](https://animejs.com)
 - [Apollo](https://www.apollographql.com)
 - [Axios](https://axios-http.com)
 - [Chart.js](https://www.chartjs.org)
