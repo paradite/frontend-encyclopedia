@@ -86,6 +86,7 @@
 - [D3.js](https://d3js.org)
 - [day.js](https://day.js.org)
 - [Flowbite](https://flowbite.com/)
+- [HTMX](https://htmx.org/) (2022)
 - [Immutable.js](https://immutable-js.com)
 - [jQuery](https://jquery.com) (2006)
 - [Lodash](https://lodash.com)

@@ -64,6 +64,7 @@
 
 ### H
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Language
+- [HTMX](https://htmx.org/) - Library (2022)
 
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) - Programming Technique
