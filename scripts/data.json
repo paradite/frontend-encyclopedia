@@ -76,5 +76,11 @@
   "W": [{ "name": "webpack", "url": "https://webpack.js.org" }],
   "X": [{ "name": "XState", "url": "https://xstate.js.org" }],
   "Y": [{ "name": "Yarn", "url": "https://yarnpkg.com" }],
-  "Z": [{ "name": "z-index", "url": "https://en.wikipedia.org/wiki/Z-order#z-index" }]
+  "Z": [
+    { "name": "z-index", "url": "https://en.wikipedia.org/wiki/Z-order#z-index" },
+    {
+      "name": "Zod",
+      "url": "https://zod.dev"
+    }
+  ]
 }

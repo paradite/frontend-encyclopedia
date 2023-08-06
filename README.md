@@ -94,4 +94,5 @@
 
 ### Z
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index)
+- [Zod](https://zod.dev)
 
