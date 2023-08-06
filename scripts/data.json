@@ -11,7 +11,7 @@
     { "name": "Axios", "url": "https://axios-http.com", "type": "Library" }
   ],
   "B": [
-    { "name": "Babel", "url": "https://babeljs.io", "type": "Compiler" },
+    { "name": "Babel", "url": "https://babeljs.io", "type": "Build Tool" },
     { "name": "BEM", "url": "https://en.bem.info", "type": "CSS Methodology" },
     { "name": "Bootstrap", "url": "https://getbootstrap.com", "type": "UI Library" }
   ],

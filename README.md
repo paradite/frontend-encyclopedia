@@ -10,7 +10,7 @@
 - [Axios](https://axios-http.com) - Library
 
 ### B
-- [Babel](https://babeljs.io) - Compiler
+- [Babel](https://babeljs.io) - Build Tool
 - [BEM](https://en.bem.info) - CSS Methodology
 - [Bootstrap](https://getbootstrap.com) - UI Library
 

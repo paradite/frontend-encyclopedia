@@ -14,6 +14,7 @@
 - [Firebase](https://firebase.google.com)
 
 ### Build Tool
+- [Babel](https://babeljs.io)
 - [Gulp](https://gulpjs.com)
 - [Parcel](https://parceljs.org)
 - [Vite](https://vitejs.dev)
@@ -26,9 +27,6 @@
 
 ### Code Formatter
 - [Prettier](https://prettier.io)
-
-### Compiler
-- [Babel](https://babeljs.io)
 
 ### Data Format
 - [JSON](https://en.wikipedia.org/wiki/JSON)
