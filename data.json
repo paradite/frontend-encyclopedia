@@ -1,0 +1,75 @@
+{
+  "A": [
+    { "name": "AJAX", "url": "" },
+    { "name": "Angular", "url": "" },
+    { "name": "Axios", "url": "" }
+  ],
+  "B": [
+    { "name": "Babel", "url": "" },
+    { "name": "Bootstrap", "url": "" }
+  ],
+  "C": [
+    { "name": "Chakra-UI", "url": "" },
+    { "name": "CSS3", "url": "" },
+    { "name": "Cypress", "url": "" }
+  ],
+  "D": [
+    { "name": "D3.js", "url": "" },
+    { "name": "Docker", "url": "" }
+  ],
+  "E": [
+    { "name": "ES2022", "url": "" },
+    { "name": "Express.js", "url": "" }
+  ],
+  "F": [
+    { "name": "Figma", "url": "" },
+    { "name": "Framer", "url": "" }
+  ],
+  "G": [
+    { "name": "Gatsby", "url": "" },
+    { "name": "GraphQL", "url": "" }
+  ],
+  "H": [{ "name": "HTML5", "url": "" }],
+  "I": [{ "name": "Immutable.js", "url": "" }],
+  "J": [
+    { "name": "Jest", "url": "" },
+    { "name": "JavaScript", "url": "" }
+  ],
+  "K": [{ "name": "Keyframes", "url": "" }],
+  "L": [
+    { "name": "Less", "url": "" },
+    { "name": "lodash", "url": "" }
+  ],
+  "M": [{ "name": "Material-UI", "url": "" }],
+  "N": [
+    { "name": "Next.js", "url": "" },
+    { "name": "npm", "url": "" }
+  ],
+  "O": [{ "name": "OAuth", "url": "" }],
+  "P": [
+    { "name": "Parcel", "url": "" },
+    { "name": "PWA", "url": "" }
+  ],
+  "Q": [{ "name": "Quasar", "url": "" }],
+  "R": [
+    { "name": "React", "url": "" },
+    { "name": "Redux", "url": "" },
+    { "name": "REST", "url": "" },
+    { "name": "RxJS", "url": "" }
+  ],
+  "S": [
+    { "name": "SCSS", "url": "" },
+    { "name": "Styled-components", "url": "" },
+    { "name": "Svelte", "url": "" }
+  ],
+  "T": [
+    { "name": "TailwindCSS", "url": "" },
+    { "name": "TypeScript", "url": "" }
+  ],
+  "U": [{ "name": "Underscore.js", "url": "" }],
+  "V": [{ "name": "Vue.js", "url": "" }],
+  "W": [{ "name": "Webpack", "url": "" }],
+  "X": [{ "name": "XState", "url": "" }],
+  "Y": [{ "name": "Yarn", "url": "" }],
+  "Z": [{ "name": "Z-index", "url": "" }]
+}
