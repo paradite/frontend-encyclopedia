@@ -10,15 +10,12 @@
   ],
   "C": [
     { "name": "Chakra-UI", "url": "https://chakra-ui.com" },
-    { "name": "CSS3", "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets" },
+    { "name": "CSS", "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets" },
     { "name": "Cypress", "url": "https://www.cypress.io" }
   ],
   "D": [{ "name": "D3.js", "url": "https://d3js.org" }],
   "E": [{ "name": "ES2022", "url": "https://en.wikipedia.org/wiki/ECMAScript" }],
-  "F": [
-    { "name": "Figma", "url": "https://www.figma.com" },
-    { "name": "Framer", "url": "https://www.framer.com" }
-  ],
+  "F": [{ "name": "Figma", "url": "https://www.figma.com" }],
   "G": [
     { "name": "Gatsby", "url": "https://www.gatsbyjs.com" },
     { "name": "GraphQL", "url": "https://graphql.org" }
@@ -29,7 +26,12 @@
     { "name": "Jest", "url": "https://jestjs.io" },
     { "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
   ],
-  "K": [{ "name": "Keyframes", "url": "https://en.wikipedia.org/wiki/Key_frame" }],
+  "K": [
+    {
+      "name": "Keyframes",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes"
+    }
+  ],
   "L": [
     { "name": "Less", "url": "https://lesscss.org" },
     { "name": "lodash", "url": "https://lodash.com" }
