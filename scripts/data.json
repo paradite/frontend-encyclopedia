@@ -261,6 +261,12 @@
       "name": "HTML",
       "url": "https://en.wikipedia.org/wiki/HTML",
       "type": "Language"
+    },
+    {
+      "name": "HTMX",
+      "url": "https://htmx.org/",
+      "type": "Library",
+      "year_created": "2022"
     }
   ],
   "I": [
