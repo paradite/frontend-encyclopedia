@@ -4,6 +4,9 @@
 - [Insomnia](https://insomnia.rest)
 - [Postman](https://www.postman.com)
 
+### Authentication Middleware
+- [Passport](https://www.passportjs.org/)
+
 ### Backend-as-a-Service
 - [Fastify](https://fastify.dev)
 - [Firebase](https://firebase.google.com)
@@ -19,6 +22,10 @@
 - [CircleCI](https://circleci.com)
 - [Travis CI](https://www.travis-ci.com)
 
+### CSS Framework
+- [Materialize](https://materializecss.com/)
+- [Pure](https://purecss.io/)
+
 ### CSS Methodology
 - [BEM](https://en.bem.info)
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
@@ -31,11 +38,17 @@
 - [JSON](https://en.wikipedia.org/wiki/JSON)
 - [SVG](https://en.wikipedia.org/wiki/SVG)
 
+### Deployment
+- [GitHub Pages](https://pages.github.com/)
+- [Render](https://render.com/)
+- [Vercel](https://vercel.com/)
+
 ### Design Tool
 - [Figma](https://www.figma.com)
 
 ### Framework
 - [Angular](https://angular.io)(2016)
+- [Astro](https://astro.build/)
 - [Backbone.js](https://backbonejs.org)
 - [Electron](https://www.electronjs.org)
 - [Ember.js](https://emberjs.com)
@@ -45,8 +58,10 @@
 - [Meteor.js](https://www.meteor.com)
 - [Next.js](https://nextjs.org)
 - [Quasar](https://quasar.dev)
+- [Qwik](https://qwik.builder.io/)
 - [React Native](https://reactnative.dev)
 - [React](https://react.dev)
+- [SolidJS](https://www.solidjs.com/)
 - [Svelte](https://svelte.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Vue.js](https://vuejs.org)
@@ -66,6 +81,7 @@
 - [Chart.js](https://www.chartjs.org)
 - [D3.js](https://d3js.org)
 - [day.js](https://day.js.org)
+- [Flowbite](https://flowbite.com/)
 - [Immutable.js](https://immutable-js.com)
 - [jQuery](https://jquery.com)(2006)
 - [Lodash](https://lodash.com)
@@ -88,6 +104,7 @@
 
 ### Package Manager
 - [npm](https://www.npmjs.com)
+- [pnpm](https://pnpm.io/)
 - [Yarn](https://yarnpkg.com)
 
 ### Programming Technique
@@ -98,6 +115,7 @@
 - [Node.js](https://nodejs.org)
 
 ### Specification
+- [BOM](https://en.wikipedia.org/wiki/Browser_Object_Model)
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
 - [GraphQL](https://graphql.org)
@@ -105,9 +123,19 @@
 - [OAuth](https://oauth.net)
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
+### Task Runner
+- [Grunt](https://gruntjs.com/)
+- [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts)
+
 ### Technology
+- [Angular Universal](https://angular.io/guide/universal)
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
 - [WebRTC](https://webrtc.org)
+- [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+
+### Template Engine
+- [EJS](https://ejs.co/)
+- [Pug](https://pugjs.org/api/getting-started.html)
 
 ### Testing Library
 - [Chai](https://www.chaijs.com)
@@ -127,6 +155,7 @@
 ### Version Control System
 - [Bitbucket](https://bitbucket.org)
 - [Git](https://git-scm.com)
+- [GitHub Desktop](https://desktop.github.com/)
 - [GitHub](https://github.com)
 - [GitLab](https://docs.gitlab.com)
 

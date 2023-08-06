@@ -43,7 +43,7 @@
     {
       "name": "Angular Universal",
       "url": "https://angular.io/guide/universal",
-      "type": "Node Package"
+      "type": "Technology"
     }
   ],
   "B": [
@@ -411,6 +411,11 @@
       "name": "Playwright",
       "url": "https://playwright.dev",
       "type": "Testing Library"
+    },
+    {
+      "name": "Pure",
+      "url": "https://purecss.io/",
+      "type": "CSS Framework"
     }
   ],
   "Q": [
@@ -562,7 +567,7 @@
       "type": "Build Tool"
     },
     {
-      "name": "Web Sockets",
+      "name": "WebSocket",
       "url": "https://en.wikipedia.org/wiki/WebSocket",
       "type": "Technology"
     },
