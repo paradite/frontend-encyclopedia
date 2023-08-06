@@ -11,6 +11,11 @@
       "type": "Framework"
     },
     {
+      "name": "AnimeJS",
+      "url": "https://animejs.com",
+      "type": "Library"
+    },
+    {
       "name": "Ant Design",
       "url": "https://ant.design",
       "type": "UI Library"
@@ -31,6 +36,11 @@
       "name": "Babel",
       "url": "https://babeljs.io",
       "type": "Build Tool"
+    },
+    {
+      "name": "BackboneJS",
+      "url": "https://backbonejs.org",
+      "type": "Framework"
     },
     {
       "name": "BEM",
@@ -91,6 +101,11 @@
     {
       "name": "Electron",
       "url": "https://www.electronjs.org",
+      "type": "Framework"
+    },
+    {
+      "name": "EmberJS",
+      "url": "https://emberjs.com",
       "type": "Framework"
     },
     {
@@ -170,7 +185,12 @@
       "name": "Immutable.js",
       "url": "https://immutable-js.com",
       "type": "Library"
-    }
+    },
+    {
+      "name": "ionicframework",
+      "url": "https://ionicframework.com",
+      "type": "UI Toolkit"
+    },
   ],
   "J": [
     {
@@ -213,6 +233,11 @@
       "name": "Material UI",
       "url": "https://mui.com",
       "type": "UI Library"
+    },
+    {
+      "name": "Meteor.js",
+      "url": "https://www.meteor.com",
+      "type": "Framework"
     },
     {
       "name": "Mocha",
