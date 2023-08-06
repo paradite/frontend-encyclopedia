@@ -109,6 +109,7 @@
 - [Underscore.js](https://underscorejs.org) - Library
 
 ### V
+- [Vite](https://vitejs.dev) - Build Tool
 - [Vue.js](https://vuejs.org) - Framework
 
 ### W

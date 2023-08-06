@@ -160,7 +160,10 @@
   "U": [
     { "name": "Underscore.js", "url": "https://underscorejs.org", "type": "Library" }
   ],
-  "V": [{ "name": "Vue.js", "url": "https://vuejs.org", "type": "Framework" }],
+  "V": [
+    { "name": "Vite", "url": "https://vitejs.dev", "type": "Build Tool" },
+    { "name": "Vue.js", "url": "https://vuejs.org", "type": "Framework" }
+  ],
   "W": [{ "name": "webpack", "url": "https://webpack.js.org", "type": "Build Tool" }],
   "X": [{ "name": "XState", "url": "https://xstate.js.org", "type": "Library" }],
   "Y": [{ "name": "Yarn", "url": "https://yarnpkg.com", "type": "Package Manager" }],
