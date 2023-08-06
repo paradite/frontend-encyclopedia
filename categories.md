@@ -72,13 +72,13 @@
 - [RxJS](https://rxjs.dev)
 - [styled-components](https://styled-components.com)
 - [Three.js](https://threejs.org)
-- [TSLint](https://palantir.github.io/tslint)
 - [Underscore.js](https://underscorejs.org)
 - [XState](https://xstate.js.org)
 - [Zod](https://zod.dev)
 
 ### Linter
 - [ESLint](https://eslint.org)
+- [TSLint](https://palantir.github.io/tslint)
 
 ### Package Manager
 - [npm](https://www.npmjs.com)

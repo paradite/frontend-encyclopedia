@@ -154,7 +154,7 @@
   "T": [
     { "name": "Tailwind CSS", "url": "https://tailwindcss.com", "type": "Framework" },
     { "name": "Three.js", "url": "https://threejs.org", "type": "Library" },
-    { "name": "TSLint", "url": "https://palantir.github.io/tslint", "type": "Library" },
+    { "name": "TSLint", "url": "https://palantir.github.io/tslint", "type": "Linter" },
     { "name": "TypeScript", "url": "https://www.typescriptlang.org", "type": "Language" }
   ],
   "U": [

@@ -102,7 +102,7 @@
 ### T
 - [Tailwind CSS](https://tailwindcss.com) - Framework
 - [Three.js](https://threejs.org) - Library
-- [TSLint](https://palantir.github.io/tslint) - Library
+- [TSLint](https://palantir.github.io/tslint) - Linter
 - [TypeScript](https://www.typescriptlang.org) - Language
 
 ### U
