@@ -47,8 +47,8 @@
 - [Figma](https://www.figma.com)
 
 ### Framework
-- [Angular](https://angular.io)(2016)
-- [AngularJS](https://angularjs.org)(2010 - 2021)
+- [Angular](https://angular.io) (2016)
+- [AngularJS](https://angularjs.org) (2010 - 2021)
 - [Astro](https://astro.build/)
 - [Backbone.js](https://backbonejs.org)
 - [Electron](https://www.electronjs.org)
@@ -70,13 +70,13 @@
 ### Language
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)(1995)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (1995)
 - [Less](https://lesscss.org)
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Library
-- [Anime.js](https://animejs.com)(2016)
+- [Anime.js](https://animejs.com) (2016)
 - [Apollo](https://www.apollographql.com)
 - [Axios](https://axios-http.com)
 - [Chart.js](https://www.chartjs.org)
@@ -84,7 +84,7 @@
 - [day.js](https://day.js.org)
 - [Flowbite](https://flowbite.com/)
 - [Immutable.js](https://immutable-js.com)
-- [jQuery](https://jquery.com)(2006)
+- [jQuery](https://jquery.com) (2006)
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
 - [Node Cron](https://github.com/node-cron/node-cron)
@@ -109,7 +109,7 @@
 - [Yarn](https://yarnpkg.com)
 
 ### Programming Technique
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))(1999)
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) (1999)
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ### Runtime Environment
@@ -147,7 +147,7 @@
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### UI Library
-- [Ant Design](https://ant.design)(2015)
+- [Ant Design](https://ant.design) (2015)
 - [Bootstrap](https://getbootstrap.com)
 - [Chakra UI](https://chakra-ui.com)
 - [Foundation](https://get.foundation)

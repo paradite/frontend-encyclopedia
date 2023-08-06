@@ -50,7 +50,7 @@ for (const key in data) {
         ? `[${term.name}](${term.url})`
         : term.name;
 
-      if (dateInfo) nameWithLink += dateInfo;
+      if (dateInfo) nameWithLink += ` ${dateInfo}`;
       categories[term.type].push(nameWithLink);
     }
   });
