@@ -29,7 +29,7 @@
 - [Figma](https://www.figma.com)
 
 ### Framework
-- [Angular](https://angular.io) (2016)
+- [Angular](https://angular.io)(2016)
 - [Backbone.js](https://backbonejs.org)
 - [Electron](https://www.electronjs.org)
 - [Ember.js](https://emberjs.com)
@@ -80,7 +80,7 @@
 - [Yarn](https://yarnpkg.com)
 
 ### Programming Technique
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) (1999)
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))(1999)
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ### Runtime Environment

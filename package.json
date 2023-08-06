@@ -4,7 +4,7 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "generate": "node scripts/generateReadme.js && node scripts/generateCategories.js"
+    "generate": "node scripts/generate.js"
   },
   "prettier": {
     "singleQuote": true,
