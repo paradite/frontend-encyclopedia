@@ -42,7 +42,7 @@
 - [Git](https://git-scm.com) - Version Control System
 - [GitHub](https://github.com) - Version Control System
 - [Gulp](https://gulpjs.com) - Build Tool
-- [GraphQL](https://graphql.org) - Query Language
+- [GraphQL](https://graphql.org) - API Design
 
 ### H
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Language

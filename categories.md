@@ -4,6 +4,7 @@
 - [Postman](https://www.postman.com)
 
 ### API Design
+- [GraphQL](https://graphql.org)
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ### Authorization Framework
@@ -91,9 +92,6 @@
 ### Programming Technique
 - [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
-
-### Query Language
-- [GraphQL](https://graphql.org)
 
 ### Runtime Environment
 - [Node.js](https://nodejs.org)
