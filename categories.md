@@ -142,6 +142,7 @@
 ### Testing Library
 - [Chai](https://www.chaijs.com)
 - [Cypress](https://www.cypress.io)
+- [Enzyme](https://enzymejs.github.io/enzyme/) (2015, Last release was in 2019.)
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
 - [Playwright](https://playwright.dev)

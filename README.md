@@ -38,6 +38,7 @@
 - [EJS](https://ejs.co/) - Template Engine
 - [Electron](https://www.electronjs.org) - Framework
 - [Ember.js](https://emberjs.com) - Framework
+- [Enzyme](https://enzymejs.github.io/enzyme/) - Testing Library (2015, Last release was in 2019.)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Specification
 - [ESLint](https://eslint.org) - Linter
 

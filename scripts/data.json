@@ -159,6 +159,13 @@
       "name": "EJS",
       "url": "https://ejs.co/",
       "type": "Template Engine"
+    },
+    {
+      "name": "Enzyme",
+      "url": "https://enzymejs.github.io/enzyme/",
+      "type": "Testing Library",
+      "year_created": 2015,
+      "note": "Last release was in 2019."
     }
   ],
   "F": [
