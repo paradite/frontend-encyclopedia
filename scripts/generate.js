@@ -56,7 +56,8 @@ for (const key in data) {
   });
 }
 
-let categoriesContent = '# Categories\n\n';
+let categoriesContent =
+  '# Frontend Encyclopedia - Categories\n\n';
 
 Object.keys(categories)
   .sort()

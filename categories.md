@@ -1,4 +1,4 @@
-# Categories
+# Frontend Encyclopedia - Categories
 
 ### API Client
 - [Postman](https://www.postman.com)
@@ -12,6 +12,10 @@
 - [Parcel](https://parceljs.org)
 - [Vite](https://vitejs.dev)
 - [webpack](https://webpack.js.org)
+
+### CI/CD Service
+- [CircleCI](https://circleci.com)
+- [Travis CI](https://www.travis-ci.com)
 
 ### CSS Methodology
 - [BEM](https://en.bem.info)
@@ -48,19 +52,20 @@
 ### Language
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)(1995)
 - [Less](https://lesscss.org)
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Library
-- [Anime.js](https://animejs.com)
+- [Anime.js](https://animejs.com)(2016)
 - [Apollo](https://www.apollographql.com)
 - [Axios](https://axios-http.com)
 - [Chart.js](https://www.chartjs.org)
 - [D3.js](https://d3js.org)
 - [day.js](https://day.js.org)
 - [Immutable.js](https://immutable-js.com)
+- [jQuery](https://jquery.com)(2006)
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
 - [Redux](https://redux.js.org)
@@ -104,7 +109,7 @@
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### UI Library
-- [Ant Design](https://ant.design)
+- [Ant Design](https://ant.design)(2015)
 - [Bootstrap](https://getbootstrap.com)
 - [Chakra UI](https://chakra-ui.com)
 - [Foundation](https://get.foundation)

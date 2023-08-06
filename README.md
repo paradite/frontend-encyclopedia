@@ -5,8 +5,8 @@
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
 - [Angular](https://angular.io) - Framework (2016)
-- [Anime.js](https://animejs.com) - Library
-- [Ant Design](https://ant.design) - UI Library
+- [Anime.js](https://animejs.com) - Library (2016)
+- [Ant Design](https://ant.design) - UI Library (2015)
 - [Apollo](https://www.apollographql.com) - Library
 - [Axios](https://axios-http.com) - Library
 
@@ -20,6 +20,7 @@
 - [Chai](https://www.chaijs.com) - Testing Library
 - [Chakra UI](https://chakra-ui.com) - UI Library
 - [Chart.js](https://www.chartjs.org) - Library
+- [CircleCI](https://circleci.com) - CI/CD Service
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language
 - [Cypress](https://www.cypress.io) - Testing Library
 
@@ -56,8 +57,9 @@
 - [Ionic](https://ionicframework.com) - Framework
 
 ### J
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language (1995)
 - [Jest](https://jestjs.io) - Testing Library
+- [jQuery](https://jquery.com) - Library (2006)
 - [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format
 
 ### K
@@ -107,6 +109,7 @@
 ### T
 - [Tailwind CSS](https://tailwindcss.com) - Framework
 - [Three.js](https://threejs.org) - Library
+- [Travis CI](https://www.travis-ci.com) - CI/CD Service
 - [TSLint](https://palantir.github.io/tslint) - Linter
 - [TypeScript](https://www.typescriptlang.org) - Language
 

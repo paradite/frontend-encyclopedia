@@ -5,7 +5,7 @@
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
       "type": "Programming Technique",
       "year_created": "1999",
-      "year_deprecated":""
+      "year_deprecated": ""
     },
     {
       "name": "Angular",
@@ -16,12 +16,14 @@
     {
       "name": "Anime.js",
       "url": "https://animejs.com",
-      "type": "Library"
+      "type": "Library",
+      "year_created": "2016"
     },
     {
       "name": "Ant Design",
       "url": "https://ant.design",
-      "type": "UI Library"
+      "type": "UI Library",
+      "year_created": "2015"
     },
     {
       "name": "Apollo",
@@ -81,6 +83,11 @@
       "name": "Cypress",
       "url": "https://www.cypress.io",
       "type": "Testing Library"
+    },
+    {
+      "name": "CircleCI",
+      "url": "https://circleci.com",
+      "type": "CI/CD Service"
     }
   ],
   "D": [
@@ -204,7 +211,14 @@
     {
       "name": "JavaScript",
       "url": "https://en.wikipedia.org/wiki/JavaScript",
-      "type": "Language"
+      "type": "Language",
+      "year_created": 1995
+    },
+    {
+      "name": "jQuery",
+      "url": "https://jquery.com",
+      "type": "Library",
+      "year_created": 2006
     },
     {
       "name": "JSON",
@@ -381,6 +395,11 @@
       "name": "TypeScript",
       "url": "https://www.typescriptlang.org",
       "type": "Language"
+    },
+    {
+      "name": "Travis CI",
+      "url": "https://www.travis-ci.com",
+      "type": "CI/CD Service"
     }
   ],
   "U": [
