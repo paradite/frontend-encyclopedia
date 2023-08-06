@@ -3,6 +3,7 @@
 ### A
 - [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))
 - [Angular](https://angular.io)
+- [Ant Design](https://ant.design)
 - [Axios](https://axios-http.com)
 
 ### B
@@ -23,6 +24,7 @@
 
 ### F
 - [Figma](https://www.figma.com)
+- [Firebase](https://firebase.google.com)
 
 ### G
 - [Gatsby](https://www.gatsbyjs.com)
@@ -37,6 +39,7 @@
 ### J
 - [Jest](https://jestjs.io)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [JSON](https://en.wikipedia.org/wiki/JSON)
 
 ### K
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
@@ -51,6 +54,7 @@
 ### N
 - [Next.js](https://nextjs.org)
 - [npm](https://www.npmjs.com)
+- [Node.js](https://nodejs.org)
 
 ### O
 - [OAuth](https://oauth.net)
@@ -58,6 +62,8 @@
 ### P
 - [Parcel](https://parceljs.org)
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
+- [Postman](https://www.postman.com)
+- [Prettier](https://prettier.io)
 
 ### Q
 - [Quasar](https://quasar.dev)

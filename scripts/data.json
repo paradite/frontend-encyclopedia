@@ -2,6 +2,7 @@
   "A": [
     { "name": "AJAX", "url": "https://en.wikipedia.org/wiki/Ajax_(programming)" },
     { "name": "Angular", "url": "https://angular.io" },
+    { "name": "Ant Design", "url": "https://ant.design" },
     { "name": "Axios", "url": "https://axios-http.com" }
   ],
   "B": [
@@ -21,7 +22,13 @@
     }
   ],
   "E": [{ "name": "ES2022", "url": "https://en.wikipedia.org/wiki/ECMAScript" }],
-  "F": [{ "name": "Figma", "url": "https://www.figma.com" }],
+  "F": [
+    { "name": "Figma", "url": "https://www.figma.com" },
+    {
+      "name": "Firebase",
+      "url": "https://firebase.google.com"
+    }
+  ],
   "G": [
     { "name": "Gatsby", "url": "https://www.gatsbyjs.com" },
     { "name": "GraphQL", "url": "https://graphql.org" }
@@ -30,7 +37,8 @@
   "I": [{ "name": "Immutable.js", "url": "https://immutable-js.com" }],
   "J": [
     { "name": "Jest", "url": "https://jestjs.io" },
-    { "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
+    { "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" },
+    { "name": "JSON", "url": "https://en.wikipedia.org/wiki/JSON" }
   ],
   "K": [
     {
@@ -45,12 +53,15 @@
   "M": [{ "name": "Material UI", "url": "https://mui.com" }],
   "N": [
     { "name": "Next.js", "url": "https://nextjs.org" },
-    { "name": "npm", "url": "https://www.npmjs.com" }
+    { "name": "npm", "url": "https://www.npmjs.com" },
+    { "name": "Node.js", "url": "https://nodejs.org" }
   ],
   "O": [{ "name": "OAuth", "url": "https://oauth.net" }],
   "P": [
     { "name": "Parcel", "url": "https://parceljs.org" },
-    { "name": "PWA", "url": "https://en.wikipedia.org/wiki/Progressive_web_application" }
+    { "name": "PWA", "url": "https://en.wikipedia.org/wiki/Progressive_web_application" },
+    { "name": "Postman", "url": "https://www.postman.com" },
+    { "name": "Prettier", "url": "https://prettier.io" }
   ],
   "Q": [{ "name": "Quasar", "url": "https://quasar.dev" }],
   "R": [
