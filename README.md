@@ -15,11 +15,11 @@
 
 ### B
 - [Babel](https://babeljs.io) - Build Tool
-- [Backbone.js](https://backbonejs.org) - Framework
+- [Backbone.js](https://backbonejs.org) - Framework (2010)
 - [BEM](https://en.bem.info) - CSS Methodology
 - [Bitbucket](https://bitbucket.org) - Version Control System
 - [BOM](https://en.wikipedia.org/wiki/Browser_Object_Model) - Specification
-- [Bootstrap](https://getbootstrap.com) - UI Library
+- [Bootstrap](https://getbootstrap.com) - UI Library (2013)
 
 ### C
 - [Chai](https://www.chaijs.com) - Testing Library
@@ -48,6 +48,7 @@
 - [Firebase](https://firebase.google.com) - Backend-as-a-Service
 - [Flowbite](https://flowbite.com/) - Library
 - [Flutter](https://flutter.dev) - Framework
+- [Font Awesome](https://fontawesome.com) - Icon Set (2012)
 - [Foundation](https://get.foundation) - UI Library
 
 ### G

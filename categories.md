@@ -50,7 +50,7 @@
 - [Angular](https://angular.io) (2016)
 - [AngularJS](https://angularjs.org) (2010 - 2021, Replaced by Angular)
 - [Astro](https://astro.build/)
-- [Backbone.js](https://backbonejs.org)
+- [Backbone.js](https://backbonejs.org) (2010)
 - [Electron](https://www.electronjs.org)
 - [Ember.js](https://emberjs.com)
 - [Flutter](https://flutter.dev)
@@ -66,6 +66,9 @@
 - [Svelte](https://svelte.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Vue.js](https://vuejs.org)
+
+### Icon Set
+- [Font Awesome](https://fontawesome.com) (2012)
 
 ### Language
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
@@ -150,7 +153,7 @@
 
 ### UI Library
 - [Ant Design](https://ant.design) (2015)
-- [Bootstrap](https://getbootstrap.com)
+- [Bootstrap](https://getbootstrap.com) (2013)
 - [Chakra UI](https://chakra-ui.com)
 - [Foundation](https://get.foundation)
 - [Material UI](https://mui.com)

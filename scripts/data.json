@@ -62,7 +62,8 @@
     {
       "name": "Backbone.js",
       "url": "https://backbonejs.org",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2010
     },
     {
       "name": "BEM",
@@ -72,7 +73,8 @@
     {
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
-      "type": "UI Library"
+      "type": "UI Library",
+      "year_created": 2013
     },
     {
       "name": "BOM",
@@ -198,6 +200,12 @@
       "name": "Fastify",
       "url": "https://fastify.dev",
       "type": "Backend-as-a-Service"
+    },
+    {
+      "name": "Font Awesome",
+      "url": "https://fontawesome.com",
+      "type": "Icon Set",
+      "year_created": 2012
     }
   ],
   "G": [
