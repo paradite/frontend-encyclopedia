@@ -16,7 +16,7 @@ for (const key in data) {
       : term.name;
 
     if (term.year_created && term.year_deprecated) {
-      dateInfo = `(${term.year_created} - ${term.term.year_deprecated})`
+      dateInfo = `(${term.year_created} - ${term.year_deprecated})`
     } else if (term.year_created) {
       dateInfo = `(${term.year_created})`
     }
