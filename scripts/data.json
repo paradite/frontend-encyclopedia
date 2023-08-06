@@ -32,6 +32,26 @@
       "name": "Axios",
       "url": "https://axios-http.com",
       "type": "Library"
+    },
+    {
+      "name": "Astro",
+      "url": "https://astro.build/",
+      "type": "Framework"
+    },
+    {
+      "name": "Angular Universal",
+      "url": "https://angular.io/guide/universal",
+      "type": "Node Package"
+    },
+    {
+      "name": "Algorithms",
+      "url": "https://the-algorithms.com/",
+      "type": "General Software Topics"
+    },
+    {
+      "name": "Anti-Patterns",
+      "url": "https://en.wikipedia.org/wiki/Anti-pattern",
+      "type": "General Software Topics"
     }
   ],
   "B": [
@@ -54,6 +74,11 @@
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
       "type": "UI Library"
+    },
+    {
+      "name": "BOM",
+      "url": "https://en.wikipedia.org/wiki/Browser_Object_Model",
+      "type": "Specification"
     }
   ],
   "C": [
@@ -81,6 +106,21 @@
       "name": "Cypress",
       "url": "https://www.cypress.io",
       "type": "Testing Library"
+    },
+    {
+      "name": "CI/CD Workflow",
+      "url": "https://docs.gitlab.com/ee/ci/introduction/",
+      "type": "General Software Topics"
+    },
+    {
+      "name": "Caching",
+      "url": "https://en.wikipedia.org/wiki/Cache_(computing)",
+      "type": "General Software Topics"
+    },
+    {
+      "name": "Clean Code",
+      "url": "https://en.wiktionary.org/wiki/clean_code",
+      "type": "General Software Topics"
     }
   ],
   "D": [
@@ -98,6 +138,21 @@
       "name": "DOM",
       "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
       "type": "Specification"
+    },
+    {
+      "name": "Design Patterns",
+      "url": "https://en.wikipedia.org/wiki/Design_Patterns",
+      "type": "General Software Topics"
+    },
+    {
+      "name": "Dry Principle",
+      "url": "https://en.wikipedia.org/wiki/Don%27t_repeat_yourself",
+      "type": "General Software Topics"
+    },
+    {
+      "name": "Data Structures",
+      "url": "https://en.wikipedia.org/wiki/Data_structure",
+      "type": "General Software Topics"
     }
   ],
   "E": [
@@ -120,6 +175,11 @@
       "name": "ES2022",
       "url": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022",
       "type": "Specification"
+    },
+    {
+      "name": "EJS",
+      "url": "https://ejs.co/",
+      "type": "Template Engine"
     }
   ],
   "F": [
@@ -142,6 +202,11 @@
       "name": "Firebase",
       "url": "https://firebase.google.com",
       "type": "Backend-as-a-Service"
+    },
+    {
+      "name": "Flowbite",
+      "url": "https://flowbite.com/",
+      "type": "Library"
     }
   ],
   "G": [
@@ -159,6 +224,21 @@
       "name": "GitHub",
       "url": "https://github.com",
       "type": "Version Control System"
+    },
+    {
+      "name": "GitHub Desktop",
+      "url": "https://desktop.github.com/",
+      "type": "Version Control System"
+    },
+    {
+      "name": "GitHub Pages",
+      "url": "https://pages.github.com/",
+      "type": "Deployment"
+    },
+    {
+      "name": "Grunt",
+      "url": "https://gruntjs.com/",
+      "type": "Task Runner"
     },
     {
       "name": "Gulp",
@@ -217,6 +297,11 @@
       "name": "Keyframes",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes",
       "type": "CSS Methodology"
+    },
+    {
+      "name": "KISS Principle",
+      "url": "https://en.wikipedia.org/wiki/KISS_principle",
+      "type": "General Software Topics"
     }
   ],
   "L": [
@@ -251,6 +336,11 @@
       "name": "Moment.js",
       "url": "https://momentjs.com",
       "type": "Library"
+    },
+    {
+      "name": "Materialize",
+      "url": "https://materializecss.com/",
+      "type": "CSS Framework"
     }
   ],
   "N": [
@@ -268,6 +358,11 @@
       "name": "Node.js",
       "url": "https://nodejs.org",
       "type": "Runtime Environment"
+    },
+    {
+      "name": "npm scripts",
+      "url": "https://docs.npmjs.com/cli/v9/using-npm/scripts",
+      "type": "Task Runner"
     }
   ],
   "O": [
@@ -297,12 +392,32 @@
       "name": "Prettier",
       "url": "https://prettier.io",
       "type": "Code Formatter"
+    },
+    {
+      "name": "Passport",
+      "url": "https://www.passportjs.org/",
+      "type": "Authentication Middleware"
+    },
+    {
+      "name": "Pug",
+      "url": "https://pugjs.org/api/getting-started.html",
+      "type": "Template Engine"
+    },
+    {
+      "name": "pnpm",
+      "url": "https://pnpm.io/",
+      "type": "Package Manager"
     }
   ],
   "Q": [
     {
       "name": "Quasar",
       "url": "https://quasar.dev",
+      "type": "Framework"
+    },
+    {
+      "name": "Qwik",
+      "url": "https://qwik.builder.io/",
       "type": "Framework"
     }
   ],
@@ -336,6 +451,17 @@
       "name": "RxJS",
       "url": "https://rxjs.dev",
       "type": "Library"
+    },
+    {
+      "name": "Regex",
+      "url": "https://en.wikipedia.org/wiki/Regular_expression",
+      "type": "General Software Topics"
+    }
+    ,
+    {
+      "name": "Render",
+      "url": "https://render.com/",
+      "type": "Deployment"
     }
   ],
   "S": [
@@ -344,7 +470,6 @@
       "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
       "type": "Language"
     },
-
     {
       "name": "styled-components",
       "url": "https://styled-components.com",
@@ -359,6 +484,16 @@
       "name": "SVG",
       "url": "https://en.wikipedia.org/wiki/SVG",
       "type": "Data Format"
+    },
+    {
+      "name": "SolidJS",
+      "url": "https://www.solidjs.com/",
+      "type": "Framework"
+    },
+    {
+      "name": "SOLID Principles",
+      "url": "https://en.wikipedia.org/wiki/SOLID",
+      "type": "General Software Topics"
     }
   ],
   "T": [
@@ -400,6 +535,11 @@
       "name": "Vue.js",
       "url": "https://vuejs.org",
       "type": "Framework"
+    },
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com/",
+      "type": "Deployment"
     }
   ],
   "W": [
@@ -407,6 +547,11 @@
       "name": "webpack",
       "url": "https://webpack.js.org",
       "type": "Build Tool"
+    },
+    {
+      "name": "Web Sockets",
+      "url": "https://en.wikipedia.org/wiki/WebSocket",
+      "type": "Technology"
     }
   ],
   "X": [
@@ -421,6 +566,11 @@
       "name": "Yarn",
       "url": "https://yarnpkg.com",
       "type": "Package Manager"
+    },
+    {
+      "name": "YAGNI Principle",
+      "url": "https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it",
+      "type": "General Software Topics"
     }
   ],
   "Z": [
