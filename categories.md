@@ -3,13 +3,6 @@
 ### API Client
 - [Postman](https://www.postman.com)
 
-### API Design
-- [GraphQL](https://graphql.org)
-- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-
-### Authorization Framework
-- [OAuth](https://oauth.net)
-
 ### Backend-as-a-Service
 - [Firebase](https://firebase.google.com)
 
@@ -56,9 +49,6 @@
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [TypeScript](https://www.typescriptlang.org)
 
-### Language Specification
-- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
-
 ### Library
 - [Apollo](https://www.apollographql.com)
 - [Axios](https://axios-http.com)
@@ -84,15 +74,19 @@
 - [npm](https://www.npmjs.com)
 - [Yarn](https://yarnpkg.com)
 
-### Programming API
-- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
-
 ### Programming Technique
 - [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ### Runtime Environment
 - [Node.js](https://nodejs.org)
+
+### Specification
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
+- [GraphQL](https://graphql.org)
+- [OAuth](https://oauth.net)
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ### Technology
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)

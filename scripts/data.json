@@ -32,7 +32,7 @@
     {
       "name": "DOM",
       "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
-      "type": "Programming API"
+      "type": "Specification"
     }
   ],
   "E": [
@@ -41,7 +41,7 @@
     {
       "name": "ES2022",
       "url": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022",
-      "type": "Language Specification"
+      "type": "Specification"
     }
   ],
   "F": [
@@ -59,7 +59,7 @@
     { "name": "Git", "url": "https://git-scm.com", "type": "Version Control System" },
     { "name": "GitHub", "url": "https://github.com", "type": "Version Control System" },
     { "name": "Gulp", "url": "https://gulpjs.com", "type": "Build Tool" },
-    { "name": "GraphQL", "url": "https://graphql.org", "type": "API Design" }
+    { "name": "GraphQL", "url": "https://graphql.org", "type": "Specification" }
   ],
   "H": [
     { "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML", "type": "Language" }
@@ -102,9 +102,7 @@
     { "name": "npm", "url": "https://www.npmjs.com", "type": "Package Manager" },
     { "name": "Node.js", "url": "https://nodejs.org", "type": "Runtime Environment" }
   ],
-  "O": [
-    { "name": "OAuth", "url": "https://oauth.net", "type": "Authorization Framework" }
-  ],
+  "O": [{ "name": "OAuth", "url": "https://oauth.net", "type": "Specification" }],
   "P": [
     { "name": "Parcel", "url": "https://parceljs.org", "type": "Build Tool" },
     {
@@ -128,7 +126,7 @@
     {
       "name": "REST",
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
-      "type": "API Design"
+      "type": "Specification"
     },
     { "name": "RxJS", "url": "https://rxjs.dev", "type": "Library" }
   ],

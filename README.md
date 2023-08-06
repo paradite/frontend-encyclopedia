@@ -24,12 +24,12 @@
 ### D
 - [day.js](https://day.js.org) - Library
 - [D3.js](https://d3js.org) - Library
-- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Programming API
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Specification
 
 ### E
 - [Electron](https://www.electronjs.org) - Framework
 - [ESLint](https://eslint.org) - Linter
-- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Language Specification
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Specification
 
 ### F
 - [Figma](https://www.figma.com) - Design Tool
@@ -42,7 +42,7 @@
 - [Git](https://git-scm.com) - Version Control System
 - [GitHub](https://github.com) - Version Control System
 - [Gulp](https://gulpjs.com) - Build Tool
-- [GraphQL](https://graphql.org) - API Design
+- [GraphQL](https://graphql.org) - Specification
 
 ### H
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Language
@@ -74,7 +74,7 @@
 - [Node.js](https://nodejs.org) - Runtime Environment
 
 ### O
-- [OAuth](https://oauth.net) - Authorization Framework
+- [OAuth](https://oauth.net) - Specification
 
 ### P
 - [Parcel](https://parceljs.org) - Build Tool
@@ -90,7 +90,7 @@
 - [React Native](https://reactnative.dev) - Framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
 - [Redux](https://redux.js.org) - Library
-- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) - API Design
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) - Specification
 - [RxJS](https://rxjs.dev) - Library
 
 ### S
