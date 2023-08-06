@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-node generateReadme.js && git add ./README.md
+node scripts/generateReadme.js && git add ./README.md

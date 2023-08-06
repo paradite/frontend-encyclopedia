@@ -4,5 +4,9 @@
   },
   "scripts": {
     "prepare": "husky install"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "printWidth": 90
   }
 }

@@ -16,6 +16,7 @@
 
 ### D
 - [D3.js](https://d3js.org)
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 
 ### E
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript)

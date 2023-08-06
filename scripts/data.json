@@ -13,7 +13,13 @@
     { "name": "CSS", "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets" },
     { "name": "Cypress", "url": "https://www.cypress.io" }
   ],
-  "D": [{ "name": "D3.js", "url": "https://d3js.org" }],
+  "D": [
+    { "name": "D3.js", "url": "https://d3js.org" },
+    {
+      "name": "DOM",
+      "url": "https://en.wikipedia.org/wiki/Document_Object_Model"
+    }
+  ],
   "E": [{ "name": "ES2022", "url": "https://en.wikipedia.org/wiki/ECMAScript" }],
   "F": [{ "name": "Figma", "url": "https://www.figma.com" }],
   "G": [
