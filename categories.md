@@ -101,7 +101,7 @@
 ### UI Library
 - [Ant Design](https://ant.design)
 - [Bootstrap](https://getbootstrap.com)
-- [Chakra-UI](https://chakra-ui.com)
+- [Chakra UI](https://chakra-ui.com)
 - [Foundation](https://get.foundation)
 - [Material UI](https://mui.com)
 

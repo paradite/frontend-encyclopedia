@@ -16,7 +16,7 @@
     { "name": "Bootstrap", "url": "https://getbootstrap.com", "type": "UI Library" }
   ],
   "C": [
-    { "name": "Chakra-UI", "url": "https://chakra-ui.com", "type": "UI Library" },
+    { "name": "Chakra UI", "url": "https://chakra-ui.com", "type": "UI Library" },
     { "name": "Chai", "url": "https://www.chaijs.com", "type": "Testing Library" },
     { "name": "Chart.js", "url": "https://www.chartjs.org", "type": "Library" },
     {

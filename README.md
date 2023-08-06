@@ -15,7 +15,7 @@
 - [Bootstrap](https://getbootstrap.com) - UI Library
 
 ### C
-- [Chakra-UI](https://chakra-ui.com) - UI Library
+- [Chakra UI](https://chakra-ui.com) - UI Library
 - [Chai](https://www.chaijs.com) - Testing Library
 - [Chart.js](https://www.chartjs.org) - Library
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language
