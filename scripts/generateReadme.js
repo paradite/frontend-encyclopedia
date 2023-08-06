@@ -11,5 +11,6 @@ for (const key in data) {
   );
   content += terms.join('\n') + '\n\n';
 }
+content += '---\n\nPull requests are welcome!\n\n';
 
 fs.writeFileSync('README.md', content);
