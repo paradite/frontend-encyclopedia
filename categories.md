@@ -75,7 +75,7 @@
 - [Yarn](https://yarnpkg.com)
 
 ### Programming Technique
-- [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ### Runtime Environment

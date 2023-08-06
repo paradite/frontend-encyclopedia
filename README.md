@@ -3,7 +3,7 @@
 [List by categories](categories.md)
 
 ### A
-- [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique
 - [Angular](https://angular.io) - Framework
 - [Ant Design](https://ant.design) - UI Library
 - [Apollo](https://www.apollographql.com) - Library
