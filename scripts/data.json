@@ -34,6 +34,16 @@
       "name": "Axios",
       "url": "https://axios-http.com",
       "type": "Library"
+    },
+    {
+      "name": "Astro",
+      "url": "https://astro.build/",
+      "type": "Framework"
+    },
+    {
+      "name": "Angular Universal",
+      "url": "https://angular.io/guide/universal",
+      "type": "Node Package"
     }
   ],
   "B": [
@@ -56,6 +66,11 @@
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
       "type": "UI Library"
+    },
+    {
+      "name": "BOM",
+      "url": "https://en.wikipedia.org/wiki/Browser_Object_Model",
+      "type": "Specification"
     },
     {
       "name": "Bitbucket",
@@ -132,6 +147,11 @@
       "name": "ES2022",
       "url": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022",
       "type": "Specification"
+    },
+    {
+      "name": "EJS",
+      "url": "https://ejs.co/",
+      "type": "Template Engine"
     }
   ],
   "F": [
@@ -156,6 +176,11 @@
       "type": "Backend-as-a-Service"
     },
     {
+      "name": "Flowbite",
+      "url": "https://flowbite.com/",
+      "type": "Library"
+    },
+    {
       "name": "Fastify",
       "url": "https://fastify.dev",
       "type": "Backend-as-a-Service"
@@ -178,9 +203,24 @@
       "type": "Version Control System"
     },
     {
+      "name": "GitHub Desktop",
+      "url": "https://desktop.github.com/",
+      "type": "Version Control System"
+    },
+    {
+      "name": "GitHub Pages",
+      "url": "https://pages.github.com/",
+      "type": "Deployment"
+    },
+    {
       "name": "GitLab",
       "url": "https://docs.gitlab.com",
       "type": "Version Control System"
+    },
+    {
+      "name": "Grunt",
+      "url": "https://gruntjs.com/",
+      "type": "Task Runner"
     },
     {
       "name": "Gulp",
@@ -290,6 +330,11 @@
       "name": "Moment.js",
       "url": "https://momentjs.com",
       "type": "Library"
+    },
+    {
+      "name": "Materialize",
+      "url": "https://materializecss.com/",
+      "type": "CSS Framework"
     }
   ],
   "N": [
@@ -307,6 +352,11 @@
       "name": "Node.js",
       "url": "https://nodejs.org",
       "type": "Runtime Environment"
+    },
+    {
+      "name": "npm scripts",
+      "url": "https://docs.npmjs.com/cli/v9/using-npm/scripts",
+      "type": "Task Runner"
     },
     {
       "name": "Node Cron",
@@ -343,16 +393,35 @@
       "type": "Code Formatter"
     },
     {
+      "name": "Passport",
+      "url": "https://www.passportjs.org/",
+      "type": "Authentication Middleware"
+    },
+    {
+      "name": "Pug",
+      "url": "https://pugjs.org/api/getting-started.html",
+      "type": "Template Engine"
+    },
+    {
+      "name": "pnpm",
+      "url": "https://pnpm.io/",
+      "type": "Package Manager"
+    },
+    {
       "name": "Playwright",
       "url": "https://playwright.dev",
       "type": "Testing Library"
-
     }
   ],
   "Q": [
     {
       "name": "Quasar",
       "url": "https://quasar.dev",
+      "type": "Framework"
+    },
+    {
+      "name": "Qwik",
+      "url": "https://qwik.builder.io/",
       "type": "Framework"
     }
   ],
@@ -393,6 +462,11 @@
       "type": "Library"
     },
     {
+      "name": "Render",
+      "url": "https://render.com/",
+      "type": "Deployment"
+    },
+    {
       "name": "Relay",
       "url": "https://relay.dev",
       "type": "Library"
@@ -404,7 +478,6 @@
       "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
       "type": "Language"
     },
-
     {
       "name": "styled-components",
       "url": "https://styled-components.com",
@@ -419,6 +492,11 @@
       "name": "SVG",
       "url": "https://en.wikipedia.org/wiki/SVG",
       "type": "Data Format"
+    },
+    {
+      "name": "SolidJS",
+      "url": "https://www.solidjs.com/",
+      "type": "Framework"
     },
     {
       "name": "Socket.IO",
@@ -470,6 +548,11 @@
       "name": "Vue.js",
       "url": "https://vuejs.org",
       "type": "Framework"
+    },
+    {
+      "name": "Vercel",
+      "url": "https://vercel.com/",
+      "type": "Deployment"
     }
   ],
   "W": [
@@ -477,6 +560,11 @@
       "name": "webpack",
       "url": "https://webpack.js.org",
       "type": "Build Tool"
+    },
+    {
+      "name": "Web Sockets",
+      "url": "https://en.wikipedia.org/wiki/WebSocket",
+      "type": "Technology"
     },
     {
       "name": "WebRTC",
