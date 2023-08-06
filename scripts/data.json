@@ -54,6 +54,11 @@
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
       "type": "UI Library"
+    },
+    {
+      "name": "Bitbucket",
+      "url": "https://bitbucket.org",
+      "type": "Version Control System"
     }
   ],
   "C": [
@@ -142,6 +147,11 @@
       "name": "Firebase",
       "url": "https://firebase.google.com",
       "type": "Backend-as-a-Service"
+    },
+    {
+      "name": "Fastify",
+      "url": "https://fastify.dev",
+      "type": "Backend-as-a-Service"
     }
   ],
   "G": [
@@ -158,6 +168,11 @@
     {
       "name": "GitHub",
       "url": "https://github.com",
+      "type": "Version Control System"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://docs.gitlab.com",
       "type": "Version Control System"
     },
     {
@@ -193,6 +208,11 @@
       "name": "Ionic",
       "url": "https://ionicframework.com",
       "type": "Framework"
+    },
+    {
+      "name": "Insomnia",
+      "url": "https://insomnia.rest",
+      "type": "API Client"
     }
   ],
   "J": [
@@ -210,6 +230,11 @@
       "name": "JSON",
       "url": "https://en.wikipedia.org/wiki/JSON",
       "type": "Data Format"
+    },
+    {
+      "name": "JSON-RPC",
+      "url": "https://www.jsonrpc.org",
+      "type": "Specification"
     }
   ],
   "K": [
@@ -268,6 +293,11 @@
       "name": "Node.js",
       "url": "https://nodejs.org",
       "type": "Runtime Environment"
+    },
+    {
+      "name": "Node Cron",
+      "url": "https://github.com/node-cron/node-cron",
+      "type": "Library"
     }
   ],
   "O": [
@@ -297,6 +327,12 @@
       "name": "Prettier",
       "url": "https://prettier.io",
       "type": "Code Formatter"
+    },
+    {
+      "name": "Playwright",
+      "url": "https://playwright.dev",
+      "type": "Testing Library"
+
     }
   ],
   "Q": [
@@ -328,6 +364,11 @@
       "type": "Library"
     },
     {
+      "name": "Redux-Saga",
+      "url": "https://redux-saga.js.org",
+      "type": "Library"
+    },
+    {
       "name": "REST",
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
       "type": "Specification"
@@ -335,6 +376,11 @@
     {
       "name": "RxJS",
       "url": "https://rxjs.dev",
+      "type": "Library"
+    },
+    {
+      "name": "Relay",
+      "url": "https://relay.dev",
       "type": "Library"
     }
   ],
@@ -359,6 +405,11 @@
       "name": "SVG",
       "url": "https://en.wikipedia.org/wiki/SVG",
       "type": "Data Format"
+    },
+    {
+      "name": "Socket.IO",
+      "url": "https://socket.io",
+      "type": "Library"
     }
   ],
   "T": [
@@ -407,6 +458,11 @@
       "name": "webpack",
       "url": "https://webpack.js.org",
       "type": "Build Tool"
+    },
+    {
+      "name": "WebRTC",
+      "url": "https://webrtc.org",
+      "type": "Technology"
     }
   ],
   "X": [
