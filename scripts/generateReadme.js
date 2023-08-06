@@ -11,6 +11,7 @@ for (const key in data) {
   );
   content += terms.join('\n') + '\n\n';
 }
-content += '---\n\nPull requests are welcome!\n\n';
+content +=
+  '---\n\nPull requests are welcome!\n\nEdit `scripts/data.json` to add new entries. The husky pre-commit hook will automatically update the `README.md` file.';
 
 fs.writeFileSync('README.md', content);
