@@ -34,9 +34,9 @@
   ],
   "L": [
     { "name": "Less", "url": "https://lesscss.org" },
-    { "name": "lodash", "url": "https://lodash.com" }
+    { "name": "Lodash", "url": "https://lodash.com" }
   ],
-  "M": [{ "name": "Material-UI", "url": "https://mui.com" }],
+  "M": [{ "name": "Material UI", "url": "https://mui.com" }],
   "N": [
     { "name": "Next.js", "url": "https://nextjs.org" },
     { "name": "npm", "url": "https://www.npmjs.com" }
@@ -48,7 +48,7 @@
   ],
   "Q": [{ "name": "Quasar", "url": "https://quasar.dev" }],
   "R": [
-    { "name": "React", "url": "https://reactjs.org" },
+    { "name": "React", "url": "https://react.dev" },
     { "name": "Redux", "url": "https://redux.js.org" },
     {
       "name": "REST",
@@ -57,18 +57,18 @@
     { "name": "RxJS", "url": "https://rxjs.dev" }
   ],
   "S": [
-    { "name": "SCSS", "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)" },
-    { "name": "Styled-components", "url": "https://styled-components.com" },
+    { "name": "Sass", "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)" },
+    { "name": "styled-components", "url": "https://styled-components.com" },
     { "name": "Svelte", "url": "https://svelte.dev" }
   ],
   "T": [
-    { "name": "TailwindCSS", "url": "https://tailwindcss.com" },
+    { "name": "Tailwind CSS", "url": "https://tailwindcss.com" },
     { "name": "TypeScript", "url": "https://www.typescriptlang.org" }
   ],
   "U": [{ "name": "Underscore.js", "url": "https://underscorejs.org" }],
   "V": [{ "name": "Vue.js", "url": "https://vuejs.org" }],
-  "W": [{ "name": "Webpack", "url": "https://webpack.js.org" }],
+  "W": [{ "name": "webpack", "url": "https://webpack.js.org" }],
   "X": [{ "name": "XState", "url": "https://xstate.js.org" }],
   "Y": [{ "name": "Yarn", "url": "https://yarnpkg.com" }],
-  "Z": [{ "name": "z-index", "url": "https://en.wikipedia.org/wiki/Z-index" }]
+  "Z": [{ "name": "z-index", "url": "https://en.wikipedia.org/wiki/Z-order#z-index" }]
 }
