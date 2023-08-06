@@ -1,9 +1,11 @@
 # Frontend Encyclopedia - Categories
 
 ### API Client
+- [Insomnia](https://insomnia.rest)
 - [Postman](https://www.postman.com)
 
 ### Backend-as-a-Service
+- [Fastify](https://fastify.dev)
 - [Firebase](https://firebase.google.com)
 
 ### Build Tool
@@ -68,8 +70,12 @@
 - [jQuery](https://jquery.com)(2006)
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
+- [Node Cron](https://github.com/node-cron/node-cron)
+- [Redux-Saga](https://redux-saga.js.org)
 - [Redux](https://redux.js.org)
+- [Relay](https://relay.dev)
 - [RxJS](https://rxjs.dev)
+- [Socket.IO](https://socket.io)
 - [styled-components](https://styled-components.com)
 - [Three.js](https://threejs.org)
 - [Underscore.js](https://underscorejs.org)
@@ -95,17 +101,20 @@
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
 - [GraphQL](https://graphql.org)
+- [JSON-RPC](https://www.jsonrpc.org)
 - [OAuth](https://oauth.net)
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ### Technology
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
+- [WebRTC](https://webrtc.org)
 
 ### Testing Library
 - [Chai](https://www.chaijs.com)
 - [Cypress](https://www.cypress.io)
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
+- [Playwright](https://playwright.dev)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### UI Library
@@ -116,6 +125,8 @@
 - [Material UI](https://mui.com)
 
 ### Version Control System
+- [Bitbucket](https://bitbucket.org)
 - [Git](https://git-scm.com)
 - [GitHub](https://github.com)
+- [GitLab](https://docs.gitlab.com)
 

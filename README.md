@@ -14,6 +14,7 @@
 - [Babel](https://babeljs.io) - Build Tool
 - [Backbone.js](https://backbonejs.org) - Framework
 - [BEM](https://en.bem.info) - CSS Methodology
+- [Bitbucket](https://bitbucket.org) - Version Control System
 - [Bootstrap](https://getbootstrap.com) - UI Library
 
 ### C
@@ -36,6 +37,7 @@
 - [ESLint](https://eslint.org) - Linter
 
 ### F
+- [Fastify](https://fastify.dev) - Backend-as-a-Service
 - [Figma](https://www.figma.com) - Design Tool
 - [Firebase](https://firebase.google.com) - Backend-as-a-Service
 - [Flutter](https://flutter.dev) - Framework
@@ -45,6 +47,7 @@
 - [Gatsby](https://www.gatsbyjs.com) - Framework
 - [Git](https://git-scm.com) - Version Control System
 - [GitHub](https://github.com) - Version Control System
+- [GitLab](https://docs.gitlab.com) - Version Control System
 - [GraphQL](https://graphql.org) - Specification
 - [Gulp](https://gulpjs.com) - Build Tool
 
@@ -54,12 +57,14 @@
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) - Programming Technique
 - [Immutable.js](https://immutable-js.com) - Library
+- [Insomnia](https://insomnia.rest) - API Client
 - [Ionic](https://ionicframework.com) - Framework
 
 ### J
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language (1995)
 - [Jest](https://jestjs.io) - Testing Library
 - [jQuery](https://jquery.com) - Library (2006)
+- [JSON-RPC](https://www.jsonrpc.org) - Specification
 - [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format
 
 ### K
@@ -77,6 +82,7 @@
 
 ### N
 - [Next.js](https://nextjs.org) - Framework
+- [Node Cron](https://github.com/node-cron/node-cron) - Library
 - [Node.js](https://nodejs.org) - Runtime Environment
 - [npm](https://www.npmjs.com) - Package Manager
 
@@ -85,6 +91,7 @@
 
 ### P
 - [Parcel](https://parceljs.org) - Build Tool
+- [Playwright](https://playwright.dev) - Testing Library
 - [Postman](https://www.postman.com) - API Client
 - [Prettier](https://prettier.io) - Code Formatter
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) - Technology
@@ -96,12 +103,15 @@
 - [React Native](https://reactnative.dev) - Framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
 - [React](https://react.dev) - Framework
+- [Redux-Saga](https://redux-saga.js.org) - Library
 - [Redux](https://redux.js.org) - Library
+- [Relay](https://relay.dev) - Library
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) - Specification
 - [RxJS](https://rxjs.dev) - Library
 
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) - Language
+- [Socket.IO](https://socket.io) - Library
 - [styled-components](https://styled-components.com) - Library
 - [Svelte](https://svelte.dev) - Framework
 - [SVG](https://en.wikipedia.org/wiki/SVG) - Data Format
@@ -122,6 +132,7 @@
 
 ### W
 - [webpack](https://webpack.js.org) - Build Tool
+- [WebRTC](https://webrtc.org) - Technology
 
 ### X
 - [XState](https://xstate.js.org) - Library
