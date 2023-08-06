@@ -134,4 +134,8 @@
 
 Pull requests are welcome!
 
-Edit `scripts/data.json` to add new entries. The husky pre-commit hook will automatically update the `README.md` file.
+Edit `scripts/data.json` to add new entries.
+
+Ensure that official names are used with correct spelling, capitalization and styling. 
+
+The husky pre-commit hook will automatically update the `README.md` file.
