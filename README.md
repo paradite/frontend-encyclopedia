@@ -6,7 +6,7 @@
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
 - [Angular Universal](https://angular.io/guide/universal) - Technology
 - [Angular](https://angular.io) - Framework (2016)
-- [AngularJS](https://angularjs.org) - Framework (2010 - 2021)
+- [AngularJS](https://angularjs.org) - Framework (2010 - 2021, Replaced by Angular)
 - [Anime.js](https://animejs.com) - Library (2016)
 - [Ant Design](https://ant.design) - UI Library (2015)
 - [Apollo](https://www.apollographql.com) - Library
@@ -70,6 +70,7 @@
 - [Ionic](https://ionicframework.com) - Framework
 
 ### J
+- [Jade](https://pugjs.org/api/getting-started.html) - Template Engine (2010 - 2015, Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language (1995)
 - [Jest](https://jestjs.io) - Testing Library
 - [jQuery](https://jquery.com) - Library (2006)
@@ -107,7 +108,7 @@
 - [pnpm](https://pnpm.io/) - Package Manager
 - [Postman](https://www.postman.com) - API Client
 - [Prettier](https://prettier.io) - Code Formatter
-- [Pug](https://pugjs.org/api/getting-started.html) - Template Engine
+- [Pug](https://pugjs.org/api/getting-started.html) - Template Engine (2015, Formerly known as Jade. Last release was in 2021.)
 - [Pure](https://purecss.io/) - CSS Framework
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) - Technology
 

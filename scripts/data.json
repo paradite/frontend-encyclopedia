@@ -296,6 +296,14 @@
       "name": "JSON-RPC",
       "url": "https://www.jsonrpc.org",
       "type": "Specification"
+    },
+    {
+      "name": "Jade",
+      "url": "https://pugjs.org/api/getting-started.html",
+      "type": "Template Engine",
+      "year_created": 2010,
+      "year_deprecated": 2015,
+      "note": "Renamed to Pug"
     }
   ],
   "K": [
@@ -407,7 +415,9 @@
     {
       "name": "Pug",
       "url": "https://pugjs.org/api/getting-started.html",
-      "type": "Template Engine"
+      "type": "Template Engine",
+      "year_created": 2015,
+      "note": "Formerly known as Jade. Last release was in 2021."
     },
     {
       "name": "pnpm",

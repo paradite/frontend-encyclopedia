@@ -16,7 +16,7 @@ for (const key in data) {
         ? `[${term.name}](${term.url})`
         : term.name;
 
-      let dateInfo = getDateInfo(term);
+      let dateInfo = getAdditionalInfo(term);
       return `- ${nameWithLink}${
         term.type
           ? dateInfo
@@ -42,7 +42,7 @@ const categories = {};
 
 for (const key in data) {
   data[key].forEach((term) => {
-    let dateInfo = getDateInfo(term);
+    let dateInfo = getAdditionalInfo(term);
     if (term.type) {
       if (!categories[term.type])
         categories[term.type] = [];
@@ -75,12 +75,15 @@ Object.keys(categories)
 
 fs.writeFileSync('categories.md', categoriesContent);
 
-function getDateInfo(term) {
+function getAdditionalInfo(term) {
   let dateInfo = ``;
+  let noteInfo = term.note ? `, ${term.note}` : '';
+
   if (term.year_created && term.year_deprecated) {
-    dateInfo = `(${term.year_created} - ${term.year_deprecated})`;
+    dateInfo = `(${term.year_created} - ${term.year_deprecated}${noteInfo})`;
   } else if (term.year_created) {
-    dateInfo = `(${term.year_created})`;
+    dateInfo = `(${term.year_created}${noteInfo})`;
   }
+
   return dateInfo;
 }

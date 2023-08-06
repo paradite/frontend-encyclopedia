@@ -48,7 +48,7 @@
 
 ### Framework
 - [Angular](https://angular.io) (2016)
-- [AngularJS](https://angularjs.org) (2010 - 2021)
+- [AngularJS](https://angularjs.org) (2010 - 2021, Replaced by Angular)
 - [Astro](https://astro.build/)
 - [Backbone.js](https://backbonejs.org)
 - [Electron](https://www.electronjs.org)
@@ -136,7 +136,8 @@
 
 ### Template Engine
 - [EJS](https://ejs.co/)
-- [Pug](https://pugjs.org/api/getting-started.html)
+- [Jade](https://pugjs.org/api/getting-started.html) (2010 - 2015, Renamed to Pug)
+- [Pug](https://pugjs.org/api/getting-started.html) (2015, Formerly known as Jade. Last release was in 2021.)
 
 ### Testing Library
 - [Chai](https://www.chaijs.com)
