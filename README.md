@@ -24,7 +24,9 @@
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Programming API
 
 ### E
-- [ES2022](https://en.wikipedia.org/wiki/ECMAScript) - Language
+- [Electron](https://www.electronjs.org) - Framework
+- [ESLint](https://eslint.org) - Linter
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Language Specification
 
 ### F
 - [Figma](https://www.figma.com) - Design Tool

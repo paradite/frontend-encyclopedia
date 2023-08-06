@@ -35,10 +35,12 @@
     }
   ],
   "E": [
+    { "name": "Electron", "url": "https://www.electronjs.org", "type": "Framework" },
+    { "name": "ESLint", "url": "https://eslint.org", "type": "Linter" },
     {
       "name": "ES2022",
-      "url": "https://en.wikipedia.org/wiki/ECMAScript",
-      "type": "Language"
+      "url": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022",
+      "type": "Language Specification"
     }
   ],
   "F": [
