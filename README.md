@@ -1,80 +1,124 @@
 # Frontend Encyclopedia
 
 ### A
-AJAX, Angular, Axios
+
+- AJAX
+- Angular
+- Axios
 
 ### B
-Babel, Bootstrap
+
+- Babel
+- Bootstrap
 
 ### C
-Chakra-UI, CSS3, Cypress
+
+- Chakra-UI
+- CSS3
+- Cypress
 
 ### D
-D3.js, Docker
+
+- D3.js
+- Docker
 
 ### E
-ES2022, Express.js
+
+- ES2022
+- Express.js
 
 ### F
-Figma, Framer
+
+- Figma
+- Framer
 
 ### G
-Gatsby, GraphQL
+
+- Gatsby
+- GraphQL
 
 ### H
-HTML5
+
+- HTML5
 
 ### I
-Immutable.js
+
+- Immutable.js
 
 ### J
-Jest, JavaScript
+
+- Jest
+- JavaScript
 
 ### K
-Keyframes
+
+- Keyframes
 
 ### L
-Less, lodash
+
+- Less
+- lodash
 
 ### M
-Material-UI
+
+- Material-UI
 
 ### N
-Next.js, npm
+
+- Next.js
+- npm
 
 ### O
-OAuth
+
+- OAuth
 
 ### P
-Parcel, PWA
+
+- Parcel
+- PWA
 
 ### Q
-Quasar
+
+- Quasar
 
 ### R
-React, Redux, REST, RxJS
+
+- React
+- Redux
+- REST
+- RxJS
 
 ### S
-SCSS, Styled-components, Svelte
+
+- SCSS
+- Styled-components
+- Svelte
 
 ### T
-TailwindCSS, TypeScript
+
+- TailwindCSS
+- TypeScript
 
 ### U
-Underscore.js
+
+- Underscore.js
 
 ### V
-Vue.js
+
+- Vue.js
 
 ### W
-Webpack
+
+- Webpack
 
 ### X
-XState
+
+- XState
 
 ### Y
-Yarn
+
+- Yarn
 
 ### Z
-Z-index
 
+- z-index

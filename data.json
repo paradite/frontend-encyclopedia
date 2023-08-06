@@ -1,75 +1,72 @@
 {
   "A": [
-    { "name": "AJAX", "url": "" },
-    { "name": "Angular", "url": "" },
-    { "name": "Axios", "url": "" }
+    { "name": "AJAX", "url": "https://en.wikipedia.org/wiki/Ajax_(programming)" },
+    { "name": "Angular", "url": "https://angular.io" },
+    { "name": "Axios", "url": "https://axios-http.com" }
   ],
   "B": [
-    { "name": "Babel", "url": "" },
-    { "name": "Bootstrap", "url": "" }
+    { "name": "Babel", "url": "https://babeljs.io" },
+    { "name": "Bootstrap", "url": "https://getbootstrap.com" }
   ],
   "C": [
-    { "name": "Chakra-UI", "url": "" },
-    { "name": "CSS3", "url": "" },
-    { "name": "Cypress", "url": "" }
+    { "name": "Chakra-UI", "url": "https://chakra-ui.com" },
+    { "name": "CSS3", "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets" },
+    { "name": "Cypress", "url": "https://www.cypress.io" }
   ],
-  "D": [
-    { "name": "D3.js", "url": "" },
-    { "name": "Docker", "url": "" }
-  ],
-  "E": [
-    { "name": "ES2022", "url": "" },
-    { "name": "Express.js", "url": "" }
-  ],
+  "D": [{ "name": "D3.js", "url": "https://d3js.org" }],
+  "E": [{ "name": "ES2022", "url": "https://en.wikipedia.org/wiki/ECMAScript" }],
   "F": [
-    { "name": "Figma", "url": "" },
-    { "name": "Framer", "url": "" }
+    { "name": "Figma", "url": "https://www.figma.com" },
+    { "name": "Framer", "url": "https://www.framer.com" }
   ],
   "G": [
-    { "name": "Gatsby", "url": "" },
-    { "name": "GraphQL", "url": "" }
+    { "name": "Gatsby", "url": "https://www.gatsbyjs.com" },
+    { "name": "GraphQL", "url": "https://graphql.org" }
   ],
-  "H": [{ "name": "HTML5", "url": "" }],
-  "I": [{ "name": "Immutable.js", "url": "" }],
+  "H": [{ "name": "HTML5", "url": "https://en.wikipedia.org/wiki/HTML5" }],
+  "I": [{ "name": "Immutable.js", "url": "https://immutable-js.com" }],
   "J": [
-    { "name": "Jest", "url": "" },
-    { "name": "JavaScript", "url": "" }
+    { "name": "Jest", "url": "https://jestjs.io" },
+    { "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
   ],
-  "K": [{ "name": "Keyframes", "url": "" }],
+  "K": [{ "name": "Keyframes", "url": "https://en.wikipedia.org/wiki/Key_frame" }],
   "L": [
-    { "name": "Less", "url": "" },
-    { "name": "lodash", "url": "" }
+    { "name": "Less", "url": "https://lesscss.org" },
+    { "name": "lodash", "url": "https://lodash.com" }
   ],
-  "M": [{ "name": "Material-UI", "url": "" }],
+  "M": [{ "name": "Material-UI", "url": "https://mui.com" }],
   "N": [
-    { "name": "Next.js", "url": "" },
-    { "name": "npm", "url": "" }
+    { "name": "Next.js", "url": "https://nextjs.org" },
+    { "name": "npm", "url": "https://www.npmjs.com" }
   ],
-  "O": [{ "name": "OAuth", "url": "" }],
+  "O": [{ "name": "OAuth", "url": "https://oauth.net" }],
   "P": [
-    { "name": "Parcel", "url": "" },
-    { "name": "PWA", "url": "" }
+    { "name": "Parcel", "url": "https://parceljs.org" },
+    { "name": "PWA", "url": "https://en.wikipedia.org/wiki/Progressive_web_application" }
   ],
-  "Q": [{ "name": "Quasar", "url": "" }],
+  "Q": [{ "name": "Quasar", "url": "https://quasar.dev" }],
   "R": [
-    { "name": "React", "url": "" },
-    { "name": "Redux", "url": "" },
-    { "name": "REST", "url": "" },
-    { "name": "RxJS", "url": "" }
+    { "name": "React", "url": "https://reactjs.org" },
+    { "name": "Redux", "url": "https://redux.js.org" },
+    {
+      "name": "REST",
+      "url": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+    },
+    { "name": "RxJS", "url": "https://rxjs.dev" }
   ],
   "S": [
-    { "name": "SCSS", "url": "" },
-    { "name": "Styled-components", "url": "" },
-    { "name": "Svelte", "url": "" }
+    { "name": "SCSS", "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)" },
+    { "name": "Styled-components", "url": "https://styled-components.com" },
+    { "name": "Svelte", "url": "https://svelte.dev" }
   ],
   "T": [
-    { "name": "TailwindCSS", "url": "" },
-    { "name": "TypeScript", "url": "" }
+    { "name": "TailwindCSS", "url": "https://tailwindcss.com" },
+    { "name": "TypeScript", "url": "https://www.typescriptlang.org" }
   ],
-  "U": [{ "name": "Underscore.js", "url": "" }],
-  "V": [{ "name": "Vue.js", "url": "" }],
-  "W": [{ "name": "Webpack", "url": "" }],
-  "X": [{ "name": "XState", "url": "" }],
-  "Y": [{ "name": "Yarn", "url": "" }],
-  "Z": [{ "name": "Z-index", "url": "" }]
+  "U": [{ "name": "Underscore.js", "url": "https://underscorejs.org" }],
+  "V": [{ "name": "Vue.js", "url": "https://vuejs.org" }],
+  "W": [{ "name": "Webpack", "url": "https://webpack.js.org" }],
+  "X": [{ "name": "XState", "url": "https://xstate.js.org" }],
+  "Y": [{ "name": "Yarn", "url": "https://yarnpkg.com" }],
+  "Z": [{ "name": "z-index", "url": "https://en.wikipedia.org/wiki/Z-index" }]
 }
