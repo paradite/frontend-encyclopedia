@@ -27,6 +27,7 @@
     { "name": "Cypress", "url": "https://www.cypress.io", "type": "Testing Library" }
   ],
   "D": [
+    { "name": "day.js", "url": "https://day.js.org", "type": "Library" },
     { "name": "D3.js", "url": "https://d3js.org", "type": "Library" },
     {
       "name": "DOM",
@@ -91,7 +92,11 @@
     { "name": "Less", "url": "https://lesscss.org", "type": "Language" },
     { "name": "Lodash", "url": "https://lodash.com", "type": "Library" }
   ],
-  "M": [{ "name": "Material UI", "url": "https://mui.com", "type": "UI Library" }],
+  "M": [
+    { "name": "Material UI", "url": "https://mui.com", "type": "UI Library" },
+    { "name": "Mocha", "url": "https://mochajs.org", "type": "Testing Library" },
+    { "name": "Moment.js", "url": "https://momentjs.com", "type": "Library" }
+  ],
   "N": [
     { "name": "Next.js", "url": "https://nextjs.org", "type": "Framework" },
     { "name": "npm", "url": "https://www.npmjs.com", "type": "Package Manager" },
@@ -114,6 +119,11 @@
   "R": [
     { "name": "React", "url": "https://react.dev", "type": "Framework" },
     { "name": "React Native", "url": "https://reactnative.dev", "type": "Framework" },
+    {
+      "name": "React Testing Library",
+      "url": "https://testing-library.com/docs/react-testing-library/intro/",
+      "type": "Testing Library"
+    },
     { "name": "Redux", "url": "https://redux.js.org", "type": "Library" },
     {
       "name": "REST",

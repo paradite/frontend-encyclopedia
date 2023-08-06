@@ -20,6 +20,7 @@
 - [Cypress](https://www.cypress.io) - Testing Library
 
 ### D
+- [day.js](https://day.js.org) - Library
 - [D3.js](https://d3js.org) - Library
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Programming API
 
@@ -62,6 +63,8 @@
 
 ### M
 - [Material UI](https://mui.com) - UI Library
+- [Mocha](https://mochajs.org) - Testing Library
+- [Moment.js](https://momentjs.com) - Library
 
 ### N
 - [Next.js](https://nextjs.org) - Framework
@@ -83,6 +86,7 @@
 ### R
 - [React](https://react.dev) - Framework
 - [React Native](https://reactnative.dev) - Framework
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
 - [Redux](https://redux.js.org) - Library
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) - API Design
 - [RxJS](https://rxjs.dev) - Library
