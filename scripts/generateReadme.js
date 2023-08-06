@@ -6,9 +6,10 @@ let content = '# Frontend Encyclopedia\n\n';
 
 for (const key in data) {
   content += `### ${key}\n`;
-  const terms = data[key].map((term) =>
-    term.url ? `- [${term.name}](${term.url})` : `- ${term.name}`
-  );
+  const terms = data[key].map((term) => {
+    const nameWithLink = term.url ? `[${term.name}](${term.url})` : term.name;
+    return `- ${nameWithLink}${term.type ? ` - ${term.type}` : ''}`;
+  });
   content += terms.join('\n') + '\n\n';
 }
 content +=

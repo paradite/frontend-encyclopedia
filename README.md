@@ -1,23 +1,28 @@
 # Frontend Encyclopedia
 
 ### A
-- [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))
-- [Angular](https://angular.io)
-- [Ant Design](https://ant.design)
-- [Axios](https://axios-http.com)
+- [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique
+- [Angular](https://angular.io) - Framework
+- [Ant Design](https://ant.design) - UI Library
+- [Apollo](https://www.apollographql.com) - Library
+- [Axios](https://axios-http.com) - Library
 
 ### B
-- [Babel](https://babeljs.io)
-- [Bootstrap](https://getbootstrap.com)
+- [Babel](https://babeljs.io) - Compiler
+- [Backbone.js](https://backbonejs.org) - Framework
+- [BEM](https://en.bem.info) - CSS Methodology
+- [Bootstrap](https://getbootstrap.com) - UI Library
 
 ### C
-- [Chakra-UI](https://chakra-ui.com)
-- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [Cypress](https://www.cypress.io)
+- [Chakra-UI](https://chakra-ui.com) - UI Library
+- [Chai](https://www.chaijs.com) - Testing Library
+- [Chart.js](https://www.chartjs.org) - Library
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language
+- [Cypress](https://www.cypress.io) - Testing Library
 
 ### D
-- [D3.js](https://d3js.org)
-- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
+- [D3.js](https://d3js.org) - Library
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Programming API
 
 ### E
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript)

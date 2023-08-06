@@ -1,24 +1,38 @@
 {
   "A": [
-    { "name": "AJAX", "url": "https://en.wikipedia.org/wiki/Ajax_(programming)" },
-    { "name": "Angular", "url": "https://angular.io" },
-    { "name": "Ant Design", "url": "https://ant.design" },
-    { "name": "Axios", "url": "https://axios-http.com" }
+    {
+      "name": "AJAX",
+      "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
+      "type": "Programming Technique"
+    },
+    { "name": "Angular", "url": "https://angular.io", "type": "Framework" },
+    { "name": "Ant Design", "url": "https://ant.design", "type": "UI Library" },
+    { "name": "Apollo", "url": "https://www.apollographql.com", "type": "Library" },
+    { "name": "Axios", "url": "https://axios-http.com", "type": "Library" }
   ],
   "B": [
-    { "name": "Babel", "url": "https://babeljs.io" },
-    { "name": "Bootstrap", "url": "https://getbootstrap.com" }
+    { "name": "Babel", "url": "https://babeljs.io", "type": "Compiler" },
+    { "name": "Backbone.js", "url": "https://backbonejs.org", "type": "Framework" },
+    { "name": "BEM", "url": "https://en.bem.info", "type": "CSS Methodology" },
+    { "name": "Bootstrap", "url": "https://getbootstrap.com", "type": "UI Library" }
   ],
   "C": [
-    { "name": "Chakra-UI", "url": "https://chakra-ui.com" },
-    { "name": "CSS", "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets" },
-    { "name": "Cypress", "url": "https://www.cypress.io" }
+    { "name": "Chakra-UI", "url": "https://chakra-ui.com", "type": "UI Library" },
+    { "name": "Chai", "url": "https://www.chaijs.com", "type": "Testing Library" },
+    { "name": "Chart.js", "url": "https://www.chartjs.org", "type": "Library" },
+    {
+      "name": "CSS",
+      "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+      "type": "Language"
+    },
+    { "name": "Cypress", "url": "https://www.cypress.io", "type": "Testing Library" }
   ],
   "D": [
-    { "name": "D3.js", "url": "https://d3js.org" },
+    { "name": "D3.js", "url": "https://d3js.org", "type": "Library" },
     {
       "name": "DOM",
-      "url": "https://en.wikipedia.org/wiki/Document_Object_Model"
+      "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
+      "type": "Programming API"
     }
   ],
   "E": [{ "name": "ES2022", "url": "https://en.wikipedia.org/wiki/ECMAScript" }],
