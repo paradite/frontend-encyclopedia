@@ -63,7 +63,14 @@
   "H": [
     { "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML", "type": "Language" }
   ],
-  "I": [{ "name": "Immutable.js", "url": "https://immutable-js.com", "type": "Library" }],
+  "I": [
+    {
+      "name": "i18n (internationalization)",
+      "url": "https://en.wikipedia.org/wiki/Internationalization_and_localization",
+      "type": "Programming Technique"
+    },
+    { "name": "Immutable.js", "url": "https://immutable-js.com", "type": "Library" }
+  ],
   "J": [
     { "name": "Jest", "url": "https://jestjs.io", "type": "Testing Library" },
     {

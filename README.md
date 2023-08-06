@@ -45,6 +45,7 @@
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Language
 
 ### I
+- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) - Programming Technique
 - [Immutable.js](https://immutable-js.com) - Library
 
 ### J
