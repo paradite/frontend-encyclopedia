@@ -21,7 +21,7 @@ for (const key in data) {
       dateInfo = `(${term.year_created})`
     }
     return `- ${nameWithLink}${
-      term.type ? ` - ${term.type} ${dateInfo}`  : ''
+      term.type ? (dateInfo) ? ` - ${term.type} ${dateInfo}` : ` - ${term.type}`  : ''
     }`;
   });
   content += terms.join('\n') + '\n\n';
