@@ -2,9 +2,7 @@
   "devDependencies": {
     "husky": "^8.0.3"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "node generateReadme.js"
-    }
+  "scripts": {
+    "prepare": "husky install"
   }
 }
