@@ -3,12 +3,15 @@
     {
       "name": "Ajax",
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
-      "type": "Programming Technique"
+      "type": "Programming Technique",
+      "year_created": "1999",
+      "year_deprecated":""
     },
     {
       "name": "Angular",
       "url": "https://angular.io",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": "2016"
     },
     {
       "name": "Anime.js",

@@ -8,12 +8,20 @@ content += '[List by categories](categories.md)\n\n';
 
 for (const key in data) {
   content += `### ${key}\n`;
+ 
   const terms = data[key].map((term) => {
+    let dateInfo = ``
     const nameWithLink = term.url
       ? `[${term.name}](${term.url})`
       : term.name;
+
+    if (term.year_created && term.year_deprecated) {
+      dateInfo = `(${term.year_created} - ${term.term.year_deprecated})`
+    } else if (term.year_created) {
+      dateInfo = `(${term.year_created})`
+    }
     return `- ${nameWithLink}${
-      term.type ? ` - ${term.type}` : ''
+      term.type ? ` - ${term.type} ${dateInfo}`  : ''
     }`;
   });
   content += terms.join('\n') + '\n\n';
