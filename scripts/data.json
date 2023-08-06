@@ -5,30 +5,82 @@
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
       "type": "Programming Technique"
     },
-    { "name": "Angular", "url": "https://angular.io", "type": "Framework" },
-    { "name": "Ant Design", "url": "https://ant.design", "type": "UI Library" },
-    { "name": "Apollo", "url": "https://www.apollographql.com", "type": "Library" },
-    { "name": "Axios", "url": "https://axios-http.com", "type": "Library" }
+    {
+      "name": "Angular",
+      "url": "https://angular.io",
+      "type": "Framework"
+    },
+    {
+      "name": "Ant Design",
+      "url": "https://ant.design",
+      "type": "UI Library"
+    },
+    {
+      "name": "Apollo",
+      "url": "https://www.apollographql.com",
+      "type": "Library"
+    },
+    {
+      "name": "Axios",
+      "url": "https://axios-http.com",
+      "type": "Library"
+    }
   ],
   "B": [
-    { "name": "Babel", "url": "https://babeljs.io", "type": "Build Tool" },
-    { "name": "BEM", "url": "https://en.bem.info", "type": "CSS Methodology" },
-    { "name": "Bootstrap", "url": "https://getbootstrap.com", "type": "UI Library" }
+    {
+      "name": "Babel",
+      "url": "https://babeljs.io",
+      "type": "Build Tool"
+    },
+    {
+      "name": "BEM",
+      "url": "https://en.bem.info",
+      "type": "CSS Methodology"
+    },
+    {
+      "name": "Bootstrap",
+      "url": "https://getbootstrap.com",
+      "type": "UI Library"
+    }
   ],
   "C": [
-    { "name": "Chakra UI", "url": "https://chakra-ui.com", "type": "UI Library" },
-    { "name": "Chai", "url": "https://www.chaijs.com", "type": "Testing Library" },
-    { "name": "Chart.js", "url": "https://www.chartjs.org", "type": "Library" },
+    {
+      "name": "Chakra UI",
+      "url": "https://chakra-ui.com",
+      "type": "UI Library"
+    },
+    {
+      "name": "Chai",
+      "url": "https://www.chaijs.com",
+      "type": "Testing Library"
+    },
+    {
+      "name": "Chart.js",
+      "url": "https://www.chartjs.org",
+      "type": "Library"
+    },
     {
       "name": "CSS",
       "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
       "type": "Language"
     },
-    { "name": "Cypress", "url": "https://www.cypress.io", "type": "Testing Library" }
+    {
+      "name": "Cypress",
+      "url": "https://www.cypress.io",
+      "type": "Testing Library"
+    }
   ],
   "D": [
-    { "name": "day.js", "url": "https://day.js.org", "type": "Library" },
-    { "name": "D3.js", "url": "https://d3js.org", "type": "Library" },
+    {
+      "name": "day.js",
+      "url": "https://day.js.org",
+      "type": "Library"
+    },
+    {
+      "name": "D3.js",
+      "url": "https://d3js.org",
+      "type": "Library"
+    },
     {
       "name": "DOM",
       "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
@@ -36,8 +88,16 @@
     }
   ],
   "E": [
-    { "name": "Electron", "url": "https://www.electronjs.org", "type": "Framework" },
-    { "name": "ESLint", "url": "https://eslint.org", "type": "Linter" },
+    {
+      "name": "Electron",
+      "url": "https://www.electronjs.org",
+      "type": "Framework"
+    },
+    {
+      "name": "ESLint",
+      "url": "https://eslint.org",
+      "type": "Linter"
+    },
     {
       "name": "ES2022",
       "url": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022",
@@ -45,9 +105,21 @@
     }
   ],
   "F": [
-    { "name": "Figma", "url": "https://www.figma.com", "type": "Design Tool" },
-    { "name": "Flutter", "url": "https://flutter.dev", "type": "Framework" },
-    { "name": "Foundation", "url": "https://get.foundation", "type": "UI Library" },
+    {
+      "name": "Figma",
+      "url": "https://www.figma.com",
+      "type": "Design Tool"
+    },
+    {
+      "name": "Flutter",
+      "url": "https://flutter.dev",
+      "type": "Framework"
+    },
+    {
+      "name": "Foundation",
+      "url": "https://get.foundation",
+      "type": "UI Library"
+    },
     {
       "name": "Firebase",
       "url": "https://firebase.google.com",
@@ -55,14 +127,38 @@
     }
   ],
   "G": [
-    { "name": "Gatsby", "url": "https://www.gatsbyjs.com", "type": "Framework" },
-    { "name": "Git", "url": "https://git-scm.com", "type": "Version Control System" },
-    { "name": "GitHub", "url": "https://github.com", "type": "Version Control System" },
-    { "name": "Gulp", "url": "https://gulpjs.com", "type": "Build Tool" },
-    { "name": "GraphQL", "url": "https://graphql.org", "type": "Specification" }
+    {
+      "name": "Gatsby",
+      "url": "https://www.gatsbyjs.com",
+      "type": "Framework"
+    },
+    {
+      "name": "Git",
+      "url": "https://git-scm.com",
+      "type": "Version Control System"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com",
+      "type": "Version Control System"
+    },
+    {
+      "name": "Gulp",
+      "url": "https://gulpjs.com",
+      "type": "Build Tool"
+    },
+    {
+      "name": "GraphQL",
+      "url": "https://graphql.org",
+      "type": "Specification"
+    }
   ],
   "H": [
-    { "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML", "type": "Language" }
+    {
+      "name": "HTML",
+      "url": "https://en.wikipedia.org/wiki/HTML",
+      "type": "Language"
+    }
   ],
   "I": [
     {
@@ -70,16 +166,28 @@
       "url": "https://en.wikipedia.org/wiki/Internationalization_and_localization",
       "type": "Programming Technique"
     },
-    { "name": "Immutable.js", "url": "https://immutable-js.com", "type": "Library" }
+    {
+      "name": "Immutable.js",
+      "url": "https://immutable-js.com",
+      "type": "Library"
+    }
   ],
   "J": [
-    { "name": "Jest", "url": "https://jestjs.io", "type": "Testing Library" },
+    {
+      "name": "Jest",
+      "url": "https://jestjs.io",
+      "type": "Testing Library"
+    },
     {
       "name": "JavaScript",
       "url": "https://en.wikipedia.org/wiki/JavaScript",
       "type": "Language"
     },
-    { "name": "JSON", "url": "https://en.wikipedia.org/wiki/JSON", "type": "Data Format" }
+    {
+      "name": "JSON",
+      "url": "https://en.wikipedia.org/wiki/JSON",
+      "type": "Data Format"
+    }
   ],
   "K": [
     {
@@ -89,46 +197,118 @@
     }
   ],
   "L": [
-    { "name": "Less", "url": "https://lesscss.org", "type": "Language" },
-    { "name": "Lodash", "url": "https://lodash.com", "type": "Library" }
+    {
+      "name": "Less",
+      "url": "https://lesscss.org",
+      "type": "Language"
+    },
+    {
+      "name": "Lodash",
+      "url": "https://lodash.com",
+      "type": "Library"
+    }
   ],
   "M": [
-    { "name": "Material UI", "url": "https://mui.com", "type": "UI Library" },
-    { "name": "Mocha", "url": "https://mochajs.org", "type": "Testing Library" },
-    { "name": "Moment.js", "url": "https://momentjs.com", "type": "Library" }
+    {
+      "name": "Material UI",
+      "url": "https://mui.com",
+      "type": "UI Library"
+    },
+    {
+      "name": "Mocha",
+      "url": "https://mochajs.org",
+      "type": "Testing Library"
+    },
+    {
+      "name": "Moment.js",
+      "url": "https://momentjs.com",
+      "type": "Library"
+    }
   ],
   "N": [
-    { "name": "Next.js", "url": "https://nextjs.org", "type": "Framework" },
-    { "name": "npm", "url": "https://www.npmjs.com", "type": "Package Manager" },
-    { "name": "Node.js", "url": "https://nodejs.org", "type": "Runtime Environment" }
+    {
+      "name": "Next.js",
+      "url": "https://nextjs.org",
+      "type": "Framework"
+    },
+    {
+      "name": "npm",
+      "url": "https://www.npmjs.com",
+      "type": "Package Manager"
+    },
+    {
+      "name": "Node.js",
+      "url": "https://nodejs.org",
+      "type": "Runtime Environment"
+    }
   ],
-  "O": [{ "name": "OAuth", "url": "https://oauth.net", "type": "Specification" }],
+  "O": [
+    {
+      "name": "OAuth",
+      "url": "https://oauth.net",
+      "type": "Specification"
+    }
+  ],
   "P": [
-    { "name": "Parcel", "url": "https://parceljs.org", "type": "Build Tool" },
+    {
+      "name": "Parcel",
+      "url": "https://parceljs.org",
+      "type": "Build Tool"
+    },
     {
       "name": "PWA",
       "url": "https://en.wikipedia.org/wiki/Progressive_web_application",
       "type": "Technology"
     },
-    { "name": "Postman", "url": "https://www.postman.com", "type": "API Client" },
-    { "name": "Prettier", "url": "https://prettier.io", "type": "Code Formatter" }
+    {
+      "name": "Postman",
+      "url": "https://www.postman.com",
+      "type": "API Client"
+    },
+    {
+      "name": "Prettier",
+      "url": "https://prettier.io",
+      "type": "Code Formatter"
+    }
   ],
-  "Q": [{ "name": "Quasar", "url": "https://quasar.dev", "type": "Framework" }],
+  "Q": [
+    {
+      "name": "Quasar",
+      "url": "https://quasar.dev",
+      "type": "Framework"
+    }
+  ],
   "R": [
-    { "name": "React", "url": "https://react.dev", "type": "Framework" },
-    { "name": "React Native", "url": "https://reactnative.dev", "type": "Framework" },
+    {
+      "name": "React",
+      "url": "https://react.dev",
+      "type": "Framework"
+    },
+    {
+      "name": "React Native",
+      "url": "https://reactnative.dev",
+      "type": "Framework"
+    },
     {
       "name": "React Testing Library",
       "url": "https://testing-library.com/docs/react-testing-library/intro/",
       "type": "Testing Library"
     },
-    { "name": "Redux", "url": "https://redux.js.org", "type": "Library" },
+    {
+      "name": "Redux",
+      "url": "https://redux.js.org",
+      "type": "Library"
+    },
     {
       "name": "REST",
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
       "type": "Specification"
     },
-    { "name": "RxJS", "url": "https://rxjs.dev", "type": "Library" }
+    {
+      "name": "RxJS",
+      "url": "https://rxjs.dev",
+      "type": "Library"
+    }
   ],
   "S": [
     {
@@ -142,7 +322,11 @@
       "url": "https://styled-components.com",
       "type": "Library"
     },
-    { "name": "Svelte", "url": "https://svelte.dev", "type": "Framework" },
+    {
+      "name": "Svelte",
+      "url": "https://svelte.dev",
+      "type": "Framework"
+    },
     {
       "name": "SVG",
       "url": "https://en.wikipedia.org/wiki/SVG",
@@ -150,21 +334,67 @@
     }
   ],
   "T": [
-    { "name": "Tailwind CSS", "url": "https://tailwindcss.com", "type": "Framework" },
-    { "name": "Three.js", "url": "https://threejs.org", "type": "Library" },
-    { "name": "TSLint", "url": "https://palantir.github.io/tslint", "type": "Linter" },
-    { "name": "TypeScript", "url": "https://www.typescriptlang.org", "type": "Language" }
+    {
+      "name": "Tailwind CSS",
+      "url": "https://tailwindcss.com",
+      "type": "Framework"
+    },
+    {
+      "name": "Three.js",
+      "url": "https://threejs.org",
+      "type": "Library"
+    },
+    {
+      "name": "TSLint",
+      "url": "https://palantir.github.io/tslint",
+      "type": "Linter"
+    },
+    {
+      "name": "TypeScript",
+      "url": "https://www.typescriptlang.org",
+      "type": "Language"
+    }
   ],
   "U": [
-    { "name": "Underscore.js", "url": "https://underscorejs.org", "type": "Library" }
+    {
+      "name": "Underscore.js",
+      "url": "https://underscorejs.org",
+      "type": "Library"
+    }
   ],
   "V": [
-    { "name": "Vite", "url": "https://vitejs.dev", "type": "Build Tool" },
-    { "name": "Vue.js", "url": "https://vuejs.org", "type": "Framework" }
+    {
+      "name": "Vite",
+      "url": "https://vitejs.dev",
+      "type": "Build Tool"
+    },
+    {
+      "name": "Vue.js",
+      "url": "https://vuejs.org",
+      "type": "Framework"
+    }
   ],
-  "W": [{ "name": "webpack", "url": "https://webpack.js.org", "type": "Build Tool" }],
-  "X": [{ "name": "XState", "url": "https://xstate.js.org", "type": "Library" }],
-  "Y": [{ "name": "Yarn", "url": "https://yarnpkg.com", "type": "Package Manager" }],
+  "W": [
+    {
+      "name": "webpack",
+      "url": "https://webpack.js.org",
+      "type": "Build Tool"
+    }
+  ],
+  "X": [
+    {
+      "name": "XState",
+      "url": "https://xstate.js.org",
+      "type": "Library"
+    }
+  ],
+  "Y": [
+    {
+      "name": "Yarn",
+      "url": "https://yarnpkg.com",
+      "type": "Package Manager"
+    }
+  ],
   "Z": [
     {
       "name": "z-index",
