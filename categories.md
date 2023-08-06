@@ -81,7 +81,7 @@
 ### Library
 - [Anime.js](https://animejs.com) (2016)
 - [Apollo](https://www.apollographql.com)
-- [Axios](https://axios-http.com)
+- [Axios](https://axios-http.com) (2014)
 - [Chart.js](https://www.chartjs.org)
 - [D3.js](https://d3js.org)
 - [day.js](https://day.js.org)

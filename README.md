@@ -11,7 +11,7 @@
 - [Ant Design](https://ant.design) - UI Library (2015)
 - [Apollo](https://www.apollographql.com) - Library
 - [Astro](https://astro.build/) - Framework
-- [Axios](https://axios-http.com) - Library
+- [Axios](https://axios-http.com) - Library (2014)
 
 ### B
 - [Babel](https://babeljs.io) - Build Tool
