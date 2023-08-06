@@ -268,6 +268,12 @@
       "name": "Node.js",
       "url": "https://nodejs.org",
       "type": "Runtime Environment"
+    },
+
+    {
+      "name": "NG-ZORRO",
+      "url": "https://ng.ant.design/docs/introduce/en",
+      "type": "Angular UI Library"
     }
   ],
   "O": [
