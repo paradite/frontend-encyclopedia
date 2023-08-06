@@ -1,5 +1,7 @@
 # Frontend Encyclopedia
 
+[List by categories](categories.md)
+
 ### A
 - [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique
 - [Angular](https://angular.io) - Framework

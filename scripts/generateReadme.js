@@ -4,6 +4,8 @@ const data = require('./data.json');
 
 let content = '# Frontend Encyclopedia\n\n';
 
+content += '[List by categories](categories.md)\n\n';
+
 for (const key in data) {
   content += `### ${key}\n`;
   const terms = data[key].map((term) => {
