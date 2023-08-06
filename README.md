@@ -9,7 +9,6 @@
 
 ### B
 - [Babel](https://babeljs.io) - Compiler
-- [Backbone.js](https://backbonejs.org) - Framework
 - [BEM](https://en.bem.info) - CSS Methodology
 - [Bootstrap](https://getbootstrap.com) - UI Library
 
@@ -25,87 +24,96 @@
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Programming API
 
 ### E
-- [ES2022](https://en.wikipedia.org/wiki/ECMAScript)
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript) - Language
 
 ### F
-- [Figma](https://www.figma.com)
-- [Firebase](https://firebase.google.com)
+- [Figma](https://www.figma.com) - Design Tool
+- [Flutter](https://flutter.dev) - Framework
+- [Foundation](https://get.foundation) - UI Library
+- [Firebase](https://firebase.google.com) - Backend-as-a-Service
 
 ### G
-- [Gatsby](https://www.gatsbyjs.com)
-- [GraphQL](https://graphql.org)
+- [Gatsby](https://www.gatsbyjs.com) - Framework
+- [Git](https://git-scm.com) - Version Control System
+- [GitHub](https://github.com) - Version Control System
+- [Gulp](https://gulpjs.com) - Build Tool
+- [GraphQL](https://graphql.org) - Query Language
 
 ### H
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [HTML](https://en.wikipedia.org/wiki/HTML) - Language
 
 ### I
-- [Immutable.js](https://immutable-js.com)
+- [Immutable.js](https://immutable-js.com) - Library
 
 ### J
-- [Jest](https://jestjs.io)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-- [JSON](https://en.wikipedia.org/wiki/JSON)
+- [Jest](https://jestjs.io) - Testing Library
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language
+- [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format
 
 ### K
-- [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+- [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes) - CSS Methodology
 
 ### L
-- [Less](https://lesscss.org)
-- [Lodash](https://lodash.com)
+- [Less](https://lesscss.org) - Language
+- [Lodash](https://lodash.com) - Library
 
 ### M
-- [Material UI](https://mui.com)
+- [Material UI](https://mui.com) - UI Library
 
 ### N
-- [Next.js](https://nextjs.org)
-- [npm](https://www.npmjs.com)
-- [Node.js](https://nodejs.org)
+- [Next.js](https://nextjs.org) - Framework
+- [npm](https://www.npmjs.com) - Package Manager
+- [Node.js](https://nodejs.org) - Runtime Environment
 
 ### O
-- [OAuth](https://oauth.net)
+- [OAuth](https://oauth.net) - Authorization Framework
 
 ### P
-- [Parcel](https://parceljs.org)
-- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
-- [Postman](https://www.postman.com)
-- [Prettier](https://prettier.io)
+- [Parcel](https://parceljs.org) - Build Tool
+- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) - Technology
+- [Postman](https://www.postman.com) - API Client
+- [Prettier](https://prettier.io) - Code Formatter
 
 ### Q
-- [Quasar](https://quasar.dev)
+- [Quasar](https://quasar.dev) - Framework
 
 ### R
-- [React](https://react.dev)
-- [Redux](https://redux.js.org)
-- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
-- [RxJS](https://rxjs.dev)
+- [React](https://react.dev) - Framework
+- [React Native](https://reactnative.dev) - Framework
+- [Redux](https://redux.js.org) - Library
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) - API Design
+- [RxJS](https://rxjs.dev) - Library
 
 ### S
-- [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
-- [styled-components](https://styled-components.com)
-- [Svelte](https://svelte.dev)
+- [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) - Language
+- [styled-components](https://styled-components.com) - Library
+- [Svelte](https://svelte.dev) - Framework
+- [SVG](https://en.wikipedia.org/wiki/SVG) - Data Format
 
 ### T
-- [Tailwind CSS](https://tailwindcss.com)
-- [TypeScript](https://www.typescriptlang.org)
+- [Tailwind CSS](https://tailwindcss.com) - Framework
+- [Three.js](https://threejs.org) - Library
+- [TSLint](https://palantir.github.io/tslint) - Library
+- [TypeScript](https://www.typescriptlang.org) - Language
 
 ### U
-- [Underscore.js](https://underscorejs.org)
+- [Underscore.js](https://underscorejs.org) - Library
 
 ### V
-- [Vue.js](https://vuejs.org)
+- [Vue.js](https://vuejs.org) - Framework
 
 ### W
-- [webpack](https://webpack.js.org)
+- [webpack](https://webpack.js.org) - Build Tool
 
 ### X
-- [XState](https://xstate.js.org)
+- [XState](https://xstate.js.org) - Library
 
 ### Y
-- [Yarn](https://yarnpkg.com)
+- [Yarn](https://yarnpkg.com) - Package Manager
 
 ### Z
-- [z-index](https://en.wikipedia.org/wiki/Z-order#z-index)
-- [Zod](https://zod.dev)
+- [z-index](https://en.wikipedia.org/wiki/Z-order#z-index) - CSS Methodology
+- [Zod](https://zod.dev) - Library
 
 ---
 

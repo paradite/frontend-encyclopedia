@@ -12,7 +12,6 @@
   ],
   "B": [
     { "name": "Babel", "url": "https://babeljs.io", "type": "Compiler" },
-    { "name": "Backbone.js", "url": "https://backbonejs.org", "type": "Framework" },
     { "name": "BEM", "url": "https://en.bem.info", "type": "CSS Methodology" },
     { "name": "Bootstrap", "url": "https://getbootstrap.com", "type": "UI Library" }
   ],
@@ -35,77 +34,127 @@
       "type": "Programming API"
     }
   ],
-  "E": [{ "name": "ES2022", "url": "https://en.wikipedia.org/wiki/ECMAScript" }],
+  "E": [
+    {
+      "name": "ES2022",
+      "url": "https://en.wikipedia.org/wiki/ECMAScript",
+      "type": "Language"
+    }
+  ],
   "F": [
-    { "name": "Figma", "url": "https://www.figma.com" },
+    { "name": "Figma", "url": "https://www.figma.com", "type": "Design Tool" },
+    { "name": "Flutter", "url": "https://flutter.dev", "type": "Framework" },
+    { "name": "Foundation", "url": "https://get.foundation", "type": "UI Library" },
     {
       "name": "Firebase",
-      "url": "https://firebase.google.com"
+      "url": "https://firebase.google.com",
+      "type": "Backend-as-a-Service"
     }
   ],
   "G": [
-    { "name": "Gatsby", "url": "https://www.gatsbyjs.com" },
-    { "name": "GraphQL", "url": "https://graphql.org" }
+    { "name": "Gatsby", "url": "https://www.gatsbyjs.com", "type": "Framework" },
+    { "name": "Git", "url": "https://git-scm.com", "type": "Version Control System" },
+    { "name": "GitHub", "url": "https://github.com", "type": "Version Control System" },
+    { "name": "Gulp", "url": "https://gulpjs.com", "type": "Build Tool" },
+    { "name": "GraphQL", "url": "https://graphql.org", "type": "Query Language" }
   ],
-  "H": [{ "name": "HTML5", "url": "https://en.wikipedia.org/wiki/HTML5" }],
-  "I": [{ "name": "Immutable.js", "url": "https://immutable-js.com" }],
+  "H": [
+    { "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML", "type": "Language" }
+  ],
+  "I": [{ "name": "Immutable.js", "url": "https://immutable-js.com", "type": "Library" }],
   "J": [
-    { "name": "Jest", "url": "https://jestjs.io" },
-    { "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" },
-    { "name": "JSON", "url": "https://en.wikipedia.org/wiki/JSON" }
+    { "name": "Jest", "url": "https://jestjs.io", "type": "Testing Library" },
+    {
+      "name": "JavaScript",
+      "url": "https://en.wikipedia.org/wiki/JavaScript",
+      "type": "Language"
+    },
+    { "name": "JSON", "url": "https://en.wikipedia.org/wiki/JSON", "type": "Data Format" }
   ],
   "K": [
     {
       "name": "Keyframes",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes"
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes",
+      "type": "CSS Methodology"
     }
   ],
   "L": [
-    { "name": "Less", "url": "https://lesscss.org" },
-    { "name": "Lodash", "url": "https://lodash.com" }
+    { "name": "Less", "url": "https://lesscss.org", "type": "Language" },
+    { "name": "Lodash", "url": "https://lodash.com", "type": "Library" }
   ],
-  "M": [{ "name": "Material UI", "url": "https://mui.com" }],
+  "M": [{ "name": "Material UI", "url": "https://mui.com", "type": "UI Library" }],
   "N": [
-    { "name": "Next.js", "url": "https://nextjs.org" },
-    { "name": "npm", "url": "https://www.npmjs.com" },
-    { "name": "Node.js", "url": "https://nodejs.org" }
+    { "name": "Next.js", "url": "https://nextjs.org", "type": "Framework" },
+    { "name": "npm", "url": "https://www.npmjs.com", "type": "Package Manager" },
+    { "name": "Node.js", "url": "https://nodejs.org", "type": "Runtime Environment" }
   ],
-  "O": [{ "name": "OAuth", "url": "https://oauth.net" }],
+  "O": [
+    { "name": "OAuth", "url": "https://oauth.net", "type": "Authorization Framework" }
+  ],
   "P": [
-    { "name": "Parcel", "url": "https://parceljs.org" },
-    { "name": "PWA", "url": "https://en.wikipedia.org/wiki/Progressive_web_application" },
-    { "name": "Postman", "url": "https://www.postman.com" },
-    { "name": "Prettier", "url": "https://prettier.io" }
+    { "name": "Parcel", "url": "https://parceljs.org", "type": "Build Tool" },
+    {
+      "name": "PWA",
+      "url": "https://en.wikipedia.org/wiki/Progressive_web_application",
+      "type": "Technology"
+    },
+    { "name": "Postman", "url": "https://www.postman.com", "type": "API Client" },
+    { "name": "Prettier", "url": "https://prettier.io", "type": "Code Formatter" }
   ],
-  "Q": [{ "name": "Quasar", "url": "https://quasar.dev" }],
+  "Q": [{ "name": "Quasar", "url": "https://quasar.dev", "type": "Framework" }],
   "R": [
-    { "name": "React", "url": "https://react.dev" },
-    { "name": "Redux", "url": "https://redux.js.org" },
+    { "name": "React", "url": "https://react.dev", "type": "Framework" },
+    { "name": "React Native", "url": "https://reactnative.dev", "type": "Framework" },
+    { "name": "Redux", "url": "https://redux.js.org", "type": "Library" },
     {
       "name": "REST",
-      "url": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+      "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
+      "type": "API Design"
     },
-    { "name": "RxJS", "url": "https://rxjs.dev" }
+    { "name": "RxJS", "url": "https://rxjs.dev", "type": "Library" }
   ],
   "S": [
-    { "name": "Sass", "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)" },
-    { "name": "styled-components", "url": "https://styled-components.com" },
-    { "name": "Svelte", "url": "https://svelte.dev" }
+    {
+      "name": "Sass",
+      "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
+      "type": "Language"
+    },
+
+    {
+      "name": "styled-components",
+      "url": "https://styled-components.com",
+      "type": "Library"
+    },
+    { "name": "Svelte", "url": "https://svelte.dev", "type": "Framework" },
+    {
+      "name": "SVG",
+      "url": "https://en.wikipedia.org/wiki/SVG",
+      "type": "Data Format"
+    }
   ],
   "T": [
-    { "name": "Tailwind CSS", "url": "https://tailwindcss.com" },
-    { "name": "TypeScript", "url": "https://www.typescriptlang.org" }
+    { "name": "Tailwind CSS", "url": "https://tailwindcss.com", "type": "Framework" },
+    { "name": "Three.js", "url": "https://threejs.org", "type": "Library" },
+    { "name": "TSLint", "url": "https://palantir.github.io/tslint", "type": "Library" },
+    { "name": "TypeScript", "url": "https://www.typescriptlang.org", "type": "Language" }
   ],
-  "U": [{ "name": "Underscore.js", "url": "https://underscorejs.org" }],
-  "V": [{ "name": "Vue.js", "url": "https://vuejs.org" }],
-  "W": [{ "name": "webpack", "url": "https://webpack.js.org" }],
-  "X": [{ "name": "XState", "url": "https://xstate.js.org" }],
-  "Y": [{ "name": "Yarn", "url": "https://yarnpkg.com" }],
+  "U": [
+    { "name": "Underscore.js", "url": "https://underscorejs.org", "type": "Library" }
+  ],
+  "V": [{ "name": "Vue.js", "url": "https://vuejs.org", "type": "Framework" }],
+  "W": [{ "name": "webpack", "url": "https://webpack.js.org", "type": "Build Tool" }],
+  "X": [{ "name": "XState", "url": "https://xstate.js.org", "type": "Library" }],
+  "Y": [{ "name": "Yarn", "url": "https://yarnpkg.com", "type": "Package Manager" }],
   "Z": [
-    { "name": "z-index", "url": "https://en.wikipedia.org/wiki/Z-order#z-index" },
+    {
+      "name": "z-index",
+      "url": "https://en.wikipedia.org/wiki/Z-order#z-index",
+      "type": "CSS Methodology"
+    },
     {
       "name": "Zod",
-      "url": "https://zod.dev"
+      "url": "https://zod.dev",
+      "type": "Library"
     }
   ]
 }
