@@ -1,9 +1,11 @@
-# Categories
+# Frontend Encyclopedia - Categories
 
 ### API Client
+- [Insomnia](https://insomnia.rest)
 - [Postman](https://www.postman.com)
 
 ### Backend-as-a-Service
+- [Fastify](https://fastify.dev)
 - [Firebase](https://firebase.google.com)
 
 ### Build Tool
@@ -12,6 +14,10 @@
 - [Parcel](https://parceljs.org)
 - [Vite](https://vitejs.dev)
 - [webpack](https://webpack.js.org)
+
+### CI/CD Service
+- [CircleCI](https://circleci.com)
+- [Travis CI](https://www.travis-ci.com)
 
 ### CSS Methodology
 - [BEM](https://en.bem.info)
@@ -39,8 +45,8 @@
 - [Meteor.js](https://www.meteor.com)
 - [Next.js](https://nextjs.org)
 - [Quasar](https://quasar.dev)
-- [React](https://react.dev)
 - [React Native](https://reactnative.dev)
+- [React](https://react.dev)
 - [Svelte](https://svelte.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Vue.js](https://vuejs.org)
@@ -48,23 +54,28 @@
 ### Language
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)(1995)
 - [Less](https://lesscss.org)
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Library
-- [Anime.js](https://animejs.com)
+- [Anime.js](https://animejs.com)(2016)
 - [Apollo](https://www.apollographql.com)
 - [Axios](https://axios-http.com)
 - [Chart.js](https://www.chartjs.org)
-- [day.js](https://day.js.org)
 - [D3.js](https://d3js.org)
+- [day.js](https://day.js.org)
 - [Immutable.js](https://immutable-js.com)
+- [jQuery](https://jquery.com)(2006)
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
+- [Node Cron](https://github.com/node-cron/node-cron)
+- [Redux-Saga](https://redux-saga.js.org)
 - [Redux](https://redux.js.org)
+- [Relay](https://relay.dev)
 - [RxJS](https://rxjs.dev)
+- [Socket.IO](https://socket.io)
 - [styled-components](https://styled-components.com)
 - [Three.js](https://threejs.org)
 - [Underscore.js](https://underscorejs.org)
@@ -90,27 +101,32 @@
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
 - [GraphQL](https://graphql.org)
+- [JSON-RPC](https://www.jsonrpc.org)
 - [OAuth](https://oauth.net)
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ### Technology
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
+- [WebRTC](https://webrtc.org)
 
 ### Testing Library
 - [Chai](https://www.chaijs.com)
 - [Cypress](https://www.cypress.io)
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
+- [Playwright](https://playwright.dev)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### UI Library
-- [Ant Design](https://ant.design)
+- [Ant Design](https://ant.design)(2015)
 - [Bootstrap](https://getbootstrap.com)
 - [Chakra UI](https://chakra-ui.com)
 - [Foundation](https://get.foundation)
 - [Material UI](https://mui.com)
 
 ### Version Control System
+- [Bitbucket](https://bitbucket.org)
 - [Git](https://git-scm.com)
 - [GitHub](https://github.com)
+- [GitLab](https://docs.gitlab.com)
 

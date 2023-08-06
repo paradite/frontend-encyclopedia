@@ -5,7 +5,7 @@
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
       "type": "Programming Technique",
       "year_created": "1999",
-      "year_deprecated":""
+      "year_deprecated": ""
     },
     {
       "name": "Angular",
@@ -16,12 +16,14 @@
     {
       "name": "Anime.js",
       "url": "https://animejs.com",
-      "type": "Library"
+      "type": "Library",
+      "year_created": "2016"
     },
     {
       "name": "Ant Design",
       "url": "https://ant.design",
-      "type": "UI Library"
+      "type": "UI Library",
+      "year_created": "2015"
     },
     {
       "name": "Apollo",
@@ -79,6 +81,11 @@
       "name": "BOM",
       "url": "https://en.wikipedia.org/wiki/Browser_Object_Model",
       "type": "Specification"
+    },
+    {
+      "name": "Bitbucket",
+      "url": "https://bitbucket.org",
+      "type": "Version Control System"
     }
   ],
   "C": [
@@ -121,6 +128,11 @@
       "name": "Clean Code",
       "url": "https://en.wiktionary.org/wiki/clean_code",
       "type": "General Software Topics"
+    },
+    {
+      "name": "CircleCI",
+      "url": "https://circleci.com",
+      "type": "CI/CD Service"
     }
   ],
   "D": [
@@ -207,6 +219,11 @@
       "name": "Flowbite",
       "url": "https://flowbite.com/",
       "type": "Library"
+    },
+    {
+      "name": "Fastify",
+      "url": "https://fastify.dev",
+      "type": "Backend-as-a-Service"
     }
   ],
   "G": [
@@ -234,6 +251,11 @@
       "name": "GitHub Pages",
       "url": "https://pages.github.com/",
       "type": "Deployment"
+    },
+    {
+      "name": "GitLab",
+      "url": "https://docs.gitlab.com",
+      "type": "Version Control System"
     },
     {
       "name": "Grunt",
@@ -273,6 +295,11 @@
       "name": "Ionic",
       "url": "https://ionicframework.com",
       "type": "Framework"
+    },
+    {
+      "name": "Insomnia",
+      "url": "https://insomnia.rest",
+      "type": "API Client"
     }
   ],
   "J": [
@@ -284,12 +311,24 @@
     {
       "name": "JavaScript",
       "url": "https://en.wikipedia.org/wiki/JavaScript",
-      "type": "Language"
+      "type": "Language",
+      "year_created": 1995
+    },
+    {
+      "name": "jQuery",
+      "url": "https://jquery.com",
+      "type": "Library",
+      "year_created": 2006
     },
     {
       "name": "JSON",
       "url": "https://en.wikipedia.org/wiki/JSON",
       "type": "Data Format"
+    },
+    {
+      "name": "JSON-RPC",
+      "url": "https://www.jsonrpc.org",
+      "type": "Specification"
     }
   ],
   "K": [
@@ -363,6 +402,11 @@
       "name": "npm scripts",
       "url": "https://docs.npmjs.com/cli/v9/using-npm/scripts",
       "type": "Task Runner"
+    },
+    {
+      "name": "Node Cron",
+      "url": "https://github.com/node-cron/node-cron",
+      "type": "Library"
     }
   ],
   "O": [
@@ -407,6 +451,11 @@
       "name": "pnpm",
       "url": "https://pnpm.io/",
       "type": "Package Manager"
+    },
+    {
+      "name": "Playwright",
+      "url": "https://playwright.dev",
+      "type": "Testing Library"
     }
   ],
   "Q": [
@@ -443,6 +492,11 @@
       "type": "Library"
     },
     {
+      "name": "Redux-Saga",
+      "url": "https://redux-saga.js.org",
+      "type": "Library"
+    },
+    {
       "name": "REST",
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
       "type": "Specification"
@@ -462,6 +516,11 @@
       "name": "Render",
       "url": "https://render.com/",
       "type": "Deployment"
+    },
+    {
+      "name": "Relay",
+      "url": "https://relay.dev",
+      "type": "Library"
     }
   ],
   "S": [
@@ -494,6 +553,11 @@
       "name": "SOLID Principles",
       "url": "https://en.wikipedia.org/wiki/SOLID",
       "type": "General Software Topics"
+    },
+    {
+      "name": "Socket.IO",
+      "url": "https://socket.io",
+      "type": "Library"
     }
   ],
   "T": [
@@ -516,6 +580,11 @@
       "name": "TypeScript",
       "url": "https://www.typescriptlang.org",
       "type": "Language"
+    },
+    {
+      "name": "Travis CI",
+      "url": "https://www.travis-ci.com",
+      "type": "CI/CD Service"
     }
   ],
   "U": [
@@ -551,6 +620,11 @@
     {
       "name": "Web Sockets",
       "url": "https://en.wikipedia.org/wiki/WebSocket",
+      "type": "Technology"
+    },
+    {
+      "name": "WebRTC",
+      "url": "https://webrtc.org",
       "type": "Technology"
     }
   ],

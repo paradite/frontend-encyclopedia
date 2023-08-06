@@ -9,21 +9,26 @@ readmeContent += '[List by categories](categories.md)\n\n';
 
 for (const key in data) {
   readmeContent += `### ${key}\n`;
-  const terms = data[key].map((term) => {
-    ``;
-    const nameWithLink = term.url
-      ? `[${term.name}](${term.url})`
-      : term.name;
+  const terms = data[key]
+    .map((term) => {
+      ``;
+      const nameWithLink = term.url
+        ? `[${term.name}](${term.url})`
+        : term.name;
 
-    let dateInfo = getDateInfo(term);
-    return `- ${nameWithLink}${
-      term.type
-        ? dateInfo
-          ? ` - ${term.type} ${dateInfo}`
-          : ` - ${term.type}`
-        : ''
-    }`;
-  });
+      let dateInfo = getDateInfo(term);
+      return `- ${nameWithLink}${
+        term.type
+          ? dateInfo
+            ? ` - ${term.type} ${dateInfo}`
+            : ` - ${term.type}`
+          : ''
+      }`;
+    })
+    // sort by name case-insensitive
+    .sort((a, b) =>
+      a.toLowerCase().localeCompare(b.toLowerCase())
+    );
   readmeContent += terms.join('\n') + '\n\n';
 }
 readmeContent +=
@@ -51,7 +56,8 @@ for (const key in data) {
   });
 }
 
-let categoriesContent = '# Categories\n\n';
+let categoriesContent =
+  '# Frontend Encyclopedia - Categories\n\n';
 
 Object.keys(categories)
   .sort()
@@ -60,6 +66,10 @@ Object.keys(categories)
     categoriesContent +=
       categories[category]
         .map((item) => `- ${item}`)
+        // sort by name case-insensitive
+        .sort((a, b) =>
+          a.toLowerCase().localeCompare(b.toLowerCase())
+        )
         .join('\n') + '\n\n';
   });
 
