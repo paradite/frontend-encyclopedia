@@ -15,6 +15,7 @@
 ### Build Tool
 - [Gulp](https://gulpjs.com)
 - [Parcel](https://parceljs.org)
+- [Vite](https://vitejs.dev)
 - [webpack](https://webpack.js.org)
 
 ### CSS Methodology
