@@ -10,7 +10,8 @@
       "name": "Angular",
       "url": "https://angular.io",
       "type": "Framework",
-      "year_created": 2016
+      "year_created": 2016,
+      "year_created_source": "https://en.wikipedia.org/wiki/Ajax_(programming)"
     },
     {
       "name": "AngularJS",
@@ -24,7 +25,8 @@
       "name": "Anime.js",
       "url": "https://animejs.com",
       "type": "Library",
-      "year_created": 2016
+      "year_created": 2016,
+      "year_created_source": "https://github.com/juliangarnier/anime/releases?page=2"
     },
     {
       "name": "Ant Design",
@@ -47,20 +49,21 @@
       "name": "Astro",
       "url": "https://astro.build/",
       "type": "Framework",
-      "year_created": 2022
+      "year_created": 2021
     },
     {
       "name": "Angular Universal",
       "url": "https://angular.io/guide/universal",
       "type": "Technology",
-      "year_created": 2016
+      "year_created": 2015
     }
   ],
   "B": [
     {
       "name": "Babel",
       "url": "https://babeljs.io",
-      "type": "Build Tool"
+      "type": "Build Tool",
+      "year_created": 2014
     },
     {
       "name": "Backbone.js",
@@ -77,7 +80,7 @@
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
       "type": "UI Library",
-      "year_created": 2013
+      "year_created": 2011
     },
     {
       "name": "BOM",
@@ -94,7 +97,8 @@
     {
       "name": "Chakra UI",
       "url": "https://chakra-ui.com",
-      "type": "UI Library"
+      "type": "UI Library",
+      "year_created": 2018
     },
     {
       "name": "Chai",
@@ -109,17 +113,22 @@
     {
       "name": "CSS",
       "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
-      "type": "Language"
+      "type": "Language",
+      "year_created": 1996,
+      "year_created_source": "https://en.wikipedia.org/wiki/CSS"
     },
     {
       "name": "Cypress",
       "url": "https://www.cypress.io",
-      "type": "Testing Library"
+      "type": "Testing Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/"
     },
     {
       "name": "CircleCI",
       "url": "https://circleci.com",
-      "type": "CI/CD Service"
+      "type": "CI/CD Service",
+      "year_created": 2011
     }
   ],
   "D": [
@@ -143,17 +152,22 @@
     {
       "name": "Electron",
       "url": "https://www.electronjs.org",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2013,
+      "year_created_source": "https://en.wikipedia.org/wiki/Electron_(software_framework)"
     },
     {
       "name": "Ember.js",
       "url": "https://emberjs.com",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": "2011",
+      "year_created_source": "https://g.co/kgs/b5E63S"
     },
     {
       "name": "ESLint",
       "url": "https://eslint.org",
-      "type": "Linter"
+      "type": "Linter",
+      "year_created": 2013
     },
     {
       "name": "ES2022",
@@ -177,12 +191,14 @@
     {
       "name": "Figma",
       "url": "https://www.figma.com",
-      "type": "Design Tool"
+      "type": "Design Tool",
+      "year_created": 2012
     },
     {
       "name": "Flutter",
       "url": "https://flutter.dev",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2015
     },
     {
       "name": "Foundation",
@@ -192,7 +208,8 @@
     {
       "name": "Firebase",
       "url": "https://firebase.google.com",
-      "type": "Backend-as-a-Service"
+      "type": "Backend-as-a-Service",
+      "year_created": 2011
     },
     {
       "name": "Flowbite",
@@ -203,7 +220,8 @@
     {
       "name": "Fastify",
       "url": "https://fastify.dev",
-      "type": "Backend-as-a-Service"
+      "type": "Backend-as-a-Service",
+      "year_created": 2016
     },
     {
       "name": "Font Awesome",
@@ -247,7 +265,7 @@
       "name": "GitLab",
       "url": "https://docs.gitlab.com",
       "type": "Version Control System",
-      "year_created": 2014
+      "year_created": 2011
     },
     {
       "name": "Grunt",
@@ -264,7 +282,8 @@
     {
       "name": "GraphQL",
       "url": "https://graphql.org",
-      "type": "Specification"
+      "type": "Specification",
+      "year_created": 2011
     }
   ],
   "H": [
@@ -302,7 +321,7 @@
       "name": "Jest",
       "url": "https://jestjs.io",
       "type": "Testing Library",
-      "year_created": 2011
+      "year_created": 2014
     },
     {
       "name": "JavaScript",
@@ -319,7 +338,8 @@
     {
       "name": "JSON",
       "url": "https://en.wikipedia.org/wiki/JSON",
-      "type": "Data Format"
+      "type": "Data Format",
+      "year_created": 2001
     },
     {
       "name": "JSON-RPC",
@@ -483,7 +503,9 @@
     {
       "name": "React",
       "url": "https://react.dev",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2013,
+      "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w"
     },
     {
       "name": "React Native",
@@ -602,7 +624,9 @@
     {
       "name": "Vue.js",
       "url": "https://vuejs.org",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2014,
+      "year_created_source": "https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/"
     },
     {
       "name": "Vercel",
