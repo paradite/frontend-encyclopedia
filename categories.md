@@ -61,11 +61,11 @@
 - [Quasar](https://quasar.dev)
 - [Qwik](https://qwik.builder.io/)
 - [React Native](https://reactnative.dev)
-- [React](https://react.dev)
+- [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [SolidJS](https://www.solidjs.com/)
 - [Svelte](https://svelte.dev)
 - [Tailwind CSS](https://tailwindcss.com)
-- [Vue.js](https://vuejs.org)
+- [Vue.js](https://vuejs.org) ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### Icon Set
 - [Font Awesome](https://fontawesome.com) (2012)

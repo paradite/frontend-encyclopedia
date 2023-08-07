@@ -121,7 +121,7 @@
 ### R
 - [React Native](https://reactnative.dev) - Framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
-- [React](https://react.dev) - Framework
+- [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Redux-Saga](https://redux-saga.js.org) - Library
 - [Redux](https://redux.js.org) - Library
 - [Relay](https://relay.dev) - Library
@@ -150,7 +150,7 @@
 ### V
 - [Vercel](https://vercel.com/) - Deployment
 - [Vite](https://vitejs.dev) - Build Tool
-- [Vue.js](https://vuejs.org) - Framework
+- [Vue.js](https://vuejs.org) - Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### W
 - [webpack](https://webpack.js.org) - Build Tool

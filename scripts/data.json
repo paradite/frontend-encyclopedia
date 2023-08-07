@@ -496,7 +496,9 @@
     {
       "name": "React",
       "url": "https://react.dev",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2013,
+      "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w"
     },
     {
       "name": "React Native",
@@ -614,7 +616,9 @@
     {
       "name": "Vue.js",
       "url": "https://vuejs.org",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2014,
+      "year_created_source": "https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/"
     },
     {
       "name": "Vercel",
