@@ -45,12 +45,14 @@
 - [Electron](https://www.electronjs.org) - Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [ESLint](https://eslint.org) - Linter (2013)
 - [Gulp](https://gulpjs.com) - Build Tool (2013)
+- [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 
 ### 2014
 - [Axios](https://axios-http.com) - Library (2014)
 - [Babel](https://babeljs.io) - Build Tool (2014)
 - [Cypress](https://www.cypress.io) - Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 - [Jest](https://jestjs.io) - Testing Library (2014)
+- [Vue.js](https://vuejs.org) - Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### 2015
 - [Ant Design](https://ant.design) - UI Library (2015)
