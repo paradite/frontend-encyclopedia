@@ -10,7 +10,8 @@
       "name": "Angular",
       "url": "https://angular.io",
       "type": "Framework",
-      "year_created": 2016
+      "year_created": 2016,
+      "year_created_source": "https://en.wikipedia.org/wiki/Ajax_(programming)"
     },
     {
       "name": "AngularJS",
@@ -24,7 +25,8 @@
       "name": "Anime.js",
       "url": "https://animejs.com",
       "type": "Library",
-      "year_created": 2016
+      "year_created": 2016,
+      "year_created_source": "https://github.com/juliangarnier/anime/releases?page=2"
     },
     {
       "name": "Ant Design",
@@ -112,13 +114,15 @@
       "name": "CSS",
       "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
       "type": "Language",
-      "year_created": 1994
+      "year_created": 1996,
+      "year_created_source": "https://en.wikipedia.org/wiki/CSS"
     },
     {
       "name": "Cypress",
       "url": "https://www.cypress.io",
       "type": "Testing Library",
-      "year_created": 2014
+      "year_created": 2014,
+      "year_created_source": "https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/"
     },
     {
       "name": "CircleCI",
@@ -149,12 +153,15 @@
       "name": "Electron",
       "url": "https://www.electronjs.org",
       "type": "Framework",
-      "year_created": 2013
+      "year_created": 2013,
+      "year_created_source": "https://en.wikipedia.org/wiki/Electron_(software_framework)"
     },
     {
       "name": "Ember.js",
       "url": "https://emberjs.com",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": "2011",
+      "year_created_source": "https://g.co/kgs/b5E63S"
     },
     {
       "name": "ESLint",
