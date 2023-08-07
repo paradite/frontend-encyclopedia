@@ -1,33 +1,33 @@
 # Frontend Encyclopedia
 
-[List by categories](categories.md)
+[List by categories](categories.md) | [List by chronological order](chronological.md)
 
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
-- [Angular Universal](https://angular.io/guide/universal) - Technology
-- [Angular](https://angular.io) - Framework (2016)
+- [Angular Universal](https://angular.io/guide/universal) - Technology (2015)
+- [Angular](https://angular.io) - Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AngularJS](https://angularjs.org) - Framework (2010 - 2021, Replaced by Angular)
-- [Anime.js](https://animejs.com) - Library (2016)
+- [Anime.js](https://animejs.com) - Library ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Ant Design](https://ant.design) - UI Library (2015)
 - [Apollo](https://www.apollographql.com) - Library
-- [Astro](https://astro.build/) - Framework
+- [Astro](https://astro.build/) - Framework (2021)
 - [Axios](https://axios-http.com) - Library (2014)
 
 ### B
-- [Babel](https://babeljs.io) - Build Tool
+- [Babel](https://babeljs.io) - Build Tool (2014)
 - [Backbone.js](https://backbonejs.org) - Framework (2010)
 - [BEM](https://en.bem.info) - CSS Methodology
 - [Bitbucket](https://bitbucket.org) - Version Control System
 - [BOM](https://en.wikipedia.org/wiki/Browser_Object_Model) - Specification
-- [Bootstrap](https://getbootstrap.com) - UI Library (2013)
+- [Bootstrap](https://getbootstrap.com) - UI Library (2011)
 
 ### C
 - [Chai](https://www.chaijs.com) - Testing Library
-- [Chakra UI](https://chakra-ui.com) - UI Library
+- [Chakra UI](https://chakra-ui.com) - UI Library (2018)
 - [Chart.js](https://www.chartjs.org) - Library
-- [CircleCI](https://circleci.com) - CI/CD Service
-- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language
-- [Cypress](https://www.cypress.io) - Testing Library
+- [CircleCI](https://circleci.com) - CI/CD Service (2011)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language ([1996](https://en.wikipedia.org/wiki/CSS))
+- [Cypress](https://www.cypress.io) - Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 
 ### D
 - [D3.js](https://d3js.org) - Library
@@ -36,34 +36,34 @@
 
 ### E
 - [EJS](https://ejs.co/) - Template Engine
-- [Electron](https://www.electronjs.org) - Framework
-- [Ember.js](https://emberjs.com) - Framework
+- [Electron](https://www.electronjs.org) - Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
+- [Ember.js](https://emberjs.com) - Framework ([2011](https://g.co/kgs/b5E63S))
 - [Enzyme](https://enzymejs.github.io/enzyme/) - Testing Library (2015, Last release was in 2019.)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Specification
-- [ESLint](https://eslint.org) - Linter
+- [ESLint](https://eslint.org) - Linter (2013)
 
 ### F
-- [Fastify](https://fastify.dev) - Backend-as-a-Service
-- [Figma](https://www.figma.com) - Design Tool
-- [Firebase](https://firebase.google.com) - Backend-as-a-Service
+- [Fastify](https://fastify.dev) - Backend-as-a-Service (2016)
+- [Figma](https://www.figma.com) - Design Tool (2012)
+- [Firebase](https://firebase.google.com) - Backend-as-a-Service (2011)
 - [Flowbite](https://flowbite.com/) - Library
-- [Flutter](https://flutter.dev) - Framework
+- [Flutter](https://flutter.dev) - Framework (2015)
 - [Font Awesome](https://fontawesome.com) - Icon Set (2012)
 - [Foundation](https://get.foundation) - UI Library
 
 ### G
-- [Gatsby](https://www.gatsbyjs.com) - Framework
-- [Git](https://git-scm.com) - Version Control System
+- [Gatsby](https://www.gatsbyjs.com) - Framework (2015)
+- [Git](https://git-scm.com) - Version Control System (2005)
 - [GitHub Desktop](https://desktop.github.com/) - Version Control System
 - [GitHub Pages](https://pages.github.com/) - Deployment
-- [GitHub](https://github.com) - Version Control System
-- [GitLab](https://docs.gitlab.com) - Version Control System
-- [GraphQL](https://graphql.org) - Specification
+- [GitHub](https://github.com) - Version Control System (2008)
+- [GitLab](https://docs.gitlab.com) - Version Control System (2011)
+- [GraphQL](https://graphql.org) - Specification (2011)
 - [Grunt](https://gruntjs.com/) - Task Runner
-- [Gulp](https://gulpjs.com) - Build Tool
+- [Gulp](https://gulpjs.com) - Build Tool (2013)
 
 ### H
-- [HTML](https://en.wikipedia.org/wiki/HTML) - Language
+- [HTML](https://en.wikipedia.org/wiki/HTML) - Language (1993)
 
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) - Programming Technique
@@ -74,10 +74,10 @@
 ### J
 - [Jade](https://pugjs.org/api/getting-started.html) - Template Engine (2010 - 2015, Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language (1995)
-- [Jest](https://jestjs.io) - Testing Library
+- [Jest](https://jestjs.io) - Testing Library (2014)
 - [jQuery](https://jquery.com) - Library (2006)
 - [JSON-RPC](https://www.jsonrpc.org) - Specification
-- [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format
+- [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format (2001)
 
 ### K
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes) - CSS Methodology
@@ -121,7 +121,7 @@
 ### R
 - [React Native](https://reactnative.dev) - Framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
-- [React](https://react.dev) - Framework
+- [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Redux-Saga](https://redux-saga.js.org) - Library
 - [Redux](https://redux.js.org) - Library
 - [Relay](https://relay.dev) - Library
@@ -150,7 +150,7 @@
 ### V
 - [Vercel](https://vercel.com/) - Deployment
 - [Vite](https://vitejs.dev) - Build Tool
-- [Vue.js](https://vuejs.org) - Framework
+- [Vue.js](https://vuejs.org) - Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### W
 - [webpack](https://webpack.js.org) - Build Tool

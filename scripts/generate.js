@@ -2,10 +2,27 @@ const fs = require('fs');
 
 const data = require('./data.json');
 
+function getAdditionalInfo(term) {
+  let dateInfo = ``;
+  let noteInfo = term.note ? `, ${term.note}` : '';
+  let yearCreated = term.year_created_source
+    ? `[${term.year_created}](${term.year_created_source})`
+    : term.year_created;
+
+  if (term.year_created && term.year_deprecated) {
+    dateInfo = `(${yearCreated} - ${term.year_deprecated}${noteInfo})`;
+  } else if (term.year_created) {
+    dateInfo = `(${yearCreated}${noteInfo})`;
+  }
+
+  return dateInfo;
+}
+
 // README.md
 
 let readmeContent = '# Frontend Encyclopedia\n\n';
-readmeContent += '[List by categories](categories.md)\n\n';
+readmeContent +=
+  '[List by categories](categories.md) | [List by chronological order](chronological.md)\n\n';
 
 for (const key in data) {
   readmeContent += `### ${key}\n`;
@@ -75,15 +92,42 @@ Object.keys(categories)
 
 fs.writeFileSync('categories.md', categoriesContent);
 
-function getAdditionalInfo(term) {
-  let dateInfo = ``;
-  let noteInfo = term.note ? `, ${term.note}` : '';
+// chronological.md
 
-  if (term.year_created && term.year_deprecated) {
-    dateInfo = `(${term.year_created} - ${term.year_deprecated}${noteInfo})`;
-  } else if (term.year_created) {
-    dateInfo = `(${term.year_created}${noteInfo})`;
-  }
+const chronological = {};
 
-  return dateInfo;
+for (const key in data) {
+  data[key].forEach((term) => {
+    let dateInfo = getAdditionalInfo(term);
+    let yearCreated = term.year_created;
+    let category = term.type; // Using 'type' as the category
+
+    if (yearCreated && category) {
+      let nameWithLink = term.url
+        ? `[${term.name}](${term.url})`
+        : term.name;
+
+      let entry = `- ${nameWithLink} - ${category}`; // Including category
+
+      if (dateInfo) entry += ` ${dateInfo}`;
+
+      if (!chronological[yearCreated])
+        chronological[yearCreated] = [];
+
+      chronological[yearCreated].push(entry);
+    }
+  });
 }
+
+let chronologicalContent =
+  '# Frontend Encyclopedia - Chronological Order\n\n';
+
+Object.keys(chronological)
+  .sort((a, b) => a - b)
+  .forEach((year) => {
+    chronologicalContent += `### ${year}\n`;
+    chronologicalContent +=
+      chronological[year].join('\n') + '\n\n';
+  });
+
+fs.writeFileSync('chronological.md', chronologicalContent);
