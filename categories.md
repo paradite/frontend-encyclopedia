@@ -46,6 +46,11 @@
 ### Design Tool
 - [Figma](https://www.figma.com) (2012)
 
+### Documentation Library
+- [Docusaurus](https://docusaurus.io/) ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
+- [docz](https://www.docz.site/) ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
+- [Storybook](https://storybook.js.org/) ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
+
 ### Framework
 - [Angular](https://angular.io) ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AngularJS](https://angularjs.org) ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
@@ -68,6 +73,9 @@
 - [Tailwind CSS](https://tailwindcss.com)
 - [Vue.js](https://vuejs.org) ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
+### Games Framework
+- [phaser](https://phaser.io/) ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
+
 ### Icon Set
 - [Font Awesome](https://fontawesome.com) (2012)
 
@@ -80,27 +88,42 @@
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Library
+- [AlertifyJS](https://alertifyjs.com/) ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Anime.js](https://animejs.com) ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Apollo](https://www.apollographql.com) ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Axios](https://axios-http.com) ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 - [Chart.js](https://www.chartjs.org) ([2013](https://www.chartjs.org/docs/latest/))
 - [D3.js](https://d3js.org)
+- [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org)
 - [Flowbite](https://flowbite.com/) (2021)
+- [Formik](https://formik.org/) ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
+- [Glide.js](https://glidejs.com/) ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [Immutable.js](https://immutable-js.com)
 - [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
+- [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
 - [Node Cron](https://github.com/node-cron/node-cron)
+- [PixiJS](https://pixijs.com/) ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
+- [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
+- [React Hook Form](https://react-hook-form.com/) ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
+- [react-icons](https://react-icons.github.io/react-icons/) ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
+- [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org)
 - [Redux](https://redux.js.org)
 - [Relay](https://relay.dev)
 - [RxJS](https://rxjs.dev)
 - [Socket.IO](https://socket.io)
 - [styled-components](https://styled-components.com)
+- [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
+- [SWR](https://swr.vercel.app/) ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [Three.js](https://threejs.org)
+- [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Underscore.js](https://underscorejs.org)
+- [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [XState](https://xstate.js.org)
+- [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 - [Zod](https://zod.dev)
 
 ### Linter
@@ -111,6 +134,10 @@
 - [npm](https://www.npmjs.com)
 - [pnpm](https://pnpm.io/)
 - [Yarn](https://yarnpkg.com) ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
+
+### Programming Library Games
+- [ct.js](https://ctjs.rocks/) ([2019](https://github.com/ct-js/ct-js/releases))
+- [Kaboom](https://kaboomjs.com/) ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 
 ### Programming Technique
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -151,14 +178,17 @@
 - [Mocha](https://mochajs.org)
 - [Playwright](https://playwright.dev)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 
 ### UI Library
 - [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
 - [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Chakra UI](https://chakra-ui.com) (2018)
+- [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Foundation](https://get.foundation)
 - [Material UI](https://mui.com) ([2014](https://mui.com/about/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
+- [Rebass](https://rebassjs.org/) ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 
 ### Version Control System
 - [Bitbucket](https://bitbucket.org)

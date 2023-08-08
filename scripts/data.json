@@ -67,6 +67,13 @@
       "type": "Technology",
       "year_created": 2017,
       "year_created_source": "https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions"
+    },
+    {
+      "name": "AlertifyJS",
+      "url": "https://alertifyjs.com/",
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/alertifyjs?activeTab=versions"
     }
   ],
   "B": [
@@ -145,6 +152,13 @@
       "type": "CI/CD Service",
       "year_created": 2011,
       "year_created_source": "https://circleci.com/about/"
+    },
+    {
+      "name": "ct.js",
+      "url": "https://ctjs.rocks/",
+      "type": "Programming Library Games",
+      "year_created": 2019,
+      "year_created_source": "https://github.com/ct-js/ct-js/releases"
     }
   ],
   "D": [
@@ -162,7 +176,29 @@
       "name": "DOM",
       "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
       "type": "Specification"
+    },
+    {
+      "name": "date-fns",
+      "url": "https://date-fns.org/",
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/date-fns?activeTab=versions"
+    },
+    {
+      "name": "Docusaurus",
+      "url": "https://docusaurus.io/",
+      "type": "Documentation Library",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/docusaurus?activeTab=versions"
+    },
+    {
+      "name": "docz",
+      "url": "https://www.docz.site/",
+      "type": "Documentation Library",
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/docz?activeTab=versions"
     }
+    
   ],
   "E": [
     {
@@ -202,6 +238,13 @@
       "type": "Testing Library",
       "year_created": 2015,
       "note": "Last release was in 2019."
+    },
+    {
+      "name": "Evergreen",
+      "url": "https://evergreen.segment.com/",
+      "type": "UI Library",
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/evergreen-ui?activeTab=versions"
     }
   ],
   "F": [
@@ -245,6 +288,13 @@
       "url": "https://fontawesome.com",
       "type": "Icon Set",
       "year_created": 2012
+    },
+    {
+      "name": "Formik",
+      "url": "https://formik.org/",
+      "type": "Library",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/formik?activeTab=versions"
     }
   ],
   "G": [
@@ -309,6 +359,13 @@
       "url": "https://graphql.org",
       "type": "Specification",
       "year_created": 2011
+    },
+    {
+      "name": "Glide.js",
+      "url": "https://glidejs.com/",
+      "type": "Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/@glidejs/glide?activeTab=versions"
     }
   ],
   "H": [
@@ -385,6 +442,13 @@
       "year_created": 2010,
       "year_deprecated": 2015,
       "note": "Renamed to Pug"
+    },
+    {
+      "name": "jsdoc",
+      "url": "https://jsdoc.app/",
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/jsdoc?activeTab=versions"
     }
   ],
   "K": [
@@ -392,6 +456,13 @@
       "name": "Keyframes",
       "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes",
       "type": "CSS Methodology"
+    },
+    {
+      "name": "Kaboom",
+      "url": "https://kaboomjs.com/",
+      "type": "Programming Library Games",
+      "year_created": 2021,
+      "year_created_source": "https://www.npmjs.com/package/kaboom?activeTab=versions"
     }
   ],
   "L": [
@@ -528,6 +599,27 @@
       "name": "Pure",
       "url": "https://purecss.io/",
       "type": "CSS Framework"
+    },
+    {
+      "name": "polished",
+      "url": "https://polished.js.org/",
+      "type": "Library",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/polished?activeTab=versions"
+    },
+    {
+      "name": "PixiJS",
+      "url": "https://pixijs.com/",
+      "type": "Library",
+      "year_created": 2013,
+      "year_created_source": "https://www.npmjs.com/package/pixi.js?activeTab=versions"
+    },
+    {
+      "name": "phaser",
+      "url": "https://phaser.io/",
+      "type": "Games Framework",
+      "year_created": 2013,
+      "year_created_source": "https://www.npmjs.com/package/phaser?activeTab=versions"
     }
   ],
   "Q": [
@@ -598,6 +690,34 @@
       "name": "Relay",
       "url": "https://relay.dev",
       "type": "Library"
+    },
+    {
+      "name": "Rebass",
+      "url": "https://rebassjs.org/",
+      "type": "UI Library",
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/rebass?activeTab=versions"
+    },
+    {
+      "name": "react-icons",
+      "url": "https://react-icons.github.io/react-icons/",
+      "type": "Library",
+      "year_created": 2016,
+      "year_created_source": "https://www.npmjs.com/package/react-icons?activeTab=versions"
+    },
+    {
+      "name": "React Hook Form",
+      "url": "https://react-hook-form.com/",
+      "type": "Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/react-hook-form?activeTab=versions"
+    },
+    {
+      "name": "React-Toastify",
+      "url": "https://www.npmjs.com/package/react-toastify",
+      "type": "Library",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/react-toastify?activeTab=versions"
     }
   ],
   "S": [
@@ -632,6 +752,34 @@
       "name": "Socket.IO",
       "url": "https://socket.io",
       "type": "Library"
+    },
+    {
+      "name": "SWR",
+      "url": "https://swr.vercel.app/",
+      "type": "Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/swr?activeTab=versions"
+    },
+    {
+      "name": "Sinon.JS",
+      "url": "https://sinonjs.org/",
+      "type": "Testing Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/sinon?activeTab=versions"
+    },
+    {
+      "name": "Storybook",
+      "url": "https://storybook.js.org/",
+      "type": "Documentation Library",
+      "year_created": 2016,
+      "year_created_source": "https://www.npmjs.com/package/storybook?activeTab=versions"
+    },
+    {
+      "name": "sweetalert2",
+      "url": "https://sweetalert2.github.io/",
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/sweetalert2?activeTab=versions"
     }
   ],
   "T": [
@@ -659,6 +807,13 @@
       "name": "Travis CI",
       "url": "https://www.travis-ci.com",
       "type": "CI/CD Service"
+    },
+    {
+      "name": "Tone.js",
+      "url": "https://tonejs.github.io/",
+      "type": "Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/tone?activeTab=versions"
     }
   ],
   "U": [
@@ -685,6 +840,13 @@
       "name": "Vercel",
       "url": "https://vercel.com/",
       "type": "Deployment"
+    },
+    {
+      "name": "Video.js",
+      "url": "https://videojs.com/",
+      "type": "Library",
+      "year_created": 2013,
+      "year_created_source": "https://www.npmjs.com/package/video.js?activeTab=versions"
     }
   ],
   "W": [
@@ -709,6 +871,13 @@
       "name": "XState",
       "url": "https://xstate.js.org",
       "type": "Library"
+    },
+    {
+      "name": "xstyled",
+      "url": "https://xstyled.dev/",
+      "type": "Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions"
     }
   ],
   "Y": [
