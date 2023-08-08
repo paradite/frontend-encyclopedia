@@ -653,8 +653,7 @@
       "name": "UiKit",
       "url": "https://getuikit.com/",
       "type": "CSS Framework",
-      "year_created": 2007,
-      "year_created_source": "https://getuikit.com/v2/docs/documentation_get-started.html"
+      "year_created": 2007
     },
     {
       "name": "Underscore.js",
