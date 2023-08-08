@@ -48,7 +48,7 @@
 
 ### Framework
 - [Angular](https://angular.io) ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
-- [AngularJS](https://angularjs.org) ([2010](https://en.wikipedia.org/wiki/AngularJS) - 2021, Replaced by Angular)
+- [AngularJS](https://angularjs.org) ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
 - [Astro](https://astro.build/) ([2021](https://astro.build/blog/introducing-astro/))
 - [Backbone.js](https://backbonejs.org) (2010)
 - [Electron](https://www.electronjs.org) ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
@@ -176,9 +176,11 @@ Pull requests are welcome! Take note of the following guidelines:
 - Edit `scripts/data.json` to add new entries or update existing ones.
   - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
+  - For example, use "Node.js" instead of "nodejs" or "node.js". Use "npm" instead of "NPM".
 - Add `year_created` and `year_created_source` fields.
   - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
   - `year_created_source_alt` can be added to cite an alternative official source, in case the primary source is no longer available.
+  - Add `year_deprecated` and `year_deprecated_source` fields when applicable.
 - Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
 
 ## Criteria for inclusion

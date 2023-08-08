@@ -21,6 +21,7 @@
       "year_created": 2010,
       "year_created_source": "https://en.wikipedia.org/wiki/AngularJS",
       "year_deprecated": 2021,
+      "year_deprecated_source": "https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a",
       "note": "Replaced by Angular"
     },
     {

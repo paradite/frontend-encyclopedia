@@ -6,7 +6,7 @@
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Angular Universal](https://angular.io/guide/universal) - Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Angular](https://angular.io) - Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
-- [AngularJS](https://angularjs.org) - Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - 2021, Replaced by Angular)
+- [AngularJS](https://angularjs.org) - Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
 - [Anime.js](https://animejs.com) - Library ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Ant Design](https://ant.design) - UI Library ([2015](https://09x.ant.design/))
 - [Apollo](https://www.apollographql.com) - Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
@@ -178,9 +178,11 @@ Pull requests are welcome! Take note of the following guidelines:
 - Edit `scripts/data.json` to add new entries or update existing ones.
   - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
+  - For example, use "Node.js" instead of "nodejs" or "node.js". Use "npm" instead of "NPM".
 - Add `year_created` and `year_created_source` fields.
   - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
   - `year_created_source_alt` can be added to cite an alternative official source, in case the primary source is no longer available.
+  - Add `year_deprecated` and `year_deprecated_source` fields when applicable.
 - Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
 
 ## Criteria for inclusion
