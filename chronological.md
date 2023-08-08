@@ -82,6 +82,9 @@
 - [Chakra UI](https://chakra-ui.com) - UI Library (2018)
 - [SolidJS](https://www.solidjs.com/) - Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
 
+### 2020
+- [MVP.css](https://andybrewer.github.io/mvp/) - UI Library ([2020](https://github.com/andybrewer/mvp/releases))
+
 ### 2021
 - [Astro](https://astro.build/) - Framework ([2021](https://astro.build/blog/introducing-astro/))
 - [Flowbite](https://flowbite.com/) - Library (2021)
