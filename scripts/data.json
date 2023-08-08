@@ -41,7 +41,10 @@
     {
       "name": "Apollo",
       "url": "https://www.apollographql.com",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2016,
+      "year_created_source": "https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/",
+      "year_created_source_alt": "https://medium.com/apollo-stack/introducing-the-apollo-graphql-data-stack-5d005312cbd0#.vp9sbyidy"
     },
     {
       "name": "Axios",
@@ -61,7 +64,8 @@
       "name": "Angular Universal",
       "url": "https://angular.io/guide/universal",
       "type": "Technology",
-      "year_created": 2015
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions"
     }
   ],
   "B": [

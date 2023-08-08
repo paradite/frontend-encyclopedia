@@ -29,6 +29,7 @@ Pull requests are welcome! Take note of the following guidelines:
 - Ensure that official names are used with correct spelling, capitalization and styling.
 - Add \`year_created\` and \`year_created_source\` fields.
   - \`year_created_source\` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
+  - \`year_created_source_alt\` can be added to cite an alternative official source, in case the primary source is no longer available.
 - Optionally, setup the husky pre-commit hook to update the \`README.md\` and other markdown files automatically.
 
 ## Criteria for inclusion

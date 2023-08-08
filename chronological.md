@@ -62,7 +62,6 @@
 
 ### 2015
 - [Ant Design](https://ant.design) - UI Library ([2015](https://09x.ant.design/))
-- [Angular Universal](https://angular.io/guide/universal) - Technology (2015)
 - [Enzyme](https://enzymejs.github.io/enzyme/) - Testing Library (2015, Last release was in 2019.)
 - [Flutter](https://flutter.dev) - Framework (2015)
 - [Gatsby](https://www.gatsbyjs.com) - Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
@@ -70,12 +69,14 @@
 ### 2016
 - [Angular](https://angular.io) - Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Anime.js](https://animejs.com) - Library ([2016](https://github.com/juliangarnier/anime/releases?page=2))
+- [Apollo](https://www.apollographql.com) - Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Fastify](https://fastify.dev) - Backend-as-a-Service (2016)
 - [Grunt](https://gruntjs.com/) - Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Pug](https://pugjs.org/api/getting-started.html) - Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
 - [Yarn](https://yarnpkg.com) - Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
 ### 2017
+- [Angular Universal](https://angular.io/guide/universal) - Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [GitHub Desktop](https://desktop.github.com/) - Version Control System ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 
 ### 2018
@@ -106,6 +107,7 @@ Pull requests are welcome! Take note of the following guidelines:
 - Ensure that official names are used with correct spelling, capitalization and styling.
 - Add `year_created` and `year_created_source` fields.
   - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
+  - `year_created_source_alt` can be added to cite an alternative official source, in case the primary source is no longer available.
 - Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
 
 ## Criteria for inclusion
