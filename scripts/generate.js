@@ -49,7 +49,7 @@ for (const key in data) {
   readmeContent += terms.join('\n') + '\n\n';
 }
 readmeContent +=
-  '---\n\nPull requests are welcome!\n\nEdit `scripts/data.json` to add new entries.\n\nEnsure that official names are used with correct spelling, capitalization and styling. \n\nThe husky pre-commit hook will automatically update the `README.md` file.';
+  '---\n\nPull requests are welcome!\n\nEdit `scripts/data.json` to add new entries or update existing ones.\n\nEnsure that official names are used with correct spelling, capitalization and styling. \n\nOptionally, you can setup the husky pre-commit hook to update the `README.md` file as well.';
 
 fs.writeFileSync('README.md', readmeContent);
 
