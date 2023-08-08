@@ -127,6 +127,7 @@
 - [Relay](https://relay.dev) - Library
 - [Render](https://render.com/) - Deployment
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) - Specification
+- [reveal.js](https://revealjs.com/) - Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [RxJS](https://rxjs.dev) - Library
 
 ### S

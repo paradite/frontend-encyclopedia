@@ -553,6 +553,13 @@
       "type": "Library"
     },
     {
+      "name": "reveal.js",
+      "url": "https://revealjs.com/",
+      "type": "Framework",
+      "year_created": 2013,
+      "year_created_source": "https://github.com/hakimel/reveal.js/releases?page=4"
+    },
+    {
       "name": "REST",
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
       "type": "Specification"

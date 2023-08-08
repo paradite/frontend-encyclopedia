@@ -50,6 +50,7 @@
 - [ESLint](https://eslint.org) - Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com) - Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [reveal.js](https://revealjs.com/) - Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 
 ### 2014
 - [Axios](https://axios-http.com) - Library (2014)
