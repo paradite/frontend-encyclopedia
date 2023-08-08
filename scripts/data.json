@@ -4,7 +4,8 @@
       "name": "Ajax",
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
       "type": "Programming Technique",
-      "year_created": 1999
+      "year_created": 1999,
+      "year_created_source": "https://en.wikipedia.org/wiki/Ajax_(programming)"
     },
     {
       "name": "Angular",
@@ -18,6 +19,7 @@
       "url": "https://angularjs.org",
       "type": "Framework",
       "year_created": 2010,
+      "year_created_source": "https://en.wikipedia.org/wiki/AngularJS",
       "year_deprecated": 2021,
       "note": "Replaced by Angular"
     },
@@ -32,7 +34,9 @@
       "name": "Ant Design",
       "url": "https://ant.design",
       "type": "UI Library",
-      "year_created": 2015
+      "year_created": 2015,
+      "year_created_source": "https://09x.ant.design/",
+      "year_created_source_alt": "https://github.com/ant-design/ant-design/releases?page=60"
     },
     {
       "name": "Apollo",
@@ -43,7 +47,8 @@
       "name": "Axios",
       "url": "https://axios-http.com",
       "type": "Library",
-      "year_created": 2014
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/axios?activeTab=versions"
     },
     {
       "name": "Astro",

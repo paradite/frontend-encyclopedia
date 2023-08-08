@@ -10,7 +10,7 @@
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language ([1996](https://en.wikipedia.org/wiki/CSS))
 
 ### 1999
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 
 ### 2001
 - [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format (2001)
@@ -26,7 +26,7 @@
 - [GitHub Pages](https://pages.github.com/) - Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 
 ### 2010
-- [AngularJS](https://angularjs.org) - Framework (2010 - 2021, Replaced by Angular)
+- [AngularJS](https://angularjs.org) - Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - 2021, Replaced by Angular)
 - [Backbone.js](https://backbonejs.org) - Framework (2010)
 - [Jade](https://pugjs.org/api/getting-started.html) - Template Engine (2010 - 2015, Renamed to Pug)
 
@@ -53,7 +53,7 @@
 - [reveal.js](https://revealjs.com/) - Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 
 ### 2014
-- [Axios](https://axios-http.com) - Library (2014)
+- [Axios](https://axios-http.com) - Library ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 - [Babel](https://babeljs.io) - Build Tool ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
 - [Cypress](https://www.cypress.io) - Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 - [Jest](https://jestjs.io) - Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
@@ -61,7 +61,7 @@
 - [Vue.js](https://vuejs.org) - Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### 2015
-- [Ant Design](https://ant.design) - UI Library (2015)
+- [Ant Design](https://ant.design) - UI Library ([2015](https://09x.ant.design/))
 - [Angular Universal](https://angular.io/guide/universal) - Technology (2015)
 - [Enzyme](https://enzymejs.github.io/enzyme/) - Testing Library (2015, Last release was in 2019.)
 - [Flutter](https://flutter.dev) - Framework (2015)
@@ -101,9 +101,11 @@
 
 Pull requests are welcome! Take note of the following guidelines:
 
-- Edit `scripts/data.json` to add new entries or update existing ones. Do not edit `README.md` or other markdown files directly.
+- Edit `scripts/data.json` to add new entries or update existing ones.
+  - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
-- Add `year_created` and `year_created_source` fields. `year_created_source` should cite npm package version page, GitHub release page, or other official sources which indicate the year of creation or first release.
+- Add `year_created` and `year_created_source` fields.
+  - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
 - Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
 
 ## Criteria for inclusion

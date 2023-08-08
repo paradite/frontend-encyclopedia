@@ -3,15 +3,15 @@
 [List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)
 
 ### A
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Angular Universal](https://angular.io/guide/universal) - Technology (2015)
 - [Angular](https://angular.io) - Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
-- [AngularJS](https://angularjs.org) - Framework (2010 - 2021, Replaced by Angular)
+- [AngularJS](https://angularjs.org) - Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - 2021, Replaced by Angular)
 - [Anime.js](https://animejs.com) - Library ([2016](https://github.com/juliangarnier/anime/releases?page=2))
-- [Ant Design](https://ant.design) - UI Library (2015)
+- [Ant Design](https://ant.design) - UI Library ([2015](https://09x.ant.design/))
 - [Apollo](https://www.apollographql.com) - Library
 - [Astro](https://astro.build/) - Framework ([2021](https://astro.build/blog/introducing-astro/))
-- [Axios](https://axios-http.com) - Library (2014)
+- [Axios](https://axios-http.com) - Library ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 
 ### B
 - [Babel](https://babeljs.io) - Build Tool ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
@@ -175,9 +175,11 @@
 
 Pull requests are welcome! Take note of the following guidelines:
 
-- Edit `scripts/data.json` to add new entries or update existing ones. Do not edit `README.md` or other markdown files directly.
+- Edit `scripts/data.json` to add new entries or update existing ones.
+  - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
-- Add `year_created` and `year_created_source` fields. `year_created_source` should cite npm package version page, GitHub release page, or other official sources which indicate the year of creation or first release.
+- Add `year_created` and `year_created_source` fields.
+  - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
 - Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
 
 ## Criteria for inclusion

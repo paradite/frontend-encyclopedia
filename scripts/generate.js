@@ -24,9 +24,11 @@ const contributing = `---
 
 Pull requests are welcome! Take note of the following guidelines:
 
-- Edit \`scripts/data.json\` to add new entries or update existing ones. Do not edit \`README.md\` or other markdown files directly.
+- Edit \`scripts/data.json\` to add new entries or update existing ones.
+  - Do not edit \`README.md\` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
-- Add \`year_created\` and \`year_created_source\` fields. \`year_created_source\` should cite npm package version page, GitHub release page, or other official sources which indicate the year of creation or first release.
+- Add \`year_created\` and \`year_created_source\` fields.
+  - \`year_created_source\` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
 - Optionally, setup the husky pre-commit hook to update the \`README.md\` and other markdown files automatically.
 
 ## Criteria for inclusion

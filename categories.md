@@ -48,7 +48,7 @@
 
 ### Framework
 - [Angular](https://angular.io) ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
-- [AngularJS](https://angularjs.org) (2010 - 2021, Replaced by Angular)
+- [AngularJS](https://angularjs.org) ([2010](https://en.wikipedia.org/wiki/AngularJS) - 2021, Replaced by Angular)
 - [Astro](https://astro.build/) ([2021](https://astro.build/blog/introducing-astro/))
 - [Backbone.js](https://backbonejs.org) (2010)
 - [Electron](https://www.electronjs.org) ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
@@ -82,7 +82,7 @@
 ### Library
 - [Anime.js](https://animejs.com) ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Apollo](https://www.apollographql.com)
-- [Axios](https://axios-http.com) (2014)
+- [Axios](https://axios-http.com) ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 - [Chart.js](https://www.chartjs.org) ([2013](https://www.chartjs.org/docs/latest/))
 - [D3.js](https://d3js.org)
 - [day.js](https://day.js.org)
@@ -113,7 +113,7 @@
 - [Yarn](https://yarnpkg.com) ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
 ### Programming Technique
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) (1999)
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ### Runtime Environment
@@ -153,7 +153,7 @@
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### UI Library
-- [Ant Design](https://ant.design) (2015)
+- [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
 - [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Chakra UI](https://chakra-ui.com) (2018)
 - [Foundation](https://get.foundation)
@@ -173,9 +173,11 @@
 
 Pull requests are welcome! Take note of the following guidelines:
 
-- Edit `scripts/data.json` to add new entries or update existing ones. Do not edit `README.md` or other markdown files directly.
+- Edit `scripts/data.json` to add new entries or update existing ones.
+  - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
-- Add `year_created` and `year_created_source` fields. `year_created_source` should cite npm package version page, GitHub release page, or other official sources which indicate the year of creation or first release.
+- Add `year_created` and `year_created_source` fields.
+  - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
 - Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
 
 ## Criteria for inclusion
