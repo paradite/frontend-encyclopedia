@@ -177,3 +177,11 @@ Pull requests are welcome! Take note of the following guidelines:
 - Ensure that official names are used with correct spelling, capitalization and styling.
 - Add `year_created` and `year_created_source` fields. `year_created_source` should cite npm package version page, GitHub release page, or other official sources.
 - Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
+
+## Criteria for inclusion
+
+Either one of the following must be true:
+
+- The term is closely related to frontend development and widely known by frontend developers, e.g. webpack, React, Figma.
+- The term is not specific to frontend but used extensively by frontend developers, e.g. git, GitHub, Node.js.
+
