@@ -35,7 +35,7 @@
 - [Prettier](https://prettier.io)
 
 ### Data Format
-- [JSON](https://en.wikipedia.org/wiki/JSON) (2001)
+- [JSON](https://en.wikipedia.org/wiki/JSON) ([2001](https://en.wikipedia.org/wiki/JSON))
 - [SVG](https://en.wikipedia.org/wiki/SVG)
 
 ### Deployment
@@ -73,8 +73,8 @@
 
 ### Language
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) ([1996](https://en.wikipedia.org/wiki/CSS))
-- [HTML](https://en.wikipedia.org/wiki/HTML) ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html#:~:text=1993%20%2D%20Present,official%20standard%20in%20December%201999.))
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (1995)
+- [HTML](https://en.wikipedia.org/wiki/HTML) ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Less](https://lesscss.org)
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [TypeScript](https://www.typescriptlang.org)
@@ -88,7 +88,7 @@
 - [day.js](https://day.js.org)
 - [Flowbite](https://flowbite.com/) (2021)
 - [Immutable.js](https://immutable-js.com)
-- [jQuery](https://jquery.com) (2006)
+- [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
 - [Node Cron](https://github.com/node-cron/node-cron)
@@ -164,8 +164,8 @@
 - [Bitbucket](https://bitbucket.org)
 - [Git](https://git-scm.com) ([2005](https://en.wikipedia.org/wiki/Git))
 - [GitHub Desktop](https://desktop.github.com/) ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
-- [GitHub](https://github.com) ([2008](https://en.wikipedia.org/wiki/GitHub#:~:text=Development%20of%20the%20GitHub.com,annual%20keynote%20called%20GitHub%20Universe.))
-- [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/#:~:text=So%20together%20with%20Valeriy%20Sizov,GitLab%20on%20October%208%2C%202011.))
+- [GitHub](https://github.com) ([2008](https://en.wikipedia.org/wiki/GitHub))
+- [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/))
 
 ---
 

@@ -56,14 +56,14 @@
 - [Git](https://git-scm.com) - Version Control System ([2005](https://en.wikipedia.org/wiki/Git))
 - [GitHub Desktop](https://desktop.github.com/) - Version Control System ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [GitHub Pages](https://pages.github.com/) - Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
-- [GitHub](https://github.com) - Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub#:~:text=Development%20of%20the%20GitHub.com,annual%20keynote%20called%20GitHub%20Universe.))
-- [GitLab](https://docs.gitlab.com) - Version Control System ([2011](https://about.gitlab.com/company/history/#:~:text=So%20together%20with%20Valeriy%20Sizov,GitLab%20on%20October%208%2C%202011.))
+- [GitHub](https://github.com) - Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
+- [GitLab](https://docs.gitlab.com) - Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [GraphQL](https://graphql.org) - Specification (2011)
 - [Grunt](https://gruntjs.com/) - Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com) - Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 
 ### H
-- [HTML](https://en.wikipedia.org/wiki/HTML) - Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html#:~:text=1993%20%2D%20Present,official%20standard%20in%20December%201999.))
+- [HTML](https://en.wikipedia.org/wiki/HTML) - Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) - Programming Technique
@@ -73,11 +73,11 @@
 
 ### J
 - [Jade](https://pugjs.org/api/getting-started.html) - Template Engine (2010 - 2015, Renamed to Pug)
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language (1995)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Jest](https://jestjs.io) - Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
-- [jQuery](https://jquery.com) - Library (2006)
+- [jQuery](https://jquery.com) - Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [JSON-RPC](https://www.jsonrpc.org) - Specification
-- [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format (2001)
+- [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
 
 ### K
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes) - CSS Methodology

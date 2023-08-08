@@ -267,7 +267,7 @@
       "url": "https://github.com",
       "type": "Version Control System",
       "year_created": 2008,
-      "year_created_source": "https://en.wikipedia.org/wiki/GitHub#:~:text=Development%20of%20the%20GitHub.com,annual%20keynote%20called%20GitHub%20Universe."
+      "year_created_source": "https://en.wikipedia.org/wiki/GitHub"
     },
     {
       "name": "GitHub Desktop",
@@ -288,7 +288,7 @@
       "url": "https://docs.gitlab.com",
       "type": "Version Control System",
       "year_created": 2011,
-      "year_created_source": "https://about.gitlab.com/company/history/#:~:text=So%20together%20with%20Valeriy%20Sizov,GitLab%20on%20October%208%2C%202011."
+      "year_created_source": "https://about.gitlab.com/company/history/"
     },
     {
       "name": "Grunt",
@@ -317,7 +317,7 @@
       "url": "https://en.wikipedia.org/wiki/HTML",
       "type": "Language",
       "year_created": 1993,
-      "year_created_source": "https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html#:~:text=1993%20%2D%20Present,official%20standard%20in%20December%201999."
+      "year_created_source": "https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html"
     }
   ],
   "I": [
@@ -356,19 +356,22 @@
       "name": "JavaScript",
       "url": "https://en.wikipedia.org/wiki/JavaScript",
       "type": "Language",
-      "year_created": 1995
+      "year_created": 1995,
+      "year_created_source": "https://en.wikipedia.org/wiki/JavaScript"
     },
     {
       "name": "jQuery",
       "url": "https://jquery.com",
       "type": "Library",
-      "year_created": 2006
+      "year_created": 2006,
+      "year_created_source": "https://en.wikipedia.org/wiki/JQuery"
     },
     {
       "name": "JSON",
       "url": "https://en.wikipedia.org/wiki/JSON",
       "type": "Data Format",
-      "year_created": 2001
+      "year_created": 2001,
+      "year_created_source": "https://en.wikipedia.org/wiki/JSON"
     },
     {
       "name": "JSON-RPC",

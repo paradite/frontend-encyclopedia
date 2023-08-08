@@ -1,10 +1,10 @@
 # Frontend Encyclopedia - Chronological Order
 
 ### 1993
-- [HTML](https://en.wikipedia.org/wiki/HTML) - Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html#:~:text=1993%20%2D%20Present,official%20standard%20in%20December%201999.))
+- [HTML](https://en.wikipedia.org/wiki/HTML) - Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
 ### 1995
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language (1995)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 
 ### 1996
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language ([1996](https://en.wikipedia.org/wiki/CSS))
@@ -13,16 +13,16 @@
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 
 ### 2001
-- [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format (2001)
+- [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
 
 ### 2005
 - [Git](https://git-scm.com) - Version Control System ([2005](https://en.wikipedia.org/wiki/Git))
 
 ### 2006
-- [jQuery](https://jquery.com) - Library (2006)
+- [jQuery](https://jquery.com) - Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 
 ### 2008
-- [GitHub](https://github.com) - Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub#:~:text=Development%20of%20the%20GitHub.com,annual%20keynote%20called%20GitHub%20Universe.))
+- [GitHub](https://github.com) - Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitHub Pages](https://pages.github.com/) - Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 
 ### 2010
@@ -35,7 +35,7 @@
 - [CircleCI](https://circleci.com) - CI/CD Service ([2011](https://circleci.com/about/))
 - [Ember.js](https://emberjs.com) - Framework ([2011](https://g.co/kgs/b5E63S))
 - [Firebase](https://firebase.google.com) - Backend-as-a-Service (2011)
-- [GitLab](https://docs.gitlab.com) - Version Control System ([2011](https://about.gitlab.com/company/history/#:~:text=So%20together%20with%20Valeriy%20Sizov,GitLab%20on%20October%208%2C%202011.))
+- [GitLab](https://docs.gitlab.com) - Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [GraphQL](https://graphql.org) - Specification (2011)
 - [Passport](https://www.passportjs.org/) - Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
 
