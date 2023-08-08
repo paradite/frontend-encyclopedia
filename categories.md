@@ -167,3 +167,13 @@
 - [GitHub](https://github.com) ([2008](https://en.wikipedia.org/wiki/GitHub#:~:text=Development%20of%20the%20GitHub.com,annual%20keynote%20called%20GitHub%20Universe.))
 - [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/#:~:text=So%20together%20with%20Valeriy%20Sizov,GitLab%20on%20October%208%2C%202011.))
 
+---
+
+## Contributing
+
+Pull requests are welcome! Take note of the following guidelines:
+
+- Edit `scripts/data.json` to add new entries or update existing ones. Do not edit `README.md` or other markdown files directly.
+- Ensure that official names are used with correct spelling, capitalization and styling.
+- Add `year_created` and `year_created_source` fields. `year_created_source` should cite npm package version page, GitHub release page, or other official sources.
+- Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.

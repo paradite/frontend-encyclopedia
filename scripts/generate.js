@@ -18,11 +18,23 @@ function getAdditionalInfo(term) {
   return dateInfo;
 }
 
+const contributing = `---
+
+## Contributing
+
+Pull requests are welcome! Take note of the following guidelines:
+
+- Edit \`scripts/data.json\` to add new entries or update existing ones. Do not edit \`README.md\` or other markdown files directly.
+- Ensure that official names are used with correct spelling, capitalization and styling.
+- Add \`year_created\` and \`year_created_source\` fields. \`year_created_source\` should cite npm package version page, GitHub release page, or other official sources.
+- Optionally, setup the husky pre-commit hook to update the \`README.md\` and other markdown files automatically.
+`;
+
 // README.md
 
 let readmeContent = '# Frontend Encyclopedia\n\n';
-readmeContent +=
-  '[List by categories](categories.md) | [List by chronological order](chronological.md)\n\n';
+readmeContent += `[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)\n
+`;
 
 for (const key in data) {
   readmeContent += `### ${key}\n`;
@@ -48,17 +60,7 @@ for (const key in data) {
     );
   readmeContent += terms.join('\n') + '\n\n';
 }
-readmeContent += `---
-
-## Contributing
-
-Pull requests are welcome!
-
-- Edit \`scripts/data.json\` to add new entries or update existing ones. Do not edit \`README.md\` or other markdown files directly.
-- Ensure that official names are used with correct spelling, capitalization and styling.
-- Add \`year_created\` and \`year_created_source\` fields. \`year_created_source\` should cite npm package version page, GitHub release page, or other official sources.
-- Optionally, setup the husky pre-commit hook to update the \`README.md\` and other markdown files automatically.
-`;
+readmeContent += contributing;
 
 fs.writeFileSync('README.md', readmeContent);
 
@@ -99,6 +101,8 @@ Object.keys(categories)
         .join('\n') + '\n\n';
   });
 
+categoriesContent += contributing;
+
 fs.writeFileSync('categories.md', categoriesContent);
 
 // chronological.md
@@ -138,5 +142,7 @@ Object.keys(chronological)
     chronologicalContent +=
       chronological[year].join('\n') + '\n\n';
   });
+
+chronologicalContent += contributing;
 
 fs.writeFileSync('chronological.md', chronologicalContent);

@@ -1,6 +1,6 @@
 # Frontend Encyclopedia
 
-[List by categories](categories.md) | [List by chronological order](chronological.md)
+[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)
 
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique (1999)
@@ -173,7 +173,7 @@
 
 ## Contributing
 
-Pull requests are welcome!
+Pull requests are welcome! Take note of the following guidelines:
 
 - Edit `scripts/data.json` to add new entries or update existing ones. Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
