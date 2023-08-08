@@ -422,6 +422,13 @@
       "type": "CSS Framework",
       "year_created": 2022,
       "year_created_source": "https://materialize.com/docs/releases/"
+    },
+    {
+      "name": "MVP.css",
+      "url": "https://andybrewer.github.io/mvp/",
+      "type": "UI Library",
+      "year_created": 2020,
+      "year_created_source": "https://github.com/andybrewer/mvp/releases"
     }
   ],
   "N": [
