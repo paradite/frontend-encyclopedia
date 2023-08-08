@@ -49,7 +49,8 @@
       "name": "Astro",
       "url": "https://astro.build/",
       "type": "Framework",
-      "year_created": 2021
+      "year_created": 2021,
+      "year_created_source": "https://astro.build/blog/introducing-astro/"
     },
     {
       "name": "Angular Universal",
@@ -63,7 +64,8 @@
       "name": "Babel",
       "url": "https://babeljs.io",
       "type": "Build Tool",
-      "year_created": 2014
+      "year_created": 2014,
+      "year_created_source": "https://babeljs.io/blog/2016/12/07/the-state-of-babel"
     },
     {
       "name": "Backbone.js",
@@ -80,7 +82,8 @@
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
       "type": "UI Library",
-      "year_created": 2011
+      "year_created": 2011,
+      "year_created_source": "https://getbootstrap.com/docs/4.1/about/overview/"
     },
     {
       "name": "BOM",
@@ -108,7 +111,9 @@
     {
       "name": "Chart.js",
       "url": "https://www.chartjs.org",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2013,
+      "year_created_source": "https://www.chartjs.org/docs/latest/"
     },
     {
       "name": "CSS",
@@ -128,7 +133,8 @@
       "name": "CircleCI",
       "url": "https://circleci.com",
       "type": "CI/CD Service",
-      "year_created": 2011
+      "year_created": 2011,
+      "year_created_source": "https://circleci.com/about/"
     }
   ],
   "D": [
@@ -167,7 +173,8 @@
       "name": "ESLint",
       "url": "https://eslint.org",
       "type": "Linter",
-      "year_created": 2013
+      "year_created": 2013,
+      "year_created_source": "https://eslint.org/docs/latest/about/"
     },
     {
       "name": "ES2022",
@@ -304,7 +311,9 @@
     {
       "name": "Ionic",
       "url": "https://ionicframework.com",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2012,
+      "year_created_source": "https://ionic.io/about"
     },
     {
       "name": "Insomnia",
@@ -374,7 +383,9 @@
     {
       "name": "Material UI",
       "url": "https://mui.com",
-      "type": "UI Library"
+      "type": "UI Library",
+      "year_created": 2014,
+      "year_created_source": "https://mui.com/about/"
     },
     {
       "name": "Meteor.js",
@@ -654,7 +665,9 @@
     {
       "name": "Yarn",
       "url": "https://yarnpkg.com",
-      "type": "Package Manager"
+      "type": "Package Manager",
+      "year_created": 2016,
+      "year_created_source": "https://en.wikipedia.org/wiki/Yarn_(package_manager)"
     }
   ],
   "Z": [
