@@ -171,10 +171,11 @@
 
 ---
 
+## Contributing
+
 Pull requests are welcome!
 
-Edit `scripts/data.json` to add new entries or update existing ones.
-
-Ensure that official names are used with correct spelling, capitalization and styling. 
-
-Optionally, you can setup the husky pre-commit hook to update the `README.md` file as well.
+- Edit `scripts/data.json` to add new entries or update existing ones. Do not edit `README.md` or other markdown files directly.
+- Ensure that official names are used with correct spelling, capitalization and styling.
+- Add `year_created` and `year_created_source` fields. `year_created_source` should cite npm package version page, GitHub release page, or other official sources.
+- Optionally, setup the husky pre-commit hook to update the `README.md` and other markdown files automatically.
