@@ -4,6 +4,7 @@
 
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
+- [AlertifyJS](https://alertifyjs.com/) - Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Angular Universal](https://angular.io/guide/universal) - Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Angular](https://angular.io) - Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AngularJS](https://angularjs.org) - Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
@@ -27,11 +28,15 @@
 - [Chart.js](https://www.chartjs.org) - Library ([2013](https://www.chartjs.org/docs/latest/))
 - [CircleCI](https://circleci.com) - CI/CD Service ([2011](https://circleci.com/about/))
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language ([1996](https://en.wikipedia.org/wiki/CSS))
+- [ct.js](https://ctjs.rocks/) - Programming Library Games ([2019](https://github.com/ct-js/ct-js/releases))
 - [Cypress](https://www.cypress.io) - Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 
 ### D
 - [D3.js](https://d3js.org) - Library
+- [date-fns](https://date-fns.org/) - Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org) - Library
+- [Docusaurus](https://docusaurus.io/) - Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
+- [docz](https://www.docz.site/) - Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Specification
 
 ### E
@@ -41,6 +46,7 @@
 - [Enzyme](https://enzymejs.github.io/enzyme/) - Testing Library (2015, Last release was in 2019.)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Specification
 - [ESLint](https://eslint.org) - Linter ([2013](https://eslint.org/docs/latest/about/))
+- [Evergreen](https://evergreen.segment.com/) - UI Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 
 ### F
 - [Fastify](https://fastify.dev) - Backend-as-a-Service (2016)
@@ -49,6 +55,7 @@
 - [Flowbite](https://flowbite.com/) - Library (2021)
 - [Flutter](https://flutter.dev) - Framework (2015)
 - [Font Awesome](https://fontawesome.com) - Icon Set (2012)
+- [Formik](https://formik.org/) - Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Foundation](https://get.foundation) - UI Library
 
 ### G
@@ -58,6 +65,7 @@
 - [GitHub Pages](https://pages.github.com/) - Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [GitHub](https://github.com) - Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com) - Version Control System ([2011](https://about.gitlab.com/company/history/))
+- [Glide.js](https://glidejs.com/) - Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [GraphQL](https://graphql.org) - Specification (2011)
 - [Grunt](https://gruntjs.com/) - Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com) - Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
@@ -76,10 +84,12 @@
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Jest](https://jestjs.io) - Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [jQuery](https://jquery.com) - Library ([2006](https://en.wikipedia.org/wiki/JQuery))
+- [jsdoc](https://jsdoc.app/) - Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [JSON-RPC](https://www.jsonrpc.org) - Specification
 - [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
 
 ### K
+- [Kaboom](https://kaboomjs.com/) - Programming Library Games ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes) - CSS Methodology
 
 ### L
@@ -107,8 +117,11 @@
 ### P
 - [Parcel](https://parceljs.org) - Build Tool
 - [Passport](https://www.passportjs.org/) - Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
+- [phaser](https://phaser.io/) - Games Framework ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
+- [PixiJS](https://pixijs.com/) - Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [Playwright](https://playwright.dev) - Testing Library
 - [pnpm](https://pnpm.io/) - Package Manager
+- [polished](https://polished.js.org/) - Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [Postman](https://www.postman.com) - API Client
 - [Prettier](https://prettier.io) - Code Formatter
 - [Pug](https://pugjs.org/api/getting-started.html) - Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
@@ -120,9 +133,13 @@
 - [Qwik](https://qwik.builder.io/) - Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ### R
+- [React Hook Form](https://react-hook-form.com/) - Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev) - Framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
+- [react-icons](https://react-icons.github.io/react-icons/) - Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
+- [React-Toastify](https://www.npmjs.com/package/react-toastify) - Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [Rebass](https://rebassjs.org/) - UI Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org) - Library
 - [Redux](https://redux.js.org) - Library
 - [Relay](https://relay.dev) - Library
@@ -133,15 +150,20 @@
 
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) - Language
+- [Sinon.JS](https://sinonjs.org/) - Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Socket.IO](https://socket.io) - Library
 - [SolidJS](https://www.solidjs.com/) - Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
+- [Storybook](https://storybook.js.org/) - Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [styled-components](https://styled-components.com) - Library
 - [Svelte](https://svelte.dev) - Framework
 - [SVG](https://en.wikipedia.org/wiki/SVG) - Data Format
+- [sweetalert2](https://sweetalert2.github.io/) - Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
+- [SWR](https://swr.vercel.app/) - Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 
 ### T
 - [Tailwind CSS](https://tailwindcss.com) - Framework
 - [Three.js](https://threejs.org) - Library
+- [Tone.js](https://tonejs.github.io/) - Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Travis CI](https://www.travis-ci.com) - CI/CD Service
 - [TSLint](https://palantir.github.io/tslint) - Linter
 - [TypeScript](https://www.typescriptlang.org) - Language
@@ -151,6 +173,7 @@
 
 ### V
 - [Vercel](https://vercel.com/) - Deployment
+- [Video.js](https://videojs.com/) - Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Vite](https://vitejs.dev) - Build Tool
 - [Vue.js](https://vuejs.org) - Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
@@ -161,6 +184,7 @@
 
 ### X
 - [XState](https://xstate.js.org) - Library
+- [xstyled](https://xstyled.dev/) - Library ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### Y
 - [Yarn](https://yarnpkg.com) - Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
