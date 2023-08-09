@@ -35,6 +35,7 @@
 - [D3.js](https://d3js.org) - Library
 - [date-fns](https://date-fns.org/) - Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org) - Library
+- [Deno](https://deno.land/) - Runtime Environment ([2020](https://deno.com/blog/v1))
 - [Docusaurus](https://docusaurus.io/) - Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
 - [docz](https://www.docz.site/) - Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) - Specification

@@ -197,6 +197,14 @@
       "type": "Documentation Library",
       "year_created": 2018,
       "year_created_source": "https://www.npmjs.com/package/docz?activeTab=versions"
+    },
+    {
+      "name": "Deno",
+      "url": "https://deno.land/",
+      "type": "Runtime Environment",
+      "year_created": 2020,
+      "year_created_source": "https://deno.com/blog/v1",
+      "year_created_source_alt": "https://en.wikipedia.org/wiki/Deno_(software)"
     }
   ],
   "E": [

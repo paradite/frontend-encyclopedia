@@ -143,6 +143,7 @@
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ### Runtime Environment
+- [Deno](https://deno.land/) ([2020](https://deno.com/blog/v1))
 - [Node.js](https://nodejs.org)
 
 ### Specification
