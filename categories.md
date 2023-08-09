@@ -4,9 +4,6 @@
 - [Insomnia](https://insomnia.rest)
 - [Postman](https://www.postman.com)
 
-### Authentication Middleware
-- [Passport](https://www.passportjs.org/) ([2011](https://github.com/jaredhanson/passport))
-
 ### Backend-as-a-Service
 - [Fastify](https://fastify.dev) (2016)
 - [Firebase](https://firebase.google.com) (2011)

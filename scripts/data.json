@@ -578,13 +578,6 @@
       "type": "Code Formatter"
     },
     {
-      "name": "Passport",
-      "url": "https://www.passportjs.org/",
-      "type": "Authentication Middleware",
-      "year_created": 2011,
-      "year_created_source": "https://github.com/jaredhanson/passport"
-    },
-    {
       "name": "Pug",
       "url": "https://pugjs.org/api/getting-started.html",
       "type": "Template Engine",

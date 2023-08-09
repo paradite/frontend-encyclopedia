@@ -117,7 +117,6 @@
 
 ### P
 - [Parcel](https://parceljs.org): Build Tool
-- [Passport](https://www.passportjs.org/): Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))

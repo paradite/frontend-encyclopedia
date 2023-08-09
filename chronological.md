@@ -37,7 +37,6 @@
 - [Firebase](https://firebase.google.com): Backend-as-a-Service (2011)
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [GraphQL](https://graphql.org): Specification (2011)
-- [Passport](https://www.passportjs.org/): Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 
 ### 2012
