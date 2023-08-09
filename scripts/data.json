@@ -165,7 +165,7 @@
     {
       "name": "day.js",
       "url": "https://day.js.org",
-      "type": "Library"
+      "type": "Date & Time Library"
     },
     {
       "name": "D3.js",
@@ -180,7 +180,7 @@
     {
       "name": "date-fns",
       "url": "https://date-fns.org/",
-      "type": "Library",
+      "type": "Date & Time Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/date-fns?activeTab=versions"
     },
@@ -393,7 +393,7 @@
     {
       "name": "Immutable.js",
       "url": "https://immutable-js.com",
-      "type": "Library"
+      "type": "Utility Library"
     },
     {
       "name": "Ionic",
@@ -426,7 +426,7 @@
     {
       "name": "jQuery",
       "url": "https://jquery.com",
-      "type": "Library",
+      "type": "Utility Library",
       "year_created": 2006,
       "year_created_source": "https://en.wikipedia.org/wiki/JQuery"
     },
@@ -481,7 +481,7 @@
     {
       "name": "Lodash",
       "url": "https://lodash.com",
-      "type": "Library"
+      "type": "Utility Library"
     }
   ],
   "M": [
@@ -505,7 +505,7 @@
     {
       "name": "Moment.js",
       "url": "https://momentjs.com",
-      "type": "Library"
+      "type": "Date & Time Library"
     },
     {
       "name": "Materialize",
@@ -827,7 +827,7 @@
     {
       "name": "Underscore.js",
       "url": "https://underscorejs.org",
-      "type": "Library"
+      "type": "Utility Library"
     }
   ],
   "V": [

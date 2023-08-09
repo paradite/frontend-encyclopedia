@@ -41,6 +41,11 @@
 - [JSON](https://en.wikipedia.org/wiki/JSON) ([2001](https://en.wikipedia.org/wiki/JSON))
 - [SVG](https://en.wikipedia.org/wiki/SVG)
 
+### Date & Time Library
+- [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
+- [day.js](https://day.js.org)
+- [Moment.js](https://momentjs.com)
+
 ### Deployment
 - [GitHub Pages](https://pages.github.com/) ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [Render](https://render.com/)
@@ -96,13 +101,7 @@
 - [Anime.js](https://animejs.com) ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Apollo](https://www.apollographql.com) ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Axios](https://axios-http.com) ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
-- [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
-- [day.js](https://day.js.org)
-- [Immutable.js](https://immutable-js.com)
-- [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
-- [Lodash](https://lodash.com)
-- [Moment.js](https://momentjs.com)
 - [Node Cron](https://github.com/node-cron/node-cron)
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [React Hook Form](https://react-hook-form.com/) ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
@@ -114,7 +113,6 @@
 - [styled-components](https://styled-components.com)
 - [SWR](https://swr.vercel.app/) ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
-- [Underscore.js](https://underscorejs.org)
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [XState](https://xstate.js.org)
 - [Zod](https://zod.dev)
@@ -190,6 +188,12 @@
 - [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Three.js](https://threejs.org)
+
+### Utility Library
+- [Immutable.js](https://immutable-js.com)
+- [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
+- [Lodash](https://lodash.com)
+- [Underscore.js](https://underscorejs.org)
 
 ### Version Control System
 - [Bitbucket](https://bitbucket.org)

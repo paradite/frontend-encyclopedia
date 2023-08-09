@@ -19,7 +19,7 @@
 - [Git](https://git-scm.com): Version Control System ([2005](https://en.wikipedia.org/wiki/Git))
 
 ### 2006
-- [jQuery](https://jquery.com): Library ([2006](https://en.wikipedia.org/wiki/JQuery))
+- [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 
 ### 2008
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
@@ -68,7 +68,7 @@
 ### 2015
 - [Ant Design](https://ant.design): UI Components Library ([2015](https://09x.ant.design/))
 - [AlertifyJS](https://alertifyjs.com/): UI Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
-- [date-fns](https://date-fns.org/): Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
+- [date-fns](https://date-fns.org/): Date & Time Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library (2015, Last release was in 2019.)
 - [Flutter](https://flutter.dev): Framework (2015)
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))

@@ -33,8 +33,8 @@
 
 ### D
 - [D3.js](https://d3js.org): UI Library
-- [date-fns](https://date-fns.org/): Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
-- [day.js](https://day.js.org): Library
+- [date-fns](https://date-fns.org/): Date & Time Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
+- [day.js](https://day.js.org): Date & Time Library
 - [Deno](https://deno.land/): Runtime Environment ([2020](https://deno.com/blog/v1))
 - [Docusaurus](https://docusaurus.io/): Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
 - [docz](https://www.docz.site/): Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
@@ -76,7 +76,7 @@
 
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Programming Technique
-- [Immutable.js](https://immutable-js.com): Library
+- [Immutable.js](https://immutable-js.com): Utility Library
 - [Insomnia](https://insomnia.rest): API Client
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
 
@@ -84,7 +84,7 @@
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine (2010 - 2015, Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
-- [jQuery](https://jquery.com): Library ([2006](https://en.wikipedia.org/wiki/JQuery))
+- [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [JSON-RPC](https://www.jsonrpc.org): Specification
 - [JSON](https://en.wikipedia.org/wiki/JSON): Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
@@ -95,14 +95,14 @@
 
 ### L
 - [Less](https://lesscss.org): Language
-- [Lodash](https://lodash.com): Library
+- [Lodash](https://lodash.com): Utility Library
 
 ### M
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))
 - [Meteor.js](https://www.meteor.com): Framework
 - [Mocha](https://mochajs.org): Testing Library
-- [Moment.js](https://momentjs.com): Library
+- [Moment.js](https://momentjs.com): Date & Time Library
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
 ### N
@@ -170,7 +170,7 @@
 - [TypeScript](https://www.typescriptlang.org): Language
 
 ### U
-- [Underscore.js](https://underscorejs.org): Library
+- [Underscore.js](https://underscorejs.org): Utility Library
 
 ### V
 - [Vercel](https://vercel.com/): Deployment
