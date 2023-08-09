@@ -28,7 +28,7 @@
 - [Chart.js](https://www.chartjs.org) - Library ([2013](https://www.chartjs.org/docs/latest/))
 - [CircleCI](https://circleci.com) - CI/CD Service ([2011](https://circleci.com/about/))
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language ([1996](https://en.wikipedia.org/wiki/CSS))
-- [ct.js](https://ctjs.rocks/) - Programming Library Games ([2019](https://github.com/ct-js/ct-js/releases))
+- [ct.js](https://ctjs.rocks/) - Game Development ([2019](https://github.com/ct-js/ct-js/releases))
 - [Cypress](https://www.cypress.io) - Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 
 ### D
@@ -89,7 +89,7 @@
 - [JSON](https://en.wikipedia.org/wiki/JSON) - Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
 
 ### K
-- [Kaboom](https://kaboomjs.com/) - Programming Library Games ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
+- [Kaboom](https://kaboomjs.com/) - Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes) - CSS Methodology
 
 ### L
@@ -102,7 +102,7 @@
 - [Meteor.js](https://www.meteor.com) - Framework
 - [Mocha](https://mochajs.org) - Testing Library
 - [Moment.js](https://momentjs.com) - Library
-- [MVP.css](https://andybrewer.github.io/mvp/) - UI Library ([2020](https://github.com/andybrewer/mvp/releases))
+- [MVP.css](https://andybrewer.github.io/mvp/) - CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
 ### N
 - [Next.js](https://nextjs.org) - Framework
@@ -117,7 +117,7 @@
 ### P
 - [Parcel](https://parceljs.org) - Build Tool
 - [Passport](https://www.passportjs.org/) - Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
-- [phaser](https://phaser.io/) - Games Framework ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
+- [phaser](https://phaser.io/) - Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [PixiJS](https://pixijs.com/) - Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [Playwright](https://playwright.dev) - Testing Library
 - [pnpm](https://pnpm.io/) - Package Manager

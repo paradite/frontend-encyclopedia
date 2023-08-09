@@ -156,7 +156,7 @@
     {
       "name": "ct.js",
       "url": "https://ctjs.rocks/",
-      "type": "Programming Library Games",
+      "type": "Game Development",
       "year_created": 2019,
       "year_created_source": "https://github.com/ct-js/ct-js/releases"
     }
@@ -198,7 +198,6 @@
       "year_created": 2018,
       "year_created_source": "https://www.npmjs.com/package/docz?activeTab=versions"
     }
-    
   ],
   "E": [
     {
@@ -460,7 +459,7 @@
     {
       "name": "Kaboom",
       "url": "https://kaboomjs.com/",
-      "type": "Programming Library Games",
+      "type": "Game Development",
       "year_created": 2021,
       "year_created_source": "https://www.npmjs.com/package/kaboom?activeTab=versions"
     }
@@ -510,7 +509,7 @@
     {
       "name": "MVP.css",
       "url": "https://andybrewer.github.io/mvp/",
-      "type": "UI Library",
+      "type": "CSS Framework",
       "year_created": 2020,
       "year_created_source": "https://github.com/andybrewer/mvp/releases"
     }
@@ -617,7 +616,7 @@
     {
       "name": "phaser",
       "url": "https://phaser.io/",
-      "type": "Games Framework",
+      "type": "Game Development",
       "year_created": 2013,
       "year_created_source": "https://www.npmjs.com/package/phaser?activeTab=versions"
     }

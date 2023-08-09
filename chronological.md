@@ -50,7 +50,7 @@
 - [ESLint](https://eslint.org) - Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com) - Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [PixiJS](https://pixijs.com/) - Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
-- [phaser](https://phaser.io/) - Games Framework ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
+- [phaser](https://phaser.io/) - Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [reveal.js](https://revealjs.com/) - Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Video.js](https://videojs.com/) - Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
@@ -103,18 +103,18 @@
 - [SolidJS](https://www.solidjs.com/) - Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
 
 ### 2019
-- [ct.js](https://ctjs.rocks/) - Programming Library Games ([2019](https://github.com/ct-js/ct-js/releases))
+- [ct.js](https://ctjs.rocks/) - Game Development ([2019](https://github.com/ct-js/ct-js/releases))
 - [React Hook Form](https://react-hook-form.com/) - Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [SWR](https://swr.vercel.app/) - Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [xstyled](https://xstyled.dev/) - Library ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### 2020
-- [MVP.css](https://andybrewer.github.io/mvp/) - UI Library ([2020](https://github.com/andybrewer/mvp/releases))
+- [MVP.css](https://andybrewer.github.io/mvp/) - CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
 ### 2021
 - [Astro](https://astro.build/) - Framework ([2021](https://astro.build/blog/introducing-astro/))
 - [Flowbite](https://flowbite.com/) - Library (2021)
-- [Kaboom](https://kaboomjs.com/) - Programming Library Games ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
+- [Kaboom](https://kaboomjs.com/) - Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 
 ### 2022
 - [Materialize](https://materializecss.com/) - CSS Framework ([2022](https://materialize.com/docs/releases/))
