@@ -676,6 +676,13 @@
       "year_created_source": "https://www.npmjs.com/package/redux-saga?activeTab=versions"
     },
     {
+      "name": "Redux Toolkit",
+      "url": "https://redux-toolkit.js.org/",
+      "type": "State Management Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions"
+    },
+    {
       "name": "reveal.js",
       "url": "https://revealjs.com/",
       "type": "Framework",
@@ -918,6 +925,13 @@
       "name": "Zod",
       "url": "https://zod.dev",
       "type": "Library"
+    },
+    {
+      "name": "zustand",
+      "url": "https://docs.pmnd.rs/zustand/getting-started/introduction",
+      "type": "State Management Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/zustand?activeTab=versions"
     }
   ]
 }
