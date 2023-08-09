@@ -31,7 +31,7 @@
 - [Jade](https://pugjs.org/api/getting-started.html) - Template Engine (2010 - 2015, Renamed to Pug)
 
 ### 2011
-- [Bootstrap](https://getbootstrap.com) - UI Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Bootstrap](https://getbootstrap.com) - Library - UI Components ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [CircleCI](https://circleci.com) - CI/CD Service ([2011](https://circleci.com/about/))
 - [Ember.js](https://emberjs.com) - Framework ([2011](https://g.co/kgs/b5E63S))
 - [Firebase](https://firebase.google.com) - Backend-as-a-Service (2011)
@@ -41,15 +41,15 @@
 
 ### 2012
 - [Figma](https://www.figma.com) - Design Tool (2012)
-- [Font Awesome](https://fontawesome.com) - Icon Set (2012)
+- [Font Awesome](https://fontawesome.com) - Library - Icon Set (2012)
 - [Ionic](https://ionicframework.com) - Framework ([2012](https://ionic.io/about))
 
 ### 2013
-- [Chart.js](https://www.chartjs.org) - Library ([2013](https://www.chartjs.org/docs/latest/))
+- [Chart.js](https://www.chartjs.org) - Library - UI ([2013](https://www.chartjs.org/docs/latest/))
 - [Electron](https://www.electronjs.org) - Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [ESLint](https://eslint.org) - Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com) - Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
-- [PixiJS](https://pixijs.com/) - Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
+- [PixiJS](https://pixijs.com/) - Library - UI ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [phaser](https://phaser.io/) - Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [reveal.js](https://revealjs.com/) - Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
@@ -58,23 +58,23 @@
 ### 2014
 - [Axios](https://axios-http.com) - Library ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 - [Babel](https://babeljs.io) - Build Tool ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
-- [Cypress](https://www.cypress.io) - Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
-- [Glide.js](https://glidejs.com/) - Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
-- [Jest](https://jestjs.io) - Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
-- [Material UI](https://mui.com) - UI Library ([2014](https://mui.com/about/))
+- [Cypress](https://www.cypress.io) - Library - Testing ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
+- [Glide.js](https://glidejs.com/) - Library - UI ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
+- [Jest](https://jestjs.io) - Library - Testing ([2014](https://github.com/jestjs/jest/issues/3))
+- [Material UI](https://mui.com) - Library - UI Components ([2014](https://mui.com/about/))
 - [Tone.js](https://tonejs.github.io/) - Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Vue.js](https://vuejs.org) - Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### 2015
-- [Ant Design](https://ant.design) - UI Library ([2015](https://09x.ant.design/))
-- [AlertifyJS](https://alertifyjs.com/) - Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
+- [Ant Design](https://ant.design) - Library - UI Components ([2015](https://09x.ant.design/))
+- [AlertifyJS](https://alertifyjs.com/) - Library - UI ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [date-fns](https://date-fns.org/) - Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
-- [Enzyme](https://enzymejs.github.io/enzyme/) - Testing Library (2015, Last release was in 2019.)
+- [Enzyme](https://enzymejs.github.io/enzyme/) - Library - Testing (2015, Last release was in 2019.)
 - [Flutter](https://flutter.dev) - Framework (2015)
 - [Gatsby](https://www.gatsbyjs.com) - Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [jsdoc](https://jsdoc.app/) - Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
-- [Sinon.JS](https://sinonjs.org/) - Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
-- [sweetalert2](https://sweetalert2.github.io/) - Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
+- [Sinon.JS](https://sinonjs.org/) - Library - Testing ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
+- [sweetalert2](https://sweetalert2.github.io/) - Library - UI ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 
 ### 2016
 - [Angular](https://angular.io) - Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -83,30 +83,30 @@
 - [Fastify](https://fastify.dev) - Backend-as-a-Service (2016)
 - [Grunt](https://gruntjs.com/) - Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Pug](https://pugjs.org/api/getting-started.html) - Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
-- [react-icons](https://react-icons.github.io/react-icons/) - Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
+- [react-icons](https://react-icons.github.io/react-icons/) - Library - Icon Set ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [Storybook](https://storybook.js.org/) - Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [Yarn](https://yarnpkg.com) - Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
 ### 2017
 - [Angular Universal](https://angular.io/guide/universal) - Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Docusaurus](https://docusaurus.io/) - Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
-- [Formik](https://formik.org/) - Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
+- [Formik](https://formik.org/) - Library - UI ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [GitHub Desktop](https://desktop.github.com/) - Version Control System ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [polished](https://polished.js.org/) - Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
-- [React-Toastify](https://www.npmjs.com/package/react-toastify) - Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
+- [React-Toastify](https://www.npmjs.com/package/react-toastify) - Library - UI ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 
 ### 2018
-- [Chakra UI](https://chakra-ui.com) - UI Library (2018)
+- [Chakra UI](https://chakra-ui.com) - Library - UI Components (2018)
 - [docz](https://www.docz.site/) - Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
-- [Evergreen](https://evergreen.segment.com/) - UI Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
-- [Rebass](https://rebassjs.org/) - UI Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
+- [Evergreen](https://evergreen.segment.com/) - Library - UI Components ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
+- [Rebass](https://rebassjs.org/) - Library - UI Components ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [SolidJS](https://www.solidjs.com/) - Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
 
 ### 2019
 - [ct.js](https://ctjs.rocks/) - Game Development ([2019](https://github.com/ct-js/ct-js/releases))
 - [React Hook Form](https://react-hook-form.com/) - Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [SWR](https://swr.vercel.app/) - Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
-- [xstyled](https://xstyled.dev/) - Library ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
+- [xstyled](https://xstyled.dev/) - CSS Framework ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### 2020
 - [Deno](https://deno.land/) - Runtime Environment ([2020](https://deno.com/blog/v1))
@@ -114,7 +114,7 @@
 
 ### 2021
 - [Astro](https://astro.build/) - Framework ([2021](https://astro.build/blog/introducing-astro/))
-- [Flowbite](https://flowbite.com/) - Library (2021)
+- [Flowbite](https://flowbite.com/) - Library - UI Components (2021)
 - [Kaboom](https://kaboomjs.com/) - Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 
 ### 2022

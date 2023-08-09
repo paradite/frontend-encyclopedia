@@ -4,12 +4,12 @@
 
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) - Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
-- [AlertifyJS](https://alertifyjs.com/) - Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
+- [AlertifyJS](https://alertifyjs.com/) - Library - UI ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Angular Universal](https://angular.io/guide/universal) - Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Angular](https://angular.io) - Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AngularJS](https://angularjs.org) - Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
 - [Anime.js](https://animejs.com) - Library ([2016](https://github.com/juliangarnier/anime/releases?page=2))
-- [Ant Design](https://ant.design) - UI Library ([2015](https://09x.ant.design/))
+- [Ant Design](https://ant.design) - Library - UI Components ([2015](https://09x.ant.design/))
 - [Apollo](https://www.apollographql.com) - Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Astro](https://astro.build/) - Framework ([2021](https://astro.build/blog/introducing-astro/))
 - [Axios](https://axios-http.com) - Library ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
@@ -20,19 +20,19 @@
 - [BEM](https://en.bem.info) - CSS Methodology
 - [Bitbucket](https://bitbucket.org) - Version Control System
 - [BOM](https://en.wikipedia.org/wiki/Browser_Object_Model) - Specification
-- [Bootstrap](https://getbootstrap.com) - UI Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Bootstrap](https://getbootstrap.com) - Library - UI Components ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 
 ### C
-- [Chai](https://www.chaijs.com) - Testing Library
-- [Chakra UI](https://chakra-ui.com) - UI Library (2018)
-- [Chart.js](https://www.chartjs.org) - Library ([2013](https://www.chartjs.org/docs/latest/))
+- [Chai](https://www.chaijs.com) - Library - Testing
+- [Chakra UI](https://chakra-ui.com) - Library - UI Components (2018)
+- [Chart.js](https://www.chartjs.org) - Library - UI ([2013](https://www.chartjs.org/docs/latest/))
 - [CircleCI](https://circleci.com) - CI/CD Service ([2011](https://circleci.com/about/))
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Language ([1996](https://en.wikipedia.org/wiki/CSS))
 - [ct.js](https://ctjs.rocks/) - Game Development ([2019](https://github.com/ct-js/ct-js/releases))
-- [Cypress](https://www.cypress.io) - Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
+- [Cypress](https://www.cypress.io) - Library - Testing ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 
 ### D
-- [D3.js](https://d3js.org) - Library
+- [D3.js](https://d3js.org) - Library - UI
 - [date-fns](https://date-fns.org/) - Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org) - Library
 - [Deno](https://deno.land/) - Runtime Environment ([2020](https://deno.com/blog/v1))
@@ -44,20 +44,20 @@
 - [EJS](https://ejs.co/) - Template Engine
 - [Electron](https://www.electronjs.org) - Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [Ember.js](https://emberjs.com) - Framework ([2011](https://g.co/kgs/b5E63S))
-- [Enzyme](https://enzymejs.github.io/enzyme/) - Testing Library (2015, Last release was in 2019.)
+- [Enzyme](https://enzymejs.github.io/enzyme/) - Library - Testing (2015, Last release was in 2019.)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) - Specification
 - [ESLint](https://eslint.org) - Linter ([2013](https://eslint.org/docs/latest/about/))
-- [Evergreen](https://evergreen.segment.com/) - UI Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
+- [Evergreen](https://evergreen.segment.com/) - Library - UI Components ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 
 ### F
 - [Fastify](https://fastify.dev) - Backend-as-a-Service (2016)
 - [Figma](https://www.figma.com) - Design Tool (2012)
 - [Firebase](https://firebase.google.com) - Backend-as-a-Service (2011)
-- [Flowbite](https://flowbite.com/) - Library (2021)
+- [Flowbite](https://flowbite.com/) - Library - UI Components (2021)
 - [Flutter](https://flutter.dev) - Framework (2015)
-- [Font Awesome](https://fontawesome.com) - Icon Set (2012)
-- [Formik](https://formik.org/) - Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
-- [Foundation](https://get.foundation) - UI Library
+- [Font Awesome](https://fontawesome.com) - Library - Icon Set (2012)
+- [Formik](https://formik.org/) - Library - UI ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
+- [Foundation](https://get.foundation) - Library - UI Components
 
 ### G
 - [Gatsby](https://www.gatsbyjs.com) - Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
@@ -66,7 +66,7 @@
 - [GitHub Pages](https://pages.github.com/) - Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [GitHub](https://github.com) - Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com) - Version Control System ([2011](https://about.gitlab.com/company/history/))
-- [Glide.js](https://glidejs.com/) - Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
+- [Glide.js](https://glidejs.com/) - Library - UI ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [GraphQL](https://graphql.org) - Specification (2011)
 - [Grunt](https://gruntjs.com/) - Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com) - Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
@@ -83,7 +83,7 @@
 ### J
 - [Jade](https://pugjs.org/api/getting-started.html) - Template Engine (2010 - 2015, Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
-- [Jest](https://jestjs.io) - Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
+- [Jest](https://jestjs.io) - Library - Testing ([2014](https://github.com/jestjs/jest/issues/3))
 - [jQuery](https://jquery.com) - Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [jsdoc](https://jsdoc.app/) - Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [JSON-RPC](https://www.jsonrpc.org) - Specification
@@ -98,10 +98,10 @@
 - [Lodash](https://lodash.com) - Library
 
 ### M
-- [Material UI](https://mui.com) - UI Library ([2014](https://mui.com/about/))
+- [Material UI](https://mui.com) - Library - UI Components ([2014](https://mui.com/about/))
 - [Materialize](https://materializecss.com/) - CSS Framework ([2022](https://materialize.com/docs/releases/))
 - [Meteor.js](https://www.meteor.com) - Framework
-- [Mocha](https://mochajs.org) - Testing Library
+- [Mocha](https://mochajs.org) - Library - Testing
 - [Moment.js](https://momentjs.com) - Library
 - [MVP.css](https://andybrewer.github.io/mvp/) - CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
@@ -119,8 +119,8 @@
 - [Parcel](https://parceljs.org) - Build Tool
 - [Passport](https://www.passportjs.org/) - Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
 - [phaser](https://phaser.io/) - Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
-- [PixiJS](https://pixijs.com/) - Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
-- [Playwright](https://playwright.dev) - Testing Library
+- [PixiJS](https://pixijs.com/) - Library - UI ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
+- [Playwright](https://playwright.dev) - Library - Testing
 - [pnpm](https://pnpm.io/) - Package Manager
 - [polished](https://polished.js.org/) - Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [Postman](https://www.postman.com) - API Client
@@ -136,11 +136,11 @@
 ### R
 - [React Hook Form](https://react-hook-form.com/) - Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev) - Framework
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing Library
-- [react-icons](https://react-icons.github.io/react-icons/) - Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
-- [React-Toastify](https://www.npmjs.com/package/react-toastify) - Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Library - Testing
+- [react-icons](https://react-icons.github.io/react-icons/) - Library - Icon Set ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
+- [React-Toastify](https://www.npmjs.com/package/react-toastify) - Library - UI ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [React](https://react.dev) - Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
-- [Rebass](https://rebassjs.org/) - UI Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
+- [Rebass](https://rebassjs.org/) - Library - UI Components ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org) - Library
 - [Redux](https://redux.js.org) - Library
 - [Relay](https://relay.dev) - Library
@@ -151,19 +151,19 @@
 
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) - Language
-- [Sinon.JS](https://sinonjs.org/) - Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
+- [Sinon.JS](https://sinonjs.org/) - Library - Testing ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Socket.IO](https://socket.io) - Library
 - [SolidJS](https://www.solidjs.com/) - Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
 - [Storybook](https://storybook.js.org/) - Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [styled-components](https://styled-components.com) - Library
 - [Svelte](https://svelte.dev) - Framework
 - [SVG](https://en.wikipedia.org/wiki/SVG) - Data Format
-- [sweetalert2](https://sweetalert2.github.io/) - Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
+- [sweetalert2](https://sweetalert2.github.io/) - Library - UI ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [SWR](https://swr.vercel.app/) - Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 
 ### T
-- [Tailwind CSS](https://tailwindcss.com) - Framework
-- [Three.js](https://threejs.org) - Library
+- [Tailwind CSS](https://tailwindcss.com) - CSS Framework
+- [Three.js](https://threejs.org) - Library - UI
 - [Tone.js](https://tonejs.github.io/) - Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Travis CI](https://www.travis-ci.com) - CI/CD Service
 - [TSLint](https://palantir.github.io/tslint) - Linter
@@ -185,7 +185,7 @@
 
 ### X
 - [XState](https://xstate.js.org) - Library
-- [xstyled](https://xstyled.dev/) - Library ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
+- [xstyled](https://xstyled.dev/) - CSS Framework ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### Y
 - [Yarn](https://yarnpkg.com) - Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))

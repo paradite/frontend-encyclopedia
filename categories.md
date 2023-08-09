@@ -26,6 +26,8 @@
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
 - [Pure](https://purecss.io/)
+- [Tailwind CSS](https://tailwindcss.com)
+- [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### CSS Methodology
 - [BEM](https://en.bem.info)
@@ -71,16 +73,12 @@
 - [reveal.js](https://revealjs.com/) ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [SolidJS](https://www.solidjs.com/) ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
 - [Svelte](https://svelte.dev)
-- [Tailwind CSS](https://tailwindcss.com)
 - [Vue.js](https://vuejs.org) ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### Game Development
 - [ct.js](https://ctjs.rocks/) ([2019](https://github.com/ct-js/ct-js/releases))
 - [Kaboom](https://kaboomjs.com/) ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [phaser](https://phaser.io/) ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
-
-### Icon Set
-- [Font Awesome](https://fontawesome.com) (2012)
 
 ### Language
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) ([1996](https://en.wikipedia.org/wiki/CSS))
@@ -91,43 +89,66 @@
 - [TypeScript](https://www.typescriptlang.org)
 
 ### Library
-- [AlertifyJS](https://alertifyjs.com/) ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Anime.js](https://animejs.com) ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Apollo](https://www.apollographql.com) ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Axios](https://axios-http.com) ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
-- [Chart.js](https://www.chartjs.org) ([2013](https://www.chartjs.org/docs/latest/))
-- [D3.js](https://d3js.org)
 - [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org)
-- [Flowbite](https://flowbite.com/) (2021)
-- [Formik](https://formik.org/) ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
-- [Glide.js](https://glidejs.com/) ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [Immutable.js](https://immutable-js.com)
 - [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
 - [Node Cron](https://github.com/node-cron/node-cron)
-- [PixiJS](https://pixijs.com/) ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [React Hook Form](https://react-hook-form.com/) ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
-- [react-icons](https://react-icons.github.io/react-icons/) ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
-- [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org)
 - [Redux](https://redux.js.org)
 - [Relay](https://relay.dev)
 - [RxJS](https://rxjs.dev)
 - [Socket.IO](https://socket.io)
 - [styled-components](https://styled-components.com)
-- [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [SWR](https://swr.vercel.app/) ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
-- [Three.js](https://threejs.org)
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Underscore.js](https://underscorejs.org)
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [XState](https://xstate.js.org)
-- [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 - [Zod](https://zod.dev)
+
+### Library - Icon Set
+- [Font Awesome](https://fontawesome.com) (2012)
+- [react-icons](https://react-icons.github.io/react-icons/) ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
+
+### Library - Testing
+- [Chai](https://www.chaijs.com)
+- [Cypress](https://www.cypress.io) ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
+- [Enzyme](https://enzymejs.github.io/enzyme/) (2015, Last release was in 2019.)
+- [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
+- [Mocha](https://mochajs.org)
+- [Playwright](https://playwright.dev)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
+
+### Library - UI
+- [AlertifyJS](https://alertifyjs.com/) ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
+- [Chart.js](https://www.chartjs.org) ([2013](https://www.chartjs.org/docs/latest/))
+- [D3.js](https://d3js.org)
+- [Formik](https://formik.org/) ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
+- [Glide.js](https://glidejs.com/) ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
+- [PixiJS](https://pixijs.com/) ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
+- [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
+- [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
+- [Three.js](https://threejs.org)
+
+### Library - UI Components
+- [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
+- [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Chakra UI](https://chakra-ui.com) (2018)
+- [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
+- [Flowbite](https://flowbite.com/) (2021)
+- [Foundation](https://get.foundation)
+- [Material UI](https://mui.com) ([2014](https://mui.com/about/))
+- [Rebass](https://rebassjs.org/) ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 
 ### Linter
 - [ESLint](https://eslint.org) ([2013](https://eslint.org/docs/latest/about/))
@@ -169,25 +190,6 @@
 - [EJS](https://ejs.co/)
 - [Jade](https://pugjs.org/api/getting-started.html) (2010 - 2015, Renamed to Pug)
 - [Pug](https://pugjs.org/api/getting-started.html) ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
-
-### Testing Library
-- [Chai](https://www.chaijs.com)
-- [Cypress](https://www.cypress.io) ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
-- [Enzyme](https://enzymejs.github.io/enzyme/) (2015, Last release was in 2019.)
-- [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
-- [Mocha](https://mochajs.org)
-- [Playwright](https://playwright.dev)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-- [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
-
-### UI Library
-- [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
-- [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
-- [Chakra UI](https://chakra-ui.com) (2018)
-- [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
-- [Foundation](https://get.foundation)
-- [Material UI](https://mui.com) ([2014](https://mui.com/about/))
-- [Rebass](https://rebassjs.org/) ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 
 ### Version Control System
 - [Bitbucket](https://bitbucket.org)
