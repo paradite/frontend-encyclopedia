@@ -63,9 +63,9 @@ for (const key in data) {
       let dateInfo = getAdditionalInfo(term);
       return `- ${nameWithLink}${
         term.type
-          ? dateInfo
-            ? ` - ${term.type} ${dateInfo}`
-            : ` - ${term.type}`
+          ? `: ${term.type}${
+              dateInfo ? ` ${dateInfo}` : ''
+            }`
           : ''
       }`;
     })
@@ -135,9 +135,9 @@ for (const key in data) {
         ? `[${term.name}](${term.url})`
         : term.name;
 
-      let entry = `- ${nameWithLink} - ${category}`; // Including category
-
-      if (dateInfo) entry += ` ${dateInfo}`;
+      let entry = `- ${nameWithLink}: ${category}${
+        dateInfo ? ` ${dateInfo}` : ''
+      }`;
 
       if (!chronological[yearCreated])
         chronological[yearCreated] = [];

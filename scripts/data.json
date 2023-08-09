@@ -34,7 +34,7 @@
     {
       "name": "Ant Design",
       "url": "https://ant.design",
-      "type": "Library - UI Components",
+      "type": "UI Components Library",
       "year_created": 2015,
       "year_created_source": "https://09x.ant.design/",
       "year_created_source_alt": "https://github.com/ant-design/ant-design/releases?page=60"
@@ -71,7 +71,7 @@
     {
       "name": "AlertifyJS",
       "url": "https://alertifyjs.com/",
-      "type": "Library - UI",
+      "type": "UI Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/alertifyjs?activeTab=versions"
     }
@@ -98,7 +98,7 @@
     {
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
-      "type": "Library - UI Components",
+      "type": "UI Components Library",
       "year_created": 2011,
       "year_created_source": "https://getbootstrap.com/docs/4.1/about/overview/"
     },
@@ -117,18 +117,18 @@
     {
       "name": "Chakra UI",
       "url": "https://chakra-ui.com",
-      "type": "Library - UI Components",
+      "type": "UI Components Library",
       "year_created": 2018
     },
     {
       "name": "Chai",
       "url": "https://www.chaijs.com",
-      "type": "Library - Testing"
+      "type": "Testing Library"
     },
     {
       "name": "Chart.js",
       "url": "https://www.chartjs.org",
-      "type": "Library - UI",
+      "type": "UI Library",
       "year_created": 2013,
       "year_created_source": "https://www.chartjs.org/docs/latest/"
     },
@@ -142,7 +142,7 @@
     {
       "name": "Cypress",
       "url": "https://www.cypress.io",
-      "type": "Library - Testing",
+      "type": "Testing Library",
       "year_created": 2014,
       "year_created_source": "https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/"
     },
@@ -170,7 +170,7 @@
     {
       "name": "D3.js",
       "url": "https://d3js.org",
-      "type": "Library - UI"
+      "type": "UI Library"
     },
     {
       "name": "DOM",
@@ -242,14 +242,14 @@
     {
       "name": "Enzyme",
       "url": "https://enzymejs.github.io/enzyme/",
-      "type": "Library - Testing",
+      "type": "Testing Library",
       "year_created": 2015,
       "note": "Last release was in 2019."
     },
     {
       "name": "Evergreen",
       "url": "https://evergreen.segment.com/",
-      "type": "Library - UI Components",
+      "type": "UI Components Library",
       "year_created": 2018,
       "year_created_source": "https://www.npmjs.com/package/evergreen-ui?activeTab=versions"
     }
@@ -270,7 +270,7 @@
     {
       "name": "Foundation",
       "url": "https://get.foundation",
-      "type": "Library - UI Components"
+      "type": "UI Components Library"
     },
     {
       "name": "Firebase",
@@ -281,7 +281,7 @@
     {
       "name": "Flowbite",
       "url": "https://flowbite.com/",
-      "type": "Library - UI Components",
+      "type": "UI Components Library",
       "year_created": 2021
     },
     {
@@ -293,13 +293,13 @@
     {
       "name": "Font Awesome",
       "url": "https://fontawesome.com",
-      "type": "Library - Icon Set",
+      "type": "Icon Library",
       "year_created": 2012
     },
     {
       "name": "Formik",
       "url": "https://formik.org/",
-      "type": "Library - UI",
+      "type": "UI Library",
       "year_created": 2017,
       "year_created_source": "https://www.npmjs.com/package/formik?activeTab=versions"
     }
@@ -370,7 +370,7 @@
     {
       "name": "Glide.js",
       "url": "https://glidejs.com/",
-      "type": "Library - UI",
+      "type": "UI Library",
       "year_created": 2014,
       "year_created_source": "https://www.npmjs.com/package/@glidejs/glide?activeTab=versions"
     }
@@ -412,7 +412,7 @@
     {
       "name": "Jest",
       "url": "https://jestjs.io",
-      "type": "Library - Testing",
+      "type": "Testing Library",
       "year_created": 2014,
       "year_created_source": "https://github.com/jestjs/jest/issues/3"
     },
@@ -488,7 +488,7 @@
     {
       "name": "Material UI",
       "url": "https://mui.com",
-      "type": "Library - UI Components",
+      "type": "UI Components Library",
       "year_created": 2014,
       "year_created_source": "https://mui.com/about/"
     },
@@ -500,7 +500,7 @@
     {
       "name": "Mocha",
       "url": "https://mochajs.org",
-      "type": "Library - Testing"
+      "type": "Testing Library"
     },
     {
       "name": "Moment.js",
@@ -600,7 +600,7 @@
     {
       "name": "Playwright",
       "url": "https://playwright.dev",
-      "type": "Library - Testing"
+      "type": "Testing Library"
     },
     {
       "name": "Pure",
@@ -617,7 +617,7 @@
     {
       "name": "PixiJS",
       "url": "https://pixijs.com/",
-      "type": "Library - UI",
+      "type": "UI Library",
       "year_created": 2013,
       "year_created_source": "https://www.npmjs.com/package/pixi.js?activeTab=versions"
     },
@@ -659,7 +659,7 @@
     {
       "name": "React Testing Library",
       "url": "https://testing-library.com/docs/react-testing-library/intro/",
-      "type": "Library - Testing"
+      "type": "Testing Library"
     },
     {
       "name": "Redux",
@@ -701,14 +701,14 @@
     {
       "name": "Rebass",
       "url": "https://rebassjs.org/",
-      "type": "Library - UI Components",
+      "type": "UI Components Library",
       "year_created": 2018,
       "year_created_source": "https://www.npmjs.com/package/rebass?activeTab=versions"
     },
     {
       "name": "react-icons",
       "url": "https://react-icons.github.io/react-icons/",
-      "type": "Library - Icon Set",
+      "type": "Icon Library",
       "year_created": 2016,
       "year_created_source": "https://www.npmjs.com/package/react-icons?activeTab=versions"
     },
@@ -722,7 +722,7 @@
     {
       "name": "React-Toastify",
       "url": "https://www.npmjs.com/package/react-toastify",
-      "type": "Library - UI",
+      "type": "UI Library",
       "year_created": 2017,
       "year_created_source": "https://www.npmjs.com/package/react-toastify?activeTab=versions"
     }
@@ -770,7 +770,7 @@
     {
       "name": "Sinon.JS",
       "url": "https://sinonjs.org/",
-      "type": "Library - Testing",
+      "type": "Testing Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/sinon?activeTab=versions"
     },
@@ -784,7 +784,7 @@
     {
       "name": "sweetalert2",
       "url": "https://sweetalert2.github.io/",
-      "type": "Library - UI",
+      "type": "UI Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/sweetalert2?activeTab=versions"
     }
@@ -798,7 +798,7 @@
     {
       "name": "Three.js",
       "url": "https://threejs.org",
-      "type": "Library - UI"
+      "type": "UI Library"
     },
     {
       "name": "TSLint",
