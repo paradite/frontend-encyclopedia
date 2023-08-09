@@ -104,9 +104,6 @@
 - [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron)
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
-- [React Hook Form](https://react-hook-form.com/) ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
-- [Redux-Saga](https://redux-saga.js.org)
-- [Redux](https://redux.js.org)
 - [Relay](https://relay.dev)
 - [RxJS](https://rxjs.dev)
 - [Socket.IO](https://socket.io)
@@ -142,6 +139,12 @@
 - [JSON-RPC](https://www.jsonrpc.org)
 - [OAuth](https://oauth.net)
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
+### State Management Library
+- [Pinia](https://pinia.vuejs.org/) ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
+- [Redux-Saga](https://redux-saga.js.org) ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
+- [Redux](https://redux.js.org) ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
+- [RefluxJS](https://github.com/reflux/refluxjs) ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 
 ### Task Runner
 - [Grunt](https://gruntjs.com/) ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
@@ -185,6 +188,7 @@
 - [Formik](https://formik.org/) ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Glide.js](https://glidejs.com/) ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [PixiJS](https://pixijs.com/) ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
+- [React Hook Form](https://react-hook-form.com/) ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Three.js](https://threejs.org)

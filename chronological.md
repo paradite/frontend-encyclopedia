@@ -38,6 +38,7 @@
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [GraphQL](https://graphql.org): Specification (2011)
 - [Passport](https://www.passportjs.org/): Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
+- [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 
 ### 2012
 - [Figma](https://www.figma.com): Design Tool (2012)
@@ -62,6 +63,7 @@
 - [Glide.js](https://glidejs.com/): UI Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
+- [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
@@ -73,6 +75,7 @@
 - [Flutter](https://flutter.dev): Framework (2015)
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
+- [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 
@@ -104,7 +107,8 @@
 
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
-- [React Hook Form](https://react-hook-form.com/): Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
+- [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
+- [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [SWR](https://swr.vercel.app/): Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [xstyled](https://xstyled.dev/): CSS Framework ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 

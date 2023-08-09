@@ -627,6 +627,13 @@
       "type": "Game Development",
       "year_created": 2013,
       "year_created_source": "https://www.npmjs.com/package/phaser?activeTab=versions"
+    },
+    {
+      "name": "Pinia",
+      "url": "https://pinia.vuejs.org/",
+      "type": "State Management Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/pinia?activeTab=versions"
     }
   ],
   "Q": [
@@ -664,12 +671,16 @@
     {
       "name": "Redux",
       "url": "https://redux.js.org",
-      "type": "Library"
+      "type": "State Management Library",
+      "year_created": 2011,
+      "year_created_source": "https://www.npmjs.com/package/redux?activeTab=versions"
     },
     {
       "name": "Redux-Saga",
       "url": "https://redux-saga.js.org",
-      "type": "Library"
+      "type": "State Management Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/redux-saga?activeTab=versions"
     },
     {
       "name": "reveal.js",
@@ -715,7 +726,7 @@
     {
       "name": "React Hook Form",
       "url": "https://react-hook-form.com/",
-      "type": "Library",
+      "type": "UI Library",
       "year_created": 2019,
       "year_created_source": "https://www.npmjs.com/package/react-hook-form?activeTab=versions"
     },
@@ -725,6 +736,14 @@
       "type": "UI Library",
       "year_created": 2017,
       "year_created_source": "https://www.npmjs.com/package/react-toastify?activeTab=versions"
+    },
+    {
+      "name": "RefluxJS",
+      "url": "https://github.com/reflux/refluxjs",
+      "type": "State Management Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/reflux?activeTab=versions",
+      "note": "Last release was in 2017."
     }
   ],
   "S": [

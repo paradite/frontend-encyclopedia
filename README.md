@@ -119,6 +119,7 @@
 - [Parcel](https://parceljs.org): Build Tool
 - [Passport](https://www.passportjs.org/): Authentication Middleware ([2011](https://github.com/jaredhanson/passport))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
+- [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [Playwright](https://playwright.dev): Testing Library
 - [pnpm](https://pnpm.io/): Package Manager
@@ -134,15 +135,16 @@
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ### R
-- [React Hook Form](https://react-hook-form.com/): Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
+- [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev): Framework
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
-- [Redux-Saga](https://redux-saga.js.org): Library
-- [Redux](https://redux.js.org): Library
+- [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
+- [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
+- [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Relay](https://relay.dev): Library
 - [Render](https://render.com/): Deployment
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification
