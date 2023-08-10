@@ -486,6 +486,13 @@
   ],
   "M": [
     {
+      "name": "Mantine",
+      "url": "https://mantine.dev",
+      "type": "UI Library",
+      "year_created": 2021,
+      "year_created_source": "https://github.com/mantinedev/mantine/releases?page=19"
+    },
+    {
       "name": "Material UI",
       "url": "https://mui.com",
       "type": "UI Components Library",
@@ -813,6 +820,13 @@
       "name": "Tailwind CSS",
       "url": "https://tailwindcss.com",
       "type": "CSS Framework"
+    },
+    {
+      "name": "Tamagui",
+      "url": "https://tamagui.dev",
+      "type": "Universal UI Library",
+      "year_created": 2022,
+      "year_created_source": "https://github.com/tamagui/tamagui/releases?page=68"
     },
     {
       "name": "Three.js",
