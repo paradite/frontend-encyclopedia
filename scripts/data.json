@@ -533,7 +533,9 @@
     {
       "name": "Next.js",
       "url": "https://nextjs.org",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2016,
+      "year_created_source": "https://github.com/vercel/next.js/releases/tag/1.0.1"
     },
     {
       "name": "npm",
@@ -879,7 +881,10 @@
     {
       "name": "Vercel",
       "url": "https://vercel.com/",
-      "type": "Deployment"
+      "type": "Deployment",
+      "year_created": 2015,
+      "year_created_source": "https://en.wikipedia.org/wiki/Vercel",
+      "year_created_source_alt": "https://www.businessinsider.com/vercel-zeit-pitch-deck-21-million-accel-github-ceo-2020-4"
     },
     {
       "name": "Video.js",
