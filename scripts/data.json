@@ -252,6 +252,13 @@
       "type": "UI Components Library",
       "year_created": 2018,
       "year_created_source": "https://www.npmjs.com/package/evergreen-ui?activeTab=versions"
+    },
+    {
+      "name": "ECharts",
+      "url": "https://echarts.apache.org/en/index.html",
+      "type": "UI Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/echarts?activeTab=versions"
     }
   ],
   "F": [
@@ -382,6 +389,13 @@
       "type": "Language",
       "year_created": 1993,
       "year_created_source": "https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html"
+    },
+    {
+      "name": "Highcharts",
+      "url": "https://www.highcharts.com/",
+      "type": "UI Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/highcharts?activeTab=versions"
     }
   ],
   "I": [
@@ -456,6 +470,13 @@
       "type": "Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/jsdoc?activeTab=versions"
+    },
+    {
+      "name": "jsPDF",
+      "url": "https://rawgit.com/MrRio/jsPDF/master/docs/index.html",
+      "type": "Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/jspdf?activeTab=versions"
     }
   ],
   "K": [
@@ -636,6 +657,13 @@
       "type": "State Management Library",
       "year_created": 2019,
       "year_created_source": "https://www.npmjs.com/package/pinia?activeTab=versions"
+    },
+    {
+      "name": "panda",
+      "url": "https://panda-css.com/",
+      "type": "CSS Framework",
+      "year_created": 2023,
+      "year_created_source": "https://www.npmjs.com/package/@pandacss/node?activeTab=versions"
     }
   ],
   "Q": [
@@ -815,6 +843,20 @@
       "type": "UI Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/sweetalert2?activeTab=versions"
+    },
+    {
+      "name": "Semantic UI",
+      "url": "https://semantic-ui.com/",
+      "type": "UI Library",
+      "year_created": 2013,
+      "year_created_source": "https://www.npmjs.com/package/semantic-ui?activeTab=versions"
+    },
+    {
+      "name": "Spectre.css",
+      "url": "https://picturepan2.github.io/spectre/",
+      "type": "CSS Framework",
+      "year_created": 2016,
+      "year_created_source": "https://www.npmjs.com/package/spectre.css?activeTab=versions"
     }
   ],
   "T": [

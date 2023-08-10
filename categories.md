@@ -22,7 +22,9 @@
 ### CSS Framework
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
+- [panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Pure](https://purecss.io/)
+- [Spectre.css](https://picturepan2.github.io/spectre/) ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Tailwind CSS](https://tailwindcss.com)
 - [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
@@ -46,7 +48,7 @@
 ### Deployment
 - [GitHub Pages](https://pages.github.com/) ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [Render](https://render.com/)
-- [Vercel](https://vercel.com/)
+- [Vercel](https://vercel.com/) ([2015](https://en.wikipedia.org/wiki/Vercel))
 
 ### Design Tool
 - [Figma](https://www.figma.com) (2012)
@@ -67,7 +69,7 @@
 - [Gatsby](https://www.gatsbyjs.com) ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Ionic](https://ionicframework.com) ([2012](https://ionic.io/about))
 - [Meteor.js](https://www.meteor.com)
-- [Next.js](https://nextjs.org)
+- [Next.js](https://nextjs.org) ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Quasar](https://quasar.dev)
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
 - [React Native](https://reactnative.dev)
@@ -99,6 +101,7 @@
 - [Apollo](https://www.apollographql.com) ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Axios](https://axios-http.com) ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 - [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
+- [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron)
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [Relay](https://relay.dev)
@@ -184,12 +187,15 @@
 - [AlertifyJS](https://alertifyjs.com/) ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Chart.js](https://www.chartjs.org) ([2013](https://www.chartjs.org/docs/latest/))
 - [D3.js](https://d3js.org)
+- [ECharts](https://echarts.apache.org/en/index.html) ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
 - [Formik](https://formik.org/) ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Glide.js](https://glidejs.com/) ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
+- [Highcharts](https://www.highcharts.com/) ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [Mantine](https://mantine.dev) ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 - [PixiJS](https://pixijs.com/) ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [React Hook Form](https://react-hook-form.com/) ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
+- [Semantic UI](https://semantic-ui.com/) ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Three.js](https://threejs.org)
 

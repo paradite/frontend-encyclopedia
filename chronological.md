@@ -53,6 +53,7 @@
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
+- [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 
 ### 2014
@@ -60,7 +61,9 @@
 - [Babel](https://babeljs.io): Build Tool ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
 - [Cypress](https://www.cypress.io): Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 - [Glide.js](https://glidejs.com/): UI Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
+- [Highcharts](https://www.highcharts.com/): UI Library ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
+- [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html): Library ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
@@ -71,12 +74,14 @@
 - [AlertifyJS](https://alertifyjs.com/): UI Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [date-fns](https://date-fns.org/): Date & Time Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library (2015, Last release was in 2019.)
+- [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
 - [Flutter](https://flutter.dev): Framework (2015)
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
+- [Vercel](https://vercel.com/): Deployment ([2015](https://en.wikipedia.org/wiki/Vercel))
 
 ### 2016
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -84,9 +89,11 @@
 - [Apollo](https://www.apollographql.com): Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Fastify](https://fastify.dev): Backend-as-a-Service (2016)
 - [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
+- [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
+- [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
 ### 2017
@@ -128,6 +135,7 @@
 - [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### 2023
+- [panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ---

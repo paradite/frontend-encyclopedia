@@ -41,6 +41,7 @@
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Specification
 
 ### E
+- [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
 - [EJS](https://ejs.co/): Template Engine
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [Ember.js](https://emberjs.com): Framework ([2011](https://g.co/kgs/b5E63S))
@@ -72,6 +73,7 @@
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 
 ### H
+- [Highcharts](https://www.highcharts.com/): UI Library ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
 ### I
@@ -88,6 +90,7 @@
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [JSON-RPC](https://www.jsonrpc.org): Specification
 - [JSON](https://en.wikipedia.org/wiki/JSON): Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
+- [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html): Library ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 
 ### K
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
@@ -107,7 +110,7 @@
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
 ### N
-- [Next.js](https://nextjs.org): Framework
+- [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Node Cron](https://github.com/node-cron/node-cron): Library
 - [Node.js](https://nodejs.org): Runtime Environment
 - [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts): Task Runner
@@ -117,6 +120,7 @@
 - [OAuth](https://oauth.net): Specification
 
 ### P
+- [panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Parcel](https://parceljs.org): Build Tool
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
@@ -154,9 +158,11 @@
 
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language
+- [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Socket.IO](https://socket.io): Library
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
+- [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [styled-components](https://styled-components.com): Library
 - [Svelte](https://svelte.dev): Framework
@@ -177,7 +183,7 @@
 - [Underscore.js](https://underscorejs.org): Utility Library
 
 ### V
-- [Vercel](https://vercel.com/): Deployment
+- [Vercel](https://vercel.com/): Deployment ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Vite](https://vitejs.dev): Build Tool
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
