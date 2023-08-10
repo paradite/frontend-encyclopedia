@@ -186,11 +186,15 @@
 - [D3.js](https://d3js.org)
 - [Formik](https://formik.org/) ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Glide.js](https://glidejs.com/) ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
+- [Mantine](https://mantine.dev) ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 - [PixiJS](https://pixijs.com/) ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [React Hook Form](https://react-hook-form.com/) ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Three.js](https://threejs.org)
+
+### Universal UI Library
+- [Tamagui](https://tamagui.dev) ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### Utility Library
 - [Immutable.js](https://immutable-js.com)

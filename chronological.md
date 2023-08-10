@@ -121,9 +121,11 @@
 - [Astro](https://astro.build/): Framework ([2021](https://astro.build/blog/introducing-astro/))
 - [Flowbite](https://flowbite.com/): UI Components Library (2021)
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
+- [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 
 ### 2022
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))
+- [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### 2023
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))

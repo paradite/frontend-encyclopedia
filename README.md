@@ -98,6 +98,7 @@
 - [Lodash](https://lodash.com): Utility Library
 
 ### M
+- [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))
 - [Meteor.js](https://www.meteor.com): Framework
@@ -165,6 +166,7 @@
 
 ### T
 - [Tailwind CSS](https://tailwindcss.com): CSS Framework
+- [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 - [Three.js](https://threejs.org): UI Library
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Travis CI](https://www.travis-ci.com): CI/CD Service
