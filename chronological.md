@@ -107,9 +107,11 @@
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
+- [Redux Toolkit](https://redux-toolkit.js.org/): State Management Library ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
 - [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [SWR](https://swr.vercel.app/): Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [xstyled](https://xstyled.dev/): CSS Framework ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
+- [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ### 2020
 - [Deno](https://deno.land/): Runtime Environment ([2020](https://deno.com/blog/v1))

@@ -139,9 +139,11 @@
 
 ### State Management Library
 - [Pinia](https://pinia.vuejs.org/) ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
+- [Redux Toolkit](https://redux-toolkit.js.org/) ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org) ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Redux](https://redux.js.org) ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 - [RefluxJS](https://github.com/reflux/refluxjs) ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
+- [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ### Task Runner
 - [Grunt](https://gruntjs.com/) ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
