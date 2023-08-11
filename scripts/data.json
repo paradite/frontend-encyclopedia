@@ -899,6 +899,13 @@
       "year_created": 2014,
       "year_created_source": "https://www.npmjs.com/package/tone?activeTab=versions"
     }
+        {
+      "name": "TensorFlow.js",
+      "url": "https://www.tensorflow.org/js",
+      "type": "ML Library",
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions"
+    }
   ],
   "U": [
     {
