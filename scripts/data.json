@@ -88,12 +88,15 @@
       "name": "Backbone.js",
       "url": "https://backbonejs.org",
       "type": "Framework",
-      "year_created": 2010
+      "year_created": 2010,
+      "year_created_source": "https://backbonejs.org/#changelog"
     },
     {
       "name": "BEM",
       "url": "https://en.bem.info",
-      "type": "CSS Methodology"
+      "type": "CSS Methodology",
+      "year_created": 2010,
+      "year_created_source": "https://en.bem.info/methodology/history/#bem-and-open-source-2010"
     },
     {
       "name": "Bootstrap",
@@ -103,14 +106,11 @@
       "year_created_source": "https://getbootstrap.com/docs/4.1/about/overview/"
     },
     {
-      "name": "BOM",
-      "url": "https://en.wikipedia.org/wiki/Browser_Object_Model",
-      "type": "Specification"
-    },
-    {
       "name": "Bitbucket",
       "url": "https://bitbucket.org",
-      "type": "Version Control System"
+      "type": "Version Control System",
+      "year_created": 2008,
+      "year_created_source": "https://en.wikipedia.org/wiki/Bitbucket"
     }
   ],
   "C": [

@@ -16,10 +16,9 @@
 
 ### B
 - [Babel](https://babeljs.io): Build Tool ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
-- [Backbone.js](https://backbonejs.org): Framework (2010)
-- [BEM](https://en.bem.info): CSS Methodology
-- [Bitbucket](https://bitbucket.org): Version Control System
-- [BOM](https://en.wikipedia.org/wiki/Browser_Object_Model): Specification
+- [Backbone.js](https://backbonejs.org): Framework ([2010](https://backbonejs.org/#changelog))
+- [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
+- [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 
 ### C

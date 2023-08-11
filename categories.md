@@ -29,7 +29,7 @@
 - [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### CSS Methodology
-- [BEM](https://en.bem.info)
+- [BEM](https://en.bem.info) ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index)
 
@@ -62,7 +62,7 @@
 - [Angular](https://angular.io) ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AngularJS](https://angularjs.org) ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
 - [Astro](https://astro.build/) ([2021](https://astro.build/blog/introducing-astro/))
-- [Backbone.js](https://backbonejs.org) (2010)
+- [Backbone.js](https://backbonejs.org) ([2010](https://backbonejs.org/#changelog))
 - [Electron](https://www.electronjs.org) ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [Ember.js](https://emberjs.com) ([2011](https://g.co/kgs/b5E63S))
 - [Flutter](https://flutter.dev) (2015)
@@ -132,7 +132,6 @@
 - [Node.js](https://nodejs.org)
 
 ### Specification
-- [BOM](https://en.wikipedia.org/wiki/Browser_Object_Model)
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
 - [GraphQL](https://graphql.org) (2011)
@@ -209,7 +208,7 @@
 - [Underscore.js](https://underscorejs.org)
 
 ### Version Control System
-- [Bitbucket](https://bitbucket.org)
+- [Bitbucket](https://bitbucket.org) ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [Git](https://git-scm.com) ([2005](https://en.wikipedia.org/wiki/Git))
 - [GitHub Desktop](https://desktop.github.com/) ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [GitHub](https://github.com) ([2008](https://en.wikipedia.org/wiki/GitHub))

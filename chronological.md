@@ -22,12 +22,14 @@
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 
 ### 2008
+- [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitHub Pages](https://pages.github.com/): Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 
 ### 2010
 - [AngularJS](https://angularjs.org): Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
-- [Backbone.js](https://backbonejs.org): Framework (2010)
+- [Backbone.js](https://backbonejs.org): Framework ([2010](https://backbonejs.org/#changelog))
+- [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine (2010 - 2015, Renamed to Pug)
 
 ### 2011
