@@ -22,7 +22,7 @@
 ### CSS Framework
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
-- [panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
+- [Panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Pure](https://purecss.io/)
 - [Spectre.css](https://picturepan2.github.io/spectre/) ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Tailwind CSS](https://tailwindcss.com)

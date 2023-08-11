@@ -135,7 +135,7 @@
 - [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### 2023
-- [panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
+- [Panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ---

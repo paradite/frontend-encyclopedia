@@ -120,7 +120,7 @@
 - [OAuth](https://oauth.net): Specification
 
 ### P
-- [panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
+- [Panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Parcel](https://parceljs.org): Build Tool
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
