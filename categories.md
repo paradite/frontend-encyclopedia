@@ -12,6 +12,7 @@
 - [Babel](https://babeljs.io) ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
 - [Gulp](https://gulpjs.com) ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [Parcel](https://parceljs.org)
+- [rollup.js](https://rollupjs.org/) ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [Vite](https://vitejs.dev)
 - [webpack](https://webpack.js.org)
 
@@ -100,6 +101,7 @@
 - [Anime.js](https://animejs.com) ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Apollo](https://www.apollographql.com) ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Axios](https://axios-http.com) ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
+- [Cropper.js](https://fengyuanchen.github.io/cropperjs/) ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
 - [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron)
@@ -110,6 +112,7 @@
 - [styled-components](https://styled-components.com)
 - [SWR](https://swr.vercel.app/) ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
+- [TSDX](https://tsdx.io/) ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [XState](https://xstate.js.org)
 - [Zod](https://zod.dev)

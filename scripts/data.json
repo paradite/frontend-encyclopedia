@@ -159,6 +159,13 @@
       "type": "Game Development",
       "year_created": 2019,
       "year_created_source": "https://github.com/ct-js/ct-js/releases"
+    },
+    {
+      "name": "Cropper.js",
+      "url": "https://fengyuanchen.github.io/cropperjs/",
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/cropperjs?activeTab=versions"
     }
   ],
   "D": [
@@ -781,6 +788,13 @@
       "year_created": 2014,
       "year_created_source": "https://www.npmjs.com/package/reflux?activeTab=versions",
       "note": "Last release was in 2017."
+    },
+    {
+      "name": "rollup.js",
+      "url": "https://rollupjs.org/",
+      "type": "Build Tool",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/rollup?activeTab=versions"
     }
   ],
   "S": [
@@ -898,6 +912,13 @@
       "type": "Library",
       "year_created": 2014,
       "year_created_source": "https://www.npmjs.com/package/tone?activeTab=versions"
+    },
+    {
+      "name": "TSDX",
+      "url": "https://tsdx.io/",
+      "type": "Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/tsdx?activeTab=versions"
     }
   ],
   "U": [
