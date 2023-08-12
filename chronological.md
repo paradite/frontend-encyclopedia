@@ -45,6 +45,7 @@
 - [Figma](https://www.figma.com): Design Tool (2012)
 - [Font Awesome](https://fontawesome.com): Icon Library (2012)
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
+- [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### 2013
 - [Chart.js](https://www.chartjs.org): UI Library ([2013](https://www.chartjs.org/docs/latest/))

@@ -95,7 +95,7 @@
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Less](https://lesscss.org)
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
-- [TypeScript](https://www.typescriptlang.org)
+- [TypeScript](https://www.typescriptlang.org) ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### Library
 - [Anime.js](https://animejs.com) ([2016](https://github.com/juliangarnier/anime/releases?page=2))

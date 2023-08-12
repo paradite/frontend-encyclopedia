@@ -180,7 +180,7 @@
 - [Travis CI](https://www.travis-ci.com): CI/CD Service
 - [TSDX](https://tsdx.io/): Library ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [TSLint](https://palantir.github.io/tslint): Linter
-- [TypeScript](https://www.typescriptlang.org): Language
+- [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### U
 - [Underscore.js](https://underscorejs.org): Utility Library
