@@ -136,6 +136,7 @@
 - [Flowbite](https://flowbite.com/): UI Components Library (2021)
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
+- [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 
 ### 2022
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))

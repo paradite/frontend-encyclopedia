@@ -75,6 +75,7 @@
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
 - [React Native](https://reactnative.dev)
 - [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [Remix](https://remix.run/) ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [reveal.js](https://revealjs.com/) ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [SolidJS](https://www.solidjs.com/) ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
 - [Svelte](https://svelte.dev)

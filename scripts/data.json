@@ -795,6 +795,13 @@
       "type": "Build Tool",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/rollup?activeTab=versions"
+    },
+    {
+      "name": "Remix",
+      "url": "https://remix.run/",
+      "type": "Framework",
+      "year_created": 2021,
+      "year_created_source": "https://www.npmjs.com/package/@remix-run/react?activeTab=versions"
     }
   ],
   "S": [

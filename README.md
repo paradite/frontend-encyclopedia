@@ -151,6 +151,7 @@
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Relay](https://relay.dev): Library
+- [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [Render](https://render.com/): Deployment
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
