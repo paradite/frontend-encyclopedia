@@ -170,7 +170,7 @@
 - [Pug](https://pugjs.org/api/getting-started.html) ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
 
 ### Testing Library
-- [Chai](https://www.chaijs.com)
+- [Chai](https://www.chaijs.com) ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [Cypress](https://www.cypress.io) ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 - [Enzyme](https://enzymejs.github.io/enzyme/) (2015, Last release was in 2019.)
 - [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
@@ -182,7 +182,7 @@
 ### UI Components Library
 - [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
 - [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
-- [Chakra UI](https://chakra-ui.com) (2018)
+- [Chakra UI](https://chakra-ui.com) ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Flowbite](https://flowbite.com/) (2021)
 - [Foundation](https://get.foundation)

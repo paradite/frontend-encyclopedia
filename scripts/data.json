@@ -118,12 +118,15 @@
       "name": "Chakra UI",
       "url": "https://chakra-ui.com",
       "type": "UI Components Library",
-      "year_created": 2018
+      "year_created": 2020,
+      "year_created_source": "https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions"
     },
     {
       "name": "Chai",
       "url": "https://www.chaijs.com",
-      "type": "Testing Library"
+      "type": "Testing Library",
+      "year_created": 2011,
+      "year_created_source": "https://www.npmjs.com/package/chai?activeTab=versions"
     },
     {
       "name": "Chart.js",

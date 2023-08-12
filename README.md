@@ -22,8 +22,8 @@
 - [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 
 ### C
-- [Chai](https://www.chaijs.com): Testing Library
-- [Chakra UI](https://chakra-ui.com): UI Components Library (2018)
+- [Chai](https://www.chaijs.com): Testing Library ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
+- [Chakra UI](https://chakra-ui.com): UI Components Library ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Chart.js](https://www.chartjs.org): UI Library ([2013](https://www.chartjs.org/docs/latest/))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/): Library ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))

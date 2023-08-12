@@ -34,6 +34,7 @@
 
 ### 2011
 - [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Chai](https://www.chaijs.com): Testing Library ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
 - [Ember.js](https://emberjs.com): Framework ([2011](https://g.co/kgs/b5E63S))
 - [Firebase](https://firebase.google.com): Backend-as-a-Service (2011)
@@ -110,7 +111,6 @@
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 
 ### 2018
-- [Chakra UI](https://chakra-ui.com): UI Components Library (2018)
 - [docz](https://www.docz.site/): Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
@@ -128,6 +128,7 @@
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ### 2020
+- [Chakra UI](https://chakra-ui.com): UI Components Library ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Deno](https://deno.land/): Runtime Environment ([2020](https://deno.com/blog/v1))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
