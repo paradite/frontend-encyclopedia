@@ -12,7 +12,7 @@
 - [Babel](https://babeljs.io) ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
 - [Gulp](https://gulpjs.com) ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [Parcel](https://parceljs.org)
-- [rollup.js](https://rollupjs.org/) ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
+- [Rollup](https://rollupjs.org/) ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [Vite](https://vitejs.dev)
 - [webpack](https://webpack.js.org)
 
@@ -120,6 +120,9 @@
 ### Linter
 - [ESLint](https://eslint.org) ([2013](https://eslint.org/docs/latest/about/))
 - [TSLint](https://palantir.github.io/tslint)
+
+### ML Library
+- [TensorFlow.js](https://www.tensorflow.org/js) ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
 ### Package Manager
 - [npm](https://www.npmjs.com)

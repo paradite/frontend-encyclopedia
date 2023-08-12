@@ -154,7 +154,7 @@
 - [Render](https://render.com/): Deployment
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
-- [rollup.js](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
+- [Rollup](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [RxJS](https://rxjs.dev): Library
 
 ### S
@@ -174,6 +174,7 @@
 ### T
 - [Tailwind CSS](https://tailwindcss.com): CSS Framework
 - [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
+- [TensorFlow.js](https://www.tensorflow.org/js): ML Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Travis CI](https://www.travis-ci.com): CI/CD Service

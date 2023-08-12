@@ -790,7 +790,7 @@
       "note": "Last release was in 2017."
     },
     {
-      "name": "rollup.js",
+      "name": "Rollup",
       "url": "https://rollupjs.org/",
       "type": "Build Tool",
       "year_created": 2015,
@@ -919,8 +919,8 @@
       "type": "Library",
       "year_created": 2019,
       "year_created_source": "https://www.npmjs.com/package/tsdx?activeTab=versions"
-    }
-        {
+    },
+    {
       "name": "TensorFlow.js",
       "url": "https://www.tensorflow.org/js",
       "type": "ML Library",

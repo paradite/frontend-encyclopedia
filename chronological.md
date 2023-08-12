@@ -82,7 +82,7 @@
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
-- [rollup.js](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
+- [Rollup](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment ([2015](https://en.wikipedia.org/wiki/Vercel))
@@ -114,6 +114,7 @@
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
+- [TensorFlow.js](https://www.tensorflow.org/js): ML Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
