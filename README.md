@@ -26,6 +26,7 @@
 - [Chakra UI](https://chakra-ui.com): UI Components Library (2018)
 - [Chart.js](https://www.chartjs.org): UI Library ([2013](https://www.chartjs.org/docs/latest/))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
+- [Cropper.js](https://fengyuanchen.github.io/cropperjs/): Library ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Language ([1996](https://en.wikipedia.org/wiki/CSS))
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
 - [Cypress](https://www.cypress.io): Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
@@ -153,6 +154,7 @@
 - [Render](https://render.com/): Deployment
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
+- [rollup.js](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [RxJS](https://rxjs.dev): Library
 
 ### S
@@ -175,6 +177,7 @@
 - [Three.js](https://threejs.org): UI Library
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Travis CI](https://www.travis-ci.com): CI/CD Service
+- [TSDX](https://tsdx.io/): Library ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [TSLint](https://palantir.github.io/tslint): Linter
 - [TypeScript](https://www.typescriptlang.org): Language
 
