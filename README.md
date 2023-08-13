@@ -210,6 +210,7 @@
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ---
+[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)
 
 ## Contributing
 

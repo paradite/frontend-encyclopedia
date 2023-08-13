@@ -1,5 +1,7 @@
 # Frontend Encyclopedia - Chronological Order
 
+[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)
+
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
@@ -155,6 +157,7 @@
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ---
+[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)
 
 ## Contributing
 

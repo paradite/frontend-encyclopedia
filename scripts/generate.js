@@ -20,9 +20,13 @@ function getAdditionalInfo(term) {
   return dateInfo;
 }
 
-const contributing = `---
+const subHeading = `[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)\n
+`;
 
-## Contributing
+const contributing =
+  `---\n` +
+  subHeading +
+  `## Contributing
 
 Pull requests are welcome! Take note of the following guidelines:
 
@@ -47,9 +51,8 @@ Either one of the following must be true:
 
 // README.md
 
-let readmeContent = '# Frontend Encyclopedia\n\n';
-readmeContent += `[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)\n
-`;
+let readmeContent =
+  '# Frontend Encyclopedia\n\n' + subHeading;
 
 for (const key in data) {
   readmeContent += `### ${key}\n`;
@@ -100,7 +103,7 @@ for (const key in data) {
 }
 
 let categoriesContent =
-  '# Frontend Encyclopedia - Categories\n\n';
+  '# Frontend Encyclopedia - Categories\n\n' + subHeading;
 
 Object.keys(categories)
   .sort()
@@ -148,7 +151,8 @@ for (const key in data) {
 }
 
 let chronologicalContent =
-  '# Frontend Encyclopedia - Chronological Order\n\n';
+  '# Frontend Encyclopedia - Chronological Order\n\n' +
+  subHeading;
 
 Object.keys(chronological)
   .sort((a, b) => a - b)
