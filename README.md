@@ -32,6 +32,7 @@ List by
 - [Chakra UI](https://chakra-ui.com): UI Components Library ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Chart.js](https://www.chartjs.org): UI Library ([2013](https://www.chartjs.org/docs/latest/))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
+- [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/): Library ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Language ([1996](https://en.wikipedia.org/wiki/CSS))
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
@@ -69,7 +70,7 @@ List by
 ### G
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Git](https://git-scm.com): Version Control System ([2005](https://en.wikipedia.org/wiki/Git))
-- [GitHub Pages](https://pages.github.com/): Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
+- [GitHub Pages](https://pages.github.com/): Deployment & Hosting ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [Glide.js](https://glidejs.com/): UI Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
@@ -144,8 +145,8 @@ List by
 
 ### R
 - [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
-- [React Native](https://reactnative.dev): Framework
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library
+- [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
@@ -154,28 +155,28 @@ List by
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
-- [Relay](https://relay.dev): Library
+- [Relay](https://relay.dev): Library ([2016](https://github.com/facebook/relay/releases/tag/v0.1.0))
 - [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
-- [Render](https://render.com/): Deployment
-- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification
+- [Render](https://render.com/): Deployment & Hosting ([2019](https://render.com/about))
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification ([2000](https://web.archive.org/web/20210512181107/https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm))
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Rollup](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
-- [RxJS](https://rxjs.dev): Library
+- [RxJS](https://rxjs.dev): Library ([2015](https://www.npmjs.com/package/rxjs?activeTab=versions))
 
 ### S
-- [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language
+- [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language ([2006](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)))
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization): Development Practice ([1997](https://en.wikipedia.org/wiki/Search_engine_optimization))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
-- [Socket.IO](https://socket.io): Library
-- [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
+- [Socket.IO](https://socket.io): Library ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))
+- [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
 - [SPA](https://en.wikipedia.org/wiki/Single-page_application): Web Application Model ([2003](https://en.wikipedia.org/wiki/Single-page_application))
 - [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
-- [styled-components](https://styled-components.com): Library
-- [Svelte](https://svelte.dev): Framework
-- [SVG](https://en.wikipedia.org/wiki/SVG): Data Format
+- [styled-components](https://styled-components.com): Library ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
+- [Svelte](https://svelte.dev): Framework ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
+- [SVG](https://en.wikipedia.org/wiki/SVG): Data Format ([2001](https://en.wikipedia.org/wiki/SVG))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [SWR](https://swr.vercel.app/): Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 
@@ -194,7 +195,7 @@ List by
 - [Underscore.js](https://underscorejs.org): Utility Library
 
 ### V
-- [Vercel](https://vercel.com/): Deployment ([2015](https://en.wikipedia.org/wiki/Vercel))
+- [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Vite](https://vitejs.dev): Build Tool
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
@@ -205,7 +206,7 @@ List by
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket): Technology
 
 ### X
-- [XState](https://xstate.js.org): Library
+- [XState](https://xstate.js.org): State Management Library
 - [xstyled](https://xstyled.dev/): CSS Framework ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### Y

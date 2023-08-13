@@ -30,8 +30,12 @@ List by
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Concept ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility): Development Practice ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
 
+### 2000
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification ([2000](https://web.archive.org/web/20210512181107/https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm))
+
 ### 2001
 - [JSON](https://en.wikipedia.org/wiki/JSON): Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
+- [SVG](https://en.wikipedia.org/wiki/SVG): Data Format ([2001](https://en.wikipedia.org/wiki/SVG))
 
 ### 2003
 - [SPA](https://en.wikipedia.org/wiki/Single-page_application): Web Application Model ([2003](https://en.wikipedia.org/wiki/Single-page_application))
@@ -42,6 +46,7 @@ List by
 
 ### 2006
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
+- [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language ([2006](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)))
 
 ### 2007
 - [OAuth](https://oauth.net): Specification ([2007](https://oauth.net/1/))
@@ -49,9 +54,10 @@ List by
 ### 2008
 - [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
-- [GitHub Pages](https://pages.github.com/): Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
+- [GitHub Pages](https://pages.github.com/): Deployment & Hosting ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 
 ### 2009
+- [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
 - [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 
@@ -61,6 +67,7 @@ List by
 - [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
 - [npm](https://www.npmjs.com): Package Manager ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
+- [Socket.IO](https://socket.io): Library ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))
 
 ### 2011
 - [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
@@ -123,11 +130,13 @@ List by
 - [GraphQL](https://graphql.org): Specification ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Web Application Model ([2015](https://en.wikipedia.org/wiki/Progressive_web_application))
+- [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
+- [RxJS](https://rxjs.dev): Library ([2015](https://www.npmjs.com/package/rxjs?activeTab=versions))
 - [Rollup](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
-- [Vercel](https://vercel.com/): Deployment ([2015](https://en.wikipedia.org/wiki/Vercel))
+- [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 
 ### 2016
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -142,7 +151,10 @@ List by
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://github.com/pugjs/pug/issues/2184), Formerly known as Jade. Last release was in 2021.)
 - [pnpm](https://pnpm.io/): Package Manager ([2016](https://www.npmjs.com/package/pnpm?activeTab=versions))
 - [Quasar](https://quasar.dev): Framework ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
+- [Relay](https://relay.dev): Library ([2016](https://github.com/facebook/relay/releases/tag/v0.1.0))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
+- [styled-components](https://styled-components.com): Library ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
+- [Svelte](https://svelte.dev): Framework ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
@@ -161,14 +173,16 @@ List by
 - [day.js](https://day.js.org): Date & Time Library ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
 - [docz](https://www.docz.site/): Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
-- [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
+- [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
 - [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [Redux Toolkit](https://redux-toolkit.js.org/): State Management Library ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
+- [Render](https://render.com/): Deployment & Hosting ([2019](https://render.com/about))
 - [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [SWR](https://swr.vercel.app/): Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [TSDX](https://tsdx.io/): Library ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))

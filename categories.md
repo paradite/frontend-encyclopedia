@@ -45,16 +45,16 @@ List by
 
 ### Data Format
 - [JSON](https://en.wikipedia.org/wiki/JSON) ([2001](https://en.wikipedia.org/wiki/JSON))
-- [SVG](https://en.wikipedia.org/wiki/SVG)
+- [SVG](https://en.wikipedia.org/wiki/SVG) ([2001](https://en.wikipedia.org/wiki/SVG))
 
 ### Date & Time Library
 - [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org) ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
 - [Moment.js](https://momentjs.com) ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 
-### Deployment
+### Deployment & Hosting
 - [GitHub Pages](https://pages.github.com/) ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
-- [Render](https://render.com/)
+- [Render](https://render.com/) ([2019](https://render.com/about))
 - [Vercel](https://vercel.com/) ([2015](https://en.wikipedia.org/wiki/Vercel))
 
 ### Design Tool
@@ -84,12 +84,12 @@ List by
 - [Next.js](https://nextjs.org) ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Quasar](https://quasar.dev) ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
-- [React Native](https://reactnative.dev)
+- [React Native](https://reactnative.dev) ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
 - [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Remix](https://remix.run/) ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [reveal.js](https://revealjs.com/) ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
-- [SolidJS](https://www.solidjs.com/) ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
-- [Svelte](https://svelte.dev)
+- [SolidJS](https://www.solidjs.com/) ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
+- [Svelte](https://svelte.dev) ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
 - [Vue.js](https://vuejs.org) ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### Game Development
@@ -102,11 +102,12 @@ List by
 - [react-icons](https://react-icons.github.io/react-icons/) ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 
 ### Language
+- [CoffeeScript](https://coffeescript.org) ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) ([1996](https://en.wikipedia.org/wiki/CSS))
 - [HTML](https://en.wikipedia.org/wiki/HTML) ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Less](https://lesscss.org) ([2009](https://lesscss.org/about/))
-- [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
+- [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) ([2006](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)))
 - [TypeScript](https://www.typescriptlang.org) ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### Library
@@ -118,15 +119,14 @@ List by
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron) ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
-- [Relay](https://relay.dev)
-- [RxJS](https://rxjs.dev)
-- [Socket.IO](https://socket.io)
-- [styled-components](https://styled-components.com)
+- [Relay](https://relay.dev) ([2016](https://github.com/facebook/relay/releases/tag/v0.1.0))
+- [RxJS](https://rxjs.dev) ([2015](https://www.npmjs.com/package/rxjs?activeTab=versions))
+- [Socket.IO](https://socket.io) ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))
+- [styled-components](https://styled-components.com) ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
 - [SWR](https://swr.vercel.app/) ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [TSDX](https://tsdx.io/) ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
-- [XState](https://xstate.js.org)
 - [Zod](https://zod.dev)
 
 ### Linter
@@ -154,7 +154,7 @@ List by
 - [GraphQL](https://graphql.org) ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [JSON-RPC](https://www.jsonrpc.org) ([2005](https://www.jsonrpc.org/specification_v1))
 - [OAuth](https://oauth.net) ([2007](https://oauth.net/1/))
-- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) ([2000](https://web.archive.org/web/20210512181107/https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm))
 
 ### State Management Library
 - [Pinia](https://pinia.vuejs.org/) ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
@@ -162,6 +162,7 @@ List by
 - [Redux-Saga](https://redux-saga.js.org) ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Redux](https://redux.js.org) ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 - [RefluxJS](https://github.com/reflux/refluxjs) ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
+- [XState](https://xstate.js.org)
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ### Task Runner
@@ -185,7 +186,7 @@ List by
 - [Karma](https://karma-runner.github.io) ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 - [Mocha](https://mochajs.org) ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
 - [Playwright](https://playwright.dev) ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 
 ### UI Components Library

@@ -176,6 +176,15 @@
       "type": "Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/cropperjs?activeTab=versions"
+    },
+    {
+      "name": "CoffeeScript",
+      "url": "https://coffeescript.org",
+      "type": "Language",
+      "year_created": 2009,
+      "year_created_source": "https://github.com/jashkenas/coffeescript/tags?after=0.1.1",
+      "year_created_source_alt": "https://coffeescript.org/#changelog",
+      "note": "Last release was in 2022."
     }
   ],
   "D": [
@@ -376,7 +385,7 @@
     {
       "name": "GitHub Pages",
       "url": "https://pages.github.com/",
-      "type": "Deployment",
+      "type": "Deployment & Hosting",
       "year_created": 2008,
       "year_created_source": "https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/"
     },
@@ -767,12 +776,17 @@
     {
       "name": "React Native",
       "url": "https://reactnative.dev",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2015,
+      "year_created_source": "https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/",
+      "year_created_source_alt": "https://reactnative.dev/blog/2015/03/26/react-native-bringing-modern-web-techniques-to-mobile"
     },
     {
       "name": "React Testing Library",
       "url": "https://testing-library.com/docs/react-testing-library/intro/",
-      "type": "Testing Library"
+      "type": "Testing Library",
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/react-testing-library?activeTab=versions"
     },
     {
       "name": "Redux",
@@ -805,22 +819,31 @@
     {
       "name": "REST",
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
-      "type": "Specification"
+      "type": "Specification",
+      "year_created": 2000,
+      "year_created_source": "https://web.archive.org/web/20210512181107/https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
+      "year_created_source_alt": "https://en.wikipedia.org/wiki/Representational_state_transfer"
     },
     {
       "name": "RxJS",
       "url": "https://rxjs.dev",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/rxjs?activeTab=versions"
     },
     {
       "name": "Render",
       "url": "https://render.com/",
-      "type": "Deployment"
+      "type": "Deployment & Hosting",
+      "year_created": 2019,
+      "year_created_source": "https://render.com/about"
     },
     {
       "name": "Relay",
       "url": "https://relay.dev",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2016,
+      "year_created_source": "https://github.com/facebook/relay/releases/tag/v0.1.0"
     },
     {
       "name": "Rebass",
@@ -877,34 +900,45 @@
     {
       "name": "Sass",
       "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
-      "type": "Language"
+      "type": "Language",
+      "year_created": 2006,
+      "year_created_source": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)"
     },
     {
       "name": "styled-components",
       "url": "https://styled-components.com",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2016,
+      "year_created_source": "https://www.npmjs.com/package/styled-components?activeTab=versions"
     },
     {
       "name": "Svelte",
       "url": "https://svelte.dev",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2016,
+      "year_created_source": "https://svelte.dev/blog/frameworks-without-the-framework",
+      "year_created_source_alt": "https://github.com/sveltejs/svelte/tags?after=v1.0.1"
     },
     {
       "name": "SVG",
       "url": "https://en.wikipedia.org/wiki/SVG",
-      "type": "Data Format"
+      "type": "Data Format",
+      "year_created": 2001,
+      "year_created_source": "https://en.wikipedia.org/wiki/SVG"
     },
     {
       "name": "SolidJS",
       "url": "https://www.solidjs.com/",
       "type": "Framework",
       "year_created": 2018,
-      "year_created_source": "https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/"
+      "year_created_source": "https://www.npmjs.com/package/solid-js?activeTab=versions"
     },
     {
       "name": "Socket.IO",
       "url": "https://socket.io",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2010,
+      "year_created_source": "https://www.npmjs.com/package/socket.io?activeTab=versions"
     },
     {
       "name": "SWR",
@@ -1051,7 +1085,7 @@
     {
       "name": "Vercel",
       "url": "https://vercel.com/",
-      "type": "Deployment",
+      "type": "Deployment & Hosting",
       "year_created": 2015,
       "year_created_source": "https://en.wikipedia.org/wiki/Vercel",
       "year_created_source_alt": "https://www.businessinsider.com/vercel-zeit-pitch-deck-21-million-accel-github-ceo-2020-4"
@@ -1085,7 +1119,7 @@
     {
       "name": "XState",
       "url": "https://xstate.js.org",
-      "type": "Library"
+      "type": "State Management Library"
     },
     {
       "name": "xstyled",
