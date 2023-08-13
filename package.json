@@ -1,9 +1,6 @@
 {
-  "devDependencies": {
-    "husky": "^8.0.3"
-  },
+  "name": "frontend-encyclopedia",
   "scripts": {
-    "prepare": "husky install",
     "generate": "node scripts/generate.js"
   },
   "prettier": {
