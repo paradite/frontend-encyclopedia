@@ -1,5 +1,4 @@
-# Frontend Encyclopedia - Chronological Order
-
+<div align="center"><h1>Frontend Encyclopedia - Chronological Order</h1></div>
 <div align="center">
 List by
 <a href="README.md">Alphabetical order</a> |

@@ -59,7 +59,8 @@ Either one of the following must be true:
 // README.md
 
 let readmeContent =
-  '# Frontend Encyclopedia\n\n' + subHeading;
+  '<div align="center"><h1>Frontend Encyclopedia</h1></div>\n' +
+  subHeading;
 
 for (const key in data) {
   readmeContent += `### ${key}\n`;
@@ -110,7 +111,8 @@ for (const key in data) {
 }
 
 let categoriesContent =
-  '# Frontend Encyclopedia - Categories\n\n' + subHeading;
+  '<div align="center"><h1>Frontend Encyclopedia - Categories</h1></div>\n' +
+  subHeading;
 
 Object.keys(categories)
   .sort()
@@ -158,7 +160,7 @@ for (const key in data) {
 }
 
 let chronologicalContent =
-  '# Frontend Encyclopedia - Chronological Order\n\n' +
+  '<div align="center"><h1>Frontend Encyclopedia - Chronological Order</h1></div>\n' +
   subHeading;
 
 Object.keys(chronological)

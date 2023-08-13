@@ -1,5 +1,4 @@
-# Frontend Encyclopedia - Categories
-
+<div align="center"><h1>Frontend Encyclopedia - Categories</h1></div>
 <div align="center">
 List by
 <a href="README.md">Alphabetical order</a> |
