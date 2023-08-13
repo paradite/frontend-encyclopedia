@@ -225,7 +225,6 @@ List by
 ### Version Control System
 - [Bitbucket](https://bitbucket.org) ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [Git](https://git-scm.com) ([2005](https://en.wikipedia.org/wiki/Git))
-- [GitHub Desktop](https://desktop.github.com/) ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [GitHub](https://github.com) ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/))
 

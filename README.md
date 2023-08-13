@@ -70,7 +70,6 @@ List by
 ### G
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Git](https://git-scm.com): Version Control System ([2005](https://en.wikipedia.org/wiki/Git))
-- [GitHub Desktop](https://desktop.github.com/): Version Control System ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [GitHub Pages](https://pages.github.com/): Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))

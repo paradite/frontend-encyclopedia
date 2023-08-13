@@ -374,13 +374,6 @@
       "year_created_source": "https://en.wikipedia.org/wiki/GitHub"
     },
     {
-      "name": "GitHub Desktop",
-      "url": "https://desktop.github.com/",
-      "type": "Version Control System",
-      "year_created": 2017,
-      "year_created_source": "https://github.blog/2017-09-19-announcing-github-desktop-1-0/"
-    },
-    {
       "name": "GitHub Pages",
       "url": "https://pages.github.com/",
       "type": "Deployment",

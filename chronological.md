@@ -148,7 +148,6 @@ List by
 - [Docusaurus](https://docusaurus.io/): Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
 - [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
-- [GitHub Desktop](https://desktop.github.com/): Version Control System ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 
