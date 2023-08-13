@@ -9,6 +9,9 @@
 ### 1996
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Language ([1996](https://en.wikipedia.org/wiki/CSS))
 
+### 1998
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Specification ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
+
 ### 1999
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 
@@ -36,6 +39,7 @@
 - [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Chai](https://www.chaijs.com): Testing Library ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
+- [D3.js](https://d3js.org): UI Library ([2011](https://www.npmjs.com/package/d3?activeTab=versions))
 - [Ember.js](https://emberjs.com): Framework ([2011](https://g.co/kgs/b5E63S))
 - [Firebase](https://firebase.google.com): Backend-as-a-Service (2011)
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
@@ -111,6 +115,7 @@
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 
 ### 2018
+- [day.js](https://day.js.org): Date & Time Library ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
 - [docz](https://www.docz.site/): Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))

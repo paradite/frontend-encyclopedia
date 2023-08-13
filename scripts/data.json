@@ -175,17 +175,24 @@
     {
       "name": "day.js",
       "url": "https://day.js.org",
-      "type": "Date & Time Library"
+      "type": "Date & Time Library",
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/dayjs?activeTab=versions"
     },
     {
       "name": "D3.js",
       "url": "https://d3js.org",
-      "type": "UI Library"
+      "type": "UI Library",
+      "year_created": 2011,
+      "year_created_source": "https://www.npmjs.com/package/d3?activeTab=versions",
+      "year_created_source_alt": "https://github.com/d3/d3/tags?after=v1.5.1"
     },
     {
       "name": "DOM",
       "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
-      "type": "Specification"
+      "type": "Specification",
+      "year_created": 1998,
+      "year_created_source": "https://en.wikipedia.org/wiki/Document_Object_Model"
     },
     {
       "name": "date-fns",

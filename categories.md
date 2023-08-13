@@ -43,7 +43,7 @@
 
 ### Date & Time Library
 - [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
-- [day.js](https://day.js.org)
+- [day.js](https://day.js.org) ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
 - [Moment.js](https://momentjs.com)
 
 ### Deployment
@@ -139,7 +139,7 @@
 - [Node.js](https://nodejs.org)
 
 ### Specification
-- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model)
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
 - [GraphQL](https://graphql.org) (2011)
 - [JSON-RPC](https://www.jsonrpc.org)
@@ -192,7 +192,7 @@
 ### UI Library
 - [AlertifyJS](https://alertifyjs.com/) ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Chart.js](https://www.chartjs.org) ([2013](https://www.chartjs.org/docs/latest/))
-- [D3.js](https://d3js.org)
+- [D3.js](https://d3js.org) ([2011](https://www.npmjs.com/package/d3?activeTab=versions))
 - [ECharts](https://echarts.apache.org/en/index.html) ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
 - [Formik](https://formik.org/) ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Glide.js](https://glidejs.com/) ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
