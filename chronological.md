@@ -50,14 +50,13 @@ List by
 - [D3.js](https://d3js.org): UI Library ([2011](https://www.npmjs.com/package/d3?activeTab=versions))
 - [Ember.js](https://emberjs.com): Framework ([2011](https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/))
 - [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
-- [Firebase](https://firebase.google.com): Backend-as-a-Service (2011)
+- [Foundation](https://get.foundation): UI Components Library ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
-- [GraphQL](https://graphql.org): Specification (2011)
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 
 ### 2012
-- [Figma](https://www.figma.com): Design Tool (2012)
-- [Font Awesome](https://fontawesome.com): Icon Library (2012)
+- [Firebase](https://firebase.google.com): Backend-as-a-Service ([2012](https://en.wikipedia.org/wiki/Firebase))
+- [Font Awesome](https://fontawesome.com): Icon Library ([2012](https://fontawesome.com/versions))
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
 - [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
@@ -93,8 +92,8 @@ List by
 - [date-fns](https://date-fns.org/): Date & Time Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
-- [Flutter](https://flutter.dev): Framework (2015)
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
+- [GraphQL](https://graphql.org): Specification ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Rollup](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
@@ -106,7 +105,8 @@ List by
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Anime.js](https://animejs.com): Library ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Apollo](https://www.apollographql.com): Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
-- [Fastify](https://fastify.dev): Backend-as-a-Service (2016)
+- [Figma](https://www.figma.com): Design Tool ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
+- [Fastify](https://fastify.dev): Backend-as-a-Service ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
 - [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
@@ -118,6 +118,7 @@ List by
 ### 2017
 - [Angular Universal](https://angular.io/guide/universal): Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Docusaurus](https://docusaurus.io/): Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
+- [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [GitHub Desktop](https://desktop.github.com/): Version Control System ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
@@ -148,7 +149,7 @@ List by
 
 ### 2021
 - [Astro](https://astro.build/): Framework ([2021](https://astro.build/blog/introducing-astro/))
-- [Flowbite](https://flowbite.com/): UI Components Library (2021)
+- [Flowbite](https://flowbite.com/): UI Components Library ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 - [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))

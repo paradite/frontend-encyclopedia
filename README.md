@@ -57,14 +57,14 @@ List by
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 
 ### F
-- [Fastify](https://fastify.dev): Backend-as-a-Service (2016)
-- [Figma](https://www.figma.com): Design Tool (2012)
-- [Firebase](https://firebase.google.com): Backend-as-a-Service (2011)
-- [Flowbite](https://flowbite.com/): UI Components Library (2021)
-- [Flutter](https://flutter.dev): Framework (2015)
-- [Font Awesome](https://fontawesome.com): Icon Library (2012)
+- [Fastify](https://fastify.dev): Backend-as-a-Service ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
+- [Figma](https://www.figma.com): Design Tool ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
+- [Firebase](https://firebase.google.com): Backend-as-a-Service ([2012](https://en.wikipedia.org/wiki/Firebase))
+- [Flowbite](https://flowbite.com/): UI Components Library ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))
+- [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
+- [Font Awesome](https://fontawesome.com): Icon Library ([2012](https://fontawesome.com/versions))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
-- [Foundation](https://get.foundation): UI Components Library
+- [Foundation](https://get.foundation): UI Components Library ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
 
 ### G
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
@@ -74,7 +74,7 @@ List by
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [Glide.js](https://glidejs.com/): UI Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
-- [GraphQL](https://graphql.org): Specification (2011)
+- [GraphQL](https://graphql.org): Specification ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 

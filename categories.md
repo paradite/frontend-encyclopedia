@@ -13,8 +13,8 @@ List by
 - [Postman](https://www.postman.com)
 
 ### Backend-as-a-Service
-- [Fastify](https://fastify.dev) (2016)
-- [Firebase](https://firebase.google.com) (2011)
+- [Fastify](https://fastify.dev) ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
+- [Firebase](https://firebase.google.com) ([2012](https://en.wikipedia.org/wiki/Firebase))
 
 ### Build Tool
 - [Babel](https://babeljs.io) ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
@@ -60,7 +60,7 @@ List by
 - [Vercel](https://vercel.com/) ([2015](https://en.wikipedia.org/wiki/Vercel))
 
 ### Design Tool
-- [Figma](https://www.figma.com) (2012)
+- [Figma](https://www.figma.com) ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
 
 ### Documentation Library
 - [Docusaurus](https://docusaurus.io/) ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
@@ -74,7 +74,7 @@ List by
 - [Backbone.js](https://backbonejs.org) ([2010](https://backbonejs.org/#changelog))
 - [Electron](https://www.electronjs.org) ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [Ember.js](https://emberjs.com) ([2011](https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/))
-- [Flutter](https://flutter.dev) (2015)
+- [Flutter](https://flutter.dev) ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Gatsby](https://www.gatsbyjs.com) ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Ionic](https://ionicframework.com) ([2012](https://ionic.io/about))
 - [Meteor.js](https://www.meteor.com)
@@ -95,7 +95,7 @@ List by
 - [phaser](https://phaser.io/) ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 
 ### Icon Library
-- [Font Awesome](https://fontawesome.com) (2012)
+- [Font Awesome](https://fontawesome.com) ([2012](https://fontawesome.com/versions))
 - [react-icons](https://react-icons.github.io/react-icons/) ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 
 ### Language
@@ -149,7 +149,7 @@ List by
 ### Specification
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
-- [GraphQL](https://graphql.org) (2011)
+- [GraphQL](https://graphql.org) ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [JSON-RPC](https://www.jsonrpc.org)
 - [OAuth](https://oauth.net)
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
@@ -192,8 +192,8 @@ List by
 - [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Chakra UI](https://chakra-ui.com) ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
-- [Flowbite](https://flowbite.com/) (2021)
-- [Foundation](https://get.foundation)
+- [Flowbite](https://flowbite.com/) ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))
+- [Foundation](https://get.foundation) ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
 - [Material UI](https://mui.com) ([2014](https://mui.com/about/))
 - [Rebass](https://rebassjs.org/) ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 

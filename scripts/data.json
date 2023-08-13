@@ -289,42 +289,52 @@
       "name": "Figma",
       "url": "https://www.figma.com",
       "type": "Design Tool",
-      "year_created": 2012
+      "year_created": 2016,
+      "year_created_source": "https://en.wikipedia.org/wiki/Figma_(software)"
     },
     {
       "name": "Flutter",
       "url": "https://flutter.dev",
       "type": "Framework",
-      "year_created": 2015
+      "year_created": 2017,
+      "year_created_source": "https://en.wikipedia.org/wiki/Flutter_(software)",
+      "year_created_source_alt": "https://github.com/flutter/flutter/tags?after=v0.0.11"
     },
     {
       "name": "Foundation",
       "url": "https://get.foundation",
-      "type": "UI Components Library"
+      "type": "UI Components Library",
+      "year_created": 2011,
+      "year_created_source": "https://github.com/foundation/foundation-sites/tags?after=v2.2"
     },
     {
       "name": "Firebase",
       "url": "https://firebase.google.com",
       "type": "Backend-as-a-Service",
-      "year_created": 2011
+      "year_created": 2012,
+      "year_created_source": "https://en.wikipedia.org/wiki/Firebase"
     },
     {
       "name": "Flowbite",
       "url": "https://flowbite.com/",
       "type": "UI Components Library",
-      "year_created": 2021
+      "year_created": 2021,
+      "year_created_source": "https://github.com/themesberg/flowbite/tags?after=v1.3.0"
     },
     {
       "name": "Fastify",
       "url": "https://fastify.dev",
       "type": "Backend-as-a-Service",
-      "year_created": 2016
+      "year_created": 2016,
+      "year_created_source": "https://github.com/fastify/fastify/tags?after=v0.6.0"
     },
     {
       "name": "Font Awesome",
       "url": "https://fontawesome.com",
       "type": "Icon Library",
-      "year_created": 2012
+      "year_created": 2012,
+      "year_created_source": "https://fontawesome.com/versions",
+      "year_created_source_alt": "https://github.com/FortAwesome/Font-Awesome/releases/tag/v1.0.0"
     },
     {
       "name": "Formik",
@@ -395,7 +405,8 @@
       "name": "GraphQL",
       "url": "https://graphql.org",
       "type": "Specification",
-      "year_created": 2011
+      "year_created": 2015,
+      "year_created_source": "https://github.com/graphql/graphql-spec/releases/tag/July2015"
     },
     {
       "name": "Glide.js",
