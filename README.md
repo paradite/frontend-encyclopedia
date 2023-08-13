@@ -9,7 +9,7 @@ List by
 
 ### A
 - [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility): Development Practice ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Concept ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Technology ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AlertifyJS](https://alertifyjs.com/): UI Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Angular Universal](https://angular.io/guide/universal): Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -75,7 +75,7 @@ List by
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [Glide.js](https://glidejs.com/): UI Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [GraphQL](https://graphql.org): Specification ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
-- [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
+- [Grunt](https://gruntjs.com/): Build Tool ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 
 ### H
@@ -166,6 +166,7 @@ List by
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language ([2006](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)))
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
+- [SemVer](https://semver.org/): Specification ([2011](https://github.com/semver/semver/tags))
 - [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization): Development Practice ([1997](https://en.wikipedia.org/wiki/Search_engine_optimization))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Socket.IO](https://socket.io): Library ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))

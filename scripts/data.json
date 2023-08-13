@@ -3,7 +3,7 @@
     {
       "name": "Ajax",
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
-      "type": "Programming Concept",
+      "type": "Technology",
       "year_created": 1999,
       "year_created_source": "https://en.wikipedia.org/wiki/Ajax_(programming)"
     },
@@ -399,7 +399,7 @@
     {
       "name": "Grunt",
       "url": "https://gruntjs.com/",
-      "type": "Task Runner",
+      "type": "Build Tool",
       "year_created": 2016,
       "year_created_source": "https://en.wikipedia.org/wiki/Grunt_(software)"
     },
@@ -1002,6 +1002,13 @@
       "type": "Development Practice",
       "year_created": 1997,
       "year_created_source": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "name": "SemVer",
+      "url": "https://semver.org/",
+      "type": "Specification",
+      "year_created": 2011,
+      "year_created_source": "https://github.com/semver/semver/tags"
     }
   ],
   "T": [

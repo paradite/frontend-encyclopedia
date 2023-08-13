@@ -28,7 +28,7 @@ List by
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Specification ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 
 ### 1999
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Concept ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Technology ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility): Development Practice ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
 
 ### 2000
@@ -83,6 +83,7 @@ List by
 - [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
 - [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
+- [SemVer](https://semver.org/): Specification ([2011](https://github.com/semver/semver/tags))
 - [Travis CI](https://www.travis-ci.com): CI/CD Service ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket): Technology ([2011](https://en.wikipedia.org/wiki/WebSocket))
 - [WebRTC](https://w3c.github.io/webrtc-pc/): Technology ([2011](https://www.w3.org/standards/history/webrtc/))
@@ -152,7 +153,7 @@ List by
 - [Apollo](https://www.apollographql.com): Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Figma](https://www.figma.com): Design Tool ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
 - [Fastify](https://fastify.dev): Backend-as-a-Service ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
-- [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
+- [Grunt](https://gruntjs.com/): Build Tool ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))

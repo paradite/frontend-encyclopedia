@@ -17,6 +17,7 @@ List by
 
 ### Build Tool
 - [Babel](https://babeljs.io) ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
+- [Grunt](https://gruntjs.com/) ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com) ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [Parcel](https://parceljs.org) ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [Rollup](https://rollupjs.org/) ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
@@ -141,9 +142,6 @@ List by
 - [pnpm](https://pnpm.io/) ([2016](https://www.npmjs.com/package/pnpm?activeTab=versions))
 - [Yarn](https://yarnpkg.com) ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
-### Programming Concept
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
-
 ### Runtime Environment
 - [Deno](https://deno.land/) ([2020](https://deno.com/blog/v1))
 - [Node.js](https://nodejs.org) ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
@@ -155,6 +153,7 @@ List by
 - [JSON-RPC](https://www.jsonrpc.org) ([2005](https://www.jsonrpc.org/specification_v1))
 - [OAuth](https://oauth.net) ([2007](https://oauth.net/1/))
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) ([2000](https://web.archive.org/web/20210512181107/https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm))
+- [SemVer](https://semver.org/) ([2011](https://github.com/semver/semver/tags))
 
 ### State Management Library
 - [Pinia](https://pinia.vuejs.org/) ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
@@ -165,10 +164,8 @@ List by
 - [XState](https://xstate.js.org) ([2017](https://www.npmjs.com/package/xstate?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
-### Task Runner
-- [Grunt](https://gruntjs.com/) ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
-
 ### Technology
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Angular Universal](https://angular.io/guide/universal) ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [WebRTC](https://w3c.github.io/webrtc-pc/) ([2011](https://www.w3.org/standards/history/webrtc/))
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket) ([2011](https://en.wikipedia.org/wiki/WebSocket))
