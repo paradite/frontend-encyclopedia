@@ -65,7 +65,7 @@
 - [Astro](https://astro.build/) ([2021](https://astro.build/blog/introducing-astro/))
 - [Backbone.js](https://backbonejs.org) ([2010](https://backbonejs.org/#changelog))
 - [Electron](https://www.electronjs.org) ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
-- [Ember.js](https://emberjs.com) ([2011](https://g.co/kgs/b5E63S))
+- [Ember.js](https://emberjs.com) ([2011](https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/))
 - [Flutter](https://flutter.dev) (2015)
 - [Gatsby](https://www.gatsbyjs.com) ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Ionic](https://ionicframework.com) ([2012](https://ionic.io/about))
@@ -140,7 +140,7 @@
 
 ### Specification
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
-- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022)
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [GraphQL](https://graphql.org) (2011)
 - [JSON-RPC](https://www.jsonrpc.org)
 - [OAuth](https://oauth.net)
@@ -165,14 +165,14 @@
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
 ### Template Engine
-- [EJS](https://ejs.co/)
+- [EJS](https://ejs.co/) ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Jade](https://pugjs.org/api/getting-started.html) (2010 - 2015, Renamed to Pug)
 - [Pug](https://pugjs.org/api/getting-started.html) ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
 
 ### Testing Library
 - [Chai](https://www.chaijs.com) ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [Cypress](https://www.cypress.io) ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
-- [Enzyme](https://enzymejs.github.io/enzyme/) (2015, Last release was in 2019.)
+- [Enzyme](https://enzymejs.github.io/enzyme/) ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
 - [Mocha](https://mochajs.org)
 - [Playwright](https://playwright.dev)

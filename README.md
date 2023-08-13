@@ -42,11 +42,11 @@
 
 ### E
 - [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
-- [EJS](https://ejs.co/): Template Engine
+- [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
-- [Ember.js](https://emberjs.com): Framework ([2011](https://g.co/kgs/b5E63S))
-- [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library (2015, Last release was in 2019.)
-- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification
+- [Ember.js](https://emberjs.com): Framework ([2011](https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/))
+- [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [ESLint](https://eslint.org): Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 

@@ -236,8 +236,9 @@
       "name": "Ember.js",
       "url": "https://emberjs.com",
       "type": "Framework",
-      "year_created": "2011",
-      "year_created_source": "https://g.co/kgs/b5E63S"
+      "year_created": 2011,
+      "year_created_source": "https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/",
+      "year_created_source_alt": "https://github.com/emberjs/ember.js/tags?after=v0.9.2"
     },
     {
       "name": "ESLint",
@@ -249,18 +250,23 @@
     {
       "name": "ES2022",
       "url": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022",
-      "type": "Specification"
+      "type": "Specification",
+      "year_created": 2022,
+      "year_created_source": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022"
     },
     {
       "name": "EJS",
       "url": "https://ejs.co/",
-      "type": "Template Engine"
+      "type": "Template Engine",
+      "year_created": 2011,
+      "year_created_source": "https://www.npmjs.com/package/ejs?activeTab=versions"
     },
     {
       "name": "Enzyme",
       "url": "https://enzymejs.github.io/enzyme/",
       "type": "Testing Library",
       "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/enzyme?activeTab=versions",
       "note": "Last release was in 2019."
     },
     {

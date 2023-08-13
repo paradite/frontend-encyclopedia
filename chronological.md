@@ -40,7 +40,8 @@
 - [Chai](https://www.chaijs.com): Testing Library ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
 - [D3.js](https://d3js.org): UI Library ([2011](https://www.npmjs.com/package/d3?activeTab=versions))
-- [Ember.js](https://emberjs.com): Framework ([2011](https://g.co/kgs/b5E63S))
+- [Ember.js](https://emberjs.com): Framework ([2011](https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/))
+- [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Firebase](https://firebase.google.com): Backend-as-a-Service (2011)
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [GraphQL](https://graphql.org): Specification (2011)
@@ -82,7 +83,7 @@
 - [AlertifyJS](https://alertifyjs.com/): UI Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/): Library ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
 - [date-fns](https://date-fns.org/): Date & Time Library ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
-- [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library (2015, Last release was in 2019.)
+- [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
 - [Flutter](https://flutter.dev): Framework (2015)
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
@@ -145,6 +146,7 @@
 - [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 
 ### 2022
+- [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))
 - [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
