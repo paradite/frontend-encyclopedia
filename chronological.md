@@ -6,6 +6,7 @@ List by
 <a href="categories.md">Categories</a> | 
 <a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
+</div>
 
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
@@ -168,6 +169,7 @@ List by
 <a href="categories.md">Categories</a> | 
 <a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
+</div>
 
 ## Contributing
 

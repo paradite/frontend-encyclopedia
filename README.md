@@ -6,6 +6,7 @@ List by
 <a href="categories.md">Categories</a> | 
 <a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
+</div>
 
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -221,6 +222,7 @@ List by
 <a href="categories.md">Categories</a> | 
 <a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
+</div>
 
 ## Contributing
 

@@ -26,6 +26,7 @@ List by
 <a href="categories.md">Categories</a> | 
 <a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
+</div>
 
 `;
 
