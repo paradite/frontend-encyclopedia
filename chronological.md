@@ -9,7 +9,7 @@ List by
 </div>
 
 ### 1970
-- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Programming Technique ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Development Practice ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
 
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
@@ -21,11 +21,15 @@ List by
 ### 1996
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Language ([1996](https://en.wikipedia.org/wiki/CSS))
 
+### 1997
+- [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization): Development Practice ([1997](https://en.wikipedia.org/wiki/Search_engine_optimization))
+
 ### 1998
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Specification ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 
 ### 1999
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Concept ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
+- [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility): Development Practice ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
 
 ### 2001
 - [JSON](https://en.wikipedia.org/wiki/JSON): Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
@@ -40,6 +44,9 @@ List by
 ### 2006
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 
+### 2007
+- [OAuth](https://oauth.net): Specification ([2007](https://oauth.net/1/))
+
 ### 2008
 - [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
@@ -47,6 +54,7 @@ List by
 
 ### 2009
 - [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
+- [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 
 ### 2010
 - [AngularJS](https://angularjs.org): Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
@@ -64,6 +72,8 @@ List by
 - [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Foundation](https://get.foundation): UI Components Library ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
+- [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
+- [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 
 ### 2012
@@ -71,6 +81,7 @@ List by
 - [Font Awesome](https://fontawesome.com): Icon Library ([2012](https://fontawesome.com/versions))
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
 - [Lodash](https://lodash.com): Utility Library ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
+- [Meteor.js](https://www.meteor.com): Framework ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### 2013
@@ -125,6 +136,7 @@ List by
 - [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
+- [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://github.com/pugjs/pug/issues/2184), Formerly known as Jade. Last release was in 2021.)
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))

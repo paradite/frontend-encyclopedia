@@ -9,7 +9,8 @@ List by
 </div>
 
 ### A
-- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
+- [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility): Development Practice ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
+- [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Concept ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AlertifyJS](https://alertifyjs.com/): UI Library ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Angular Universal](https://angular.io/guide/universal): Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -83,7 +84,7 @@ List by
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
 ### I
-- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Programming Technique ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Development Practice ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
 - [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
@@ -110,20 +111,19 @@ List by
 - [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))
-- [Meteor.js](https://www.meteor.com): Framework
-- [Mocha](https://mochajs.org): Testing Library
-- [Moment.js](https://momentjs.com): Date & Time Library
+- [Meteor.js](https://www.meteor.com): Framework ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
+- [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
+- [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
 ### N
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
-- [Node Cron](https://github.com/node-cron/node-cron): Library
-- [Node.js](https://nodejs.org): Runtime Environment
-- [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts): Task Runner
+- [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
+- [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 - [npm](https://www.npmjs.com): Package Manager ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
 
 ### O
-- [OAuth](https://oauth.net): Specification
+- [OAuth](https://oauth.net): Specification ([2007](https://oauth.net/1/))
 
 ### P
 - [Panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
@@ -167,6 +167,7 @@ List by
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
+- [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization): Development Practice ([1997](https://en.wikipedia.org/wiki/Search_engine_optimization))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Socket.IO](https://socket.io): Library
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))

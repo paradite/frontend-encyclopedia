@@ -51,7 +51,7 @@ List by
 ### Date & Time Library
 - [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org) ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
-- [Moment.js](https://momentjs.com)
+- [Moment.js](https://momentjs.com) ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 
 ### Deployment
 - [GitHub Pages](https://pages.github.com/) ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
@@ -60,6 +60,11 @@ List by
 
 ### Design Tool
 - [Figma](https://www.figma.com) ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
+
+### Development Practice
+- [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility) ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
+- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+- [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) ([1997](https://en.wikipedia.org/wiki/Search_engine_optimization))
 
 ### Documentation Library
 - [Docusaurus](https://docusaurus.io/) ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
@@ -76,7 +81,7 @@ List by
 - [Flutter](https://flutter.dev) ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Gatsby](https://www.gatsbyjs.com) ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Ionic](https://ionicframework.com) ([2012](https://ionic.io/about))
-- [Meteor.js](https://www.meteor.com)
+- [Meteor.js](https://www.meteor.com) ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [Next.js](https://nextjs.org) ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Quasar](https://quasar.dev)
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
@@ -112,7 +117,7 @@ List by
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
 - [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
-- [Node Cron](https://github.com/node-cron/node-cron)
+- [Node Cron](https://github.com/node-cron/node-cron) ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [Relay](https://relay.dev)
 - [RxJS](https://rxjs.dev)
@@ -137,20 +142,19 @@ List by
 - [pnpm](https://pnpm.io/)
 - [Yarn](https://yarnpkg.com) ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
-### Programming Technique
+### Programming Concept
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
-- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
 
 ### Runtime Environment
 - [Deno](https://deno.land/) ([2020](https://deno.com/blog/v1))
-- [Node.js](https://nodejs.org)
+- [Node.js](https://nodejs.org) ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 
 ### Specification
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [GraphQL](https://graphql.org) ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [JSON-RPC](https://www.jsonrpc.org) ([2005](https://www.jsonrpc.org/specification_v1))
-- [OAuth](https://oauth.net)
+- [OAuth](https://oauth.net) ([2007](https://oauth.net/1/))
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ### State Management Library
@@ -163,7 +167,6 @@ List by
 
 ### Task Runner
 - [Grunt](https://gruntjs.com/) ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
-- [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts)
 
 ### Technology
 - [Angular Universal](https://angular.io/guide/universal) ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
@@ -181,7 +184,7 @@ List by
 - [Enzyme](https://enzymejs.github.io/enzyme/) ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
 - [Karma](https://karma-runner.github.io) ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
-- [Mocha](https://mochajs.org)
+- [Mocha](https://mochajs.org) ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
 - [Playwright](https://playwright.dev)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))

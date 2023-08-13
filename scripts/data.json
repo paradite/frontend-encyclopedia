@@ -3,7 +3,7 @@
     {
       "name": "Ajax",
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
-      "type": "Programming Technique",
+      "type": "Programming Concept",
       "year_created": 1999,
       "year_created_source": "https://en.wikipedia.org/wiki/Ajax_(programming)"
     },
@@ -74,6 +74,13 @@
       "type": "UI Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/alertifyjs?activeTab=versions"
+    },
+    {
+      "name": "a11y (Accessibility)",
+      "url": "https://en.wikipedia.org/wiki/Web_accessibility",
+      "type": "Development Practice",
+      "year_created": 1999,
+      "year_created_source": "https://en.wikipedia.org/wiki/Web_accessibility"
     }
   ],
   "B": [
@@ -436,7 +443,7 @@
     {
       "name": "i18n (internationalization)",
       "url": "https://en.wikipedia.org/wiki/Internationalization_and_localization",
-      "type": "Programming Technique",
+      "type": "Development Practice",
       "year_created": 1970,
       "year_created_source": "https://en.wikipedia.org/wiki/Internationalization_and_localization"
     },
@@ -573,17 +580,23 @@
     {
       "name": "Meteor.js",
       "url": "https://www.meteor.com",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2012,
+      "year_created_source": "https://www.npmjs.com/package/meteor?activeTab=versions"
     },
     {
       "name": "Mocha",
       "url": "https://mochajs.org",
-      "type": "Testing Library"
+      "type": "Testing Library",
+      "year_created": 2011,
+      "year_created_source": "https://www.npmjs.com/package/mocha?activeTab=versions"
     },
     {
       "name": "Moment.js",
       "url": "https://momentjs.com",
-      "type": "Date & Time Library"
+      "type": "Date & Time Library",
+      "year_created": 2011,
+      "year_created_source": "https://www.npmjs.com/package/moment?activeTab=versions"
     },
     {
       "name": "Materialize",
@@ -618,24 +631,25 @@
     {
       "name": "Node.js",
       "url": "https://nodejs.org",
-      "type": "Runtime Environment"
-    },
-    {
-      "name": "npm scripts",
-      "url": "https://docs.npmjs.com/cli/v9/using-npm/scripts",
-      "type": "Task Runner"
+      "type": "Runtime Environment",
+      "year_created": 2009,
+      "year_created_source": "https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4"
     },
     {
       "name": "Node Cron",
       "url": "https://github.com/node-cron/node-cron",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2016,
+      "year_created_source": "https://www.npmjs.com/package/node-cron?activeTab=versions"
     }
   ],
   "O": [
     {
       "name": "OAuth",
       "url": "https://oauth.net",
-      "type": "Specification"
+      "type": "Specification",
+      "year_created": 2007,
+      "year_created_source": "https://oauth.net/1/"
     }
   ],
   "P": [
@@ -937,6 +951,13 @@
       "type": "Web Application Model",
       "year_created": 1995,
       "year_created_source": "https://en.wikipedia.org/wiki/Server-side_scripting"
+    },
+    {
+      "name": "SEO",
+      "url": "https://en.wikipedia.org/wiki/Search_engine_optimization",
+      "type": "Development Practice",
+      "year_created": 1997,
+      "year_created_source": "https://en.wikipedia.org/wiki/Search_engine_optimization"
     }
   ],
   "T": [
