@@ -22,13 +22,10 @@ function getAdditionalInfo(term) {
 
 const subHeading = `<div align="center">
 List by
-<a href="README.md">A-Z</a> |
-<a href="categories.md">Category</a> | 
-<a href="chronological.md">Chronological order</a>
-</div>
-<div align="center">
+<a href="README.md">Alphabetical order</a> |
+<a href="categories.md">Categories</a> | 
+<a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
-</div>
 
 `;
 

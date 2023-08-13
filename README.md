@@ -2,13 +2,10 @@
 
 <div align="center">
 List by
-<a href="README.md">A-Z</a> |
-<a href="categories.md">Category</a> | 
-<a href="chronological.md">Chronological order</a>
-</div>
-<div align="center">
+<a href="README.md">Alphabetical order</a> |
+<a href="categories.md">Categories</a> | 
+<a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
-</div>
 
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -220,13 +217,10 @@ List by
 ---
 <div align="center">
 List by
-<a href="README.md">A-Z</a> |
-<a href="categories.md">Category</a> | 
-<a href="chronological.md">Chronological order</a>
-</div>
-<div align="center">
+<a href="README.md">Alphabetical order</a> |
+<a href="categories.md">Categories</a> | 
+<a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
-</div>
 
 ## Contributing
 

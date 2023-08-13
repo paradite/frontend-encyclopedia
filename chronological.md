@@ -2,13 +2,10 @@
 
 <div align="center">
 List by
-<a href="README.md">A-Z</a> |
-<a href="categories.md">Category</a> | 
-<a href="chronological.md">Chronological order</a>
-</div>
-<div align="center">
+<a href="README.md">Alphabetical order</a> |
+<a href="categories.md">Categories</a> | 
+<a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
-</div>
 
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
@@ -167,13 +164,10 @@ List by
 ---
 <div align="center">
 List by
-<a href="README.md">A-Z</a> |
-<a href="categories.md">Category</a> | 
-<a href="chronological.md">Chronological order</a>
-</div>
-<div align="center">
+<a href="README.md">Alphabetical order</a> |
+<a href="categories.md">Categories</a> | 
+<a href="chronological.md">Chronological order</a> |
 <a href="#contributing">Contribute</a>
-</div>
 
 ## Contributing
 
