@@ -134,7 +134,7 @@ List by
 - [ESLint](https://eslint.org) ([2013](https://eslint.org/docs/latest/about/))
 - [TSLint](https://palantir.github.io/tslint)
 
-### ML Library
+### Machine Learning Library
 - [TensorFlow.js](https://www.tensorflow.org/js) ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
 ### Package Manager
@@ -198,6 +198,7 @@ List by
 - [Foundation](https://get.foundation) ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
 - [Material UI](https://mui.com) ([2014](https://mui.com/about/))
 - [Rebass](https://rebassjs.org/) ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
+- [Tamagui](https://tamagui.dev) ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### UI Library
 - [AlertifyJS](https://alertifyjs.com/) ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
@@ -214,9 +215,6 @@ List by
 - [Semantic UI](https://semantic-ui.com/) ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Three.js](https://threejs.org)
-
-### Universal UI Library
-- [Tamagui](https://tamagui.dev) ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### Utility Library
 - [Immutable.js](https://immutable-js.com) ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))

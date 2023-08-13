@@ -183,8 +183,8 @@ List by
 
 ### T
 - [Tailwind CSS](https://tailwindcss.com): CSS Framework
-- [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
-- [TensorFlow.js](https://www.tensorflow.org/js): ML Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
+- [Tamagui](https://tamagui.dev): UI Components Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
+- [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Travis CI](https://www.travis-ci.com): CI/CD Service

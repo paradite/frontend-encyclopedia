@@ -969,7 +969,7 @@
     {
       "name": "Tamagui",
       "url": "https://tamagui.dev",
-      "type": "Universal UI Library",
+      "type": "UI Components Library",
       "year_created": 2022,
       "year_created_source": "https://github.com/tamagui/tamagui/releases?page=68"
     },
@@ -1013,7 +1013,7 @@
     {
       "name": "TensorFlow.js",
       "url": "https://www.tensorflow.org/js",
-      "type": "ML Library",
+      "type": "Machine Learning Library",
       "year_created": 2018,
       "year_created_source": "https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions"
     }

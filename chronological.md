@@ -158,7 +158,7 @@ List by
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
-- [TensorFlow.js](https://www.tensorflow.org/js): ML Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
+- [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
@@ -185,7 +185,7 @@ List by
 ### 2022
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))
-- [Tamagui](https://tamagui.dev): Universal UI Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
+- [Tamagui](https://tamagui.dev): UI Components Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### 2023
 - [Panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
