@@ -10,7 +10,7 @@ List by
 
 ### API Client
 - [Insomnia](https://insomnia.rest) ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
-- [Postman](https://www.postman.com)
+- [Postman](https://www.postman.com) ([2012](https://en.wikipedia.org/wiki/Postman_(software)))
 
 ### Backend-as-a-Service
 - [Fastify](https://fastify.dev) ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
@@ -19,7 +19,7 @@ List by
 ### Build Tool
 - [Babel](https://babeljs.io) ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
 - [Gulp](https://gulpjs.com) ([2013](https://en.wikipedia.org/wiki/Gulp.js))
-- [Parcel](https://parceljs.org)
+- [Parcel](https://parceljs.org) ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [Rollup](https://rollupjs.org/) ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [Vite](https://vitejs.dev)
 - [webpack](https://webpack.js.org)
@@ -32,7 +32,7 @@ List by
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
 - [Panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
-- [Pure](https://purecss.io/)
+- [Pure](https://purecss.io/) ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
 - [Spectre.css](https://picturepan2.github.io/spectre/) ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Tailwind CSS](https://tailwindcss.com)
 - [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
@@ -42,7 +42,7 @@ List by
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index)
 
 ### Code Formatter
-- [Prettier](https://prettier.io)
+- [Prettier](https://prettier.io) ([2017](https://archive.jlongster.com/prettier-1.0))
 
 ### Data Format
 - [JSON](https://en.wikipedia.org/wiki/JSON) ([2001](https://en.wikipedia.org/wiki/JSON))
@@ -83,7 +83,7 @@ List by
 - [Ionic](https://ionicframework.com) ([2012](https://ionic.io/about))
 - [Meteor.js](https://www.meteor.com) ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [Next.js](https://nextjs.org) ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
-- [Quasar](https://quasar.dev)
+- [Quasar](https://quasar.dev) ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
 - [React Native](https://reactnative.dev)
 - [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
@@ -139,7 +139,7 @@ List by
 
 ### Package Manager
 - [npm](https://www.npmjs.com) ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
-- [pnpm](https://pnpm.io/)
+- [pnpm](https://pnpm.io/) ([2016](https://www.npmjs.com/package/pnpm?activeTab=versions))
 - [Yarn](https://yarnpkg.com) ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
 ### Programming Concept
@@ -185,7 +185,7 @@ List by
 - [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
 - [Karma](https://karma-runner.github.io) ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 - [Mocha](https://mochajs.org) ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
-- [Playwright](https://playwright.dev)
+- [Playwright](https://playwright.dev) ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 
@@ -229,7 +229,7 @@ List by
 - [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/))
 
 ### Web Application Model
-- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
+- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) ([2015](https://en.wikipedia.org/wiki/Progressive_web_application))
 - [SPA](https://en.wikipedia.org/wiki/Single-page_application) ([2003](https://en.wikipedia.org/wiki/Single-page_application))
 - [SSR](https://en.wikipedia.org/wiki/Server-side_scripting) ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 

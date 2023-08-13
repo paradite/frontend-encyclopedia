@@ -649,22 +649,31 @@
     {
       "name": "Parcel",
       "url": "https://parceljs.org",
-      "type": "Build Tool"
+      "type": "Build Tool",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/parcel-bundler?activeTab=versions"
     },
     {
       "name": "PWA",
       "url": "https://en.wikipedia.org/wiki/Progressive_web_application",
-      "type": "Web Application Model"
+      "type": "Web Application Model",
+      "year_created": 2015,
+      "year_created_source": "https://en.wikipedia.org/wiki/Progressive_web_application"
     },
     {
       "name": "Postman",
       "url": "https://www.postman.com",
-      "type": "API Client"
+      "type": "API Client",
+      "year_created": 2012,
+      "year_created_source": "https://en.wikipedia.org/wiki/Postman_(software)"
     },
     {
       "name": "Prettier",
       "url": "https://prettier.io",
-      "type": "Code Formatter"
+      "type": "Code Formatter",
+      "year_created": 2017,
+      "year_created_source": "https://archive.jlongster.com/prettier-1.0",
+      "year_created_source_alt": "https://github.com/prettier/prettier/tags?after=1.4.3"
     },
     {
       "name": "Pug",
@@ -677,17 +686,23 @@
     {
       "name": "pnpm",
       "url": "https://pnpm.io/",
-      "type": "Package Manager"
+      "type": "Package Manager",
+      "year_created": 2016,
+      "year_created_source": "https://www.npmjs.com/package/pnpm?activeTab=versions"
     },
     {
       "name": "Playwright",
       "url": "https://playwright.dev",
-      "type": "Testing Library"
+      "type": "Testing Library",
+      "year_created": 2020,
+      "year_created_source": "https://github.com/microsoft/playwright/tags?after=v0.11.0"
     },
     {
       "name": "Pure",
       "url": "https://purecss.io/",
-      "type": "CSS Framework"
+      "type": "CSS Framework",
+      "year_created": 2013,
+      "year_created_source": "https://github.com/pure-css/pure/releases/tag/v0.1.0"
     },
     {
       "name": "polished",
@@ -729,7 +744,9 @@
     {
       "name": "Quasar",
       "url": "https://quasar.dev",
-      "type": "Framework"
+      "type": "Framework",
+      "year_created": 2016,
+      "year_created_source": "https://github.com/quasarframework/quasar/tags?after=v0.5.0"
     },
     {
       "name": "Qwik",

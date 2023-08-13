@@ -126,21 +126,21 @@ List by
 
 ### P
 - [Panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
-- [Parcel](https://parceljs.org): Build Tool
+- [Parcel](https://parceljs.org): Build Tool ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
-- [Playwright](https://playwright.dev): Testing Library
-- [pnpm](https://pnpm.io/): Package Manager
+- [Playwright](https://playwright.dev): Testing Library ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
+- [pnpm](https://pnpm.io/): Package Manager ([2016](https://www.npmjs.com/package/pnpm?activeTab=versions))
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
-- [Postman](https://www.postman.com): API Client
-- [Prettier](https://prettier.io): Code Formatter
+- [Postman](https://www.postman.com): API Client ([2012](https://en.wikipedia.org/wiki/Postman_(software)))
+- [Prettier](https://prettier.io): Code Formatter ([2017](https://archive.jlongster.com/prettier-1.0))
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://github.com/pugjs/pug/issues/2184), Formerly known as Jade. Last release was in 2021.)
-- [Pure](https://purecss.io/): CSS Framework
-- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Web Application Model
+- [Pure](https://purecss.io/): CSS Framework ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
+- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Web Application Model ([2015](https://en.wikipedia.org/wiki/Progressive_web_application))
 
 ### Q
-- [Quasar](https://quasar.dev): Framework
+- [Quasar](https://quasar.dev): Framework ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ### R
