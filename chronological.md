@@ -45,11 +45,15 @@ List by
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitHub Pages](https://pages.github.com/): Deployment ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 
+### 2009
+- [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
+
 ### 2010
 - [AngularJS](https://angularjs.org): Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
 - [Backbone.js](https://backbonejs.org): Framework ([2010](https://backbonejs.org/#changelog))
 - [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
-- [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - 2015, Renamed to Pug)
+- [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
+- [npm](https://www.npmjs.com): Package Manager ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
 
 ### 2011
 - [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
@@ -66,6 +70,7 @@ List by
 - [Firebase](https://firebase.google.com): Backend-as-a-Service ([2012](https://en.wikipedia.org/wiki/Firebase))
 - [Font Awesome](https://fontawesome.com): Icon Library ([2012](https://fontawesome.com/versions))
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
+- [Lodash](https://lodash.com): Utility Library ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
 - [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### 2013
@@ -74,6 +79,7 @@ List by
 - [ESLint](https://eslint.org): Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
+- [Karma](https://karma-runner.github.io): Testing Library ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
@@ -119,7 +125,7 @@ List by
 - [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
-- [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
+- [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://github.com/pugjs/pug/issues/2184), Formerly known as Jade. Last release was in 2021.)
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))

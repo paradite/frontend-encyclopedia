@@ -39,7 +39,6 @@ List by
 
 ### CSS Methodology
 - [BEM](https://en.bem.info) ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
-- [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index)
 
 ### Code Formatter
@@ -102,7 +101,7 @@ List by
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) ([1996](https://en.wikipedia.org/wiki/CSS))
 - [HTML](https://en.wikipedia.org/wiki/HTML) ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) ([1995](https://en.wikipedia.org/wiki/JavaScript))
-- [Less](https://lesscss.org)
+- [Less](https://lesscss.org) ([2009](https://lesscss.org/about/))
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
 - [TypeScript](https://www.typescriptlang.org) ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
@@ -134,7 +133,7 @@ List by
 - [TensorFlow.js](https://www.tensorflow.org/js) ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
 ### Package Manager
-- [npm](https://www.npmjs.com)
+- [npm](https://www.npmjs.com) ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
 - [pnpm](https://pnpm.io/)
 - [Yarn](https://yarnpkg.com) ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
@@ -173,14 +172,15 @@ List by
 
 ### Template Engine
 - [EJS](https://ejs.co/) ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
-- [Jade](https://pugjs.org/api/getting-started.html) ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - 2015, Renamed to Pug)
-- [Pug](https://pugjs.org/api/getting-started.html) ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
+- [Jade](https://pugjs.org/api/getting-started.html) ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
+- [Pug](https://pugjs.org/api/getting-started.html) ([2016](https://github.com/pugjs/pug/issues/2184), Formerly known as Jade. Last release was in 2021.)
 
 ### Testing Library
 - [Chai](https://www.chaijs.com) ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [Cypress](https://www.cypress.io) ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 - [Enzyme](https://enzymejs.github.io/enzyme/) ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
+- [Karma](https://karma-runner.github.io) ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 - [Mocha](https://mochajs.org)
 - [Playwright](https://playwright.dev)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
@@ -218,7 +218,7 @@ List by
 ### Utility Library
 - [Immutable.js](https://immutable-js.com) ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
-- [Lodash](https://lodash.com)
+- [Lodash](https://lodash.com) ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
 - [Underscore.js](https://underscorejs.org)
 
 ### Version Control System

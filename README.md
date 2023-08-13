@@ -89,7 +89,7 @@ List by
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
 
 ### J
-- [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - 2015, Renamed to Pug)
+- [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
@@ -100,11 +100,11 @@ List by
 
 ### K
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
-- [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes): CSS Methodology
+- [Karma](https://karma-runner.github.io): Testing Library ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 
 ### L
-- [Less](https://lesscss.org): Language
-- [Lodash](https://lodash.com): Utility Library
+- [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
+- [Lodash](https://lodash.com): Utility Library ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
 
 ### M
 - [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
@@ -120,7 +120,7 @@ List by
 - [Node Cron](https://github.com/node-cron/node-cron): Library
 - [Node.js](https://nodejs.org): Runtime Environment
 - [npm scripts](https://docs.npmjs.com/cli/v9/using-npm/scripts): Task Runner
-- [npm](https://www.npmjs.com): Package Manager
+- [npm](https://www.npmjs.com): Package Manager ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
 
 ### O
 - [OAuth](https://oauth.net): Specification
@@ -136,7 +136,7 @@ List by
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [Postman](https://www.postman.com): API Client
 - [Prettier](https://prettier.io): Code Formatter
-- [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
+- [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://github.com/pugjs/pug/issues/2184), Formerly known as Jade. Last release was in 2021.)
 - [Pure](https://purecss.io/): CSS Framework
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Web Application Model
 

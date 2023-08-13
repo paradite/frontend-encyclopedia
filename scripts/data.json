@@ -505,6 +505,7 @@
       "year_created": 2010,
       "year_created_source": "https://github.com/pugjs/pug/tags?after=0.5.0",
       "year_deprecated": 2015,
+      "year_deprecated_source": "https://github.com/pugjs/pug/issues/2184",
       "note": "Renamed to Pug"
     },
     {
@@ -524,28 +525,34 @@
   ],
   "K": [
     {
-      "name": "Keyframes",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes",
-      "type": "CSS Methodology"
-    },
-    {
       "name": "Kaboom",
       "url": "https://kaboomjs.com/",
       "type": "Game Development",
       "year_created": 2021,
       "year_created_source": "https://www.npmjs.com/package/kaboom?activeTab=versions"
+    },
+    {
+      "name": "Karma",
+      "url": "https://karma-runner.github.io",
+      "type": "Testing Library",
+      "year_created": 2013,
+      "year_created_source": "https://www.npmjs.com/package/karma?activeTab=versions"
     }
   ],
   "L": [
     {
       "name": "Less",
       "url": "https://lesscss.org",
-      "type": "Language"
+      "type": "Language",
+      "year_created": 2009,
+      "year_created_source": "https://lesscss.org/about/"
     },
     {
       "name": "Lodash",
       "url": "https://lodash.com",
-      "type": "Utility Library"
+      "type": "Utility Library",
+      "year_created": 2012,
+      "year_created_source": "https://github.com/lodash/lodash/tags?after=0.2.2"
     }
   ],
   "M": [
@@ -604,7 +611,9 @@
     {
       "name": "npm",
       "url": "https://www.npmjs.com",
-      "type": "Package Manager"
+      "type": "Package Manager",
+      "year_created": 2010,
+      "year_created_source": "https://github.com/npm/npm/tags?after=v0.1.1"
     },
     {
       "name": "Node.js",
@@ -655,7 +664,7 @@
       "url": "https://pugjs.org/api/getting-started.html",
       "type": "Template Engine",
       "year_created": 2016,
-      "year_created_source": "https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb",
+      "year_created_source": "https://github.com/pugjs/pug/issues/2184",
       "note": "Formerly known as Jade. Last release was in 2021."
     },
     {
