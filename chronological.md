@@ -1,10 +1,10 @@
 # Frontend Encyclopedia - Chronological Order
 
-<center>
+<div align="center">
 <a href="categories.md">List by categories</a> | 
 <a href="chronological.md">List by chronological order</a> | 
 <a href="#contributing">Contribute</a>
-</center>
+</div>
 
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
@@ -161,11 +161,11 @@
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ---
-<center>
+<div align="center">
 <a href="categories.md">List by categories</a> | 
 <a href="chronological.md">List by chronological order</a> | 
 <a href="#contributing">Contribute</a>
-</center>
+</div>
 
 ## Contributing
 

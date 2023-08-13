@@ -1,10 +1,10 @@
 # Frontend Encyclopedia
 
-<center>
+<div align="center">
 <a href="categories.md">List by categories</a> | 
 <a href="chronological.md">List by chronological order</a> | 
 <a href="#contributing">Contribute</a>
-</center>
+</div>
 
 ### A
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Programming Technique ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -214,11 +214,11 @@
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ---
-<center>
+<div align="center">
 <a href="categories.md">List by categories</a> | 
 <a href="chronological.md">List by chronological order</a> | 
 <a href="#contributing">Contribute</a>
-</center>
+</div>
 
 ## Contributing
 

@@ -20,11 +20,11 @@ function getAdditionalInfo(term) {
   return dateInfo;
 }
 
-const subHeading = `<center>
+const subHeading = `<div align="center">
 <a href="categories.md">List by categories</a> | 
 <a href="chronological.md">List by chronological order</a> | 
 <a href="#contributing">Contribute</a>
-</center>
+</div>
 
 `;
 
