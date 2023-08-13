@@ -181,40 +181,40 @@ List by
 - [SWR](https://swr.vercel.app/): Library ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 
 ### T
-- [Tailwind CSS](https://tailwindcss.com): CSS Framework
+- [Tailwind CSS](https://tailwindcss.com): CSS Framework ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
 - [Tamagui](https://tamagui.dev): UI Components Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 - [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
-- [Three.js](https://threejs.org): UI Library
+- [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
-- [Travis CI](https://www.travis-ci.com): CI/CD Service
+- [Travis CI](https://www.travis-ci.com): CI/CD Service ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 - [TSDX](https://tsdx.io/): Library ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
-- [TSLint](https://palantir.github.io/tslint): Linter
+- [TSLint](https://palantir.github.io/tslint): Linter ([2013](https://www.npmjs.com/package/tslint?activeTab=versions) - [2019](https://github.com/palantir/tslint/issues/4534))
 - [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### U
-- [Underscore.js](https://underscorejs.org): Utility Library
+- [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
 
 ### V
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
-- [Vite](https://vitejs.dev): Build Tool
+- [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### W
-- [webpack](https://webpack.js.org): Build Tool
-- [WebRTC](https://webrtc.org): Technology
-- [WebSocket](https://en.wikipedia.org/wiki/WebSocket): Technology
+- [webpack](https://webpack.js.org): Build Tool ([2012](https://www.npmjs.com/package/webpack?activeTab=versions))
+- [WebRTC](https://w3c.github.io/webrtc-pc/): Technology ([2011](https://www.w3.org/standards/history/webrtc/))
+- [WebSocket](https://en.wikipedia.org/wiki/WebSocket): Technology ([2011](https://en.wikipedia.org/wiki/WebSocket))
 
 ### X
-- [XState](https://xstate.js.org): State Management Library
+- [XState](https://xstate.js.org): State Management Library ([2017](https://www.npmjs.com/package/xstate?activeTab=versions))
 - [xstyled](https://xstyled.dev/): CSS Framework ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### Y
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 
 ### Z
-- [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology
-- [Zod](https://zod.dev): Library
+- [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
+- [Zod](https://zod.dev): Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ---

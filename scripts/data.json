@@ -1008,7 +1008,9 @@
     {
       "name": "Tailwind CSS",
       "url": "https://tailwindcss.com",
-      "type": "CSS Framework"
+      "type": "CSS Framework",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/tailwindcss?activeTab=versions"
     },
     {
       "name": "Tamagui",
@@ -1020,12 +1022,20 @@
     {
       "name": "Three.js",
       "url": "https://threejs.org",
-      "type": "UI Library"
+      "type": "UI Library",
+      "year_created": 2013,
+      "year_created_source": "https://github.com/mrdoob/three.js/releases/tag/r1",
+      "year_created_source_alt": "https://www.npmjs.com/package/three?activeTab=versions"
     },
     {
       "name": "TSLint",
       "url": "https://palantir.github.io/tslint",
-      "type": "Linter"
+      "type": "Linter",
+      "year_created": 2013,
+      "year_created_source": "https://www.npmjs.com/package/tslint?activeTab=versions",
+      "year_deprecated": 2019,
+      "year_deprecated_source": "https://github.com/palantir/tslint/issues/4534",
+      "year_deprecated_source_alt": "https://blog.palantir.com/tslint-in-2019-1a144c2317a9"
     },
     {
       "name": "TypeScript",
@@ -1038,7 +1048,11 @@
     {
       "name": "Travis CI",
       "url": "https://www.travis-ci.com",
-      "type": "CI/CD Service"
+      "type": "CI/CD Service",
+      "year_created": 2011,
+      "year_created_source": "https://www.travis-ci.com/about-us/",
+      "year_created_source_alt": "https://en.wikipedia.org/wiki/Travis_CI",
+      "note": "Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/)"
     },
     {
       "name": "Tone.js",
@@ -1066,14 +1080,18 @@
     {
       "name": "Underscore.js",
       "url": "https://underscorejs.org",
-      "type": "Utility Library"
+      "type": "Utility Library",
+      "year_created": 2009,
+      "year_created_source": "https://underscorejs.org/#changelog"
     }
   ],
   "V": [
     {
       "name": "Vite",
       "url": "https://vitejs.dev",
-      "type": "Build Tool"
+      "type": "Build Tool",
+      "year_created": 2020,
+      "year_created_source": "https://www.npmjs.com/package/vite?activeTab=versions"
     },
     {
       "name": "Vue.js",
@@ -1102,24 +1120,32 @@
     {
       "name": "webpack",
       "url": "https://webpack.js.org",
-      "type": "Build Tool"
+      "type": "Build Tool",
+      "year_created": 2012,
+      "year_created_source": "https://www.npmjs.com/package/webpack?activeTab=versions"
     },
     {
       "name": "WebSocket",
       "url": "https://en.wikipedia.org/wiki/WebSocket",
-      "type": "Technology"
+      "type": "Technology",
+      "year_created": 2011,
+      "year_created_source": "https://en.wikipedia.org/wiki/WebSocket"
     },
     {
       "name": "WebRTC",
-      "url": "https://webrtc.org",
-      "type": "Technology"
+      "url": "https://w3c.github.io/webrtc-pc/",
+      "type": "Technology",
+      "year_created": 2011,
+      "year_created_source": "https://www.w3.org/standards/history/webrtc/"
     }
   ],
   "X": [
     {
       "name": "XState",
       "url": "https://xstate.js.org",
-      "type": "State Management Library"
+      "type": "State Management Library",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/xstate?activeTab=versions"
     },
     {
       "name": "xstyled",
@@ -1142,12 +1168,16 @@
     {
       "name": "z-index",
       "url": "https://en.wikipedia.org/wiki/Z-order#z-index",
-      "type": "CSS Methodology"
+      "type": "CSS Methodology",
+      "year_created": 1997,
+      "year_created_source": "https://www.w3.org/TR/WD-CSS2-971104/cover.html"
     },
     {
       "name": "Zod",
       "url": "https://zod.dev",
-      "type": "Library"
+      "type": "Library",
+      "year_created": 2020,
+      "year_created_source": "https://www.npmjs.com/package/zod?activeTab=versions"
     },
     {
       "name": "zustand",

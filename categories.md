@@ -20,12 +20,12 @@ List by
 - [Gulp](https://gulpjs.com) ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [Parcel](https://parceljs.org) ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [Rollup](https://rollupjs.org/) ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
-- [Vite](https://vitejs.dev)
-- [webpack](https://webpack.js.org)
+- [Vite](https://vitejs.dev) ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
+- [webpack](https://webpack.js.org) ([2012](https://www.npmjs.com/package/webpack?activeTab=versions))
 
 ### CI/CD Service
 - [CircleCI](https://circleci.com) ([2011](https://circleci.com/about/))
-- [Travis CI](https://www.travis-ci.com)
+- [Travis CI](https://www.travis-ci.com) ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 
 ### CSS Framework
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
@@ -33,12 +33,12 @@ List by
 - [Panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Pure](https://purecss.io/) ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
 - [Spectre.css](https://picturepan2.github.io/spectre/) ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
-- [Tailwind CSS](https://tailwindcss.com)
+- [Tailwind CSS](https://tailwindcss.com) ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
 - [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
 ### CSS Methodology
 - [BEM](https://en.bem.info) ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
-- [z-index](https://en.wikipedia.org/wiki/Z-order#z-index)
+- [z-index](https://en.wikipedia.org/wiki/Z-order#z-index) ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
 
 ### Code Formatter
 - [Prettier](https://prettier.io) ([2017](https://archive.jlongster.com/prettier-1.0))
@@ -127,11 +127,11 @@ List by
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [TSDX](https://tsdx.io/) ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
-- [Zod](https://zod.dev)
+- [Zod](https://zod.dev) ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### Linter
 - [ESLint](https://eslint.org) ([2013](https://eslint.org/docs/latest/about/))
-- [TSLint](https://palantir.github.io/tslint)
+- [TSLint](https://palantir.github.io/tslint) ([2013](https://www.npmjs.com/package/tslint?activeTab=versions) - [2019](https://github.com/palantir/tslint/issues/4534))
 
 ### Machine Learning Library
 - [TensorFlow.js](https://www.tensorflow.org/js) ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
@@ -162,7 +162,7 @@ List by
 - [Redux-Saga](https://redux-saga.js.org) ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Redux](https://redux.js.org) ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 - [RefluxJS](https://github.com/reflux/refluxjs) ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
-- [XState](https://xstate.js.org)
+- [XState](https://xstate.js.org) ([2017](https://www.npmjs.com/package/xstate?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ### Task Runner
@@ -170,8 +170,8 @@ List by
 
 ### Technology
 - [Angular Universal](https://angular.io/guide/universal) ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
-- [WebRTC](https://webrtc.org)
-- [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+- [WebRTC](https://w3c.github.io/webrtc-pc/) ([2011](https://www.w3.org/standards/history/webrtc/))
+- [WebSocket](https://en.wikipedia.org/wiki/WebSocket) ([2011](https://en.wikipedia.org/wiki/WebSocket))
 
 ### Template Engine
 - [EJS](https://ejs.co/) ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
@@ -214,13 +214,13 @@ List by
 - [React-Toastify](https://www.npmjs.com/package/react-toastify) ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [Semantic UI](https://semantic-ui.com/) ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/) ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
-- [Three.js](https://threejs.org)
+- [Three.js](https://threejs.org) ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
 
 ### Utility Library
 - [Immutable.js](https://immutable-js.com) ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [Lodash](https://lodash.com) ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
-- [Underscore.js](https://underscorejs.org)
+- [Underscore.js](https://underscorejs.org) ([2009](https://underscorejs.org/#changelog))
 
 ### Version Control System
 - [Bitbucket](https://bitbucket.org) ([2008](https://en.wikipedia.org/wiki/Bitbucket))

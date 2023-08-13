@@ -22,6 +22,7 @@ List by
 
 ### 1997
 - [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization): Development Practice ([1997](https://en.wikipedia.org/wiki/Search_engine_optimization))
+- [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
 
 ### 1998
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Specification ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
@@ -60,6 +61,7 @@ List by
 - [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
 - [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
+- [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
 
 ### 2010
 - [AngularJS](https://angularjs.org): Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
@@ -81,6 +83,9 @@ List by
 - [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
 - [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
+- [Travis CI](https://www.travis-ci.com): CI/CD Service ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
+- [WebSocket](https://en.wikipedia.org/wiki/WebSocket): Technology ([2011](https://en.wikipedia.org/wiki/WebSocket))
+- [WebRTC](https://w3c.github.io/webrtc-pc/): Technology ([2011](https://www.w3.org/standards/history/webrtc/))
 
 ### 2012
 - [Firebase](https://firebase.google.com): Backend-as-a-Service ([2012](https://en.wikipedia.org/wiki/Firebase))
@@ -90,6 +95,7 @@ List by
 - [Meteor.js](https://www.meteor.com): Framework ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [Postman](https://www.postman.com): API Client ([2012](https://en.wikipedia.org/wiki/Postman_(software)))
 - [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
+- [webpack](https://webpack.js.org): Build Tool ([2012](https://www.npmjs.com/package/webpack?activeTab=versions))
 
 ### 2013
 - [Chart.js](https://www.chartjs.org): UI Library ([2013](https://www.chartjs.org/docs/latest/))
@@ -104,6 +110,8 @@ List by
 - [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
+- [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
+- [TSLint](https://palantir.github.io/tslint): Linter ([2013](https://www.npmjs.com/package/tslint?activeTab=versions) - [2019](https://github.com/palantir/tslint/issues/4534))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 
 ### 2014
@@ -168,6 +176,8 @@ List by
 - [Prettier](https://prettier.io): Code Formatter ([2017](https://archive.jlongster.com/prettier-1.0))
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
+- [Tailwind CSS](https://tailwindcss.com): CSS Framework ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
+- [XState](https://xstate.js.org): State Management Library ([2017](https://www.npmjs.com/package/xstate?activeTab=versions))
 
 ### 2018
 - [day.js](https://day.js.org): Date & Time Library ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
@@ -194,6 +204,8 @@ List by
 - [Deno](https://deno.land/): Runtime Environment ([2020](https://deno.com/blog/v1))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 - [Playwright](https://playwright.dev): Testing Library ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
+- [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
+- [Zod](https://zod.dev): Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### 2021
 - [Astro](https://astro.build/): Framework ([2021](https://astro.build/blog/introducing-astro/))
