@@ -436,12 +436,16 @@
     {
       "name": "i18n (internationalization)",
       "url": "https://en.wikipedia.org/wiki/Internationalization_and_localization",
-      "type": "Programming Technique"
+      "type": "Programming Technique",
+      "year_created": 1970,
+      "year_created_source": "https://en.wikipedia.org/wiki/Internationalization_and_localization"
     },
     {
       "name": "Immutable.js",
       "url": "https://immutable-js.com",
-      "type": "Utility Library"
+      "type": "Utility Library",
+      "year_created": 2013,
+      "year_created_source": "https://www.npmjs.com/package/immutable?activeTab=versions"
     },
     {
       "name": "Ionic",
@@ -453,7 +457,9 @@
     {
       "name": "Insomnia",
       "url": "https://insomnia.rest",
-      "type": "API Client"
+      "type": "API Client",
+      "year_created": 2016,
+      "year_created_source": "https://github.com/Kong/insomnia/tags?after=v5.0.0"
     }
   ],
   "J": [
@@ -488,13 +494,16 @@
     {
       "name": "JSON-RPC",
       "url": "https://www.jsonrpc.org",
-      "type": "Specification"
+      "type": "Specification",
+      "year_created": 2005,
+      "year_created_source": "https://www.jsonrpc.org/specification_v1"
     },
     {
       "name": "Jade",
       "url": "https://pugjs.org/api/getting-started.html",
       "type": "Template Engine",
       "year_created": 2010,
+      "year_created_source": "https://github.com/pugjs/pug/tags?after=0.5.0",
       "year_deprecated": 2015,
       "note": "Renamed to Pug"
     },
@@ -629,7 +638,7 @@
     {
       "name": "PWA",
       "url": "https://en.wikipedia.org/wiki/Progressive_web_application",
-      "type": "Technology"
+      "type": "Web Application Model"
     },
     {
       "name": "Postman",
@@ -905,6 +914,20 @@
       "type": "CSS Framework",
       "year_created": 2016,
       "year_created_source": "https://www.npmjs.com/package/spectre.css?activeTab=versions"
+    },
+    {
+      "name": "SPA",
+      "url": "https://en.wikipedia.org/wiki/Single-page_application",
+      "type": "Web Application Model",
+      "year_created": 2003,
+      "year_created_source": "https://en.wikipedia.org/wiki/Single-page_application"
+    },
+    {
+      "name": "SSR",
+      "url": "https://en.wikipedia.org/wiki/Server-side_scripting",
+      "type": "Web Application Model",
+      "year_created": 1995,
+      "year_created_source": "https://en.wikipedia.org/wiki/Server-side_scripting"
     }
   ],
   "T": [

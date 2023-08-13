@@ -51,7 +51,7 @@ Pull requests are welcome! Take note of the following guidelines:
 
 Either one of the following must be true:
 
-- The term is closely related to frontend development and widely known by frontend developers, e.g. webpack, React, Figma.
+- The term is closely related to frontend development and widely known among a group of frontend developers, e.g. webpack, React, Figma.
 - The term is not specific to frontend but used extensively by frontend developers, e.g. git, GitHub, Node.js.
 
 `;

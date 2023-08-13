@@ -9,7 +9,7 @@ List by
 </div>
 
 ### API Client
-- [Insomnia](https://insomnia.rest)
+- [Insomnia](https://insomnia.rest) ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Postman](https://www.postman.com)
 
 ### Backend-as-a-Service
@@ -140,7 +140,7 @@ List by
 
 ### Programming Technique
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
-- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
+- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization) ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
 
 ### Runtime Environment
 - [Deno](https://deno.land/) ([2020](https://deno.com/blog/v1))
@@ -150,7 +150,7 @@ List by
 - [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [GraphQL](https://graphql.org) ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
-- [JSON-RPC](https://www.jsonrpc.org)
+- [JSON-RPC](https://www.jsonrpc.org) ([2005](https://www.jsonrpc.org/specification_v1))
 - [OAuth](https://oauth.net)
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
@@ -168,13 +168,12 @@ List by
 
 ### Technology
 - [Angular Universal](https://angular.io/guide/universal) ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
-- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
 - [WebRTC](https://webrtc.org)
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
 ### Template Engine
 - [EJS](https://ejs.co/) ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
-- [Jade](https://pugjs.org/api/getting-started.html) (2010 - 2015, Renamed to Pug)
+- [Jade](https://pugjs.org/api/getting-started.html) ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - 2015, Renamed to Pug)
 - [Pug](https://pugjs.org/api/getting-started.html) ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
 
 ### Testing Library
@@ -217,7 +216,7 @@ List by
 - [Tamagui](https://tamagui.dev) ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 
 ### Utility Library
-- [Immutable.js](https://immutable-js.com)
+- [Immutable.js](https://immutable-js.com) ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [Lodash](https://lodash.com)
 - [Underscore.js](https://underscorejs.org)
@@ -228,6 +227,11 @@ List by
 - [GitHub Desktop](https://desktop.github.com/) ([2017](https://github.blog/2017-09-19-announcing-github-desktop-1-0/))
 - [GitHub](https://github.com) ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/))
+
+### Web Application Model
+- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)
+- [SPA](https://en.wikipedia.org/wiki/Single-page_application) ([2003](https://en.wikipedia.org/wiki/Single-page_application))
+- [SSR](https://en.wikipedia.org/wiki/Server-side_scripting) ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 
 ---
 <div align="center">
@@ -256,6 +260,6 @@ Pull requests are welcome! Take note of the following guidelines:
 
 Either one of the following must be true:
 
-- The term is closely related to frontend development and widely known by frontend developers, e.g. webpack, React, Figma.
+- The term is closely related to frontend development and widely known among a group of frontend developers, e.g. webpack, React, Figma.
 - The term is not specific to frontend but used extensively by frontend developers, e.g. git, GitHub, Node.js.
 

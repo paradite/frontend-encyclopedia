@@ -83,18 +83,18 @@ List by
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
 ### I
-- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Programming Technique
-- [Immutable.js](https://immutable-js.com): Utility Library
-- [Insomnia](https://insomnia.rest): API Client
+- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Programming Technique ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+- [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
+- [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
 
 ### J
-- [Jade](https://pugjs.org/api/getting-started.html): Template Engine (2010 - 2015, Renamed to Pug)
+- [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - 2015, Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
-- [JSON-RPC](https://www.jsonrpc.org): Specification
+- [JSON-RPC](https://www.jsonrpc.org): Specification ([2005](https://www.jsonrpc.org/specification_v1))
 - [JSON](https://en.wikipedia.org/wiki/JSON): Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html): Library ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 
@@ -138,7 +138,7 @@ List by
 - [Prettier](https://prettier.io): Code Formatter
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
 - [Pure](https://purecss.io/): CSS Framework
-- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Technology
+- [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Web Application Model
 
 ### Q
 - [Quasar](https://quasar.dev): Framework
@@ -170,7 +170,9 @@ List by
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Socket.IO](https://socket.io): Library
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.thisdot.co/blog/solidjs-fundamentals-and-building-your-first-solidjs-app/))
+- [SPA](https://en.wikipedia.org/wiki/Single-page_application): Web Application Model ([2003](https://en.wikipedia.org/wiki/Single-page_application))
 - [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
+- [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [styled-components](https://styled-components.com): Library
 - [Svelte](https://svelte.dev): Framework
@@ -242,6 +244,6 @@ Pull requests are welcome! Take note of the following guidelines:
 
 Either one of the following must be true:
 
-- The term is closely related to frontend development and widely known by frontend developers, e.g. webpack, React, Figma.
+- The term is closely related to frontend development and widely known among a group of frontend developers, e.g. webpack, React, Figma.
 - The term is not specific to frontend but used extensively by frontend developers, e.g. git, GitHub, Node.js.
 

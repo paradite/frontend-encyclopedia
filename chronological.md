@@ -8,11 +8,15 @@ List by
 <a href="#contributing">Contribute</a>
 </div>
 
+### 1970
+- [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Programming Technique ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
 ### 1995
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
+- [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 
 ### 1996
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Language ([1996](https://en.wikipedia.org/wiki/CSS))
@@ -26,8 +30,12 @@ List by
 ### 2001
 - [JSON](https://en.wikipedia.org/wiki/JSON): Data Format ([2001](https://en.wikipedia.org/wiki/JSON))
 
+### 2003
+- [SPA](https://en.wikipedia.org/wiki/Single-page_application): Web Application Model ([2003](https://en.wikipedia.org/wiki/Single-page_application))
+
 ### 2005
 - [Git](https://git-scm.com): Version Control System ([2005](https://en.wikipedia.org/wiki/Git))
+- [JSON-RPC](https://www.jsonrpc.org): Specification ([2005](https://www.jsonrpc.org/specification_v1))
 
 ### 2006
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
@@ -41,7 +49,7 @@ List by
 - [AngularJS](https://angularjs.org): Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
 - [Backbone.js](https://backbonejs.org): Framework ([2010](https://backbonejs.org/#changelog))
 - [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
-- [Jade](https://pugjs.org/api/getting-started.html): Template Engine (2010 - 2015, Renamed to Pug)
+- [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - 2015, Renamed to Pug)
 
 ### 2011
 - [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
@@ -65,6 +73,7 @@ List by
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [ESLint](https://eslint.org): Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
+- [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
 - [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
@@ -108,6 +117,7 @@ List by
 - [Figma](https://www.figma.com): Design Tool ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
 - [Fastify](https://fastify.dev): Backend-as-a-Service ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
 - [Grunt](https://gruntjs.com/): Task Runner ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
+- [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb), Formerly known as Jade. Last release was in 2021.)
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
@@ -190,6 +200,6 @@ Pull requests are welcome! Take note of the following guidelines:
 
 Either one of the following must be true:
 
-- The term is closely related to frontend development and widely known by frontend developers, e.g. webpack, React, Figma.
+- The term is closely related to frontend development and widely known among a group of frontend developers, e.g. webpack, React, Figma.
 - The term is not specific to frontend but used extensively by frontend developers, e.g. git, GitHub, Node.js.
 
