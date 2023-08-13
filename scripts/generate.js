@@ -175,3 +175,5 @@ Object.keys(chronological)
 chronologicalContent += contributing;
 
 fs.writeFileSync('chronological.md', chronologicalContent);
+
+console.log('Done generating markdown files.');
