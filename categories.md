@@ -1,6 +1,10 @@
 # Frontend Encyclopedia - Categories
 
-[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)
+<center>
+<a href="categories.md">List by categories</a> | 
+<a href="chronological.md">List by chronological order</a> | 
+<a href="#contributing">Contribute</a>
+</center>
 
 ### API Client
 - [Insomnia](https://insomnia.rest)
@@ -224,7 +228,11 @@
 - [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/))
 
 ---
-[List by categories](categories.md) | [List by chronological order](chronological.md) | [Contribute](#contributing)
+<center>
+<a href="categories.md">List by categories</a> | 
+<a href="chronological.md">List by chronological order</a> | 
+<a href="#contributing">Contribute</a>
+</center>
 
 ## Contributing
 
