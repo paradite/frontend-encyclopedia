@@ -75,7 +75,7 @@ List by
 - [Socket.IO](https://socket.io): Library ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))
 
 ### 2011
-- [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Bootstrap](https://getbootstrap.com): CSS Framework ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Chai](https://www.chaijs.com): Testing Library ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
 - [D3.js](https://d3js.org): UI Library ([2011](https://www.npmjs.com/package/d3?activeTab=versions))

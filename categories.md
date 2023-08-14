@@ -29,6 +29,7 @@ List by
 - [Travis CI](https://www.travis-ci.com) ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 
 ### CSS Framework
+- [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Bulma](https://bulma.io/) ([2016](https://github.com/jgthms/bulma/releases/tag/0.0.1))
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
@@ -191,7 +192,6 @@ List by
 
 ### UI Components Library
 - [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
-- [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Chakra UI](https://chakra-ui.com) ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Flowbite](https://flowbite.com/) ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))

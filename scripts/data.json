@@ -108,7 +108,7 @@
     {
       "name": "Bootstrap",
       "url": "https://getbootstrap.com",
-      "type": "UI Components Library",
+      "type": "CSS Framework",
       "year_created": 2011,
       "year_created_source": "https://getbootstrap.com/docs/4.1/about/overview/"
     },
