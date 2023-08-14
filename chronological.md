@@ -13,6 +13,9 @@ List by
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
+### 1994
+- [PHP](https://www.php.net/): Language ([1994](https://www.php.net/manual/en/history.php.php))
+
 ### 1995
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))

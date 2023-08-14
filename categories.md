@@ -108,6 +108,7 @@ List by
 - [HTML](https://en.wikipedia.org/wiki/HTML) ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Less](https://lesscss.org) ([2009](https://lesscss.org/about/))
+- [PHP](https://www.php.net/) ([1994](https://www.php.net/manual/en/history.php.php))
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)) ([2006](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)))
 - [TypeScript](https://www.typescriptlang.org) ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 

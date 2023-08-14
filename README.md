@@ -129,6 +129,7 @@ List by
 - [Panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Parcel](https://parceljs.org): Build Tool ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
+- [PHP](https://www.php.net/): Language ([1994](https://www.php.net/manual/en/history.php.php))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [Playwright](https://playwright.dev): Testing Library ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))

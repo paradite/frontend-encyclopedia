@@ -754,6 +754,13 @@
       "type": "CSS Framework",
       "year_created": 2023,
       "year_created_source": "https://www.npmjs.com/package/@pandacss/node?activeTab=versions"
+    },
+    {
+      "name": "PHP",
+      "url": "https://www.php.net/",
+      "type": "Language",
+      "year_created": 1994,
+      "year_created_source": "https://www.php.net/manual/en/history.php.php"
     }
   ],
   "Q": [
