@@ -82,6 +82,7 @@ List by
 - [Gatsby](https://www.gatsbyjs.com) ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Ionic](https://ionicframework.com) ([2012](https://ionic.io/about))
 - [Meteor.js](https://www.meteor.com) ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
+- [Nest.js](https://nestjs.com) ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Next.js](https://nextjs.org) ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Quasar](https://quasar.dev) ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
