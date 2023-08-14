@@ -450,6 +450,13 @@
       "year_created_source": "https://en.wikipedia.org/wiki/Internationalization_and_localization"
     },
     {
+      "name": "Immer",
+      "url": "https://immerjs.github.io/immer",
+      "type": "Utility Library",
+      "year_created": 2017,
+      "year_created_source": "https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md"
+    },
+    {
       "name": "Immutable.js",
       "url": "https://immutable-js.com",
       "type": "Utility Library",
@@ -766,6 +773,13 @@
     }
   ],
   "R": [
+    {
+      "name": "Radix UI",
+      "url": "https://www.radix-ui.com/primitives",
+      "type": "UI Components Library",
+      "year_created": 2020,
+      "year_created_source": "https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020"
+    },
     {
       "name": "React",
       "url": "https://react.dev",
