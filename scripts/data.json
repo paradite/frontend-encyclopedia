@@ -811,7 +811,7 @@
     {
       "name": "React",
       "url": "https://react.dev",
-      "type": "Framework",
+      "type": "Library",
       "year_created": 2013,
       "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w"
     },

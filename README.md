@@ -156,7 +156,7 @@ List by
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
-- [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [React](https://react.dev): Library ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [Redux Toolkit](https://redux-toolkit.js.org/): State Management Library ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
