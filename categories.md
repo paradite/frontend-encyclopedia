@@ -217,6 +217,7 @@ List by
 - [Immutable.js](https://immutable-js.com) ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [Lodash](https://lodash.com) ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
+- [Ramda](https://ramdajs.com) ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
 - [Underscore.js](https://underscorejs.org) ([2009](https://underscorejs.org/#changelog))
 
 ### Version Control System

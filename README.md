@@ -144,6 +144,7 @@ List by
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ### R
+- [Ramda](https://ramdajs.com): Utility Library ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
 - [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))

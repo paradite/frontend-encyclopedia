@@ -894,6 +894,13 @@
       "type": "Framework",
       "year_created": 2021,
       "year_created_source": "https://www.npmjs.com/package/@remix-run/react?activeTab=versions"
+    },
+    {
+      "name": "Ramda",
+      "url": "https://ramdajs.com",
+      "type": "Utility Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/ramda?activeTab=versions"
     }
   ],
   "S": [

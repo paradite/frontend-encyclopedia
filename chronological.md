@@ -125,6 +125,7 @@ List by
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html): Library ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
+- [Ramda](https://ramdajs.com): Utility Library ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
