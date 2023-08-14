@@ -196,6 +196,7 @@ List by
 - [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Flowbite](https://flowbite.com/) ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))
 - [Foundation](https://get.foundation) ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
+- [Headless UI](https://headlessui.com/) ([2020](https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24))
 - [Material UI](https://mui.com) ([2014](https://mui.com/about/))
 - [Radix UI](https://www.radix-ui.com/primitives) ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
 - [Rebass](https://rebassjs.org/) ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))

@@ -210,6 +210,7 @@ List by
 ### 2020
 - [Chakra UI](https://chakra-ui.com): UI Components Library ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Deno](https://deno.land/): Runtime Environment ([2020](https://deno.com/blog/v1))
+- [Headless UI](https://headlessui.com/): UI Components Library ([2020](https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 - [Playwright](https://playwright.dev): Testing Library ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
 - [Radix UI](https://www.radix-ui.com/primitives): UI Components Library ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))

@@ -446,6 +446,13 @@
       "type": "UI Library",
       "year_created": 2014,
       "year_created_source": "https://www.npmjs.com/package/highcharts?activeTab=versions"
+    },
+    {
+      "name": "Headless UI",
+      "url": "https://headlessui.com/",
+      "type": "UI Components Library",
+      "year_created": 2020,
+      "year_created_source": "https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24"
     }
   ],
   "I": [
