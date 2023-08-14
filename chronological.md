@@ -83,6 +83,7 @@ List by
 - [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Foundation](https://get.foundation): UI Components Library ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
+- [Laravel](https://laravel.com/): Framework ([2011](https://en.wikipedia.org/wiki/Laravel#History))
 - [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
 - [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))

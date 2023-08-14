@@ -104,6 +104,7 @@ List by
 - [Karma](https://karma-runner.github.io): Testing Library ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 
 ### L
+- [Laravel](https://laravel.com/): Framework ([2011](https://en.wikipedia.org/wiki/Laravel#History))
 - [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
 - [Lodash](https://lodash.com): Utility Library ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
 

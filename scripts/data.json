@@ -569,6 +569,13 @@
       "type": "Utility Library",
       "year_created": 2012,
       "year_created_source": "https://github.com/lodash/lodash/tags?after=0.2.2"
+    },
+    {
+      "name": "Laravel",
+      "url": "https://laravel.com/",
+      "type": "Framework",
+      "year_created": 2011,
+      "year_created_source": "https://en.wikipedia.org/wiki/Laravel#History"
     }
   ],
   "M": [
