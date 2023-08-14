@@ -81,13 +81,6 @@
       "type": "Development Practice",
       "year_created": 1999,
       "year_created_source": "https://en.wikipedia.org/wiki/Web_accessibility"
-    },
-    {
-      "name": "Astral.js",
-      "url": "https://github.com/rabisnaqvi/Astral.js#readme",
-      "type": "Library",
-      "year_created": 2023,
-      "year_created_source": "https://www.npmjs.com/package/astral.js?activeTab=versions"
     }
     
   ],
@@ -1131,7 +1124,7 @@
       "name": "upload.js",
       "url": "https://upload.io/upload-js",
       "type": "Library",
-      "year_created": 2022,
+      "year_created": 2021,
       "year_created_source": "https://www.npmjs.com/package/upload-js?activeTab=versions"
     }
   ],
@@ -1171,13 +1164,6 @@
       "type": "Library",
       "year_created": 2015,
       "year_created_source": "https://www.npmjs.com/package/viewerjs?activeTab=versions"
-    },
-    {
-      "name": "Vasille",
-      "url": "https://gitlab.com/vasille-js/vasille-js#readme",
-      "type": "Library",
-      "year_created": 2020,
-      "year_created_source": "https://www.npmjs.com/package/vasille?activeTab=versions"
     }
   ],
   "W": [
