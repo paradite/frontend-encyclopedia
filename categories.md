@@ -29,6 +29,7 @@ List by
 - [Travis CI](https://www.travis-ci.com) ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 
 ### CSS Framework
+- [Bulma](https://bulma.io/) ([2016](https://github.com/jgthms/bulma/releases/tag/0.0.1))
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
 - [Panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))

@@ -156,6 +156,7 @@ List by
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Anime.js](https://animejs.com): Library ([2016](https://github.com/juliangarnier/anime/releases?page=2))
 - [Apollo](https://www.apollographql.com): Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
+- [Bulma](https://bulma.io/): CSS Framework ([2016](https://github.com/jgthms/bulma/releases/tag/0.0.1))
 - [Figma](https://www.figma.com): Design Tool ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
 - [Fastify](https://fastify.dev): Backend-as-a-Service ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
 - [Grunt](https://gruntjs.com/): Build Tool ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
