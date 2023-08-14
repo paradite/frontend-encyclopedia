@@ -1122,6 +1122,13 @@
       "year_created_source": "https://www.npmjs.com/package/vite?activeTab=versions"
     },
     {
+      "name": "Vitest",
+      "url": "https://vitest.dev",
+      "type": "Testing Library",
+      "year_created": 2021,
+      "year_created_source": "https://www.npmjs.com/package/vitest?activeTab=versions"
+    },
+    {
       "name": "Vue.js",
       "url": "https://vuejs.org",
       "type": "Framework",

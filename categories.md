@@ -185,6 +185,7 @@ List by
 - [Playwright](https://playwright.dev) ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
+- [Vitest](https://vitest.dev) ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 
 ### UI Components Library
 - [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
