@@ -84,6 +84,7 @@ List by
 
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Development Practice ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+- [Immer](https://immerjs.github.io/immer): Utility Library ([2017](https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md))
 - [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
@@ -144,6 +145,7 @@ List by
 - [Qwik](https://qwik.builder.io/): Framework ([2023](https://www.builder.io/blog/qwik-v1))
 
 ### R
+- [Radix UI](https://www.radix-ui.com/primitives): UI Components Library ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
 - [Ramda](https://ramdajs.com): Utility Library ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
 - [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
