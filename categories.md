@@ -34,6 +34,7 @@ List by
 - [Panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Pure](https://purecss.io/) ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
 - [Spectre.css](https://picturepan2.github.io/spectre/) ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
+- [spruce](https://sprucecss.com/) ([2021](https://www.npmjs.com/package/sprucecss?activeTab=versions))
 - [Tailwind CSS](https://tailwindcss.com) ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
 - [xstyled](https://xstyled.dev/) ([2019](https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions))
 
@@ -82,7 +83,7 @@ List by
 - [Gatsby](https://www.gatsbyjs.com) ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [Ionic](https://ionicframework.com) ([2012](https://ionic.io/about))
 - [Meteor.js](https://www.meteor.com) ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
-- [Nest.js](https://nestjs.com) ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
+- [NestJS](https://nestjs.com) ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Next.js](https://nextjs.org) ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Quasar](https://quasar.dev) ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
@@ -128,7 +129,10 @@ List by
 - [SWR](https://swr.vercel.app/) ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [TSDX](https://tsdx.io/) ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
+- [upload.js](https://upload.io/upload-js) ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
+- [Viewer.js](https://fengyuanchen.github.io/viewerjs/) ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
+- [yo](https://yeoman.io/) ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
 - [Zod](https://zod.dev) ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### Linter
