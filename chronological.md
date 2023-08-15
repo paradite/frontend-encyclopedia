@@ -124,8 +124,10 @@ List by
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html): Library ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
+- [React Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6))
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Ramda](https://ramdajs.com): Utility Library ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
+- [Tanstack Table (formerly React Table)](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5))
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
@@ -147,6 +149,7 @@ List by
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
+- [Yup](https://www.npmjs.com/package/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### 2016
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -187,6 +190,7 @@ List by
 - [day.js](https://day.js.org): Date & Time Library ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
 - [docz](https://www.docz.site/): Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/): UI Components Library ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
+- [React Bootstrap](https://react-bootstrap.netlify.app/): UI Components Library ([2018](https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
@@ -207,9 +211,11 @@ List by
 - [Chakra UI](https://chakra-ui.com): UI Components Library ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Deno](https://deno.land/): Runtime Environment ([2020](https://deno.com/blog/v1))
 - [Headless UI](https://headlessui.com/): UI Components Library ([2020](https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24))
+- [Heroicons](https://heroicons.com/): Icon Library ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 - [Playwright](https://playwright.dev): Testing Library ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
 - [Radix UI](https://www.radix-ui.com/primitives): UI Components Library ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
+- [Supabase](https://supabase.com/): Backend-as-a-Service ([2020](https://supabase.com/changelog))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
 - [Zod](https://zod.dev): Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 

@@ -453,6 +453,13 @@
       "type": "UI Components Library",
       "year_created": 2020,
       "year_created_source": "https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24"
+    },
+    {
+      "name": "Heroicons",
+      "url": "https://heroicons.com/",
+      "type": "Icon Library",
+      "year_created": "2020",
+      "year_created_source": "https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18"
     }
   ],
   "I": [
@@ -802,12 +809,26 @@
       "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w"
     },
     {
+      "name": "React Bootstrap",
+      "url": "https://react-bootstrap.netlify.app/",
+      "type": "UI Components Library",
+      "year_created": 2018,
+      "year_created_source": "https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13"
+    },
+    {
       "name": "React Native",
       "url": "https://reactnative.dev",
       "type": "Framework",
       "year_created": 2015,
       "year_created_source": "https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/",
       "year_created_source_alt": "https://reactnative.dev/blog/2015/03/26/react-native-bringing-modern-web-techniques-to-mobile"
+    },
+    {
+      "name": "React Query",
+      "url": "https://tanstack.com/query/latest",
+      "type": "Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6"
     },
     {
       "name": "React Testing Library",
@@ -1044,6 +1065,13 @@
       "type": "Specification",
       "year_created": 2011,
       "year_created_source": "https://github.com/semver/semver/tags"
+    },
+    {
+      "name": "Supabase",
+      "url": "https://supabase.com/",
+      "type": "Backend-as-a-Service",
+      "year_created" : "2020",
+      "year_created_source": "https://supabase.com/changelog"
     }
   ],
   "T": [
@@ -1060,6 +1088,13 @@
       "type": "UI Components Library",
       "year_created": 2022,
       "year_created_source": "https://github.com/tamagui/tamagui/releases?page=68"
+    },
+    {
+      "name": "Tanstack Table (formerly React Table)",
+      "url": "https://tanstack.com/table/",
+      "type": "Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/react-table/v/0.0.5"
     },
     {
       "name": "Three.js",
@@ -1204,6 +1239,13 @@
       "type": "Package Manager",
       "year_created": 2016,
       "year_created_source": "https://en.wikipedia.org/wiki/Yarn_(package_manager)"
+    },
+    {
+      "name": "Yup",
+      "url": "https://www.npmjs.com/package/yup",
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://github.com/jquense/yup/releases/tag/v0.6.0"
     }
   ],
   "Z": [
