@@ -14,6 +14,7 @@ List by
 ### Backend-as-a-Service
 - [Fastify](https://fastify.dev) ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
 - [Firebase](https://firebase.google.com) ([2012](https://en.wikipedia.org/wiki/Firebase))
+- [Supabase](https://supabase.com/) ([2020](https://supabase.com/changelog))
 
 ### Build Tool
 - [Babel](https://babeljs.io) ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
@@ -29,6 +30,8 @@ List by
 - [Travis CI](https://www.travis-ci.com) ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 
 ### CSS Framework
+- [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Bulma](https://bulma.io/) ([2016](https://github.com/jgthms/bulma/releases/tag/0.0.1))
 - [Materialize](https://materializecss.com/) ([2022](https://materialize.com/docs/releases/))
 - [MVP.css](https://andybrewer.github.io/mvp/) ([2020](https://github.com/andybrewer/mvp/releases))
 - [Panda](https://panda-css.com/) ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
@@ -102,6 +105,7 @@ List by
 
 ### Icon Library
 - [Font Awesome](https://fontawesome.com) ([2012](https://fontawesome.com/versions))
+- [Heroicons](https://heroicons.com/) ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [react-icons](https://react-icons.github.io/react-icons/) ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 
 ### Language
@@ -122,17 +126,20 @@ List by
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron) ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
+- [React Query](https://tanstack.com/query/latest) ([2014](https://www.npmjs.com/package/react-query/v/0.0.6))
 - [Relay](https://relay.dev) ([2016](https://github.com/facebook/relay/releases/tag/v0.1.0))
 - [RxJS](https://rxjs.dev) ([2015](https://www.npmjs.com/package/rxjs?activeTab=versions))
 - [Socket.IO](https://socket.io) ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))
 - [styled-components](https://styled-components.com) ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
 - [SWR](https://swr.vercel.app/) ([2019](https://www.npmjs.com/package/swr?activeTab=versions))
+- [Tanstack Table (formerly React Table)](https://tanstack.com/table/) ([2014](https://www.npmjs.com/package/react-table/v/0.0.5))
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [TSDX](https://tsdx.io/) ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [upload.js](https://upload.io/upload-js) ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
 - [yo](https://yeoman.io/) ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
+- [Yup](https://www.npmjs.com/package/yup) ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 - [Zod](https://zod.dev) ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### Linter
@@ -194,13 +201,14 @@ List by
 
 ### UI Components Library
 - [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
-- [Bootstrap](https://getbootstrap.com) ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
 - [Chakra UI](https://chakra-ui.com) ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/) ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 - [Flowbite](https://flowbite.com/) ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))
 - [Foundation](https://get.foundation) ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
+- [Headless UI](https://headlessui.com/) ([2020](https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24))
 - [Material UI](https://mui.com) ([2014](https://mui.com/about/))
 - [Radix UI](https://www.radix-ui.com/primitives) ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
+- [React Bootstrap](https://react-bootstrap.netlify.app/) ([2018](https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13))
 - [Rebass](https://rebassjs.org/) ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [Tamagui](https://tamagui.dev) ([2022](https://github.com/tamagui/tamagui/releases?page=68))
 

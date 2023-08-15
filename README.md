@@ -25,7 +25,8 @@ List by
 - [Backbone.js](https://backbonejs.org): Framework ([2010](https://backbonejs.org/#changelog))
 - [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
 - [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
-- [Bootstrap](https://getbootstrap.com): UI Components Library ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Bootstrap](https://getbootstrap.com): CSS Framework ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Bulma](https://bulma.io/): CSS Framework ([2016](https://github.com/jgthms/bulma/releases/tag/0.0.1))
 
 ### C
 - [Chai](https://www.chaijs.com): Testing Library ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
@@ -79,6 +80,8 @@ List by
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 
 ### H
+- [Headless UI](https://headlessui.com/): UI Components Library ([2020](https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24))
+- [Heroicons](https://heroicons.com/): Icon Library ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [Highcharts](https://www.highcharts.com/): UI Library ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
@@ -148,8 +151,10 @@ List by
 ### R
 - [Radix UI](https://www.radix-ui.com/primitives): UI Components Library ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
 - [Ramda](https://ramdajs.com): Utility Library ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
+- [React Bootstrap](https://react-bootstrap.netlify.app/): UI Components Library ([2018](https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13))
 - [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
+- [React Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
@@ -181,6 +186,7 @@ List by
 - [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [styled-components](https://styled-components.com): Library ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
+- [Supabase](https://supabase.com/): Backend-as-a-Service ([2020](https://supabase.com/changelog))
 - [Svelte](https://svelte.dev): Framework ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
 - [SVG](https://en.wikipedia.org/wiki/SVG): Data Format ([2001](https://en.wikipedia.org/wiki/SVG))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
@@ -189,6 +195,7 @@ List by
 ### T
 - [Tailwind CSS](https://tailwindcss.com): CSS Framework ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
 - [Tamagui](https://tamagui.dev): UI Components Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
+- [Tanstack Table (formerly React Table)](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5))
 - [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
@@ -221,6 +228,7 @@ List by
 ### Y
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 - [yo](https://yeoman.io/): Library ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
+- [Yup](https://www.npmjs.com/package/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### Z
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
