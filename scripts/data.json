@@ -838,14 +838,6 @@
       "year_created_source_alt": "https://reactnative.dev/blog/2015/03/26/react-native-bringing-modern-web-techniques-to-mobile"
     },
     {
-      "name": "TanStack Query",
-      "url": "https://tanstack.com/query/latest",
-      "type": "Library",
-      "year_created": 2014,
-      "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6",
-      "note": "Formerly known as React Query."
-    },
-    {
       "name": "React Testing Library",
       "url": "https://testing-library.com/docs/react-testing-library/intro/",
       "type": "Testing Library",
@@ -1174,6 +1166,14 @@
       "type": "Machine Learning Library",
       "year_created": 2018,
       "year_created_source": "https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions"
+    },
+    {
+      "name": "TanStack Query",
+      "url": "https://tanstack.com/query/latest",
+      "type": "Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6",
+      "note": "Formerly known as React Query."
     }
   ],
   "U": [

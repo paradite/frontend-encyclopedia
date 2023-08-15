@@ -171,7 +171,6 @@ List by
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Rollup](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [RxJS](https://rxjs.dev): Library ([2015](https://www.npmjs.com/package/rxjs?activeTab=versions))
-- [TanStack Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6), Formerly known as React Query.)
 
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language ([2006](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)))
@@ -196,6 +195,7 @@ List by
 ### T
 - [Tailwind CSS](https://tailwindcss.com): CSS Framework ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
 - [Tamagui](https://tamagui.dev): UI Components Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
+- [TanStack Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6), Formerly known as React Query.)
 - [Tanstack Table](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5), Formerly known as React Table.)
 - [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
