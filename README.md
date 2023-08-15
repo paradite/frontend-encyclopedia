@@ -120,6 +120,7 @@ List by
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
 ### N
+- [NestJS](https://nestjs.com): Framework ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
@@ -180,6 +181,7 @@ List by
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
 - [SPA](https://en.wikipedia.org/wiki/Single-page_application): Web Application Model ([2003](https://en.wikipedia.org/wiki/Single-page_application))
 - [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
+- [spruce](https://sprucecss.com/): CSS Framework ([2021](https://www.npmjs.com/package/sprucecss?activeTab=versions))
 - [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [styled-components](https://styled-components.com): Library ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
@@ -201,11 +203,14 @@ List by
 
 ### U
 - [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
+- [upload.js](https://upload.io/upload-js): Library ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
 
 ### V
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
+- [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
+- [Vitest](https://vitest.dev): Testing Library ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### W
@@ -219,6 +224,7 @@ List by
 
 ### Y
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
+- [yo](https://yeoman.io/): Library ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
 
 ### Z
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))

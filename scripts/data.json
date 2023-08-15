@@ -82,6 +82,7 @@
       "year_created": 1999,
       "year_created_source": "https://en.wikipedia.org/wiki/Web_accessibility"
     }
+    
   ],
   "B": [
     {
@@ -645,6 +646,13 @@
   ],
   "N": [
     {
+      "name": "NestJS",
+      "url": "https://nestjs.com",
+      "type": "Framework",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions"
+    },
+    {
       "name": "Next.js",
       "url": "https://nextjs.org",
       "type": "Framework",
@@ -1058,6 +1066,13 @@
       "type": "Specification",
       "year_created": 2011,
       "year_created_source": "https://github.com/semver/semver/tags"
+    },
+    {
+      "name": "spruce",
+      "url": "https://sprucecss.com/",
+      "type": "CSS Framework",
+      "year_created": 2021,
+      "year_created_source": "https://www.npmjs.com/package/sprucecss?activeTab=versions"
     }
   ],
   "T": [
@@ -1139,6 +1154,13 @@
       "type": "Utility Library",
       "year_created": 2009,
       "year_created_source": "https://underscorejs.org/#changelog"
+    },
+    {
+      "name": "upload.js",
+      "url": "https://upload.io/upload-js",
+      "type": "Library",
+      "year_created": 2021,
+      "year_created_source": "https://www.npmjs.com/package/upload-js?activeTab=versions"
     }
   ],
   "V": [
@@ -1148,6 +1170,13 @@
       "type": "Build Tool",
       "year_created": 2020,
       "year_created_source": "https://www.npmjs.com/package/vite?activeTab=versions"
+    },
+    {
+      "name": "Vitest",
+      "url": "https://vitest.dev",
+      "type": "Testing Library",
+      "year_created": 2021,
+      "year_created_source": "https://www.npmjs.com/package/vitest?activeTab=versions"
     },
     {
       "name": "Vue.js",
@@ -1170,6 +1199,13 @@
       "type": "Library",
       "year_created": 2013,
       "year_created_source": "https://www.npmjs.com/package/video.js?activeTab=versions"
+    },
+    {
+      "name": "Viewer.js",
+      "url": "https://fengyuanchen.github.io/viewerjs/",
+      "type": "Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/viewerjs?activeTab=versions"
     }
   ],
   "W": [
@@ -1218,6 +1254,13 @@
       "type": "Package Manager",
       "year_created": 2016,
       "year_created_source": "https://en.wikipedia.org/wiki/Yarn_(package_manager)"
+    },
+    {
+      "name": "yo",
+      "url": "https://yeoman.io/",
+      "type": "Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/yo?activeTab=versions"
     }
   ],
   "Z": [
