@@ -125,6 +125,7 @@ List by
 - [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 - [npm](https://www.npmjs.com): Package Manager ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
+- [Nuxt.js](https://nuxt.com/): Framework ([2016](https://www.npmjs.com/package/nuxt?activeTab=versions))
 
 ### O
 - [OAuth](https://oauth.net): Specification ([2007](https://oauth.net/1/))

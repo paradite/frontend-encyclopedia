@@ -88,6 +88,7 @@ List by
 - [Meteor.js](https://www.meteor.com) ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [NestJS](https://nestjs.com) ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Next.js](https://nextjs.org) ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
+- [Nuxt.js](https://nuxt.com/) ([2016](https://www.npmjs.com/package/nuxt?activeTab=versions))
 - [Quasar](https://quasar.dev) ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
 - [React Native](https://reactnative.dev) ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))

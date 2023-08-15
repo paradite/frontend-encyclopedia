@@ -679,6 +679,13 @@
       "type": "Library",
       "year_created": 2016,
       "year_created_source": "https://www.npmjs.com/package/node-cron?activeTab=versions"
+    },
+    {
+      "name": "Nuxt.js",
+      "url": "https://nuxt.com/",
+      "type": "Framework",
+      "year_created": 2016,
+      "year_created_source": "https://www.npmjs.com/package/nuxt?activeTab=versions"
     }
   ],
   "O": [

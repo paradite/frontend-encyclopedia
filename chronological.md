@@ -164,6 +164,7 @@ List by
 - [Insomnia](https://insomnia.rest): API Client ([2016](https://github.com/Kong/insomnia/tags?after=v5.0.0))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
+- [Nuxt.js](https://nuxt.com/): Framework ([2016](https://www.npmjs.com/package/nuxt?activeTab=versions))
 - [Pug](https://pugjs.org/api/getting-started.html): Template Engine ([2016](https://github.com/pugjs/pug/issues/2184), Formerly known as Jade. Last release was in 2021.)
 - [pnpm](https://pnpm.io/): Package Manager ([2016](https://www.npmjs.com/package/pnpm?activeTab=versions))
 - [Quasar](https://quasar.dev): Framework ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
