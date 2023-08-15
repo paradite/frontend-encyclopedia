@@ -583,13 +583,6 @@
       "type": "Utility Library",
       "year_created": 2012,
       "year_created_source": "https://github.com/lodash/lodash/tags?after=0.2.2"
-    },
-    {
-      "name": "Laravel",
-      "url": "https://laravel.com/",
-      "type": "Framework",
-      "year_created": 2011,
-      "year_created_source": "https://en.wikipedia.org/wiki/Laravel#History"
     }
   ],
   "M": [
@@ -775,13 +768,6 @@
       "type": "CSS Framework",
       "year_created": 2023,
       "year_created_source": "https://www.npmjs.com/package/@pandacss/node?activeTab=versions"
-    },
-    {
-      "name": "PHP",
-      "url": "https://www.php.net/",
-      "type": "Language",
-      "year_created": 1994,
-      "year_created_source": "https://www.php.net/manual/en/history.php.php"
     }
   ],
   "Q": [
@@ -811,7 +797,7 @@
     {
       "name": "React",
       "url": "https://react.dev",
-      "type": "Library",
+      "type": "Framework",
       "year_created": 2013,
       "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w"
     },

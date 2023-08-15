@@ -13,9 +13,6 @@ List by
 ### 1993
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
 
-### 1994
-- [PHP](https://www.php.net/): Language ([1994](https://www.php.net/manual/en/history.php.php))
-
 ### 1995
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
@@ -83,7 +80,6 @@ List by
 - [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Foundation](https://get.foundation): UI Components Library ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
-- [Laravel](https://laravel.com/): Framework ([2011](https://en.wikipedia.org/wiki/Laravel#History))
 - [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
 - [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [Redux](https://redux.js.org): State Management Library ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
@@ -112,7 +108,7 @@ List by
 - [Pure](https://purecss.io/): CSS Framework ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
-- [React](https://react.dev): Library ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))

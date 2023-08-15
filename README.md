@@ -106,7 +106,6 @@ List by
 - [Karma](https://karma-runner.github.io): Testing Library ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 
 ### L
-- [Laravel](https://laravel.com/): Framework ([2011](https://en.wikipedia.org/wiki/Laravel#History))
 - [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
 - [Lodash](https://lodash.com): Utility Library ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
 
@@ -132,7 +131,6 @@ List by
 - [Panda](https://panda-css.com/): CSS Framework ([2023](https://www.npmjs.com/package/@pandacss/node?activeTab=versions))
 - [Parcel](https://parceljs.org): Build Tool ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
-- [PHP](https://www.php.net/): Language ([1994](https://www.php.net/manual/en/history.php.php))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [Playwright](https://playwright.dev): Testing Library ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
@@ -156,7 +154,7 @@ List by
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
-- [React](https://react.dev): Library ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [Redux Toolkit](https://redux-toolkit.js.org/): State Management Library ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
