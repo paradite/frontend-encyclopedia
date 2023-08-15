@@ -137,12 +137,9 @@ List by
 - [TSDX](https://tsdx.io/) ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [upload.js](https://upload.io/upload-js) ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
-<<<<<<< HEAD
-- [Yup](https://www.npmjs.com/package/yup) ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
-=======
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
 - [yo](https://yeoman.io/) ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
->>>>>>> 2a0c6a53a1d19a94bbfa7e17869d4ae72129297c
+- [Yup](https://www.npmjs.com/package/yup) ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 - [Zod](https://zod.dev) ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### Linter

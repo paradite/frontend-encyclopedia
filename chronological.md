@@ -150,11 +150,8 @@ List by
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
-<<<<<<< HEAD
-- [Yup](https://www.npmjs.com/package/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
-=======
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
->>>>>>> 2a0c6a53a1d19a94bbfa7e17869d4ae72129297c
+- [Yup](https://www.npmjs.com/package/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### 2016
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
