@@ -92,7 +92,7 @@ List by
 - [Quasar](https://quasar.dev) ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
 - [React Native](https://reactnative.dev) ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
-- [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w), Technically a library, but often considered a framework due to its ecosystem.)
 - [Remix](https://remix.run/) ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [reveal.js](https://revealjs.com/) ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [SolidJS](https://www.solidjs.com/) ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))

@@ -108,7 +108,7 @@ List by
 - [Pure](https://purecss.io/): CSS Framework ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
-- [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
+- [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w), Technically a library, but often considered a framework due to its ecosystem.)
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
