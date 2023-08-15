@@ -130,6 +130,7 @@ List by
 - [Tanstack Table (formerly React Table)](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5))
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
+- [yo](https://yeoman.io/): Library ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
 
 ### 2015
 - [Ant Design](https://ant.design): UI Components Library ([2015](https://09x.ant.design/))
@@ -149,7 +150,11 @@ List by
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
+<<<<<<< HEAD
 - [Yup](https://www.npmjs.com/package/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
+=======
+- [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
+>>>>>>> 2a0c6a53a1d19a94bbfa7e17869d4ae72129297c
 
 ### 2016
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -179,6 +184,7 @@ List by
 - [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Immer](https://immerjs.github.io/immer): Utility Library ([2017](https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md))
+- [NestJS](https://nestjs.com): Framework ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Parcel](https://parceljs.org): Build Tool ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [Prettier](https://prettier.io): Code Formatter ([2017](https://archive.jlongster.com/prettier-1.0))
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
@@ -225,6 +231,9 @@ List by
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 - [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
+- [spruce](https://sprucecss.com/): CSS Framework ([2021](https://www.npmjs.com/package/sprucecss?activeTab=versions))
+- [upload.js](https://upload.io/upload-js): Library ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
+- [Vitest](https://vitest.dev): Testing Library ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 
 ### 2022
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
