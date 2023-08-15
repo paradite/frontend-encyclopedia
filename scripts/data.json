@@ -625,6 +625,13 @@
   ],
   "N": [
     {
+      "name": "NestJS",
+      "url": "https://nestjs.com",
+      "type": "Framework",
+      "year_created": 2017,
+      "year_created_source": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions"
+    },
+    {
       "name": "Next.js",
       "url": "https://nextjs.org",
       "type": "Framework",
@@ -1135,6 +1142,13 @@
       "type": "Build Tool",
       "year_created": 2020,
       "year_created_source": "https://www.npmjs.com/package/vite?activeTab=versions"
+    },
+    {
+      "name": "Vitest",
+      "url": "https://vitest.dev",
+      "type": "Testing Library",
+      "year_created": 2021,
+      "year_created_source": "https://www.npmjs.com/package/vitest?activeTab=versions"
     },
     {
       "name": "Vue.js",

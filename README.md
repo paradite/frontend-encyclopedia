@@ -117,6 +117,7 @@ List by
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
 ### N
+- [Nest.js](https://nestjs.com): Framework ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
@@ -202,6 +203,7 @@ List by
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
+- [Vitest](https://vitest.dev): Testing Library ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### W

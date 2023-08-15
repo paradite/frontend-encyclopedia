@@ -175,6 +175,7 @@ List by
 - [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Immer](https://immerjs.github.io/immer): Utility Library ([2017](https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md))
+- [Nest.js](https://nestjs.com): Framework ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Parcel](https://parceljs.org): Build Tool ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [Prettier](https://prettier.io): Code Formatter ([2017](https://archive.jlongster.com/prettier-1.0))
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
@@ -217,6 +218,7 @@ List by
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
 - [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
+- [Vitest](https://vitest.dev): Testing Library ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 
 ### 2022
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
