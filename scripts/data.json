@@ -82,7 +82,6 @@
       "year_created": 1999,
       "year_created_source": "https://en.wikipedia.org/wiki/Web_accessibility"
     }
-    
   ],
   "B": [
     {
@@ -839,11 +838,12 @@
       "year_created_source_alt": "https://reactnative.dev/blog/2015/03/26/react-native-bringing-modern-web-techniques-to-mobile"
     },
     {
-      "name": "React Query",
+      "name": "TanStack Query",
       "url": "https://tanstack.com/query/latest",
       "type": "Library",
       "year_created": 2014,
-      "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6"
+      "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6",
+      "note": "Formerly known as React Query."
     },
     {
       "name": "React Testing Library",
@@ -1085,7 +1085,7 @@
       "name": "Supabase",
       "url": "https://supabase.com/",
       "type": "Backend-as-a-Service",
-      "year_created" : "2020",
+      "year_created": 2020,
       "year_created_source": "https://supabase.com/changelog"
     },
     {
@@ -1112,11 +1112,12 @@
       "year_created_source": "https://github.com/tamagui/tamagui/releases?page=68"
     },
     {
-      "name": "Tanstack Table (formerly React Table)",
+      "name": "Tanstack Table",
       "url": "https://tanstack.com/table/",
       "type": "Library",
       "year_created": 2014,
-      "year_created_source": "https://www.npmjs.com/package/react-table/v/0.0.5"
+      "year_created_source": "https://www.npmjs.com/package/react-table/v/0.0.5",
+      "note": "Formerly known as React Table."
     },
     {
       "name": "Three.js",
@@ -1285,7 +1286,7 @@
     },
     {
       "name": "Yup",
-      "url": "https://www.npmjs.com/package/yup",
+      "url": "https://github.com/jquense/yup",
       "type": "Library",
       "year_created": 2015,
       "year_created_source": "https://github.com/jquense/yup/releases/tag/v0.6.0"

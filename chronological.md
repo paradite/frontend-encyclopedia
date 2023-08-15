@@ -124,10 +124,10 @@ List by
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html): Library ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
-- [React Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6))
+- [TanStack Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6), Formerly known as React Query.)
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Ramda](https://ramdajs.com): Utility Library ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
-- [Tanstack Table (formerly React Table)](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5))
+- [Tanstack Table](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5), Formerly known as React Table.)
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 - [yo](https://yeoman.io/): Library ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
@@ -151,7 +151,7 @@ List by
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
-- [Yup](https://www.npmjs.com/package/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
+- [Yup](https://github.com/jquense/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### 2016
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))

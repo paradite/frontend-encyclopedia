@@ -155,7 +155,6 @@ List by
 - [React Bootstrap](https://react-bootstrap.netlify.app/): UI Components Library ([2018](https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13))
 - [React Hook Form](https://react-hook-form.com/): UI Library ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
-- [React Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
@@ -172,6 +171,7 @@ List by
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Rollup](https://rollupjs.org/): Build Tool ([2015](https://www.npmjs.com/package/rollup?activeTab=versions))
 - [RxJS](https://rxjs.dev): Library ([2015](https://www.npmjs.com/package/rxjs?activeTab=versions))
+- [TanStack Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6), Formerly known as React Query.)
 
 ### S
 - [Sass](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)): Language ([2006](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)))
@@ -196,7 +196,7 @@ List by
 ### T
 - [Tailwind CSS](https://tailwindcss.com): CSS Framework ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
 - [Tamagui](https://tamagui.dev): UI Components Library ([2022](https://github.com/tamagui/tamagui/releases?page=68))
-- [Tanstack Table (formerly React Table)](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5))
+- [Tanstack Table](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5), Formerly known as React Table.)
 - [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
@@ -229,7 +229,7 @@ List by
 ### Y
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 - [yo](https://yeoman.io/): Library ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
-- [Yup](https://www.npmjs.com/package/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
+- [Yup](https://github.com/jquense/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### Z
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
