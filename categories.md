@@ -52,6 +52,11 @@ List by
 - [JSON](https://en.wikipedia.org/wiki/JSON) ([2001](https://en.wikipedia.org/wiki/JSON))
 - [SVG](https://en.wikipedia.org/wiki/SVG) ([2001](https://en.wikipedia.org/wiki/SVG))
 
+### Data Validation Library
+- [joi](https://joi.dev/) ([2012](https://www.npmjs.com/package/joi?activeTab=versions))
+- [Yup](https://github.com/jquense/yup) ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
+- [Zod](https://zod.dev) ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
+
 ### Date & Time Library
 - [date-fns](https://date-fns.org/) ([2015](https://www.npmjs.com/package/date-fns?activeTab=versions))
 - [day.js](https://day.js.org) ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
@@ -93,7 +98,7 @@ List by
 - [Quasar](https://quasar.dev) ([2016](https://github.com/quasarframework/quasar/tags?after=v0.5.0))
 - [Qwik](https://qwik.builder.io/) ([2023](https://www.builder.io/blog/qwik-v1))
 - [React Native](https://reactnative.dev) ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
-- [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w), Technically a library, but often compared to frameworks.)
+- [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Remix](https://remix.run/) ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [reveal.js](https://revealjs.com/) ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [SolidJS](https://www.solidjs.com/) ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
@@ -128,6 +133,7 @@ List by
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron) ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [polished](https://polished.js.org/) ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
+- [React](https://react.dev) ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Relay](https://relay.dev) ([2016](https://github.com/facebook/relay/releases/tag/v0.1.0))
 - [RxJS](https://rxjs.dev) ([2015](https://www.npmjs.com/package/rxjs?activeTab=versions))
 - [Socket.IO](https://socket.io) ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))
@@ -141,8 +147,6 @@ List by
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
 - [yo](https://yeoman.io/) ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
-- [Yup](https://github.com/jquense/yup) ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
-- [Zod](https://zod.dev) ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### Linter
 - [ESLint](https://eslint.org) ([2013](https://eslint.org/docs/latest/about/))
@@ -203,6 +207,7 @@ List by
 
 ### Type Checker
 - [Flow](https://flow.org/) ([2014](https://www.npmjs.com/package/flow-bin?activeTab=versions))
+- [TypeScript](https://www.typescriptlang.org) ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### UI Components Library
 - [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
@@ -269,6 +274,7 @@ Pull requests are welcome! Take note of the following guidelines:
   - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
   - For example, use "Node.js" instead of "nodejs" or "node.js". Use "npm" instead of "NPM".
+- `type` field should be a string or an array of strings.
 - Add `year_created` and `year_created_source` fields.
   - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
   - `year_created_source_alt` can be added to cite an alternative official source, in case the primary source is no longer available.

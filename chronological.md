@@ -93,10 +93,11 @@ List by
 - [Firebase](https://firebase.google.com): Backend-as-a-Service ([2012](https://en.wikipedia.org/wiki/Firebase))
 - [Font Awesome](https://fontawesome.com): Icon Library ([2012](https://fontawesome.com/versions))
 - [Ionic](https://ionicframework.com): Framework ([2012](https://ionic.io/about))
+- [joi](https://joi.dev/): Data Validation Library ([2012](https://www.npmjs.com/package/joi?activeTab=versions))
 - [Lodash](https://lodash.com): Utility Library ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
 - [Meteor.js](https://www.meteor.com): Framework ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [Postman](https://www.postman.com): API Client ([2012](https://en.wikipedia.org/wiki/Postman_(software)))
-- [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
+- [TypeScript](https://www.typescriptlang.org): Language, Type Checker ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 - [webpack](https://webpack.js.org): Build Tool ([2012](https://www.npmjs.com/package/webpack?activeTab=versions))
 
 ### 2013
@@ -109,7 +110,7 @@ List by
 - [Pure](https://purecss.io/): CSS Framework ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
 - [PixiJS](https://pixijs.com/): UI Library ([2013](https://www.npmjs.com/package/pixi.js?activeTab=versions))
 - [phaser](https://phaser.io/): Game Development ([2013](https://www.npmjs.com/package/phaser?activeTab=versions))
-- [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w), Technically a library, but often compared to frameworks.)
+- [React](https://react.dev): Framework, Library ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [reveal.js](https://revealjs.com/): Framework ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [Three.js](https://threejs.org): UI Library ([2013](https://github.com/mrdoob/three.js/releases/tag/r1))
@@ -153,7 +154,7 @@ List by
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
-- [Yup](https://github.com/jquense/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
+- [Yup](https://github.com/jquense/yup): Data Validation Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### 2016
 - [Angular](https://angular.io): Framework ([2016](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -223,7 +224,7 @@ List by
 - [Radix UI](https://www.radix-ui.com/primitives): UI Components Library ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
 - [Supabase](https://supabase.com/): Backend-as-a-Service ([2020](https://supabase.com/changelog))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
-- [Zod](https://zod.dev): Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
+- [Zod](https://zod.dev): Data Validation Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### 2021
 - [Astro](https://astro.build/): Framework ([2021](https://astro.build/blog/introducing-astro/))
@@ -261,6 +262,7 @@ Pull requests are welcome! Take note of the following guidelines:
   - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
   - For example, use "Node.js" instead of "nodejs" or "node.js". Use "npm" instead of "NPM".
+- `type` field should be a string or an array of strings.
 - Add `year_created` and `year_created_source` fields.
   - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
   - `year_created_source_alt` can be added to cite an alternative official source, in case the primary source is no longer available.

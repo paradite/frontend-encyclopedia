@@ -41,6 +41,7 @@ Pull requests are welcome! Take note of the following guidelines:
   - Do not edit \`README.md\` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
   - For example, use "Node.js" instead of "nodejs" or "node.js". Use "npm" instead of "NPM".
+- \`type\` field should be a string or an array of strings.
 - Add \`year_created\` and \`year_created_source\` fields.
   - \`year_created_source\` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
   - \`year_created_source_alt\` can be added to cite an alternative official source, in case the primary source is no longer available.
@@ -71,13 +72,13 @@ for (const key in data) {
       const nameWithLink = term.url
         ? `[${term.name}](${term.url})`
         : term.name;
-
+      const types = Array.isArray(term.type)
+        ? term.type.join(', ')
+        : term.type;
       let dateInfo = getAdditionalInfo(term);
       return `- ${nameWithLink}${
-        term.type
-          ? `: ${term.type}${
-              dateInfo ? ` ${dateInfo}` : ''
-            }`
+        types
+          ? `: ${types}${dateInfo ? ` ${dateInfo}` : ''}`
           : ''
       }`;
     })
@@ -98,16 +99,20 @@ const categories = {};
 for (const key in data) {
   data[key].forEach((term) => {
     let dateInfo = getAdditionalInfo(term);
-    if (term.type) {
-      if (!categories[term.type])
-        categories[term.type] = [];
-      let nameWithLink = term.url
-        ? `[${term.name}](${term.url})`
-        : term.name;
+    const types = Array.isArray(term.type)
+      ? term.type
+      : [term.type];
+    types.forEach((type) => {
+      if (type) {
+        if (!categories[type]) categories[type] = [];
+        let nameWithLink = term.url
+          ? `[${term.name}](${term.url})`
+          : term.name;
 
-      if (dateInfo) nameWithLink += ` ${dateInfo}`;
-      categories[term.type].push(nameWithLink);
-    }
+        if (dateInfo) nameWithLink += ` ${dateInfo}`;
+        categories[type].push(nameWithLink);
+      }
+    });
   });
 }
 
@@ -141,14 +146,16 @@ for (const key in data) {
   data[key].forEach((term) => {
     let dateInfo = getAdditionalInfo(term);
     let yearCreated = term.year_created;
-    let category = term.type; // Using 'type' as the category
+    const types = Array.isArray(term.type)
+      ? term.type.join(', ')
+      : term.type;
 
-    if (yearCreated && category) {
+    if (yearCreated && types) {
       let nameWithLink = term.url
         ? `[${term.name}](${term.url})`
         : term.name;
 
-      let entry = `- ${nameWithLink}: ${category}${
+      let entry = `- ${nameWithLink}: ${types}${
         dateInfo ? ` ${dateInfo}` : ''
       }`;
 

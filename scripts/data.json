@@ -573,6 +573,13 @@
       "type": "Library",
       "year_created": 2014,
       "year_created_source": "https://www.npmjs.com/package/jspdf?activeTab=versions"
+    },
+    {
+      "name": "joi",
+      "url": "https://joi.dev/",
+      "type": "Data Validation Library",
+      "year_created": 2012,
+      "year_created_source": "https://www.npmjs.com/package/joi?activeTab=versions"
     }
   ],
   "K": [
@@ -833,10 +840,9 @@
     {
       "name": "React",
       "url": "https://react.dev",
-      "type": "Framework",
+      "type": ["Framework", "Library"],
       "year_created": 2013,
-      "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w",
-      "note": "Technically a library, but often compared to frameworks."
+      "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w"
     },
     {
       "name": "React Bootstrap",
@@ -1148,7 +1154,7 @@
     {
       "name": "TypeScript",
       "url": "https://www.typescriptlang.org",
-      "type": "Language",
+      "type": ["Language", "Type Checker"],
       "year_created": 2012,
       "year_created_source": "https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/",
       "year_created_source_alt": "https://www.npmjs.com/package/typescript?activeTab=versions"
@@ -1303,7 +1309,7 @@
     {
       "name": "Yup",
       "url": "https://github.com/jquense/yup",
-      "type": "Library",
+      "type": "Data Validation Library",
       "year_created": 2015,
       "year_created_source": "https://github.com/jquense/yup/releases/tag/v0.6.0"
     },
@@ -1326,7 +1332,7 @@
     {
       "name": "Zod",
       "url": "https://zod.dev",
-      "type": "Library",
+      "type": "Data Validation Library",
       "year_created": 2020,
       "year_created_source": "https://www.npmjs.com/package/zod?activeTab=versions"
     },

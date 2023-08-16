@@ -98,6 +98,7 @@ List by
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
+- [joi](https://joi.dev/): Data Validation Library ([2012](https://www.npmjs.com/package/joi?activeTab=versions))
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [JSON-RPC](https://www.jsonrpc.org): Specification ([2005](https://www.jsonrpc.org/specification_v1))
@@ -160,7 +161,7 @@ List by
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
-- [React](https://react.dev): Framework ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w), Technically a library, but often compared to frameworks.)
+- [React](https://react.dev): Framework, Library ([2013](https://www.youtube.com/watch?v=GW0rj4sNH2w))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [Redux Toolkit](https://redux-toolkit.js.org/): State Management Library ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
@@ -205,7 +206,7 @@ List by
 - [Travis CI](https://www.travis-ci.com): CI/CD Service ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 - [TSDX](https://tsdx.io/): Library ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [TSLint](https://palantir.github.io/tslint): Linter ([2013](https://www.npmjs.com/package/tslint?activeTab=versions) - [2019](https://github.com/palantir/tslint/issues/4534))
-- [TypeScript](https://www.typescriptlang.org): Language ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
+- [TypeScript](https://www.typescriptlang.org): Language, Type Checker ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### U
 - [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
@@ -231,11 +232,11 @@ List by
 ### Y
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
 - [yo](https://yeoman.io/): Library ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
-- [Yup](https://github.com/jquense/yup): Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
+- [Yup](https://github.com/jquense/yup): Data Validation Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### Z
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
-- [Zod](https://zod.dev): Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
+- [Zod](https://zod.dev): Data Validation Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
 ---
@@ -255,6 +256,7 @@ Pull requests are welcome! Take note of the following guidelines:
   - Do not edit `README.md` or other markdown files directly.
 - Ensure that official names are used with correct spelling, capitalization and styling.
   - For example, use "Node.js" instead of "nodejs" or "node.js". Use "npm" instead of "NPM".
+- `type` field should be a string or an array of strings.
 - Add `year_created` and `year_created_source` fields.
   - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
   - `year_created_source_alt` can be added to cite an alternative official source, in case the primary source is no longer available.
