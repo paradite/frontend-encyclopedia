@@ -33,6 +33,7 @@ List by
 - [Chakra UI](https://chakra-ui.com): UI Components Library ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Chart.js](https://www.chartjs.org): UI Library ([2013](https://www.chartjs.org/docs/latest/))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
+- [Cloudflare](https://www.cloudflare.com/): Deployment & Hosting ([2010](https://www.cloudflare.com/our-story/))
 - [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/): Library ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets): Language ([1996](https://en.wikipedia.org/wiki/CSS))
