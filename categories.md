@@ -58,6 +58,7 @@ List by
 - [Moment.js](https://momentjs.com) ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 
 ### Deployment & Hosting
+- [Cloudflare](https://www.cloudflare.com/) ([2010](https://www.cloudflare.com/our-story/))
 - [GitHub Pages](https://pages.github.com/) ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [Render](https://render.com/) ([2019](https://render.com/about))
 - [Vercel](https://vercel.com/) ([2015](https://en.wikipedia.org/wiki/Vercel))

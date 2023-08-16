@@ -67,6 +67,7 @@ List by
 - [AngularJS](https://angularjs.org): Framework ([2010](https://en.wikipedia.org/wiki/AngularJS) - [2021](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a), Replaced by Angular)
 - [Backbone.js](https://backbonejs.org): Framework ([2010](https://backbonejs.org/#changelog))
 - [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
+- [Cloudflare](https://www.cloudflare.com/): Deployment & Hosting ([2010](https://www.cloudflare.com/our-story/))
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
 - [npm](https://www.npmjs.com): Package Manager ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
 - [Socket.IO](https://socket.io): Library ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))

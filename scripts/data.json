@@ -171,6 +171,13 @@
       "year_created_source": "https://circleci.com/about/"
     },
     {
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com/",
+      "type": "Deployment & Hosting",
+      "year_created": 2010,
+      "year_created_source": "https://www.cloudflare.com/our-story/"
+    },
+    {
       "name": "ct.js",
       "url": "https://ctjs.rocks/",
       "type": "Game Development",
