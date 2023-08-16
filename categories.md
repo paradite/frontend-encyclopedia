@@ -201,6 +201,9 @@ List by
 - [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Vitest](https://vitest.dev) ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 
+### Type Checker
+- [Flow](https://flow.org/) ([2014](https://www.npmjs.com/package/flow-bin?activeTab=versions))
+
 ### UI Components Library
 - [Ant Design](https://ant.design) ([2015](https://09x.ant.design/))
 - [Chakra UI](https://chakra-ui.com) ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))

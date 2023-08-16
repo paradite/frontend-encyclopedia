@@ -63,6 +63,7 @@ List by
 - [Fastify](https://fastify.dev): Backend-as-a-Service ([2016](https://github.com/fastify/fastify/tags?after=v0.6.0))
 - [Figma](https://www.figma.com): Design Tool ([2016](https://en.wikipedia.org/wiki/Figma_(software)))
 - [Firebase](https://firebase.google.com): Backend-as-a-Service ([2012](https://en.wikipedia.org/wiki/Firebase))
+- [Flow](https://flow.org/): Type Checker ([2014](https://www.npmjs.com/package/flow-bin?activeTab=versions))
 - [Flowbite](https://flowbite.com/): UI Components Library ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))
 - [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Font Awesome](https://fontawesome.com): Icon Library ([2012](https://fontawesome.com/versions))
