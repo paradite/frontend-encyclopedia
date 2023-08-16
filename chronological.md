@@ -119,6 +119,7 @@ List by
 - [Axios](https://axios-http.com): Library ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 - [Babel](https://babeljs.io): Build Tool ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
 - [Cypress](https://www.cypress.io): Testing Library ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
+- [Flow](https://flow.org/): Type Checker ([2014](https://www.npmjs.com/package/flow-bin?activeTab=versions))
 - [Glide.js](https://glidejs.com/): UI Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [Highcharts](https://www.highcharts.com/): UI Library ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))

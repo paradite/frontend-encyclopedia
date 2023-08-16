@@ -365,6 +365,14 @@
       "type": "UI Library",
       "year_created": 2017,
       "year_created_source": "https://www.npmjs.com/package/formik?activeTab=versions"
+    },
+    {
+      "name": "Flow",
+      "url": "https://flow.org/",
+      "type": "Type Checker",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/flow-bin?activeTab=versions",
+      "year_created_source_alt": "https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/"
     }
   ],
   "G": [
