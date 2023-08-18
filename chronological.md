@@ -56,6 +56,7 @@ List by
 - [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitHub Pages](https://pages.github.com/): Deployment & Hosting ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
+- [Jekyll](https://jekyllrb.com): Static Site Generator ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
 
 ### 2009
 - [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)

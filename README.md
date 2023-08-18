@@ -99,6 +99,7 @@ List by
 ### J
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
+- [Jekyll](https://jekyllrb.com): Static Site Generator ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [joi](https://joi.dev/): Data Validation Library ([2012](https://www.npmjs.com/package/joi?activeTab=versions))
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))

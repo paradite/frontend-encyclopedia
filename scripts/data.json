@@ -530,6 +530,13 @@
   ],
   "J": [
     {
+      "name": "Jekyll",
+      "url": "https://jekyllrb.com",
+      "type": "Static Site Generator",
+      "year_created": 2008,
+      "year_created_source": "https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05"
+    },
+    {
       "name": "Jest",
       "url": "https://jestjs.io",
       "type": "Testing Library",
