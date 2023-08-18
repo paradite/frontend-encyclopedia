@@ -145,6 +145,7 @@ List by
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [GraphQL](https://graphql.org): Specification ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
+- [Netlify](https://netlify.com): Deployment & Hosting ([2015](https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/))
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Web Application Model ([2015](https://en.wikipedia.org/wiki/Progressive_web_application))
 - [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))

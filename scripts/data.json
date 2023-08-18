@@ -681,6 +681,13 @@
       "year_created_source": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions"
     },
     {
+      "name": "Netlify",
+      "url": "https://netlify.com",
+      "type": "Deployment & Hosting",
+      "year_created": 2015,
+      "year_created_source": "https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/"
+    },
+    {
       "name": "Next.js",
       "url": "https://nextjs.org",
       "type": "Framework",
