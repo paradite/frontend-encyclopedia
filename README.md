@@ -53,6 +53,7 @@ List by
 - [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
 - [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
+- [Eleventy](https://11ty.dev): Static Site Generator ([2017](https://github.com/11ty/eleventy/tags?after=v0.1.5))
 - [Ember.js](https://emberjs.com): Framework ([2011](https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/))
 - [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))

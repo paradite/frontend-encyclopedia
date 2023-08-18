@@ -183,6 +183,7 @@ List by
 ### 2017
 - [Angular Universal](https://angular.io/guide/universal): Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Docusaurus](https://docusaurus.io/): Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
+- [Eleventy](https://11ty.dev): Static Site Generator ([2017](https://github.com/11ty/eleventy/tags?after=v0.1.5))
 - [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Immer](https://immerjs.github.io/immer): Utility Library ([2017](https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md))

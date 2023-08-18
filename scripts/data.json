@@ -263,6 +263,13 @@
       "year_created_source": "https://en.wikipedia.org/wiki/Electron_(software_framework)"
     },
     {
+      "name": "Eleventy",
+      "url": "https://11ty.dev",
+      "type": "Static Site Generator",
+      "year_created": 2017,
+      "year_created_source": "https://github.com/11ty/eleventy/tags?after=v0.1.5"
+    },
+    {
       "name": "Ember.js",
       "url": "https://emberjs.com",
       "type": "Framework",

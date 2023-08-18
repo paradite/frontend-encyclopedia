@@ -183,6 +183,9 @@ List by
 - [XState](https://xstate.js.org) ([2017](https://www.npmjs.com/package/xstate?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
+### Static Site Generator
+- [Eleventy](https://11ty.dev) ([2017](https://github.com/11ty/eleventy/tags?after=v0.1.5))
+
 ### Technology
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Angular Universal](https://angular.io/guide/universal) ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
