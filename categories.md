@@ -65,6 +65,7 @@ List by
 ### Deployment & Hosting
 - [Cloudflare](https://www.cloudflare.com/) ([2010](https://www.cloudflare.com/our-story/))
 - [GitHub Pages](https://pages.github.com/) ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
+- [Netlify](https://netlify.com) ([2015](https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/))
 - [Render](https://render.com/) ([2019](https://render.com/about))
 - [Vercel](https://vercel.com/) ([2015](https://en.wikipedia.org/wiki/Vercel))
 
@@ -181,6 +182,11 @@ List by
 - [RefluxJS](https://github.com/reflux/refluxjs) ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [XState](https://xstate.js.org) ([2017](https://www.npmjs.com/package/xstate?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
+
+### Static Site Generator
+- [Eleventy](https://11ty.dev) ([2017](https://github.com/11ty/eleventy/tags?after=v0.1.5))
+- [Hugo](https://gohugo.io) ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
+- [Jekyll](https://jekyllrb.com) ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
 
 ### Technology
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))

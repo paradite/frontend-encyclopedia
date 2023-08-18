@@ -53,6 +53,7 @@ List by
 - [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
 - [EJS](https://ejs.co/): Template Engine ([2011](https://www.npmjs.com/package/ejs?activeTab=versions))
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
+- [Eleventy](https://11ty.dev): Static Site Generator ([2017](https://github.com/11ty/eleventy/tags?after=v0.1.5))
 - [Ember.js](https://emberjs.com): Framework ([2011](https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/))
 - [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
@@ -86,6 +87,7 @@ List by
 - [Heroicons](https://heroicons.com/): Icon Library ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [Highcharts](https://www.highcharts.com/): UI Library ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
+- [Hugo](https://gohugo.io): Static Site Generator ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
 
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Development Practice ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))
@@ -97,6 +99,7 @@ List by
 ### J
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
+- [Jekyll](https://jekyllrb.com): Static Site Generator ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
 - [joi](https://joi.dev/): Data Validation Library ([2012](https://www.npmjs.com/package/joi?activeTab=versions))
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
@@ -124,6 +127,7 @@ List by
 
 ### N
 - [NestJS](https://nestjs.com): Framework ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
+- [Netlify](https://netlify.com): Deployment & Hosting ([2015](https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
 - [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))

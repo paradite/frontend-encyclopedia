@@ -56,6 +56,7 @@ List by
 - [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitHub Pages](https://pages.github.com/): Deployment & Hosting ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
+- [Jekyll](https://jekyllrb.com): Static Site Generator ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
 
 ### 2009
 - [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
@@ -105,6 +106,7 @@ List by
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [ESLint](https://eslint.org): Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
+- [Hugo](https://gohugo.io): Static Site Generator ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
 - [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [Karma](https://karma-runner.github.io): Testing Library ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 - [Pure](https://purecss.io/): CSS Framework ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
@@ -145,6 +147,7 @@ List by
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
 - [GraphQL](https://graphql.org): Specification ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [jsdoc](https://jsdoc.app/): Library ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
+- [Netlify](https://netlify.com): Deployment & Hosting ([2015](https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/))
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application): Web Application Model ([2015](https://en.wikipedia.org/wiki/Progressive_web_application))
 - [React Native](https://reactnative.dev): Framework ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
 - [Redux-Saga](https://redux-saga.js.org): State Management Library ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
@@ -182,6 +185,7 @@ List by
 ### 2017
 - [Angular Universal](https://angular.io/guide/universal): Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
 - [Docusaurus](https://docusaurus.io/): Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
+- [Eleventy](https://11ty.dev): Static Site Generator ([2017](https://github.com/11ty/eleventy/tags?after=v0.1.5))
 - [Flutter](https://flutter.dev): Framework ([2017](https://en.wikipedia.org/wiki/Flutter_(software)))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Immer](https://immerjs.github.io/immer): Utility Library ([2017](https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md))

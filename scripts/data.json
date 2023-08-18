@@ -263,6 +263,13 @@
       "year_created_source": "https://en.wikipedia.org/wiki/Electron_(software_framework)"
     },
     {
+      "name": "Eleventy",
+      "url": "https://11ty.dev",
+      "type": "Static Site Generator",
+      "year_created": 2017,
+      "year_created_source": "https://github.com/11ty/eleventy/tags?after=v0.1.5"
+    },
+    {
       "name": "Ember.js",
       "url": "https://emberjs.com",
       "type": "Framework",
@@ -475,6 +482,13 @@
       "type": "Icon Library",
       "year_created": "2020",
       "year_created_source": "https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18"
+    },
+    {
+      "name": "Hugo",
+      "url": "https://gohugo.io",
+      "type": "Static Site Generator",
+      "year_created": "2013",
+      "year_created_source": "https://github.com/gohugoio/hugo/tags?after=v0.11"
     }
   ],
   "I": [
@@ -515,6 +529,13 @@
     }
   ],
   "J": [
+    {
+      "name": "Jekyll",
+      "url": "https://jekyllrb.com",
+      "type": "Static Site Generator",
+      "year_created": 2008,
+      "year_created_source": "https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05"
+    },
     {
       "name": "Jest",
       "url": "https://jestjs.io",
@@ -679,6 +700,13 @@
       "type": "Framework",
       "year_created": 2017,
       "year_created_source": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions"
+    },
+    {
+      "name": "Netlify",
+      "url": "https://netlify.com",
+      "type": "Deployment & Hosting",
+      "year_created": 2015,
+      "year_created_source": "https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/"
     },
     {
       "name": "Next.js",
