@@ -482,6 +482,13 @@
       "type": "Icon Library",
       "year_created": "2020",
       "year_created_source": "https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18"
+    },
+    {
+      "name": "Hugo",
+      "url": "https://gohugo.io",
+      "type": "Static Site Generator",
+      "year_created": "2013",
+      "year_created_source": "https://github.com/gohugoio/hugo/tags?after=v0.11"
     }
   ],
   "I": [

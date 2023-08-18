@@ -87,6 +87,7 @@ List by
 - [Heroicons](https://heroicons.com/): Icon Library ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [Highcharts](https://www.highcharts.com/): UI Library ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
+- [Hugo](https://gohugo.io): Static Site Generator ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
 
 ### I
 - [i18n (internationalization)](https://en.wikipedia.org/wiki/Internationalization_and_localization): Development Practice ([1970](https://en.wikipedia.org/wiki/Internationalization_and_localization))

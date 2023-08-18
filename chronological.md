@@ -105,6 +105,7 @@ List by
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [ESLint](https://eslint.org): Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
+- [Hugo](https://gohugo.io): Static Site Generator ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
 - [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [Karma](https://karma-runner.github.io): Testing Library ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 - [Pure](https://purecss.io/): CSS Framework ([2013](https://github.com/pure-css/pure/releases/tag/v0.1.0))
