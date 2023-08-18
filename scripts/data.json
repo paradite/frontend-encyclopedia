@@ -663,6 +663,13 @@
       "type": "CSS Framework",
       "year_created": 2020,
       "year_created_source": "https://github.com/andybrewer/mvp/releases"
+    },
+    {
+      "name": "Mirage JS",
+      "url": "https://miragejs.com/",
+      "type": "Mocking Library",
+      "year_created": 2019,
+      "year_created_source": "https://www.npmjs.com/package/miragejs?activeTab=versions"
     }
   ],
   "N": [
