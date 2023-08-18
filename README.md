@@ -121,6 +121,7 @@ List by
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
 - [Materialize](https://materializecss.com/): CSS Framework ([2022](https://materialize.com/docs/releases/))
 - [Meteor.js](https://www.meteor.com): Framework ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
+- [Mirage JS](https://miragejs.com/): Mocking Library ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
 - [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
 - [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))

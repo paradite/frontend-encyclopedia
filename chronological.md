@@ -209,6 +209,7 @@ List by
 
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
+- [Mirage JS](https://miragejs.com/): Mocking Library ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [Redux Toolkit](https://redux-toolkit.js.org/): State Management Library ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
 - [Render](https://render.com/): Deployment & Hosting ([2019](https://render.com/about))

@@ -156,6 +156,9 @@ List by
 ### Machine Learning Library
 - [TensorFlow.js](https://www.tensorflow.org/js) ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
+### Mocking Library
+- [Mirage JS](https://miragejs.com/) ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
+
 ### Package Manager
 - [npm](https://www.npmjs.com) ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
 - [pnpm](https://pnpm.io/) ([2016](https://www.npmjs.com/package/pnpm?activeTab=versions))
