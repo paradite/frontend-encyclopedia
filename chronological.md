@@ -44,6 +44,7 @@ List by
 ### 2005
 - [Git](https://git-scm.com): Version Control System ([2005](https://en.wikipedia.org/wiki/Git))
 - [JSON-RPC](https://www.jsonrpc.org): Specification ([2005](https://www.jsonrpc.org/specification_v1))
+- [ZK Framework](https://www.zkoss.org): Java Web Framework ([2005](https://www.zkoss.org/wiki/ZK_Release_Notes))
 
 ### 2006
 - [jQuery](https://jquery.com): Utility Library ([2006](https://en.wikipedia.org/wiki/JQuery))
@@ -51,6 +52,8 @@ List by
 
 ### 2007
 - [OAuth](https://oauth.net): Specification ([2007](https://oauth.net/1/))
+- [UIKit](https://developer.apple.com/documentation/uikit): Framework ([2007](https://developer.apple.com/documentation/uikit))
+- [ZeroMQ (ØMQ)](https://zeromq.org): Messaging Library ([2007](https://github.com/zeromq/libzmq/releases/tag/v0.1))
 
 ### 2008
 - [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
@@ -157,6 +160,7 @@ List by
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
+- [Visual Studio Code](https://code.visualstudio.com): Code Editor ([2015](https://code.visualstudio.com/updates))
 - [Yup](https://github.com/jquense/yup): Data Validation Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### 2016
@@ -181,6 +185,7 @@ List by
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
+- [Zeppelin](https://zeppelin.apache.org): Data Science Platform ([2016](https://zeppelin.apache.org/history.html))
 
 ### 2017
 - [Angular Universal](https://angular.io/guide/universal): Technology ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
@@ -195,6 +200,7 @@ List by
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
 - [Tailwind CSS](https://tailwindcss.com): CSS Framework ([2017](https://www.npmjs.com/package/tailwindcss?activeTab=versions))
+- [TypeORM](https://typeorm.io/): Library ([2017](https://github.com/typeorm/typeorm/releases))
 - [XState](https://xstate.js.org): State Management Library ([2017](https://www.npmjs.com/package/xstate?activeTab=versions))
 
 ### 2018
@@ -230,6 +236,7 @@ List by
 - [Supabase](https://supabase.com/): Backend-as-a-Service ([2020](https://supabase.com/changelog))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
 - [Zod](https://zod.dev): Data Validation Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
+- [Zig](https://ziglang.org): Programming Language ([2020](https://ziglang.org/download/))
 
 ### 2021
 - [Astro](https://astro.build/): Framework ([2021](https://astro.build/blog/introducing-astro/))

@@ -211,9 +211,11 @@ List by
 - [Travis CI](https://www.travis-ci.com): CI/CD Service ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 - [TSDX](https://tsdx.io/): Library ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [TSLint](https://palantir.github.io/tslint): Linter ([2013](https://www.npmjs.com/package/tslint?activeTab=versions) - [2019](https://github.com/palantir/tslint/issues/4534))
+- [TypeORM](https://typeorm.io/): Library ([2017](https://github.com/typeorm/typeorm/releases))
 - [TypeScript](https://www.typescriptlang.org): Language, Type Checker ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### U
+- [UIKit](https://developer.apple.com/documentation/uikit): Framework ([2007](https://developer.apple.com/documentation/uikit))
 - [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
 - [upload.js](https://upload.io/upload-js): Library ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
 
@@ -221,6 +223,7 @@ List by
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
+- [Visual Studio Code](https://code.visualstudio.com): Code Editor ([2015](https://code.visualstudio.com/updates))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
 - [Vitest](https://vitest.dev): Testing Library ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
@@ -241,6 +244,10 @@ List by
 
 ### Z
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
+- [Zeppelin](https://zeppelin.apache.org): Data Science Platform ([2016](https://zeppelin.apache.org/history.html))
+- [ZeroMQ (ØMQ)](https://zeromq.org): Messaging Library ([2007](https://github.com/zeromq/libzmq/releases/tag/v0.1))
+- [Zig](https://ziglang.org): Programming Language ([2020](https://ziglang.org/download/))
+- [ZK Framework](https://www.zkoss.org): Java Web Framework ([2005](https://www.zkoss.org/wiki/ZK_Release_Notes))
 - [Zod](https://zod.dev): Data Validation Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 

@@ -45,12 +45,18 @@ List by
 - [BEM](https://en.bem.info) ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index) ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
 
+### Code Editor
+- [Visual Studio Code](https://code.visualstudio.com) ([2015](https://code.visualstudio.com/updates))
+
 ### Code Formatter
 - [Prettier](https://prettier.io) ([2017](https://archive.jlongster.com/prettier-1.0))
 
 ### Data Format
 - [JSON](https://en.wikipedia.org/wiki/JSON) ([2001](https://en.wikipedia.org/wiki/JSON))
 - [SVG](https://en.wikipedia.org/wiki/SVG) ([2001](https://en.wikipedia.org/wiki/SVG))
+
+### Data Science Platform
+- [Zeppelin](https://zeppelin.apache.org) ([2016](https://zeppelin.apache.org/history.html))
 
 ### Data Validation Library
 - [joi](https://joi.dev/) ([2012](https://www.npmjs.com/package/joi?activeTab=versions))
@@ -104,6 +110,7 @@ List by
 - [reveal.js](https://revealjs.com/) ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [SolidJS](https://www.solidjs.com/) ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
 - [Svelte](https://svelte.dev) ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
+- [UIKit](https://developer.apple.com/documentation/uikit) ([2007](https://developer.apple.com/documentation/uikit))
 - [Vue.js](https://vuejs.org) ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### Game Development
@@ -115,6 +122,9 @@ List by
 - [Font Awesome](https://fontawesome.com) ([2012](https://fontawesome.com/versions))
 - [Heroicons](https://heroicons.com/) ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [react-icons](https://react-icons.github.io/react-icons/) ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
+
+### Java Web Framework
+- [ZK Framework](https://www.zkoss.org) ([2005](https://www.zkoss.org/wiki/ZK_Release_Notes))
 
 ### Language
 - [CoffeeScript](https://coffeescript.org) ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
@@ -144,6 +154,7 @@ List by
 - [Tanstack Table](https://tanstack.com/table/) ([2014](https://www.npmjs.com/package/react-table/v/0.0.5), Formerly known as React Table.)
 - [Tone.js](https://tonejs.github.io/) ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [TSDX](https://tsdx.io/) ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
+- [TypeORM](https://typeorm.io/) ([2017](https://github.com/typeorm/typeorm/releases))
 - [upload.js](https://upload.io/upload-js) ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
 - [Video.js](https://videojs.com/) ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
@@ -156,6 +167,9 @@ List by
 ### Machine Learning Library
 - [TensorFlow.js](https://www.tensorflow.org/js) ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 
+### Messaging Library
+- [ZeroMQ (ØMQ)](https://zeromq.org) ([2007](https://github.com/zeromq/libzmq/releases/tag/v0.1))
+
 ### Mocking Library
 - [Mirage JS](https://miragejs.com/) ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
 
@@ -163,6 +177,9 @@ List by
 - [npm](https://www.npmjs.com) ([2010](https://github.com/npm/npm/tags?after=v0.1.1))
 - [pnpm](https://pnpm.io/) ([2016](https://www.npmjs.com/package/pnpm?activeTab=versions))
 - [Yarn](https://yarnpkg.com) ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
+
+### Programming Language
+- [Zig](https://ziglang.org) ([2020](https://ziglang.org/download/))
 
 ### Runtime Environment
 - [Deno](https://deno.land/) ([2020](https://deno.com/blog/v1))
