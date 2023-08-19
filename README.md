@@ -49,7 +49,7 @@ List by
 - [Deno](https://deno.land/): Runtime Environment ([2020](https://deno.com/blog/v1))
 - [Docusaurus](https://docusaurus.io/): Documentation Library ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
 - [docz](https://www.docz.site/): Documentation Library ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
-- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Specification ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Web API ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 
 ### E
 - [ECharts](https://echarts.apache.org/en/index.html): UI Library ([2015](https://www.npmjs.com/package/echarts?activeTab=versions))
@@ -189,6 +189,7 @@ List by
 - [Semantic UI](https://semantic-ui.com/): UI Library ([2013](https://www.npmjs.com/package/semantic-ui?activeTab=versions))
 - [SemVer](https://semver.org/): Specification ([2011](https://github.com/semver/semver/tags))
 - [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization): Development Practice ([1997](https://en.wikipedia.org/wiki/Search_engine_optimization))
+- [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): Web API ([2014](https://www.w3.org/standards/history/service-workers/))
 - [Sinon.JS](https://sinonjs.org/): Testing Library ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Socket.IO](https://socket.io): Library ([2010](https://www.npmjs.com/package/socket.io?activeTab=versions))
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
@@ -235,7 +236,7 @@ List by
 
 ### W
 - [webpack](https://webpack.js.org): Build Tool ([2012](https://www.npmjs.com/package/webpack?activeTab=versions))
-- [WebRTC](https://w3c.github.io/webrtc-pc/): Technology ([2011](https://www.w3.org/standards/history/webrtc/))
+- [WebRTC](https://w3c.github.io/webrtc-pc/): Web API ([2011](https://www.w3.org/standards/history/webrtc/))
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket): Technology ([2011](https://en.wikipedia.org/wiki/WebSocket))
 
 ### X

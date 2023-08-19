@@ -237,7 +237,7 @@
     {
       "name": "DOM",
       "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
-      "type": "Specification",
+      "type": "Web API",
       "year_created": 1998,
       "year_created_source": "https://en.wikipedia.org/wiki/Document_Object_Model"
     },
@@ -1184,6 +1184,13 @@
       "type": "Text Editor",
       "year_created": 2008,
       "year_created_source": "https://www.sublimetext.com/blog/articles/one-point-oh"
+    },
+    {
+      "name": "Service Worker",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
+      "type": "Web API",
+      "year_created": 2014,
+      "year_created_source": "https://www.w3.org/standards/history/service-workers/"
     }
   ],
   "T": [
@@ -1380,7 +1387,7 @@
     {
       "name": "WebRTC",
       "url": "https://w3c.github.io/webrtc-pc/",
-      "type": "Technology",
+      "type": "Web API",
       "year_created": 2011,
       "year_created_source": "https://www.w3.org/standards/history/webrtc/"
     }

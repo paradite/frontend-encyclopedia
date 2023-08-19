@@ -173,7 +173,6 @@ List by
 - [Node.js](https://nodejs.org) ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 
 ### Specification
-- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022) ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [GraphQL](https://graphql.org) ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
 - [JSON-RPC](https://www.jsonrpc.org) ([2005](https://www.jsonrpc.org/specification_v1))
@@ -201,7 +200,6 @@ List by
 ### Technology
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [Angular Universal](https://angular.io/guide/universal) ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
-- [WebRTC](https://w3c.github.io/webrtc-pc/) ([2011](https://www.w3.org/standards/history/webrtc/))
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket) ([2011](https://en.wikipedia.org/wiki/WebSocket))
 
 ### Template Engine
@@ -273,6 +271,11 @@ List by
 - [Git](https://git-scm.com) ([2005](https://en.wikipedia.org/wiki/Git))
 - [GitHub](https://github.com) ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitLab](https://docs.gitlab.com) ([2011](https://about.gitlab.com/company/history/))
+
+### Web API
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
+- [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) ([2014](https://www.w3.org/standards/history/service-workers/))
+- [WebRTC](https://w3c.github.io/webrtc-pc/) ([2011](https://www.w3.org/standards/history/webrtc/))
 
 ### Web Application Model
 - [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) ([2015](https://en.wikipedia.org/wiki/Progressive_web_application))

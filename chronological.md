@@ -25,7 +25,7 @@ List by
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
 
 ### 1998
-- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Specification ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
+- [DOM](https://en.wikipedia.org/wiki/Document_Object_Model): Web API ([1998](https://en.wikipedia.org/wiki/Document_Object_Model))
 
 ### 1999
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Technology ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
@@ -91,7 +91,7 @@ List by
 - [SemVer](https://semver.org/): Specification ([2011](https://github.com/semver/semver/tags))
 - [Travis CI](https://www.travis-ci.com): CI/CD Service ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket): Technology ([2011](https://en.wikipedia.org/wiki/WebSocket))
-- [WebRTC](https://w3c.github.io/webrtc-pc/): Technology ([2011](https://www.w3.org/standards/history/webrtc/))
+- [WebRTC](https://w3c.github.io/webrtc-pc/): Web API ([2011](https://www.w3.org/standards/history/webrtc/))
 
 ### 2012
 - [Firebase](https://firebase.google.com): Backend-as-a-Service ([2012](https://en.wikipedia.org/wiki/Firebase))
@@ -135,6 +135,7 @@ List by
 - [Material UI](https://mui.com): UI Components Library ([2014](https://mui.com/about/))
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Ramda](https://ramdajs.com): Utility Library ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
+- [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): Web API ([2014](https://www.w3.org/standards/history/service-workers/))
 - [Tanstack Table](https://tanstack.com/table/): Library ([2014](https://www.npmjs.com/package/react-table/v/0.0.5), Formerly known as React Table.)
 - [Tone.js](https://tonejs.github.io/): Library ([2014](https://www.npmjs.com/package/tone?activeTab=versions))
 - [TanStack Query](https://tanstack.com/query/latest): Library ([2014](https://www.npmjs.com/package/react-query/v/0.0.6), Formerly known as React Query.)
