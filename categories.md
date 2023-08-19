@@ -83,6 +83,7 @@ List by
 ### Documentation Library
 - [Docusaurus](https://docusaurus.io/) ([2017](https://www.npmjs.com/package/docusaurus?activeTab=versions))
 - [docz](https://www.docz.site/) ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
+- [Nextra](https://nextra.site/) ([2021](https://github.com/shuding/nextra/tags?after=v2.0.0-beta.2))
 - [Storybook](https://storybook.js.org/) ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 
 ### Framework
@@ -193,6 +194,7 @@ List by
 - [Eleventy](https://11ty.dev) ([2017](https://github.com/11ty/eleventy/tags?after=v0.1.5))
 - [Hugo](https://gohugo.io) ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
 - [Jekyll](https://jekyllrb.com) ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
+- [Nextra](https://nextra.site/) ([2021](https://github.com/shuding/nextra/tags?after=v2.0.0-beta.2))
 
 ### Technology
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))

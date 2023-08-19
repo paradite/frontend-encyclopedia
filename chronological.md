@@ -237,6 +237,7 @@ List by
 - [Flowbite](https://flowbite.com/): UI Components Library ([2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0))
 - [Kaboom](https://kaboomjs.com/): Game Development ([2021](https://www.npmjs.com/package/kaboom?activeTab=versions))
 - [Mantine](https://mantine.dev): UI Library ([2021](https://github.com/mantinedev/mantine/releases?page=19))
+- [Nextra](https://nextra.site/): Documentation Library, Static Site Generator ([2021](https://github.com/shuding/nextra/tags?after=v2.0.0-beta.2))
 - [Remix](https://remix.run/): Framework ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [spruce](https://sprucecss.com/): CSS Framework ([2021](https://www.npmjs.com/package/sprucecss?activeTab=versions))
 - [upload.js](https://upload.io/upload-js): Library ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))

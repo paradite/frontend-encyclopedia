@@ -130,6 +130,7 @@ List by
 - [NestJS](https://nestjs.com): Framework ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
 - [Netlify](https://netlify.com): Deployment & Hosting ([2015](https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/))
 - [Next.js](https://nextjs.org): Framework ([2016](https://github.com/vercel/next.js/releases/tag/1.0.1))
+- [Nextra](https://nextra.site/): Documentation Library, Static Site Generator ([2021](https://github.com/shuding/nextra/tags?after=v2.0.0-beta.2))
 - [Node Cron](https://github.com/node-cron/node-cron): Library ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 - [npm](https://www.npmjs.com): Package Manager ([2010](https://github.com/npm/npm/tags?after=v0.1.1))

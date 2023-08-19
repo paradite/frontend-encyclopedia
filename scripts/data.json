@@ -742,6 +742,16 @@
       "type": "Framework",
       "year_created": 2016,
       "year_created_source": "https://www.npmjs.com/package/nuxt?activeTab=versions"
+    },
+    {
+      "name": "Nextra",
+      "url": "https://nextra.site/",
+      "type": [
+        "Documentation Library",
+        "Static Site Generator"
+      ],
+      "year_created": 2021,
+      "year_created_source": "https://github.com/shuding/nextra/tags?after=v2.0.0-beta.2"
     }
   ],
   "O": [
