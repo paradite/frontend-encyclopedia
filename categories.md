@@ -291,6 +291,10 @@ List by
 <a href="#contributing">Contribute</a>
 </div>
 
+## Stats
+
+- Total terms: 194
+
 ## Contributing
 
 Pull requests are welcome! Take note of the following guidelines:
@@ -307,6 +311,7 @@ Pull requests are welcome! Take note of the following guidelines:
 - Optionally, run `npm run generate` to update the `README.md` and other markdown files automatically.
   - To avoid the need to run `npm run generate` for each change, setup a [git pre-commit hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) with script below:
   - `node scripts/generate.js && git add *.md`
+
 ## Criteria for inclusion
 
 Either one of the following must be true:

@@ -30,10 +30,18 @@ List by
 
 `;
 
-const contributing =
-  `---\n` +
-  subHeading +
-  `## Contributing
+const totalTerms = Object.values(data).reduce(
+  (acc, val) => acc + val.length,
+  0
+);
+
+const stats = `## Stats
+
+- Total terms: ${totalTerms}
+
+`;
+
+const contribute = `## Contributing
 
 Pull requests are welcome! Take note of the following guidelines:
 
@@ -49,6 +57,7 @@ Pull requests are welcome! Take note of the following guidelines:
 - Optionally, run \`npm run generate\` to update the \`README.md\` and other markdown files automatically.
   - To avoid the need to run \`npm run generate\` for each change, setup a [git pre-commit hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) with script below:
   - \`node scripts/generate.js && git add *.md\`
+
 ## Criteria for inclusion
 
 Either one of the following must be true:
@@ -57,6 +66,8 @@ Either one of the following must be true:
 - The term is not specific to frontend but used extensively by frontend developers, e.g. git, GitHub, Node.js.
 
 `;
+
+const footer = `---\n` + subHeading + stats + contribute;
 
 // README.md
 
@@ -88,7 +99,7 @@ for (const key in data) {
     );
   readmeContent += terms.join('\n') + '\n\n';
 }
-readmeContent += contributing;
+readmeContent += footer;
 
 fs.writeFileSync('README.md', readmeContent);
 
@@ -134,7 +145,7 @@ Object.keys(categories)
         .join('\n') + '\n\n';
   });
 
-categoriesContent += contributing;
+categoriesContent += footer;
 
 fs.writeFileSync('categories.md', categoriesContent);
 
@@ -179,7 +190,7 @@ Object.keys(chronological)
       chronological[year].join('\n') + '\n\n';
   });
 
-chronologicalContent += contributing;
+chronologicalContent += footer;
 
 fs.writeFileSync('chronological.md', chronologicalContent);
 
