@@ -81,6 +81,15 @@
       "type": "Development Practice",
       "year_created": 1999,
       "year_created_source": "https://en.wikipedia.org/wiki/Web_accessibility"
+    },
+    {
+      "name": "Atom",
+      "url": "https://github.blog/2022-06-08-sunsetting-atom/",
+      "type": "Text Editor",
+      "year_created": 2013,
+      "year_created_source": "https://github.com/atom/atom/tags?after=v0.5.0",
+      "year_deprecated": 2022,
+      "year_deprecated_source": "https://github.blog/2022-06-08-sunsetting-atom/"
     }
   ],
   "B": [
@@ -125,6 +134,14 @@
       "type": "CSS Framework",
       "year_created": 2016,
       "year_created_source": "https://github.com/jgthms/bulma/releases/tag/0.0.1"
+    },
+    {
+      "name": "Browserify",
+      "url": "http://browserify.org",
+      "type": "Build Tool",
+      "year_created": 2011,
+      "year_created_source": "https://www.npmjs.com/package/browserify?activeTab=versions",
+      "note": "Last release was in 2020."
     }
   ],
   "C": [
@@ -601,6 +618,13 @@
       "type": "Data Validation Library",
       "year_created": 2012,
       "year_created_source": "https://www.npmjs.com/package/joi?activeTab=versions"
+    },
+    {
+      "name": "Jasmine",
+      "url": "https://jasmine.github.io",
+      "type": "Testing Library",
+      "year_created": 2009,
+      "year_created_source": "https://github.com/jasmine/jasmine/tags?after=0.11.1-release"
     }
   ],
   "K": [
@@ -1153,6 +1177,13 @@
       "type": "CSS Framework",
       "year_created": 2021,
       "year_created_source": "https://www.npmjs.com/package/sprucecss?activeTab=versions"
+    },
+    {
+      "name": "Sublime Text",
+      "url": "https://www.sublimetext.com/",
+      "type": "Text Editor",
+      "year_created": 2008,
+      "year_created_source": "https://www.sublimetext.com/blog/articles/one-point-oh"
     }
   ],
   "T": [
@@ -1306,7 +1337,7 @@
     {
       "name": "Visual Studio Code",
       "url": "https://code.visualstudio.com",
-      "type": "Code Editor",
+      "type": "Text Editor",
       "year_created": 2015,
       "year_created_source": "https://github.com/microsoft/vscode/tags?after=0.10.7-insiders"
     },

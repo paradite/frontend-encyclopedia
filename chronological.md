@@ -57,9 +57,11 @@ List by
 - [GitHub](https://github.com): Version Control System ([2008](https://en.wikipedia.org/wiki/GitHub))
 - [GitHub Pages](https://pages.github.com/): Deployment & Hosting ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
 - [Jekyll](https://jekyllrb.com): Static Site Generator ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
+- [Sublime Text](https://www.sublimetext.com/): Text Editor ([2008](https://www.sublimetext.com/blog/articles/one-point-oh))
 
 ### 2009
 - [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
+- [Jasmine](https://jasmine.github.io): Testing Library ([2009](https://github.com/jasmine/jasmine/tags?after=0.11.1-release))
 - [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 - [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
@@ -75,6 +77,7 @@ List by
 
 ### 2011
 - [Bootstrap](https://getbootstrap.com): CSS Framework ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Browserify](http://browserify.org): Build Tool ([2011](https://www.npmjs.com/package/browserify?activeTab=versions), Last release was in 2020.)
 - [Chai](https://www.chaijs.com): Testing Library ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [CircleCI](https://circleci.com): CI/CD Service ([2011](https://circleci.com/about/))
 - [D3.js](https://d3js.org): UI Library ([2011](https://www.npmjs.com/package/d3?activeTab=versions))
@@ -102,6 +105,7 @@ List by
 - [webpack](https://webpack.js.org): Build Tool ([2012](https://www.npmjs.com/package/webpack?activeTab=versions))
 
 ### 2013
+- [Atom](https://github.blog/2022-06-08-sunsetting-atom/): Text Editor ([2013](https://github.com/atom/atom/tags?after=v0.5.0) - [2022](https://github.blog/2022-06-08-sunsetting-atom/))
 - [Chart.js](https://www.chartjs.org): UI Library ([2013](https://www.chartjs.org/docs/latest/))
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [ESLint](https://eslint.org): Linter ([2013](https://eslint.org/docs/latest/about/))
@@ -157,7 +161,7 @@ List by
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
-- [Visual Studio Code](https://code.visualstudio.com): Code Editor ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
+- [Visual Studio Code](https://code.visualstudio.com): Text Editor ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
 - [Yup](https://github.com/jquense/yup): Data Validation Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### 2016

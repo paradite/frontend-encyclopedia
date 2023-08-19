@@ -18,6 +18,7 @@ List by
 - [Ant Design](https://ant.design): UI Components Library ([2015](https://09x.ant.design/))
 - [Apollo](https://www.apollographql.com): Library ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Astro](https://astro.build/): Framework ([2021](https://astro.build/blog/introducing-astro/))
+- [Atom](https://github.blog/2022-06-08-sunsetting-atom/): Text Editor ([2013](https://github.com/atom/atom/tags?after=v0.5.0) - [2022](https://github.blog/2022-06-08-sunsetting-atom/))
 - [Axios](https://axios-http.com): Library ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 
 ### B
@@ -26,6 +27,7 @@ List by
 - [BEM](https://en.bem.info): CSS Methodology ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
 - [Bitbucket](https://bitbucket.org): Version Control System ([2008](https://en.wikipedia.org/wiki/Bitbucket))
 - [Bootstrap](https://getbootstrap.com): CSS Framework ([2011](https://getbootstrap.com/docs/4.1/about/overview/))
+- [Browserify](http://browserify.org): Build Tool ([2011](https://www.npmjs.com/package/browserify?activeTab=versions), Last release was in 2020.)
 - [Bulma](https://bulma.io/): CSS Framework ([2016](https://github.com/jgthms/bulma/releases/tag/0.0.1))
 
 ### C
@@ -98,6 +100,7 @@ List by
 
 ### J
 - [Jade](https://pugjs.org/api/getting-started.html): Template Engine ([2010](https://github.com/pugjs/pug/tags?after=0.5.0) - [2015](https://github.com/pugjs/pug/issues/2184), Renamed to Pug)
+- [Jasmine](https://jasmine.github.io): Testing Library ([2009](https://github.com/jasmine/jasmine/tags?after=0.11.1-release))
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Language ([1995](https://en.wikipedia.org/wiki/JavaScript))
 - [Jekyll](https://jekyllrb.com): Static Site Generator ([2008](https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05))
 - [Jest](https://jestjs.io): Testing Library ([2014](https://github.com/jestjs/jest/issues/3))
@@ -195,6 +198,7 @@ List by
 - [SSR](https://en.wikipedia.org/wiki/Server-side_scripting): Web Application Model ([1995](https://en.wikipedia.org/wiki/Server-side_scripting))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [styled-components](https://styled-components.com): Library ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
+- [Sublime Text](https://www.sublimetext.com/): Text Editor ([2008](https://www.sublimetext.com/blog/articles/one-point-oh))
 - [Supabase](https://supabase.com/): Backend-as-a-Service ([2020](https://supabase.com/changelog))
 - [Svelte](https://svelte.dev): Framework ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
 - [SVG](https://en.wikipedia.org/wiki/SVG): Data Format ([2001](https://en.wikipedia.org/wiki/SVG))
@@ -222,7 +226,7 @@ List by
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Video.js](https://videojs.com/): Library ([2013](https://www.npmjs.com/package/video.js?activeTab=versions))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
-- [Visual Studio Code](https://code.visualstudio.com): Code Editor ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
+- [Visual Studio Code](https://code.visualstudio.com): Text Editor ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
 - [VitePress](https://vitepress.vuejs.org): Documentation Library, Static Site Generator ([2020](https://www.npmjs.com/package/vitepress?activeTab=versions))
 - [Vitest](https://vitest.dev): Testing Library ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))

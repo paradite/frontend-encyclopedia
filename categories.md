@@ -18,6 +18,7 @@ List by
 
 ### Build Tool
 - [Babel](https://babeljs.io) ([2014](https://babeljs.io/blog/2016/12/07/the-state-of-babel))
+- [Browserify](http://browserify.org) ([2011](https://www.npmjs.com/package/browserify?activeTab=versions), Last release was in 2020.)
 - [Grunt](https://gruntjs.com/) ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com) ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 - [Parcel](https://parceljs.org) ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
@@ -44,9 +45,6 @@ List by
 ### CSS Methodology
 - [BEM](https://en.bem.info) ([2010](https://en.bem.info/methodology/history/#bem-and-open-source-2010))
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index) ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
-
-### Code Editor
-- [Visual Studio Code](https://code.visualstudio.com) ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
 
 ### Code Formatter
 - [Prettier](https://prettier.io) ([2017](https://archive.jlongster.com/prettier-1.0))
@@ -215,6 +213,7 @@ List by
 - [Chai](https://www.chaijs.com) ([2011](https://www.npmjs.com/package/chai?activeTab=versions))
 - [Cypress](https://www.cypress.io) ([2014](https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/))
 - [Enzyme](https://enzymejs.github.io/enzyme/) ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
+- [Jasmine](https://jasmine.github.io) ([2009](https://github.com/jasmine/jasmine/tags?after=0.11.1-release))
 - [Jest](https://jestjs.io) ([2014](https://github.com/jestjs/jest/issues/3))
 - [Karma](https://karma-runner.github.io) ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
 - [Mocha](https://mochajs.org) ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
@@ -222,6 +221,11 @@ List by
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [Sinon.JS](https://sinonjs.org/) ([2015](https://www.npmjs.com/package/sinon?activeTab=versions))
 - [Vitest](https://vitest.dev) ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
+
+### Text Editor
+- [Atom](https://github.blog/2022-06-08-sunsetting-atom/) ([2013](https://github.com/atom/atom/tags?after=v0.5.0) - [2022](https://github.blog/2022-06-08-sunsetting-atom/))
+- [Sublime Text](https://www.sublimetext.com/) ([2008](https://www.sublimetext.com/blog/articles/one-point-oh))
+- [Visual Studio Code](https://code.visualstudio.com) ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
 
 ### Type Checker
 - [Flow](https://flow.org/) ([2014](https://www.npmjs.com/package/flow-bin?activeTab=versions))
