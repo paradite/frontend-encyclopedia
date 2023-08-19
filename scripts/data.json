@@ -1232,7 +1232,6 @@
       "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6",
       "note": "Formerly known as React Query."
     }
-
   ],
   "U": [
     {
@@ -1299,7 +1298,7 @@
       "url": "https://code.visualstudio.com",
       "type": "Code Editor",
       "year_created": 2015,
-      "year_created_source": "https://code.visualstudio.com/updates"
+      "year_created_source": "https://github.com/microsoft/vscode/tags?after=0.10.7-insiders"
     }
   ],
   "W": [

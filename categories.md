@@ -46,7 +46,7 @@ List by
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index) ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
 
 ### Code Editor
-- [Visual Studio Code](https://code.visualstudio.com) ([2015](https://code.visualstudio.com/updates))
+- [Visual Studio Code](https://code.visualstudio.com) ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
 
 ### Code Formatter
 - [Prettier](https://prettier.io) ([2017](https://archive.jlongster.com/prettier-1.0))

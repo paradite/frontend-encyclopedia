@@ -157,7 +157,7 @@ List by
 - [sweetalert2](https://sweetalert2.github.io/): UI Library ([2015](https://www.npmjs.com/package/sweetalert2?activeTab=versions))
 - [Vercel](https://vercel.com/): Deployment & Hosting ([2015](https://en.wikipedia.org/wiki/Vercel))
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
-- [Visual Studio Code](https://code.visualstudio.com): Code Editor ([2015](https://code.visualstudio.com/updates))
+- [Visual Studio Code](https://code.visualstudio.com): Code Editor ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
 - [Yup](https://github.com/jquense/yup): Data Validation Library ([2015](https://github.com/jquense/yup/releases/tag/v0.6.0))
 
 ### 2016
