@@ -211,11 +211,9 @@ List by
 - [Travis CI](https://www.travis-ci.com): CI/CD Service ([2011](https://www.travis-ci.com/about-us/), Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/))
 - [TSDX](https://tsdx.io/): Library ([2019](https://www.npmjs.com/package/tsdx?activeTab=versions))
 - [TSLint](https://palantir.github.io/tslint): Linter ([2013](https://www.npmjs.com/package/tslint?activeTab=versions) - [2019](https://github.com/palantir/tslint/issues/4534))
-- [TypeORM](https://typeorm.io/): Library ([2017](https://github.com/typeorm/typeorm/releases))
 - [TypeScript](https://www.typescriptlang.org): Language, Type Checker ([2012](https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/))
 
 ### U
-- [UIKit](https://developer.apple.com/documentation/uikit): Framework ([2007](https://developer.apple.com/documentation/uikit))
 - [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
 - [upload.js](https://upload.io/upload-js): Library ([2021](https://www.npmjs.com/package/upload-js?activeTab=versions))
 
@@ -244,10 +242,6 @@ List by
 
 ### Z
 - [z-index](https://en.wikipedia.org/wiki/Z-order#z-index): CSS Methodology ([1997](https://www.w3.org/TR/WD-CSS2-971104/cover.html))
-- [Zeppelin](https://zeppelin.apache.org): Data Science Platform ([2016](https://zeppelin.apache.org/history.html))
-- [ZeroMQ (ØMQ)](https://zeromq.org): Messaging Library ([2007](https://github.com/zeromq/libzmq/releases/tag/v0.1))
-- [Zig](https://ziglang.org): Programming Language ([2020](https://ziglang.org/download/))
-- [ZK Framework](https://www.zkoss.org): Java Web Framework ([2005](https://www.zkoss.org/wiki/ZK_Release_Notes))
 - [Zod](https://zod.dev): Data Validation Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 - [zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): State Management Library ([2019](https://www.npmjs.com/package/zustand?activeTab=versions))
 
