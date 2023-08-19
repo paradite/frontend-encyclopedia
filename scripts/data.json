@@ -1231,13 +1231,6 @@
       "year_created": 2014,
       "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6",
       "note": "Formerly known as React Query."
-    },
-    {
-      "name": "TypeORM",
-      "url": "https://typeorm.io/",
-      "type": "Library",
-      "year_created": 2017,
-      "year_created_source": "https://github.com/typeorm/typeorm/releases"
     }
 
   ],
@@ -1255,13 +1248,6 @@
       "type": "Library",
       "year_created": 2021,
       "year_created_source": "https://www.npmjs.com/package/upload-js?activeTab=versions"
-    },
-    {
-      "name": "UIKit",
-      "url": "https://developer.apple.com/documentation/uikit",
-      "type": "Framework",
-      "year_created": 2007,
-      "year_created_source": "https://developer.apple.com/documentation/uikit"
     }
   ],
   "V": [
@@ -1399,35 +1385,6 @@
       "type": "State Management Library",
       "year_created": 2019,
       "year_created_source": "https://www.npmjs.com/package/zustand?activeTab=versions"
-    },
-    {
-      "name": "ZeroMQ (ØMQ)",
-      "url": "https://zeromq.org",
-      "type": "Messaging Library",
-      "year_created": 2007,
-      "year_created_source": "https://github.com/zeromq/libzmq/releases/tag/v0.1",
-      "year_created_source_alt": "https://en.wikipedia.org/wiki/ZeroMQ"
-    },
-    {
-      "name": "Zeppelin",
-      "url": "https://zeppelin.apache.org",
-      "type": "Data Science Platform",
-      "year_created": 2016,
-      "year_created_source": "https://zeppelin.apache.org/history.html"
-    },
-    {
-      "name": "Zig",
-      "url": "https://ziglang.org",
-      "type": "Programming Language",
-      "year_created": 2020,
-      "year_created_source": "https://ziglang.org/download/"
-    },
-    {
-      "name": "ZK Framework",
-      "url": "https://www.zkoss.org",
-      "type": "Java Web Framework",
-      "year_created": 2005,
-      "year_created_source": "https://www.zkoss.org/wiki/ZK_Release_Notes"
     }
   ]
 }
