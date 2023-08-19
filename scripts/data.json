@@ -1309,6 +1309,26 @@
       "type": "Code Editor",
       "year_created": 2015,
       "year_created_source": "https://github.com/microsoft/vscode/tags?after=0.10.7-insiders"
+    },
+    {
+      "name": "VuePress",
+      "url": "https://vuepress.vuejs.org",
+      "type": [
+        "Documentation Library",
+        "Static Site Generator"
+      ],
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/vuepress?activeTab=versions"
+    },
+    {
+      "name": "VitePress",
+      "url": "https://vitepress.vuejs.org",
+      "type": [
+        "Documentation Library",
+        "Static Site Generator"
+      ],
+      "year_created": 2020,
+      "year_created_source": "https://www.npmjs.com/package/vitepress?activeTab=versions"
     }
   ],
   "W": [

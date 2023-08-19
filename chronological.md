@@ -207,6 +207,7 @@ List by
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
 - [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
+- [VuePress](https://vuepress.vuejs.org): Documentation Library, Static Site Generator ([2018](https://www.npmjs.com/package/vuepress?activeTab=versions))
 
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
@@ -230,6 +231,7 @@ List by
 - [Radix UI](https://www.radix-ui.com/primitives): UI Components Library ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
 - [Supabase](https://supabase.com/): Backend-as-a-Service ([2020](https://supabase.com/changelog))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
+- [VitePress](https://vitepress.vuejs.org): Documentation Library, Static Site Generator ([2020](https://www.npmjs.com/package/vitepress?activeTab=versions))
 - [Zod](https://zod.dev): Data Validation Library ([2020](https://www.npmjs.com/package/zod?activeTab=versions))
 
 ### 2021

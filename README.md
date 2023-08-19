@@ -224,8 +224,10 @@ List by
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/): Library ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
 - [Visual Studio Code](https://code.visualstudio.com): Code Editor ([2015](https://github.com/microsoft/vscode/tags?after=0.10.7-insiders))
 - [Vite](https://vitejs.dev): Build Tool ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
+- [VitePress](https://vitepress.vuejs.org): Documentation Library, Static Site Generator ([2020](https://www.npmjs.com/package/vitepress?activeTab=versions))
 - [Vitest](https://vitest.dev): Testing Library ([2021](https://www.npmjs.com/package/vitest?activeTab=versions))
 - [Vue.js](https://vuejs.org): Framework ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
+- [VuePress](https://vuepress.vuejs.org): Documentation Library, Static Site Generator ([2018](https://www.npmjs.com/package/vuepress?activeTab=versions))
 
 ### W
 - [webpack](https://webpack.js.org): Build Tool ([2012](https://www.npmjs.com/package/webpack?activeTab=versions))
