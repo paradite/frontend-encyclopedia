@@ -63,6 +63,7 @@ List by
 - [CoffeeScript](https://coffeescript.org): Language ([2009](https://github.com/jashkenas/coffeescript/tags?after=0.1.1), Last release was in 2022.)
 - [Jasmine](https://jasmine.github.io): Testing Library ([2009](https://github.com/jasmine/jasmine/tags?after=0.11.1-release))
 - [Less](https://lesscss.org): Language ([2009](https://lesscss.org/about/))
+- [Modernizr](https://modernizr.com): Utility Library ([2009](https://modernizr.com/news/modernizr-goes-1-0/))
 - [Node.js](https://nodejs.org): Runtime Environment ([2009](https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4))
 - [Underscore.js](https://underscorejs.org): Utility Library ([2009](https://underscorejs.org/#changelog))
 
@@ -270,7 +271,7 @@ List by
 
 ## Stats
 
-- Total terms: 194
+- Total terms: 195
 
 ## Contributing
 

@@ -689,6 +689,13 @@
       "year_created_source": "https://www.npmjs.com/package/mocha?activeTab=versions"
     },
     {
+      "name": "Modernizr",
+      "url": "https://modernizr.com",
+      "type": "Utility Library",
+      "year_created": 2009,
+      "year_created_source": "https://modernizr.com/news/modernizr-goes-1-0/"
+    },
+    {
       "name": "Moment.js",
       "url": "https://momentjs.com",
       "type": "Date & Time Library",
