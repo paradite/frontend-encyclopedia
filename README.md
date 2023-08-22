@@ -126,6 +126,7 @@ List by
 - [Meteor.js](https://www.meteor.com): Framework ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [Mirage JS](https://miragejs.com/): Mocking Library ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
 - [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
+- [Modernizr](https://modernizr.com): Utility Library ([2009](https://modernizr.com/news/modernizr-goes-1-0/))
 - [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
@@ -264,7 +265,7 @@ List by
 
 ## Stats
 
-- Total terms: 194
+- Total terms: 195
 
 ## Contributing
 
