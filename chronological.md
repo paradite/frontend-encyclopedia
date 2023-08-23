@@ -111,6 +111,7 @@ List by
 - [Electron](https://www.electronjs.org): Framework ([2013](https://en.wikipedia.org/wiki/Electron_(software_framework)))
 - [ESLint](https://eslint.org): Linter ([2013](https://eslint.org/docs/latest/about/))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
+- [Greensock Animation Platform (GSAP)](https://greensock.com/gsap/): Library ([2013](https://github.com/greensock/GSAP/tags?after=1.9.2))
 - [Hugo](https://gohugo.io): Static Site Generator ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
 - [Immutable.js](https://immutable-js.com): Utility Library ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [Karma](https://karma-runner.github.io): Testing Library ([2013](https://www.npmjs.com/package/karma?activeTab=versions))
@@ -217,6 +218,7 @@ List by
 
 ### 2019
 - [ct.js](https://ctjs.rocks/): Game Development ([2019](https://github.com/ct-js/ct-js/releases))
+- [Framer Motion](https://www.framer.com/motion/): Library ([2019](https://github.com/framer/motion/tags?after=v0.0.8))
 - [Mirage JS](https://miragejs.com/): Mocking Library ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
 - [Pinia](https://pinia.vuejs.org/): State Management Library ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
 - [Redux Toolkit](https://redux-toolkit.js.org/): State Management Library ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
@@ -271,7 +273,7 @@ List by
 
 ## Stats
 
-- Total terms: 195
+- Total terms: 197
 
 ## Contributing
 
