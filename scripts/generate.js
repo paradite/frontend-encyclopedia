@@ -20,6 +20,15 @@ function getAdditionalInfo(term) {
   return dateInfo;
 }
 
+
+function getAuthorInfo(term) {
+  let authorName = term?.author || ''
+  let authorUrl = term.author_url || ''
+
+  return `[${authorName}](${authorUrl})`
+
+}
+
 const subHeading = `<div align="center">
 List by
 <a href="README.md">Alphabetical order</a> |
@@ -87,11 +96,11 @@ for (const key in data) {
         ? term.type.join(', ')
         : term.type;
       let dateInfo = getAdditionalInfo(term);
-      return `- ${nameWithLink}${
-        types
-          ? `: ${types}${dateInfo ? ` ${dateInfo}` : ''}`
-          : ''
-      }`;
+      let authorInfo = getAuthorInfo(term)
+      return `- ${nameWithLink}${types
+        ? `: ${types} ${authorInfo ? `by ${authorInfo}` : ``} ${dateInfo ? ` ${dateInfo}` : ''}`
+        : ''
+        }`;
     })
     // sort by name case-insensitive
     .sort((a, b) =>
@@ -166,9 +175,8 @@ for (const key in data) {
         ? `[${term.name}](${term.url})`
         : term.name;
 
-      let entry = `- ${nameWithLink}: ${types}${
-        dateInfo ? ` ${dateInfo}` : ''
-      }`;
+      let entry = `- ${nameWithLink}: ${types}${dateInfo ? ` ${dateInfo}` : ''
+        }`;
 
       if (!chronological[yearCreated])
         chronological[yearCreated] = [];
