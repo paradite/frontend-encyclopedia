@@ -512,6 +512,13 @@
       "author_url": "",
       "year_created_source": "https://www.npmjs.com/package/flow-bin?activeTab=versions",
       "year_created_source_alt": "https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/"
+    },
+    {
+      "name": "Framer Motion",
+      "url": "https://www.framer.com/motion/",
+      "type": "Library",
+      "year_created": 2019,
+      "year_created_source": "https://github.com/framer/motion/tags?after=v0.0.8"
     }
   ],
   "G": [
@@ -595,6 +602,13 @@
       "author": "",
       "author_url": "",
       "year_created_source": "https://www.npmjs.com/package/@glidejs/glide?activeTab=versions"
+    },
+    {
+      "name": "Greensock Animation Platform (GSAP)",
+      "url": "https://greensock.com/gsap/",
+      "type": "Library",
+      "year_created": 2013,
+      "year_created_source": "https://github.com/greensock/GSAP/tags?after=1.9.2"
     }
   ],
   "H": [
@@ -871,6 +885,13 @@
       "author": "",
       "author_url": "",
       "year_created_source": "https://www.npmjs.com/package/mocha?activeTab=versions"
+    },
+    {
+      "name": "Modernizr",
+      "url": "https://modernizr.com",
+      "type": "Utility Library",
+      "year_created": 2009,
+      "year_created_source": "https://modernizr.com/news/modernizr-goes-1-0/"
     },
     {
       "name": "Moment.js",

@@ -72,6 +72,7 @@ List by
 - [Font Awesome](https://fontawesome.com): Icon Library ([2012](https://fontawesome.com/versions))
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Foundation](https://get.foundation): UI Components Library ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
+- [Framer Motion](https://www.framer.com/motion/): Library ([2019](https://github.com/framer/motion/tags?after=v0.0.8))
 
 ### G
 - [Gatsby](https://www.gatsbyjs.com): Framework ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
@@ -81,6 +82,7 @@ List by
 - [GitLab](https://docs.gitlab.com): Version Control System ([2011](https://about.gitlab.com/company/history/))
 - [Glide.js](https://glidejs.com/): UI Library ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [GraphQL](https://graphql.org): Specification ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
+- [Greensock Animation Platform (GSAP)](https://greensock.com/gsap/): Library ([2013](https://github.com/greensock/GSAP/tags?after=1.9.2))
 - [Grunt](https://gruntjs.com/): Build Tool ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com): Build Tool ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 
@@ -126,6 +128,7 @@ List by
 - [Meteor.js](https://www.meteor.com): Framework ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [Mirage JS](https://miragejs.com/): Mocking Library ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
 - [Mocha](https://mochajs.org): Testing Library ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
+- [Modernizr](https://modernizr.com): Utility Library ([2009](https://modernizr.com/news/modernizr-goes-1-0/))
 - [Moment.js](https://momentjs.com): Date & Time Library ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework ([2020](https://github.com/andybrewer/mvp/releases))
 
@@ -264,7 +267,7 @@ List by
 
 ## Stats
 
-- Total terms: 194
+- Total terms: 197
 
 ## Contributing
 

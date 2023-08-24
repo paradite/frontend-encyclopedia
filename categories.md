@@ -134,6 +134,8 @@ List by
 - [Apollo](https://www.apollographql.com) ([2016](https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/))
 - [Axios](https://axios-http.com) ([2014](https://www.npmjs.com/package/axios?activeTab=versions))
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
+- [Framer Motion](https://www.framer.com/motion/) ([2019](https://github.com/framer/motion/tags?after=v0.0.8))
+- [Greensock Animation Platform (GSAP)](https://greensock.com/gsap/) ([2013](https://github.com/greensock/GSAP/tags?after=1.9.2))
 - [jsdoc](https://jsdoc.app/) ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron) ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
@@ -263,6 +265,7 @@ List by
 - [Immutable.js](https://immutable-js.com) ([2013](https://www.npmjs.com/package/immutable?activeTab=versions))
 - [jQuery](https://jquery.com) ([2006](https://en.wikipedia.org/wiki/JQuery))
 - [Lodash](https://lodash.com) ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
+- [Modernizr](https://modernizr.com) ([2009](https://modernizr.com/news/modernizr-goes-1-0/))
 - [Ramda](https://ramdajs.com) ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
 - [Underscore.js](https://underscorejs.org) ([2009](https://underscorejs.org/#changelog))
 
@@ -293,7 +296,7 @@ List by
 
 ## Stats
 
-- Total terms: 194
+- Total terms: 197
 
 ## Contributing
 
