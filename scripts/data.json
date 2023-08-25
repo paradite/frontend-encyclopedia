@@ -1226,6 +1226,13 @@
       "type": "Web API",
       "year_created": 2014,
       "year_created_source": "https://www.w3.org/standards/history/service-workers/"
+    },
+    {
+      "name": "Swiper",
+      "url": "https://swiperjs.com/swiper-api",
+      "type": "Carousel Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/swiper?activeTab=versions"
     }
   ],
   "T": [
