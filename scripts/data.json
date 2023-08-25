@@ -978,6 +978,13 @@
       "year_created_source": "https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions"
     },
     {
+      "name": "Redux Persist",
+      "url": "https://github.com/rt2zz/redux-persist",
+      "type": "Persist & Rehydration Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/redux-persist?activeTab=versions"
+    }, 
+    {
       "name": "reveal.js",
       "url": "https://revealjs.com/",
       "type": "Framework",
