@@ -107,7 +107,7 @@ List by
 - [Remix](https://remix.run/) ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [reveal.js](https://revealjs.com/) ([2013](https://github.com/hakimel/reveal.js/releases?page=4))
 - [SolidJS](https://www.solidjs.com/) ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
-- [Svelte](https://svelte.dev) ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
+- [Svelte](https://svelte.dev) ([2016](https://github.com/sveltejs/svelte/tags?after=v1.0.1))
 - [Vue.js](https://vuejs.org) ([2014](https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/))
 
 ### Game Development

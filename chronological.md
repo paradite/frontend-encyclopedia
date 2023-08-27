@@ -183,7 +183,7 @@ List by
 - [Relay](https://relay.dev): Library ([2016](https://github.com/facebook/relay/releases/tag/v0.1.0))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [styled-components](https://styled-components.com): Library ([2016](https://www.npmjs.com/package/styled-components?activeTab=versions))
-- [Svelte](https://svelte.dev): Framework ([2016](https://svelte.dev/blog/frameworks-without-the-framework))
+- [Svelte](https://svelte.dev): Framework ([2016](https://github.com/sveltejs/svelte/tags?after=v1.0.1))
 - [Storybook](https://storybook.js.org/): Documentation Library ([2016](https://www.npmjs.com/package/storybook?activeTab=versions))
 - [Spectre.css](https://picturepan2.github.io/spectre/): CSS Framework ([2016](https://www.npmjs.com/package/spectre.css?activeTab=versions))
 - [Yarn](https://yarnpkg.com): Package Manager ([2016](https://en.wikipedia.org/wiki/Yarn_(package_manager)))
