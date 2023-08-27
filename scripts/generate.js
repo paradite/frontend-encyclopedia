@@ -27,7 +27,9 @@ function getAuthorInfo(term) {
   if (!authorName || !authorUrl) {
     return '';
   }
-  return `[${authorName}](${authorUrl})`;
+  // hide author url for now
+  // return `[${authorName}](${authorUrl})`;
+  return authorName;
 }
 
 const subHeading = `<div align="center">
@@ -65,7 +67,7 @@ Pull requests are welcome! Take note of the following guidelines:
   - \`year_created_source_alt\` can be added to cite an alternative official source, in case the primary source is no longer available.
   - Add \`year_deprecated\` and \`year_deprecated_source\` fields when applicable.
 - Add \`author\` and \`author_url\` fields where applicable.
-  - Optionally, run \`npm run generate\` to update the \`README.md\` and other markdown files automatically.
+- Optionally, run \`npm run generate\` to update the \`README.md\` and other markdown files automatically.
   - To avoid the need to run \`npm run generate\` for each change, setup a [git pre-commit hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) with script below:
   - \`node scripts/generate.js && git add *.md\`
 
@@ -91,22 +93,26 @@ for (const key in data) {
   const terms = data[key]
     .map((term) => {
       ``;
-      const nameWithLink = term.url
+      let nameWithLink = term.url
         ? `[${term.name}](${term.url})`
         : term.name;
       const types = Array.isArray(term.type)
         ? term.type.join(', ')
         : term.type;
-      let dateInfo = getAdditionalInfo(term);
-      let authorInfo = getAuthorInfo(term);
-      return `- ${nameWithLink}${
-        types
-          ? `: ${types}${
-              authorInfo ? ` by ${authorInfo}` : ``
-            }${dateInfo ? ` ${dateInfo}` : ''}`
-          : ''
-      }`;
+      const dateInfo = getAdditionalInfo(term);
+      const authorInfo = getAuthorInfo(term);
+      if (types) {
+        nameWithLink += `: ${types}`;
+      }
+      if (authorInfo) {
+        nameWithLink += ` by ${authorInfo}`;
+      }
+      if (dateInfo) {
+        nameWithLink += ` ${dateInfo}`;
+      }
+      return nameWithLink;
     })
+    .map((item) => `- ${item}`)
     // sort by name case-insensitive
     .sort((a, b) =>
       a.toLowerCase().localeCompare(b.toLowerCase())
@@ -134,7 +140,14 @@ for (const key in data) {
           ? `[${term.name}](${term.url})`
           : term.name;
 
-        if (dateInfo) nameWithLink += ` ${dateInfo}`;
+        const dateInfo = getAdditionalInfo(term);
+        const authorInfo = getAuthorInfo(term);
+        if (authorInfo) {
+          nameWithLink += ` by ${authorInfo}`;
+        }
+        if (dateInfo) {
+          nameWithLink += ` ${dateInfo}`;
+        }
         categories[type].push(nameWithLink);
       }
     });
@@ -180,14 +193,23 @@ for (const key in data) {
         ? `[${term.name}](${term.url})`
         : term.name;
 
-      let entry = `- ${nameWithLink}: ${types}${
-        dateInfo ? ` ${dateInfo}` : ''
-      }`;
+      if (types) {
+        nameWithLink += `: ${types}`;
+      }
+
+      const dateInfo = getAdditionalInfo(term);
+      const authorInfo = getAuthorInfo(term);
+      if (authorInfo) {
+        nameWithLink += ` by ${authorInfo}`;
+      }
+      if (dateInfo) {
+        nameWithLink += ` ${dateInfo}`;
+      }
 
       if (!chronological[yearCreated])
         chronological[yearCreated] = [];
 
-      chronological[yearCreated].push(entry);
+      chronological[yearCreated].push(nameWithLink);
     }
   });
 }
@@ -201,7 +223,9 @@ Object.keys(chronological)
   .forEach((year) => {
     chronologicalContent += `### ${year}\n`;
     chronologicalContent +=
-      chronological[year].join('\n') + '\n\n';
+      chronological[year]
+        .map((item) => `- ${item}`)
+        .join('\n') + '\n\n';
   });
 
 chronologicalContent += footer;
