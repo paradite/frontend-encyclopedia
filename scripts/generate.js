@@ -20,13 +20,14 @@ function getAdditionalInfo(term) {
   return dateInfo;
 }
 
-
 function getAuthorInfo(term) {
-  let authorName = term?.author || ''
-  let authorUrl = term.author_url || ''
+  let authorName = term?.author;
+  let authorUrl = term.author_url;
 
-  return `[${authorName}](${authorUrl})`
-
+  if (authorName === undefined) {
+    return null;
+  }
+  return `[${authorName}](${authorUrl})`;
 }
 
 const subHeading = `<div align="center">
@@ -96,11 +97,15 @@ for (const key in data) {
         ? term.type.join(', ')
         : term.type;
       let dateInfo = getAdditionalInfo(term);
-      let authorInfo = getAuthorInfo(term)
-      return `- ${nameWithLink}${types
-        ? `: ${types} ${authorInfo ? `by ${authorInfo}` : ``} ${dateInfo ? ` ${dateInfo}` : ''}`
-        : ''
-        }`;
+      let authorInfo = getAuthorInfo(term);
+      console.log(JSON.stringify(term.name),authorInfo)
+      return `- ${nameWithLink}${
+        types
+          ? `: ${types} ${
+              (authorInfo!==null) ? `by ${authorInfo}` : ``
+            } ${dateInfo ? ` ${dateInfo}` : ''}`
+          : ''
+      }`;
     })
     // sort by name case-insensitive
     .sort((a, b) =>
@@ -175,8 +180,9 @@ for (const key in data) {
         ? `[${term.name}](${term.url})`
         : term.name;
 
-      let entry = `- ${nameWithLink}: ${types}${dateInfo ? ` ${dateInfo}` : ''
-        }`;
+      let entry = `- ${nameWithLink}: ${types}${
+        dateInfo ? ` ${dateInfo}` : ''
+      }`;
 
       if (!chronological[yearCreated])
         chronological[yearCreated] = [];

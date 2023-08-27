@@ -8,7 +8,7 @@ List by
 </div>
 
 ### A
-- [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility): Development Practice by [N/A](N/A)  ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
+- [a11y (Accessibility)](https://en.wikipedia.org/wiki/Web_accessibility): Development Practice   ([1999](https://en.wikipedia.org/wiki/Web_accessibility))
 - [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)): Technology by [Jesse James Garrett ](https://designftw.mit.edu/lectures/apis/ajax_adaptive_path.pdf)  ([1999](https://en.wikipedia.org/wiki/Ajax_(programming)))
 - [AlertifyJS](https://alertifyjs.com/): UI Library by [Vitaliy Potapov](https://alertifyjs.com/)  ([2015](https://www.npmjs.com/package/alertifyjs?activeTab=versions))
 - [Angular Universal](https://angular.io/guide/universal): Technology by [Google](https://www.google.com/)  ([2017](https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions))
@@ -72,6 +72,7 @@ List by
 - [Font Awesome](https://fontawesome.com): Icon Library by [Fonticons, Inc.](https://fontawesome.com/versions)  ([2012](https://fontawesome.com/versions))
 - [Formik](https://formik.org/): UI Library by [Jared Palmer](https://www.npmjs.com/package/formik?activeTab=versions)  ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Foundation](https://get.foundation): UI Components Library by [ZURB](https://github.com/foundation/foundation-sites/tags?after=v2.2)  ([2011](https://github.com/foundation/foundation-sites/tags?after=v2.2))
+- [Framer Motion](https://www.framer.com/motion/): Library   ([2019](https://github.com/framer/motion/tags?after=v0.0.8))
 
 ### G
 - [Gatsby](https://www.gatsbyjs.com): Framework by [Kyle Mathews and the Gatsby team](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework))  ([2015](https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)))
@@ -81,6 +82,7 @@ List by
 - [GitLab](https://docs.gitlab.com): Version Control System by [GitLab, Inc.](https://about.gitlab.com/company/history/)  ([2011](https://about.gitlab.com/company/history/))
 - [Glide.js](https://glidejs.com/): UI Library by [Jedrzej Kurylo](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions)  ([2014](https://www.npmjs.com/package/@glidejs/glide?activeTab=versions))
 - [GraphQL](https://graphql.org): Specification by [Facebook, Inc.](https://github.com/graphql/graphql-spec/releases/tag/July2015)  ([2015](https://github.com/graphql/graphql-spec/releases/tag/July2015))
+- [Greensock Animation Platform (GSAP)](https://greensock.com/gsap/): Library   ([2013](https://github.com/greensock/GSAP/tags?after=1.9.2))
 - [Grunt](https://gruntjs.com/): Build Tool by [Ben Alman and contributors](https://en.wikipedia.org/wiki/Grunt_(software))  ([2016](https://en.wikipedia.org/wiki/Grunt_(software)))
 - [Gulp](https://gulpjs.com): Build Tool by [Fractal, Inc. and the open-source community](https://en.wikipedia.org/wiki/Gulp.js)  ([2013](https://en.wikipedia.org/wiki/Gulp.js))
 
@@ -126,6 +128,7 @@ List by
 - [Meteor.js](https://www.meteor.com): Framework by [Meteor Development Group](https://www.meteor.com/)  ([2012](https://www.npmjs.com/package/meteor?activeTab=versions))
 - [Mirage JS](https://miragejs.com/): Mocking Library by [Mirage JS Team](https://miragejs.com/about)  ([2019](https://www.npmjs.com/package/miragejs?activeTab=versions))
 - [Mocha](https://mochajs.org): Testing Library by [Mocha Team](https://github.com/mochajs)  ([2011](https://www.npmjs.com/package/mocha?activeTab=versions))
+- [Modernizr](https://modernizr.com): Utility Library   ([2009](https://modernizr.com/news/modernizr-goes-1-0/))
 - [Moment.js](https://momentjs.com): Date & Time Library by [Moment.js Team](https://github.com/moment)  ([2011](https://www.npmjs.com/package/moment?activeTab=versions))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework by [Andy Brewer](https://github.com/andybrewer)  ([2020](https://github.com/andybrewer/mvp/releases))
 
@@ -177,6 +180,7 @@ List by
 - [Redux](https://redux.js.org): State Management Library by [Dan Abramov](https://overreacted.io/)  ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
 - [RefluxJS](https://github.com/reflux/refluxjs): State Management Library by [Reflux Team](https://github.com/reflux)  ([2014](https://www.npmjs.com/package/reflux?activeTab=versions), Last release was in 2017.)
 - [Relay](https://relay.dev): Library by [Facebook](https://about.fb.com/)  ([2016](https://github.com/facebook/relay/releases/tag/v0.1.0))
+- [Remeda](https://remedajs.com/): Utility Library   ([2018](https://www.npmjs.com/package/remeda?activeTab=versions))
 - [Remix](https://remix.run/): Framework by [Remix Team](https://remix.run/about)  ([2021](https://www.npmjs.com/package/@remix-run/react?activeTab=versions))
 - [Render](https://render.com/): Deployment & Hosting by [Render Team](https://render.com/about)  ([2019](https://render.com/about))
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer): Specification by [Roy Fielding](https://www.ics.uci.edu/~fielding/)  ([2000](https://web.archive.org/web/20210512181107/https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm))
