@@ -212,6 +212,7 @@ List by
 - [React Bootstrap](https://react-bootstrap.netlify.app/): UI Components Library ([2018](https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
+- [Remeda](https://remedajs.com/): Utility Library ([2018](https://www.npmjs.com/package/remeda?activeTab=versions))
 - [SolidJS](https://www.solidjs.com/): Framework ([2018](https://www.npmjs.com/package/solid-js?activeTab=versions))
 - [TensorFlow.js](https://www.tensorflow.org/js): Machine Learning Library ([2018](https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions))
 - [VuePress](https://vuepress.vuejs.org): Documentation Library, Static Site Generator ([2018](https://www.npmjs.com/package/vuepress?activeTab=versions))
@@ -273,7 +274,7 @@ List by
 
 ## Stats
 
-- Total terms: 197
+- Total terms: 198
 
 ## Contributing
 

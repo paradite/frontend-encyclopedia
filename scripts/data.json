@@ -1352,6 +1352,13 @@
       "author": "Ramda Contributors",
       "author_url": "https://github.com/ramda",
       "year_created_source": "https://www.npmjs.com/package/ramda?activeTab=versions"
+    },
+    {
+      "name": "Remeda",
+      "url": "https://remedajs.com/",
+      "type": "Utility Library",
+      "year_created": 2018,
+      "year_created_source": "https://www.npmjs.com/package/remeda?activeTab=versions"
     }
   ],
 

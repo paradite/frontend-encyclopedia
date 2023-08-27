@@ -267,6 +267,7 @@ List by
 - [Lodash](https://lodash.com) ([2012](https://github.com/lodash/lodash/tags?after=0.2.2))
 - [Modernizr](https://modernizr.com) ([2009](https://modernizr.com/news/modernizr-goes-1-0/))
 - [Ramda](https://ramdajs.com) ([2014](https://www.npmjs.com/package/ramda?activeTab=versions))
+- [Remeda](https://remedajs.com/) ([2018](https://www.npmjs.com/package/remeda?activeTab=versions))
 - [Underscore.js](https://underscorejs.org) ([2009](https://underscorejs.org/#changelog))
 
 ### Version Control System
@@ -296,7 +297,7 @@ List by
 
 ## Stats
 
-- Total terms: 197
+- Total terms: 198
 
 ## Contributing
 
