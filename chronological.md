@@ -289,7 +289,8 @@ Pull requests are welcome! Take note of the following guidelines:
   - `year_created_source` should cite npm package version page, GitHub release page, Wikipedia page with first release date information or other official sources which indicate the year of creation or first release.
   - `year_created_source_alt` can be added to cite an alternative official source, in case the primary source is no longer available.
   - Add `year_deprecated` and `year_deprecated_source` fields when applicable.
-- Optionally, run `npm run generate` to update the `README.md` and other markdown files automatically.
+- Add `author` and `author_url` fields where applicable.
+  - Optionally, run `npm run generate` to update the `README.md` and other markdown files automatically.
   - To avoid the need to run `npm run generate` for each change, setup a [git pre-commit hook](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) with script below:
   - `node scripts/generate.js && git add *.md`
 
