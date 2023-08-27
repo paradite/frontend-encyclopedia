@@ -5,6 +5,8 @@
       "url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
       "type": "Technology",
       "year_created": 1999,
+      "author": "Jesse James Garrett ",
+      "author_url": "https://designftw.mit.edu/lectures/apis/ajax_adaptive_path.pdf",
       "year_created_source": "https://en.wikipedia.org/wiki/Ajax_(programming)"
     },
     {
@@ -12,6 +14,8 @@
       "url": "https://angular.io",
       "type": "Framework",
       "year_created": 2016,
+      "author": "Misko Hevery and Adam Abrons",
+      "author_url": "https://angular.io/",
       "year_created_source": "https://en.wikipedia.org/wiki/Ajax_(programming)"
     },
     {
@@ -19,6 +23,8 @@
       "url": "https://angularjs.org",
       "type": "Framework",
       "year_created": 2010,
+      "author": "Misko Hevery and Adam Abrons",
+      "author_url": "https://angular.io/",
       "year_created_source": "https://en.wikipedia.org/wiki/AngularJS",
       "year_deprecated": 2021,
       "year_deprecated_source": "https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a",
@@ -29,6 +35,8 @@
       "url": "https://animejs.com",
       "type": "Library",
       "year_created": 2016,
+      "author": "Julian Garnier",
+      "author_url": "http://juliangarnier.com/",
       "year_created_source": "https://github.com/juliangarnier/anime/releases?page=2"
     },
     {
@@ -36,6 +44,8 @@
       "url": "https://ant.design",
       "type": "UI Components Library",
       "year_created": 2015,
+      "author": "Ant Group",
+      "author_url": "https://www.antgroup.com/en",
       "year_created_source": "https://09x.ant.design/",
       "year_created_source_alt": "https://github.com/ant-design/ant-design/releases?page=60"
     },
@@ -44,6 +54,8 @@
       "url": "https://www.apollographql.com",
       "type": "Library",
       "year_created": 2016,
+      "author": "Geoff Schmidt",
+      "author_url": "https://www.linkedin.com/in/gschmidt/",
       "year_created_source": "https://www.apollographql.com/blog/backend/apollo-8b7215bcab1c/",
       "year_created_source_alt": "https://medium.com/apollo-stack/introducing-the-apollo-graphql-data-stack-5d005312cbd0#.vp9sbyidy"
     },
@@ -52,6 +64,8 @@
       "url": "https://axios-http.com",
       "type": "Library",
       "year_created": 2014,
+      "author": "Axios Community",
+      "author_url": "https://axios-http.com/",
       "year_created_source": "https://www.npmjs.com/package/axios?activeTab=versions"
     },
     {
@@ -59,6 +73,8 @@
       "url": "https://astro.build/",
       "type": "Framework",
       "year_created": 2021,
+      "author": "Astro",
+      "author_url": "https://www.astro.build/",
       "year_created_source": "https://astro.build/blog/introducing-astro/"
     },
     {
@@ -66,6 +82,8 @@
       "url": "https://angular.io/guide/universal",
       "type": "Technology",
       "year_created": 2017,
+      "author": "Google",
+      "author_url": "https://www.google.com/",
       "year_created_source": "https://www.npmjs.com/package/@nguniversal/express-engine?activeTab=versions"
     },
     {
@@ -73,6 +91,8 @@
       "url": "https://alertifyjs.com/",
       "type": "UI Library",
       "year_created": 2015,
+      "author": "Vitaliy Potapov",
+      "author_url": "https://alertifyjs.com/",
       "year_created_source": "https://www.npmjs.com/package/alertifyjs?activeTab=versions"
     },
     {
@@ -87,6 +107,8 @@
       "url": "https://github.blog/2022-06-08-sunsetting-atom/",
       "type": "Text Editor",
       "year_created": 2013,
+      "author": "GitHub",
+      "author_url": "https://github.com/",
       "year_created_source": "https://github.com/atom/atom/tags?after=v0.5.0",
       "year_deprecated": 2022,
       "year_deprecated_source": "https://github.blog/2022-06-08-sunsetting-atom/"
@@ -98,6 +120,8 @@
       "url": "https://babeljs.io",
       "type": "Build Tool",
       "year_created": 2014,
+      "author": "Babel Team",
+      "author_url": "https://babeljs.io/",
       "year_created_source": "https://babeljs.io/blog/2016/12/07/the-state-of-babel"
     },
     {
@@ -105,6 +129,8 @@
       "url": "https://backbonejs.org",
       "type": "Framework",
       "year_created": 2010,
+      "author": "Jeremy Ashkenas",
+      "author_url": "https://github.com/jashkenas",
       "year_created_source": "https://backbonejs.org/#changelog"
     },
     {
@@ -112,6 +138,8 @@
       "url": "https://en.bem.info",
       "type": "CSS Methodology",
       "year_created": 2010,
+      "author": "Yandex",
+      "author_url": "https://yandex.com/",
       "year_created_source": "https://en.bem.info/methodology/history/#bem-and-open-source-2010"
     },
     {
@@ -119,6 +147,8 @@
       "url": "https://getbootstrap.com",
       "type": "CSS Framework",
       "year_created": 2011,
+      "author": "Twitter, Inc.",
+      "author_url": "https://twitter.com/",
       "year_created_source": "https://getbootstrap.com/docs/4.1/about/overview/"
     },
     {
@@ -126,6 +156,8 @@
       "url": "https://bitbucket.org",
       "type": "Version Control System",
       "year_created": 2008,
+      "author": "Atlassian",
+      "author_url": "https://www.atlassian.com/",
       "year_created_source": "https://en.wikipedia.org/wiki/Bitbucket"
     },
     {
@@ -133,6 +165,8 @@
       "url": "https://bulma.io/",
       "type": "CSS Framework",
       "year_created": 2016,
+      "author": "Jeremy Thomas",
+      "author_url": "https://github.com/jgthms",
       "year_created_source": "https://github.com/jgthms/bulma/releases/tag/0.0.1"
     },
     {
@@ -140,6 +174,8 @@
       "url": "http://browserify.org",
       "type": "Build Tool",
       "year_created": 2011,
+      "author": "James Halliday",
+      "author_url": "https://github.com/substack",
       "year_created_source": "https://www.npmjs.com/package/browserify?activeTab=versions",
       "note": "Last release was in 2020."
     }
@@ -150,6 +186,8 @@
       "url": "https://chakra-ui.com",
       "type": "UI Components Library",
       "year_created": 2020,
+      "author": "Chakra UI Team",
+      "author_url": "https://chakra-ui.com/community/team",
       "year_created_source": "https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions"
     },
     {
@@ -157,6 +195,8 @@
       "url": "https://www.chaijs.com",
       "type": "Testing Library",
       "year_created": 2011,
+      "author": "Chai.js Contributors",
+      "author_url": "https://www.chaijs.com/",
       "year_created_source": "https://www.npmjs.com/package/chai?activeTab=versions"
     },
     {
@@ -164,6 +204,8 @@
       "url": "https://www.chartjs.org",
       "type": "UI Library",
       "year_created": 2013,
+      "author": "Chart.js Contributors",
+      "author_url": "https://www.chartjs.org/docs/latest/",
       "year_created_source": "https://www.chartjs.org/docs/latest/"
     },
     {
@@ -171,6 +213,8 @@
       "url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
       "type": "Language",
       "year_created": 1996,
+      "author": "W3C",
+      "author_url": "https://www.w3.org/",
       "year_created_source": "https://en.wikipedia.org/wiki/CSS"
     },
     {
@@ -178,6 +222,8 @@
       "url": "https://www.cypress.io",
       "type": "Testing Library",
       "year_created": 2014,
+      "author": "Cypress",
+      "author_url": "https://www.cypress.io/",
       "year_created_source": "https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/"
     },
     {
@@ -185,6 +231,8 @@
       "url": "https://circleci.com",
       "type": "CI/CD Service",
       "year_created": 2011,
+      "author": "CircleCI, Inc.",
+      "author_url": "https://circleci.com/about/",
       "year_created_source": "https://circleci.com/about/"
     },
     {
@@ -192,6 +240,8 @@
       "url": "https://www.cloudflare.com/",
       "type": "Deployment & Hosting",
       "year_created": 2010,
+      "author": "Cloudflare, Inc.",
+      "author_url": "https://www.cloudflare.com/our-story/",
       "year_created_source": "https://www.cloudflare.com/our-story/"
     },
     {
@@ -199,6 +249,8 @@
       "url": "https://ctjs.rocks/",
       "type": "Game Development",
       "year_created": 2019,
+      "author": "ct.js",
+      "author_url": "https://ctjs.rocks/",
       "year_created_source": "https://github.com/ct-js/ct-js/releases"
     },
     {
@@ -206,6 +258,8 @@
       "url": "https://fengyuanchen.github.io/cropperjs/",
       "type": "Library",
       "year_created": 2015,
+      "author": "Fengyuan Chen",
+      "author_url": "https://github.com/fengyuanchen",
       "year_created_source": "https://www.npmjs.com/package/cropperjs?activeTab=versions"
     },
     {
@@ -213,6 +267,8 @@
       "url": "https://coffeescript.org",
       "type": "Language",
       "year_created": 2009,
+      "author": "Jeremy Ashkenas",
+      "author_url": "https://github.com/jashkenas",
       "year_created_source": "https://github.com/jashkenas/coffeescript/tags?after=0.1.1",
       "year_created_source_alt": "https://coffeescript.org/#changelog",
       "note": "Last release was in 2022."
@@ -224,6 +280,8 @@
       "url": "https://day.js.org",
       "type": "Date & Time Library",
       "year_created": 2018,
+      "author": "iamkun",
+      "author_url": "https://github.com/iamkun",
       "year_created_source": "https://www.npmjs.com/package/dayjs?activeTab=versions"
     },
     {
@@ -231,6 +289,8 @@
       "url": "https://d3js.org",
       "type": "UI Library",
       "year_created": 2011,
+      "author": "Mike Bostock",
+      "author_url": "https://bost.ocks.org/mike/",
       "year_created_source": "https://www.npmjs.com/package/d3?activeTab=versions",
       "year_created_source_alt": "https://github.com/d3/d3/tags?after=v1.5.1"
     },
@@ -239,6 +299,8 @@
       "url": "https://en.wikipedia.org/wiki/Document_Object_Model",
       "type": "Web API",
       "year_created": 1998,
+      "author": "W3C",
+      "author_url": "https://www.w3.org/",
       "year_created_source": "https://en.wikipedia.org/wiki/Document_Object_Model"
     },
     {
@@ -246,6 +308,8 @@
       "url": "https://date-fns.org/",
       "type": "Date & Time Library",
       "year_created": 2015,
+      "author": "date-fns Contributors",
+      "author_url": "https://github.com/date-fns",
       "year_created_source": "https://www.npmjs.com/package/date-fns?activeTab=versions"
     },
     {
@@ -253,6 +317,8 @@
       "url": "https://docusaurus.io/",
       "type": "Documentation Library",
       "year_created": 2017,
+      "author": "Facebook",
+      "author_url": "https://www.facebook.com/",
       "year_created_source": "https://www.npmjs.com/package/docusaurus?activeTab=versions"
     },
     {
@@ -260,6 +326,8 @@
       "url": "https://www.docz.site/",
       "type": "Documentation Library",
       "year_created": 2018,
+      "author": "docz Contributors",
+      "author_url": "https://github.com/doczjs",
       "year_created_source": "https://www.npmjs.com/package/docz?activeTab=versions"
     },
     {
@@ -267,6 +335,8 @@
       "url": "https://deno.land/",
       "type": "Runtime Environment",
       "year_created": 2020,
+      "author": "Deno Land",
+      "author_url": "https://deno.land/",
       "year_created_source": "https://deno.com/blog/v1",
       "year_created_source_alt": "https://en.wikipedia.org/wiki/Deno_(software)"
     }
@@ -277,6 +347,8 @@
       "url": "https://www.electronjs.org",
       "type": "Framework",
       "year_created": 2013,
+      "author": "GitHub",
+      "author_url": "https://github.com/",
       "year_created_source": "https://en.wikipedia.org/wiki/Electron_(software_framework)"
     },
     {
@@ -284,6 +356,8 @@
       "url": "https://11ty.dev",
       "type": "Static Site Generator",
       "year_created": 2017,
+      "author": "Zach Leatherman",
+      "author_url": "https://www.zachleat.com/",
       "year_created_source": "https://github.com/11ty/eleventy/tags?after=v0.1.5"
     },
     {
@@ -291,6 +365,8 @@
       "url": "https://emberjs.com",
       "type": "Framework",
       "year_created": 2011,
+      "author": "Ember.js Contributors",
+      "author_url": "https://emberjs.com/team/",
       "year_created_source": "https://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/",
       "year_created_source_alt": "https://github.com/emberjs/ember.js/tags?after=v0.9.2"
     },
@@ -299,6 +375,8 @@
       "url": "https://eslint.org",
       "type": "Linter",
       "year_created": 2013,
+      "author": "ESLint Team",
+      "author_url": "https://eslint.org/team/",
       "year_created_source": "https://eslint.org/docs/latest/about/"
     },
     {
@@ -306,6 +384,8 @@
       "url": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022",
       "type": "Specification",
       "year_created": 2022,
+      "author": "Ecma International",
+      "author_url": "https://www.ecma-international.org/",
       "year_created_source": "https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022"
     },
     {
@@ -313,6 +393,8 @@
       "url": "https://ejs.co/",
       "type": "Template Engine",
       "year_created": 2011,
+      "author": "TJ Holowaychuk",
+      "author_url": "https://tjholowaychuk.com/",
       "year_created_source": "https://www.npmjs.com/package/ejs?activeTab=versions"
     },
     {
@@ -320,6 +402,8 @@
       "url": "https://enzymejs.github.io/enzyme/",
       "type": "Testing Library",
       "year_created": 2015,
+      "author": "Airbnb",
+      "author_url": "https://airbnb.io/",
       "year_created_source": "https://www.npmjs.com/package/enzyme?activeTab=versions",
       "note": "Last release was in 2019."
     },
@@ -328,6 +412,8 @@
       "url": "https://evergreen.segment.com/",
       "type": "UI Components Library",
       "year_created": 2018,
+      "author": "Segment",
+      "author_url": "https://segment.com/",
       "year_created_source": "https://www.npmjs.com/package/evergreen-ui?activeTab=versions"
     },
     {
@@ -335,6 +421,8 @@
       "url": "https://echarts.apache.org/en/index.html",
       "type": "UI Library",
       "year_created": 2015,
+      "author": "Apache Software Foundation",
+      "author_url": "https://www.apache.org/",
       "year_created_source": "https://www.npmjs.com/package/echarts?activeTab=versions"
     }
   ],
@@ -344,6 +432,8 @@
       "url": "https://www.figma.com",
       "type": "Design Tool",
       "year_created": 2016,
+      "author": "Dylan Field, Evan Wallace",
+      "author_url": "https://en.wikipedia.org/wiki/Figma_(software)",
       "year_created_source": "https://en.wikipedia.org/wiki/Figma_(software)"
     },
     {
@@ -351,6 +441,8 @@
       "url": "https://flutter.dev",
       "type": "Framework",
       "year_created": 2017,
+      "author": "Google",
+      "author_url": "https://en.wikipedia.org/wiki/Flutter_(software)",
       "year_created_source": "https://en.wikipedia.org/wiki/Flutter_(software)",
       "year_created_source_alt": "https://github.com/flutter/flutter/tags?after=v0.0.11"
     },
@@ -359,6 +451,8 @@
       "url": "https://get.foundation",
       "type": "UI Components Library",
       "year_created": 2011,
+      "author": "ZURB",
+      "author_url": "https://github.com/foundation/foundation-sites/tags?after=v2.2",
       "year_created_source": "https://github.com/foundation/foundation-sites/tags?after=v2.2"
     },
     {
@@ -366,6 +460,8 @@
       "url": "https://firebase.google.com",
       "type": "Backend-as-a-Service",
       "year_created": 2012,
+      "author": "Firebase (acquired by Google)",
+      "author_url": "https://en.wikipedia.org/wiki/Firebase",
       "year_created_source": "https://en.wikipedia.org/wiki/Firebase"
     },
     {
@@ -373,6 +469,8 @@
       "url": "https://flowbite.com/",
       "type": "UI Components Library",
       "year_created": 2021,
+      "author": "Themesberg",
+      "author_url": "https://github.com/themesberg/flowbite/tags?after=v1.3.0",
       "year_created_source": "https://github.com/themesberg/flowbite/tags?after=v1.3.0"
     },
     {
@@ -380,6 +478,8 @@
       "url": "https://fastify.dev",
       "type": "Backend-as-a-Service",
       "year_created": 2016,
+      "author": "Matteo Collina, Tomas Della Vedova, and others",
+      "author_url": "https://github.com/fastify/fastify/tags?after=v0.6.0",
       "year_created_source": "https://github.com/fastify/fastify/tags?after=v0.6.0"
     },
     {
@@ -387,6 +487,8 @@
       "url": "https://fontawesome.com",
       "type": "Icon Library",
       "year_created": 2012,
+      "author": "Fonticons, Inc.",
+      "author_url": "https://fontawesome.com/versions",
       "year_created_source": "https://fontawesome.com/versions",
       "year_created_source_alt": "https://github.com/FortAwesome/Font-Awesome/releases/tag/v1.0.0"
     },
@@ -395,6 +497,8 @@
       "url": "https://formik.org/",
       "type": "UI Library",
       "year_created": 2017,
+      "author": "Jared Palmer",
+      "author_url": "https://www.npmjs.com/package/formik?activeTab=versions",
       "year_created_source": "https://www.npmjs.com/package/formik?activeTab=versions"
     },
     {
@@ -402,6 +506,8 @@
       "url": "https://flow.org/",
       "type": "Type Checker",
       "year_created": 2014,
+      "author": "Facebook",
+      "author_url": "https://www.npmjs.com/package/flow-bin?activeTab=versions",
       "year_created_source": "https://www.npmjs.com/package/flow-bin?activeTab=versions",
       "year_created_source_alt": "https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/"
     },
@@ -419,6 +525,8 @@
       "url": "https://www.gatsbyjs.com",
       "type": "Framework",
       "year_created": 2015,
+      "author": "Kyle Mathews and the Gatsby team",
+      "author_url": "https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)",
       "year_created_source": "https://en.wikipedia.org/wiki/Gatsby_(JavaScript_framework)"
     },
     {
@@ -426,6 +534,8 @@
       "url": "https://git-scm.com",
       "type": "Version Control System",
       "year_created": 2005,
+      "author": "Linus Torvalds and others",
+      "author_url": "https://en.wikipedia.org/wiki/Git",
       "year_created_source": "https://en.wikipedia.org/wiki/Git"
     },
     {
@@ -433,6 +543,8 @@
       "url": "https://github.com",
       "type": "Version Control System",
       "year_created": 2008,
+      "author": "GitHub, Inc.",
+      "author_url": "https://en.wikipedia.org/wiki/GitHub",
       "year_created_source": "https://en.wikipedia.org/wiki/GitHub"
     },
     {
@@ -440,6 +552,8 @@
       "url": "https://pages.github.com/",
       "type": "Deployment & Hosting",
       "year_created": 2008,
+      "author": "GitHub, Inc.",
+      "author_url": "https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/",
       "year_created_source": "https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/"
     },
     {
@@ -447,6 +561,8 @@
       "url": "https://docs.gitlab.com",
       "type": "Version Control System",
       "year_created": 2011,
+      "author": "GitLab, Inc.",
+      "author_url": "https://about.gitlab.com/company/history/",
       "year_created_source": "https://about.gitlab.com/company/history/"
     },
     {
@@ -454,6 +570,8 @@
       "url": "https://gruntjs.com/",
       "type": "Build Tool",
       "year_created": 2016,
+      "author": "Ben Alman and contributors",
+      "author_url": "https://en.wikipedia.org/wiki/Grunt_(software)",
       "year_created_source": "https://en.wikipedia.org/wiki/Grunt_(software)"
     },
     {
@@ -461,6 +579,8 @@
       "url": "https://gulpjs.com",
       "type": "Build Tool",
       "year_created": 2013,
+      "author": "Fractal, Inc. and the open-source community",
+      "author_url": "https://en.wikipedia.org/wiki/Gulp.js",
       "year_created_source": "https://en.wikipedia.org/wiki/Gulp.js"
     },
     {
@@ -468,6 +588,8 @@
       "url": "https://graphql.org",
       "type": "Specification",
       "year_created": 2015,
+      "author": "Facebook, Inc.",
+      "author_url": "https://github.com/graphql/graphql-spec/releases/tag/July2015",
       "year_created_source": "https://github.com/graphql/graphql-spec/releases/tag/July2015"
     },
     {
@@ -475,6 +597,8 @@
       "url": "https://glidejs.com/",
       "type": "UI Library",
       "year_created": 2014,
+      "author": "Jedrzej Kurylo",
+      "author_url": "https://www.npmjs.com/package/@glidejs/glide?activeTab=versions",
       "year_created_source": "https://www.npmjs.com/package/@glidejs/glide?activeTab=versions"
     },
     {
@@ -491,6 +615,8 @@
       "url": "https://en.wikipedia.org/wiki/HTML",
       "type": "Language",
       "year_created": 1993,
+      "author": "Tim Berners-Lee",
+      "author_url": "https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html",
       "year_created_source": "https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html"
     },
     {
@@ -498,6 +624,8 @@
       "url": "https://www.highcharts.com/",
       "type": "UI Library",
       "year_created": 2014,
+      "author": "Highsoft AS",
+      "author_url": "https://www.npmjs.com/package/highcharts?activeTab=versions",
       "year_created_source": "https://www.npmjs.com/package/highcharts?activeTab=versions"
     },
     {
@@ -505,20 +633,26 @@
       "url": "https://headlessui.com/",
       "type": "UI Components Library",
       "year_created": 2020,
+      "author": "Tailwind Labs",
+      "author_url": "https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24",
       "year_created_source": "https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24"
     },
     {
       "name": "Heroicons",
       "url": "https://heroicons.com/",
       "type": "Icon Library",
-      "year_created": "2020",
+      "year_created": 2020,
+      "author": "Tailwind Labs",
+      "author_url": "https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18",
       "year_created_source": "https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18"
     },
     {
       "name": "Hugo",
       "url": "https://gohugo.io",
       "type": "Static Site Generator",
-      "year_created": "2013",
+      "year_created": 2013,
+      "author": "Bjørn Erik Pedersen and contributors",
+      "author_url": "https://github.com/gohugoio/hugo/tags?after=v0.11",
       "year_created_source": "https://github.com/gohugoio/hugo/tags?after=v0.11"
     }
   ],
@@ -528,6 +662,8 @@
       "url": "https://en.wikipedia.org/wiki/Internationalization_and_localization",
       "type": "Development Practice",
       "year_created": 1970,
+      "author": "IBM",
+      "author_url": "https://en.wikipedia.org/wiki/Internationalization_and_localization",
       "year_created_source": "https://en.wikipedia.org/wiki/Internationalization_and_localization"
     },
     {
@@ -535,6 +671,8 @@
       "url": "https://immerjs.github.io/immer",
       "type": "Utility Library",
       "year_created": 2017,
+      "author": "Michel Weststrate and contributors",
+      "author_url": "https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md",
       "year_created_source": "https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md"
     },
     {
@@ -542,6 +680,8 @@
       "url": "https://immutable-js.com",
       "type": "Utility Library",
       "year_created": 2013,
+      "author": "Facebook, Inc.",
+      "author_url": "https://www.npmjs.com/package/immutable?activeTab=versions",
       "year_created_source": "https://www.npmjs.com/package/immutable?activeTab=versions"
     },
     {
@@ -549,6 +689,8 @@
       "url": "https://ionicframework.com",
       "type": "Framework",
       "year_created": 2012,
+      "author": "Max Lynch, Ben Sperry, and Adam Bradley",
+      "author_url": "https://ionic.io/about",
       "year_created_source": "https://ionic.io/about"
     },
     {
@@ -556,6 +698,8 @@
       "url": "https://insomnia.rest",
       "type": "API Client",
       "year_created": 2016,
+      "author": "Kong, Inc. and contributors",
+      "author_url": "https://github.com/Kong/insomnia/tags?after=v5.0.0",
       "year_created_source": "https://github.com/Kong/insomnia/tags?after=v5.0.0"
     }
   ],
@@ -565,6 +709,8 @@
       "url": "https://jekyllrb.com",
       "type": "Static Site Generator",
       "year_created": 2008,
+      "author": "Tom Preston-Werner and contributors",
+      "author_url": "https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05",
       "year_created_source": "https://github.com/jekyll/jekyll/blob/master/History.markdown#010--2008-11-05"
     },
     {
@@ -572,6 +718,8 @@
       "url": "https://jestjs.io",
       "type": "Testing Library",
       "year_created": 2014,
+      "author": "Facebook, Inc.",
+      "author_url": "https://github.com/jestjs/jest/issues/3",
       "year_created_source": "https://github.com/jestjs/jest/issues/3"
     },
     {
@@ -579,6 +727,8 @@
       "url": "https://en.wikipedia.org/wiki/JavaScript",
       "type": "Language",
       "year_created": 1995,
+      "author": "Brendan Eich",
+      "author_url": "https://en.wikipedia.org/wiki/JavaScript",
       "year_created_source": "https://en.wikipedia.org/wiki/JavaScript"
     },
     {
@@ -586,6 +736,8 @@
       "url": "https://jquery.com",
       "type": "Utility Library",
       "year_created": 2006,
+      "author": "John Resig and jQuery Team",
+      "author_url": "https://en.wikipedia.org/wiki/JQuery",
       "year_created_source": "https://en.wikipedia.org/wiki/JQuery"
     },
     {
@@ -593,6 +745,8 @@
       "url": "https://en.wikipedia.org/wiki/JSON",
       "type": "Data Format",
       "year_created": 2001,
+      "author": "Douglas Crockford",
+      "author_url": "https://en.wikipedia.org/wiki/JSON",
       "year_created_source": "https://en.wikipedia.org/wiki/JSON"
     },
     {
@@ -600,6 +754,8 @@
       "url": "https://www.jsonrpc.org",
       "type": "Specification",
       "year_created": 2005,
+      "author": "Jeffrey Lee and others",
+      "author_url": "https://www.jsonrpc.org/specification_v1",
       "year_created_source": "https://www.jsonrpc.org/specification_v1"
     },
     {
@@ -607,6 +763,8 @@
       "url": "https://pugjs.org/api/getting-started.html",
       "type": "Template Engine",
       "year_created": 2010,
+      "author": "TJ Holowaychuk and contributors",
+      "author_url": "https://github.com/pugjs/pug/tags?after=v0.1.0",
       "year_created_source": "https://github.com/pugjs/pug/tags?after=0.5.0",
       "year_deprecated": 2015,
       "year_deprecated_source": "https://github.com/pugjs/pug/issues/2184",
@@ -617,6 +775,8 @@
       "url": "https://jsdoc.app/",
       "type": "Library",
       "year_created": 2015,
+      "author": "jsdoc",
+      "author_url": "https://github.com/jsdoc",
       "year_created_source": "https://www.npmjs.com/package/jsdoc?activeTab=versions"
     },
     {
@@ -624,6 +784,8 @@
       "url": "https://rawgit.com/MrRio/jsPDF/master/docs/index.html",
       "type": "Library",
       "year_created": 2014,
+      "author": "jsdoc",
+      "author_url": "https://github.com/jsdoc",
       "year_created_source": "https://www.npmjs.com/package/jspdf?activeTab=versions"
     },
     {
@@ -631,6 +793,8 @@
       "url": "https://joi.dev/",
       "type": "Data Validation Library",
       "year_created": 2012,
+      "author": "hapi.js",
+      "author_url": "https://hapi.dev/",
       "year_created_source": "https://www.npmjs.com/package/joi?activeTab=versions"
     },
     {
@@ -638,6 +802,8 @@
       "url": "https://jasmine.github.io",
       "type": "Testing Library",
       "year_created": 2009,
+      "author": "Pivotal Labs and contributors",
+      "author_url": "https://github.com/jasmine/jasmine/tags?after=v1.0.0",
       "year_created_source": "https://github.com/jasmine/jasmine/tags?after=0.11.1-release"
     }
   ],
@@ -647,6 +813,8 @@
       "url": "https://kaboomjs.com/",
       "type": "Game Development",
       "year_created": 2021,
+      "author": "Replit",
+      "author_url": "https://replit.com/",
       "year_created_source": "https://www.npmjs.com/package/kaboom?activeTab=versions"
     },
     {
@@ -654,6 +822,8 @@
       "url": "https://karma-runner.github.io",
       "type": "Testing Library",
       "year_created": 2013,
+      "author": "Vojta Jina",
+      "author_url": "https://twitter.com/vojtajina",
       "year_created_source": "https://www.npmjs.com/package/karma?activeTab=versions"
     }
   ],
@@ -663,6 +833,8 @@
       "url": "https://lesscss.org",
       "type": "Language",
       "year_created": 2009,
+      "author": "Less Team",
+      "author_url": "https://lesscss.org/about/",
       "year_created_source": "https://lesscss.org/about/"
     },
     {
@@ -670,6 +842,8 @@
       "url": "https://lodash.com",
       "type": "Utility Library",
       "year_created": 2012,
+      "author": "Lodash Team",
+      "author_url": "https://github.com/lodash/lodash/tags?after=0.2.2",
       "year_created_source": "https://github.com/lodash/lodash/tags?after=0.2.2"
     }
   ],
@@ -679,6 +853,8 @@
       "url": "https://mantine.dev",
       "type": "UI Library",
       "year_created": 2021,
+      "author": "Mantine Team",
+      "author_url": "https://github.com/mantinedev",
       "year_created_source": "https://github.com/mantinedev/mantine/releases?page=19"
     },
     {
@@ -686,6 +862,8 @@
       "url": "https://mui.com",
       "type": "UI Components Library",
       "year_created": 2014,
+      "author": "Material-UI Team",
+      "author_url": "https://mui.com/about/",
       "year_created_source": "https://mui.com/about/"
     },
     {
@@ -693,6 +871,8 @@
       "url": "https://www.meteor.com",
       "type": "Framework",
       "year_created": 2012,
+      "author": "Meteor Development Group",
+      "author_url": "https://www.meteor.com/",
       "year_created_source": "https://www.npmjs.com/package/meteor?activeTab=versions"
     },
     {
@@ -700,6 +880,8 @@
       "url": "https://mochajs.org",
       "type": "Testing Library",
       "year_created": 2011,
+      "author": "Mocha Team",
+      "author_url": "https://github.com/mochajs",
       "year_created_source": "https://www.npmjs.com/package/mocha?activeTab=versions"
     },
     {
@@ -714,6 +896,8 @@
       "url": "https://momentjs.com",
       "type": "Date & Time Library",
       "year_created": 2011,
+      "author": "Moment.js Team",
+      "author_url": "https://github.com/moment",
       "year_created_source": "https://www.npmjs.com/package/moment?activeTab=versions"
     },
     {
@@ -721,6 +905,8 @@
       "url": "https://materializecss.com/",
       "type": "CSS Framework",
       "year_created": 2022,
+      "author": "Materialize Team",
+      "author_url": "https://materializecss.com/about.html",
       "year_created_source": "https://materialize.com/docs/releases/"
     },
     {
@@ -728,6 +914,8 @@
       "url": "https://andybrewer.github.io/mvp/",
       "type": "CSS Framework",
       "year_created": 2020,
+      "author": "Andy Brewer",
+      "author_url": "https://github.com/andybrewer",
       "year_created_source": "https://github.com/andybrewer/mvp/releases"
     },
     {
@@ -735,6 +923,8 @@
       "url": "https://miragejs.com/",
       "type": "Mocking Library",
       "year_created": 2019,
+      "author": "Mirage JS Team",
+      "author_url": "https://miragejs.com/about",
       "year_created_source": "https://www.npmjs.com/package/miragejs?activeTab=versions"
     }
   ],
@@ -744,6 +934,8 @@
       "url": "https://nestjs.com",
       "type": "Framework",
       "year_created": 2017,
+      "author": "NestJS Team",
+      "author_url": "https://nestjs.com/about",
       "year_created_source": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions"
     },
     {
@@ -751,6 +943,8 @@
       "url": "https://netlify.com",
       "type": "Deployment & Hosting",
       "year_created": 2015,
+      "author": "Netlify Team",
+      "author_url": "https://www.netlify.com/about",
       "year_created_source": "https://www.netlify.com/blog/2020/08/03/netlify-milestones-on-the-road-to-1-million-devs/"
     },
     {
@@ -758,6 +952,8 @@
       "url": "https://nextjs.org",
       "type": "Framework",
       "year_created": 2016,
+      "author": "Vercel",
+      "author_url": "https://vercel.com/about",
       "year_created_source": "https://github.com/vercel/next.js/releases/tag/1.0.1"
     },
     {
@@ -765,6 +961,8 @@
       "url": "https://www.npmjs.com",
       "type": "Package Manager",
       "year_created": 2010,
+      "author": "Isaac Z. Schlueter",
+      "author_url": "https://github.com/isaacs",
       "year_created_source": "https://github.com/npm/npm/tags?after=v0.1.1"
     },
     {
@@ -772,6 +970,8 @@
       "url": "https://nodejs.org",
       "type": "Runtime Environment",
       "year_created": 2009,
+      "author": "Node.js Foundation",
+      "author_url": "https://nodejs.org/about/",
       "year_created_source": "https://github.com/nodejs/node-v0.x-archive/tags?after=v0.0.4"
     },
     {
@@ -779,6 +979,8 @@
       "url": "https://github.com/node-cron/node-cron",
       "type": "Library",
       "year_created": 2016,
+      "author": "Felix Böhm",
+      "author_url": "https://github.com/felixbohm",
       "year_created_source": "https://www.npmjs.com/package/node-cron?activeTab=versions"
     },
     {
@@ -786,6 +988,8 @@
       "url": "https://nuxt.com/",
       "type": "Framework",
       "year_created": 2016,
+      "author": "Nuxt.js Team",
+      "author_url": "https://nuxt.com/about",
       "year_created_source": "https://www.npmjs.com/package/nuxt?activeTab=versions"
     },
     {
@@ -796,6 +1000,8 @@
         "Static Site Generator"
       ],
       "year_created": 2021,
+      "author": "Shuding",
+      "author_url": "https://github.com/shuding",
       "year_created_source": "https://github.com/shuding/nextra/tags?after=v2.0.0-beta.2"
     }
   ],
@@ -805,15 +1011,20 @@
       "url": "https://oauth.net",
       "type": "Specification",
       "year_created": 2007,
+      "author": "OAuth Community",
+      "author_url": "https://oauth.net/about/",
       "year_created_source": "https://oauth.net/1/"
     }
   ],
+
   "P": [
     {
       "name": "Parcel",
       "url": "https://parceljs.org",
       "type": "Build Tool",
       "year_created": 2017,
+      "author": "Devs",
+      "author_url": "https://parceljs.org",
       "year_created_source": "https://www.npmjs.com/package/parcel-bundler?activeTab=versions"
     },
     {
@@ -821,6 +1032,8 @@
       "url": "https://en.wikipedia.org/wiki/Progressive_web_application",
       "type": "Web Application Model",
       "year_created": 2015,
+      "author": "Web Community",
+      "author_url": "https://en.wikipedia.org/wiki/Progressive_web_application",
       "year_created_source": "https://en.wikipedia.org/wiki/Progressive_web_application"
     },
     {
@@ -828,6 +1041,8 @@
       "url": "https://www.postman.com",
       "type": "API Client",
       "year_created": 2012,
+      "author": "Postman Team",
+      "author_url": "https://www.postman.com/about",
       "year_created_source": "https://en.wikipedia.org/wiki/Postman_(software)"
     },
     {
@@ -835,6 +1050,8 @@
       "url": "https://prettier.io",
       "type": "Code Formatter",
       "year_created": 2017,
+      "author": "James Long",
+      "author_url": "https://github.com/jlongster",
       "year_created_source": "https://archive.jlongster.com/prettier-1.0",
       "year_created_source_alt": "https://github.com/prettier/prettier/tags?after=1.4.3"
     },
@@ -843,6 +1060,8 @@
       "url": "https://pugjs.org/api/getting-started.html",
       "type": "Template Engine",
       "year_created": 2016,
+      "author": "Pug Team",
+      "author_url": "https://github.com/pugjs",
       "year_created_source": "https://github.com/pugjs/pug/issues/2184",
       "note": "Formerly known as Jade. Last release was in 2021."
     },
@@ -851,6 +1070,8 @@
       "url": "https://pnpm.io/",
       "type": "Package Manager",
       "year_created": 2016,
+      "author": "pnpm Team",
+      "author_url": "https://github.com/pnpm",
       "year_created_source": "https://www.npmjs.com/package/pnpm?activeTab=versions"
     },
     {
@@ -858,6 +1079,8 @@
       "url": "https://playwright.dev",
       "type": "Testing Library",
       "year_created": 2020,
+      "author": "Microsoft",
+      "author_url": "https://microsoft.com",
       "year_created_source": "https://github.com/microsoft/playwright/tags?after=v0.11.0"
     },
     {
@@ -865,6 +1088,8 @@
       "url": "https://purecss.io/",
       "type": "CSS Framework",
       "year_created": 2013,
+      "author": "Yahoo Inc.",
+      "author_url": "https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html",
       "year_created_source": "https://github.com/pure-css/pure/releases/tag/v0.1.0"
     },
     {
@@ -872,6 +1097,8 @@
       "url": "https://polished.js.org/",
       "type": "Library",
       "year_created": 2017,
+      "author": "Styled-components Team",
+      "author_url": "https://styled-components.com/",
       "year_created_source": "https://www.npmjs.com/package/polished?activeTab=versions"
     },
     {
@@ -879,6 +1106,8 @@
       "url": "https://pixijs.com/",
       "type": "UI Library",
       "year_created": 2013,
+      "author": "Goodboy Digital",
+      "author_url": "https://www.goodboydigital.com/",
       "year_created_source": "https://www.npmjs.com/package/pixi.js?activeTab=versions"
     },
     {
@@ -886,6 +1115,8 @@
       "url": "https://phaser.io/",
       "type": "Game Development",
       "year_created": 2013,
+      "author": "Phaser Team",
+      "author_url": "https://phaser.io/about",
       "year_created_source": "https://www.npmjs.com/package/phaser?activeTab=versions"
     },
     {
@@ -893,6 +1124,8 @@
       "url": "https://pinia.vuejs.org/",
       "type": "State Management Library",
       "year_created": 2019,
+      "author": "Eduardo San Martin Morote",
+      "author_url": "https://esm.dev/",
       "year_created_source": "https://www.npmjs.com/package/pinia?activeTab=versions"
     },
     {
@@ -900,6 +1133,8 @@
       "url": "https://panda-css.com/",
       "type": "CSS Framework",
       "year_created": 2023,
+      "author": "Panda CSS Team",
+      "author_url": "https://panda-css.com/about",
       "year_created_source": "https://www.npmjs.com/package/@pandacss/node?activeTab=versions"
     }
   ],
@@ -909,6 +1144,8 @@
       "url": "https://quasar.dev",
       "type": "Framework",
       "year_created": 2016,
+      "author": "Razvan Stoenescu",
+      "author_url": "https://github.com/rstoenescu",
       "year_created_source": "https://github.com/quasarframework/quasar/tags?after=v0.5.0"
     },
     {
@@ -916,6 +1153,8 @@
       "url": "https://qwik.builder.io/",
       "type": "Framework",
       "year_created": 2023,
+      "author": "Builder.io",
+      "author_url": "https://builder.io/about",
       "year_created_source": "https://www.builder.io/blog/qwik-v1"
     }
   ],
@@ -925,6 +1164,8 @@
       "url": "https://www.radix-ui.com/primitives",
       "type": "UI Components Library",
       "year_created": 2020,
+      "author": "Modulz",
+      "author_url": "https://modulz.co/",
       "year_created_source": "https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020"
     },
     {
@@ -932,6 +1173,8 @@
       "url": "https://react.dev",
       "type": ["Framework", "Library"],
       "year_created": 2013,
+      "author": "Facebook",
+      "author_url": "https://about.fb.com/",
       "year_created_source": "https://www.youtube.com/watch?v=GW0rj4sNH2w"
     },
     {
@@ -939,6 +1182,8 @@
       "url": "https://react-bootstrap.netlify.app/",
       "type": "UI Components Library",
       "year_created": 2018,
+      "author": "React Bootstrap Team",
+      "author_url": "https://github.com/react-bootstrap",
       "year_created_source": "https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13"
     },
     {
@@ -946,6 +1191,8 @@
       "url": "https://reactnative.dev",
       "type": "Framework",
       "year_created": 2015,
+      "author": "Facebook",
+      "author_url": "https://about.fb.com/",
       "year_created_source": "https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/",
       "year_created_source_alt": "https://reactnative.dev/blog/2015/03/26/react-native-bringing-modern-web-techniques-to-mobile"
     },
@@ -954,6 +1201,8 @@
       "url": "https://testing-library.com/docs/react-testing-library/intro/",
       "type": "Testing Library",
       "year_created": 2018,
+      "author": "Testing Library Team",
+      "author_url": "https://testing-library.com/about",
       "year_created_source": "https://www.npmjs.com/package/react-testing-library?activeTab=versions"
     },
     {
@@ -961,6 +1210,8 @@
       "url": "https://redux.js.org",
       "type": "State Management Library",
       "year_created": 2011,
+      "author": "Dan Abramov",
+      "author_url": "https://overreacted.io/",
       "year_created_source": "https://www.npmjs.com/package/redux?activeTab=versions"
     },
     {
@@ -968,6 +1219,8 @@
       "url": "https://redux-saga.js.org",
       "type": "State Management Library",
       "year_created": 2015,
+      "author": "Yassine Elouafi",
+      "author_url": "https://yelouafi.github.io/",
       "year_created_source": "https://www.npmjs.com/package/redux-saga?activeTab=versions"
     },
     {
@@ -975,6 +1228,8 @@
       "url": "https://redux-toolkit.js.org/",
       "type": "State Management Library",
       "year_created": 2019,
+      "author": "Redux Team",
+      "author_url": "https://redux.js.org/team",
       "year_created_source": "https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions"
     },
     {
@@ -982,6 +1237,8 @@
       "url": "https://revealjs.com/",
       "type": "Framework",
       "year_created": 2013,
+      "author": "Hakim El Hattab",
+      "author_url": "https://hakim.se/",
       "year_created_source": "https://github.com/hakimel/reveal.js/releases?page=4"
     },
     {
@@ -989,6 +1246,8 @@
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
       "type": "Specification",
       "year_created": 2000,
+      "author": "Roy Fielding",
+      "author_url": "https://www.ics.uci.edu/~fielding/",
       "year_created_source": "https://web.archive.org/web/20210512181107/https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm",
       "year_created_source_alt": "https://en.wikipedia.org/wiki/Representational_state_transfer"
     },
@@ -997,6 +1256,8 @@
       "url": "https://rxjs.dev",
       "type": "Library",
       "year_created": 2015,
+      "author": "RxJS Contributors",
+      "author_url": "https://rxjs.dev/contributors",
       "year_created_source": "https://www.npmjs.com/package/rxjs?activeTab=versions"
     },
     {
@@ -1004,6 +1265,8 @@
       "url": "https://render.com/",
       "type": "Deployment & Hosting",
       "year_created": 2019,
+      "author": "Render Team",
+      "author_url": "https://render.com/about",
       "year_created_source": "https://render.com/about"
     },
     {
@@ -1011,6 +1274,8 @@
       "url": "https://relay.dev",
       "type": "Library",
       "year_created": 2016,
+      "author": "Facebook",
+      "author_url": "https://about.fb.com/",
       "year_created_source": "https://github.com/facebook/relay/releases/tag/v0.1.0"
     },
     {
@@ -1018,6 +1283,8 @@
       "url": "https://rebassjs.org/",
       "type": "UI Components Library",
       "year_created": 2018,
+      "author": "Rebass Team",
+      "author_url": "https://github.com/rebassjs",
       "year_created_source": "https://www.npmjs.com/package/rebass?activeTab=versions"
     },
     {
@@ -1025,6 +1292,8 @@
       "url": "https://react-icons.github.io/react-icons/",
       "type": "Icon Library",
       "year_created": 2016,
+      "author": "React Icons Team",
+      "author_url": "https://github.com/react-icons",
       "year_created_source": "https://www.npmjs.com/package/react-icons?activeTab=versions"
     },
     {
@@ -1032,6 +1301,8 @@
       "url": "https://react-hook-form.com/",
       "type": "UI Library",
       "year_created": 2019,
+      "author": "React Hook Form Team",
+      "author_url": "https://react-hook-form.com/about",
       "year_created_source": "https://www.npmjs.com/package/react-hook-form?activeTab=versions"
     },
     {
@@ -1039,6 +1310,8 @@
       "url": "https://www.npmjs.com/package/react-toastify",
       "type": "UI Library",
       "year_created": 2017,
+      "author": "Furkan Özden",
+      "author_url": "https://github.com/fkhadra",
       "year_created_source": "https://www.npmjs.com/package/react-toastify?activeTab=versions"
     },
     {
@@ -1046,14 +1319,18 @@
       "url": "https://github.com/reflux/refluxjs",
       "type": "State Management Library",
       "year_created": 2014,
-      "year_created_source": "https://www.npmjs.com/package/reflux?activeTab=versions",
-      "note": "Last release was in 2017."
+      "author": "Reflux Team",
+      "author_url": "https://github.com/reflux",
+      "note": "Last release was in 2017.",
+      "year_created_source": "https://www.npmjs.com/package/reflux?activeTab=versions"
     },
     {
       "name": "Rollup",
       "url": "https://rollupjs.org/",
       "type": "Build Tool",
       "year_created": 2015,
+      "author": "Rich Harris",
+      "author_url": "https://github.com/Rich-Harris",
       "year_created_source": "https://www.npmjs.com/package/rollup?activeTab=versions"
     },
     {
@@ -1061,6 +1338,8 @@
       "url": "https://remix.run/",
       "type": "Framework",
       "year_created": 2021,
+      "author": "Remix Team",
+      "author_url": "https://remix.run/about",
       "year_created_source": "https://www.npmjs.com/package/@remix-run/react?activeTab=versions"
     },
     {
@@ -1068,6 +1347,8 @@
       "url": "https://ramdajs.com",
       "type": "Utility Library",
       "year_created": 2014,
+      "author": "Ramda Contributors",
+      "author_url": "https://github.com/ramda",
       "year_created_source": "https://www.npmjs.com/package/ramda?activeTab=versions"
     },
     {
@@ -1078,12 +1359,15 @@
       "year_created_source": "https://www.npmjs.com/package/remeda?activeTab=versions"
     }
   ],
+
   "S": [
     {
       "name": "Sass",
       "url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
       "type": "Language",
       "year_created": 2006,
+      "author": "Hampton Catlin, Nathan Weizenbaum, Chris Eppstein",
+      "author_url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
       "year_created_source": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)"
     },
     {
@@ -1091,6 +1375,8 @@
       "url": "https://styled-components.com",
       "type": "Library",
       "year_created": 2016,
+      "author": "Max Stoiber, Glen Maddern, Phil Plückthun",
+      "author_url": "https://styled-components.com/docs/basics#authors",
       "year_created_source": "https://www.npmjs.com/package/styled-components?activeTab=versions"
     },
     {
@@ -1098,14 +1384,17 @@
       "url": "https://svelte.dev",
       "type": "Framework",
       "year_created": 2016,
-      "year_created_source": "https://svelte.dev/blog/frameworks-without-the-framework",
-      "year_created_source_alt": "https://github.com/sveltejs/svelte/tags?after=v1.0.1"
+      "author": "Rich Harris",
+      "author_url": "https://svelte.dev/blog/frameworks-without-the-framework",
+      "year_created_source": "https://github.com/sveltejs/svelte/tags?after=v1.0.1"
     },
     {
       "name": "SVG",
       "url": "https://en.wikipedia.org/wiki/SVG",
       "type": "Data Format",
       "year_created": 2001,
+      "author": "World Wide Web Consortium (W3C)",
+      "author_url": "https://www.w3.org/",
       "year_created_source": "https://en.wikipedia.org/wiki/SVG"
     },
     {
@@ -1113,6 +1402,8 @@
       "url": "https://www.solidjs.com/",
       "type": "Framework",
       "year_created": 2018,
+      "author": "Ryan Carniato",
+      "author_url": "https://github.com/ryansolid",
       "year_created_source": "https://www.npmjs.com/package/solid-js?activeTab=versions"
     },
     {
@@ -1120,6 +1411,8 @@
       "url": "https://socket.io",
       "type": "Library",
       "year_created": 2010,
+      "author": "LearnBoost, Guillermo Rauch",
+      "author_url": "https://socket.io/about/",
       "year_created_source": "https://www.npmjs.com/package/socket.io?activeTab=versions"
     },
     {
@@ -1127,6 +1420,8 @@
       "url": "https://swr.vercel.app/",
       "type": "Library",
       "year_created": 2019,
+      "author": "Vercel",
+      "author_url": "https://vercel.com/",
       "year_created_source": "https://www.npmjs.com/package/swr?activeTab=versions"
     },
     {
@@ -1134,6 +1429,8 @@
       "url": "https://sinonjs.org/",
       "type": "Testing Library",
       "year_created": 2015,
+      "author": "Christian Johansen, and Contributors",
+      "author_url": "https://sinonjs.org/#authors",
       "year_created_source": "https://www.npmjs.com/package/sinon?activeTab=versions"
     },
     {
@@ -1141,6 +1438,8 @@
       "url": "https://storybook.js.org/",
       "type": "Documentation Library",
       "year_created": 2016,
+      "author": "Chroma, Storybook Maintainers",
+      "author_url": "https://storybook.js.org/community/contributors/",
       "year_created_source": "https://www.npmjs.com/package/storybook?activeTab=versions"
     },
     {
@@ -1148,6 +1447,8 @@
       "url": "https://sweetalert2.github.io/",
       "type": "UI Library",
       "year_created": 2015,
+      "author": "Luis Fernando Alvarez, Contributors",
+      "author_url": "https://github.com/sweetalert2/sweetalert2/graphs/contributors",
       "year_created_source": "https://www.npmjs.com/package/sweetalert2?activeTab=versions"
     },
     {
@@ -1155,6 +1456,8 @@
       "url": "https://semantic-ui.com/",
       "type": "UI Library",
       "year_created": 2013,
+      "author": "Semantic-Org",
+      "author_url": "https://github.com/Semantic-Org",
       "year_created_source": "https://www.npmjs.com/package/semantic-ui?activeTab=versions"
     },
     {
@@ -1162,6 +1465,8 @@
       "url": "https://picturepan2.github.io/spectre/",
       "type": "CSS Framework",
       "year_created": 2016,
+      "author": "Yan Zhu",
+      "author_url": "https://github.com/picturepan2",
       "year_created_source": "https://www.npmjs.com/package/spectre.css?activeTab=versions"
     },
     {
@@ -1169,6 +1474,8 @@
       "url": "https://en.wikipedia.org/wiki/Single-page_application",
       "type": "Web Application Model",
       "year_created": 2003,
+      "author": "Lucas Birdeau, Kevin Hakman, Michael Peachey and Clifford Yeh",
+      "author_url": "https://patents.google.com/patent/US8136109",
       "year_created_source": "https://en.wikipedia.org/wiki/Single-page_application"
     },
     {
@@ -1176,6 +1483,8 @@
       "url": "https://en.wikipedia.org/wiki/Server-side_scripting",
       "type": "Web Application Model",
       "year_created": 1995,
+      "author": "Netscape",
+      "author_url": "https://isp.netscape.com/",
       "year_created_source": "https://en.wikipedia.org/wiki/Server-side_scripting"
     },
     {
@@ -1183,6 +1492,8 @@
       "url": "https://en.wikipedia.org/wiki/Search_engine_optimization",
       "type": "Development Practice",
       "year_created": 1997,
+      "author": "Danny Sullivan",
+      "author_url": "https://www.linkedin.com/in/dannysullivan/",
       "year_created_source": "https://en.wikipedia.org/wiki/Search_engine_optimization"
     },
     {
@@ -1190,6 +1501,8 @@
       "url": "https://semver.org/",
       "type": "Specification",
       "year_created": 2011,
+      "author": "Tom Preston-Werner, Drew LeSueur",
+      "author_url": "https://semver.org/#spec-authors",
       "year_created_source": "https://github.com/semver/semver/tags"
     },
     {
@@ -1197,6 +1510,8 @@
       "url": "https://supabase.com/",
       "type": "Backend-as-a-Service",
       "year_created": 2020,
+      "author": "Supabase Team",
+      "author_url": "https://supabase.com/about",
       "year_created_source": "https://supabase.com/changelog"
     },
     {
@@ -1204,6 +1519,8 @@
       "url": "https://sprucecss.com/",
       "type": "CSS Framework",
       "year_created": 2021,
+      "author": "Matthew Phillips",
+      "author_url": "https://github.com/matthewPhillips",
       "year_created_source": "https://www.npmjs.com/package/sprucecss?activeTab=versions"
     },
     {
@@ -1211,6 +1528,8 @@
       "url": "https://www.sublimetext.com/",
       "type": "Text Editor",
       "year_created": 2008,
+      "author": "Jon Skinner",
+      "author_url": "https://www.sublimetext.com/blog/articles/one-point-oh",
       "year_created_source": "https://www.sublimetext.com/blog/articles/one-point-oh"
     },
     {
@@ -1218,6 +1537,8 @@
       "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
       "type": "Web API",
       "year_created": 2014,
+      "author": "World Wide Web Consortium (W3C)",
+      "author_url": "https://www.w3.org/",
       "year_created_source": "https://www.w3.org/standards/history/service-workers/"
     }
   ],
@@ -1227,6 +1548,8 @@
       "url": "https://tailwindcss.com",
       "type": "CSS Framework",
       "year_created": 2017,
+      "author": "Adam Wathan, Jonathan Reinink, David Hemphill, Steve Schoger",
+      "author_url": "https://tailwindcss.com/about",
       "year_created_source": "https://www.npmjs.com/package/tailwindcss?activeTab=versions"
     },
     {
@@ -1234,6 +1557,8 @@
       "url": "https://tamagui.dev",
       "type": "UI Components Library",
       "year_created": 2022,
+      "author": "Tamagui Team",
+      "author_url": "https://github.com/tamagui",
       "year_created_source": "https://github.com/tamagui/tamagui/releases?page=68"
     },
     {
@@ -1241,6 +1566,8 @@
       "url": "https://tanstack.com/table/",
       "type": "Library",
       "year_created": 2014,
+      "author": "Tanstack",
+      "author_url": "https://tanstack.com/",
       "year_created_source": "https://www.npmjs.com/package/react-table/v/0.0.5",
       "note": "Formerly known as React Table."
     },
@@ -1249,6 +1576,8 @@
       "url": "https://threejs.org",
       "type": "UI Library",
       "year_created": 2013,
+      "author": "Ricardo Cabello (Mr.doob), Contributors",
+      "author_url": "https://threejs.org/about",
       "year_created_source": "https://github.com/mrdoob/three.js/releases/tag/r1",
       "year_created_source_alt": "https://www.npmjs.com/package/three?activeTab=versions"
     },
@@ -1257,6 +1586,8 @@
       "url": "https://palantir.github.io/tslint",
       "type": "Linter",
       "year_created": 2013,
+      "author": "Palantir Technologies, Contributors",
+      "author_url": "https://github.com/palantir/tslint/graphs/contributors",
       "year_created_source": "https://www.npmjs.com/package/tslint?activeTab=versions",
       "year_deprecated": 2019,
       "year_deprecated_source": "https://github.com/palantir/tslint/issues/4534",
@@ -1267,6 +1598,8 @@
       "url": "https://www.typescriptlang.org",
       "type": ["Language", "Type Checker"],
       "year_created": 2012,
+      "author": "Microsoft, Anders Hejlsberg",
+      "author_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/",
       "year_created_source": "https://devblogs.microsoft.com/typescript/announcing-typescript-1-0/",
       "year_created_source_alt": "https://www.npmjs.com/package/typescript?activeTab=versions"
     },
@@ -1275,6 +1608,8 @@
       "url": "https://www.travis-ci.com",
       "type": "CI/CD Service",
       "year_created": 2011,
+      "author": "Travis CI Team",
+      "author_url": "https://www.travis-ci.com/about-us/",
       "year_created_source": "https://www.travis-ci.com/about-us/",
       "year_created_source_alt": "https://en.wikipedia.org/wiki/Travis_CI",
       "note": "Free plan stopped in [2020](https://www.travis-ci.com/blog/2020-11-02-travis-ci-new-billing/)"
@@ -1284,6 +1619,8 @@
       "url": "https://tonejs.github.io/",
       "type": "Library",
       "year_created": 2014,
+      "author": "Yotam Mann, Contributors",
+      "author_url": "https://github.com/Tonejs/Tone.js/graphs/contributors",
       "year_created_source": "https://www.npmjs.com/package/tone?activeTab=versions"
     },
     {
@@ -1291,6 +1628,8 @@
       "url": "https://tsdx.io/",
       "type": "Library",
       "year_created": 2019,
+      "author": "Jared Palmer, Kyle Gill, Contributors",
+      "author_url": "https://github.com/formium/tsdx/graphs/contributors",
       "year_created_source": "https://www.npmjs.com/package/tsdx?activeTab=versions"
     },
     {
@@ -1298,6 +1637,8 @@
       "url": "https://www.tensorflow.org/js",
       "type": "Machine Learning Library",
       "year_created": 2018,
+      "author": "Google, TensorFlow.js Team",
+      "author_url": "https://www.tensorflow.org/js/about",
       "year_created_source": "https://www.npmjs.com/package/@tensorflow/tfjs?activeTab=versions"
     },
     {
@@ -1305,6 +1646,8 @@
       "url": "https://tanstack.com/query/latest",
       "type": "Library",
       "year_created": 2014,
+      "author": "Tanstack",
+      "author_url": "https://tanstack.com/",
       "year_created_source": "https://www.npmjs.com/package/react-query/v/0.0.6",
       "note": "Formerly known as React Query."
     }
@@ -1315,6 +1658,8 @@
       "url": "https://underscorejs.org",
       "type": "Utility Library",
       "year_created": 2009,
+      "author": "Jeremy Ashkenas, DocumentCloud, Investigative Reporters & Editors",
+      "author_url": "https://underscorejs.org/#changelog",
       "year_created_source": "https://underscorejs.org/#changelog"
     },
     {
@@ -1322,6 +1667,8 @@
       "url": "https://upload.io/upload-js",
       "type": "Library",
       "year_created": 2021,
+      "author": "UPLOADCARE LLC",
+      "author_url": "https://upload.io/",
       "year_created_source": "https://www.npmjs.com/package/upload-js?activeTab=versions"
     }
   ],
@@ -1331,6 +1678,8 @@
       "url": "https://vitejs.dev",
       "type": "Build Tool",
       "year_created": 2020,
+      "author": "Evan You, Vite Team",
+      "author_url": "https://vitejs.dev/about.html",
       "year_created_source": "https://www.npmjs.com/package/vite?activeTab=versions"
     },
     {
@@ -1338,6 +1687,8 @@
       "url": "https://vitest.dev",
       "type": "Testing Library",
       "year_created": 2021,
+      "author": "Vite Team",
+      "author_url": "https://vitest.dev/about.html",
       "year_created_source": "https://www.npmjs.com/package/vitest?activeTab=versions"
     },
     {
@@ -1345,6 +1696,8 @@
       "url": "https://vuejs.org",
       "type": "Framework",
       "year_created": 2014,
+      "author": "Evan You",
+      "author_url": "https://vuejs.org/about/",
       "year_created_source": "https://blog.evanyou.me/2014/02/11/first-week-of-launching-an-oss-project/"
     },
     {
@@ -1352,6 +1705,8 @@
       "url": "https://vercel.com/",
       "type": "Deployment & Hosting",
       "year_created": 2015,
+      "author": "Vercel Inc.",
+      "author_url": "https://vercel.com/about",
       "year_created_source": "https://en.wikipedia.org/wiki/Vercel",
       "year_created_source_alt": "https://www.businessinsider.com/vercel-zeit-pitch-deck-21-million-accel-github-ceo-2020-4"
     },
@@ -1360,6 +1715,8 @@
       "url": "https://videojs.com/",
       "type": "Library",
       "year_created": 2013,
+      "author": "Brightcove, Contributors",
+      "author_url": "https://github.com/videojs/video.js/graphs/contributors",
       "year_created_source": "https://www.npmjs.com/package/video.js?activeTab=versions"
     },
     {
@@ -1367,6 +1724,8 @@
       "url": "https://fengyuanchen.github.io/viewerjs/",
       "type": "Library",
       "year_created": 2015,
+      "author": "Fengyuan Chen, Contributors",
+      "author_url": "https://github.com/fengyuanchen",
       "year_created_source": "https://www.npmjs.com/package/viewerjs?activeTab=versions"
     },
     {
@@ -1374,6 +1733,8 @@
       "url": "https://code.visualstudio.com",
       "type": "Text Editor",
       "year_created": 2015,
+      "author": "Microsoft, Visual Studio Code Team",
+      "author_url": "https://code.visualstudio.com/team",
       "year_created_source": "https://github.com/microsoft/vscode/tags?after=0.10.7-insiders"
     },
     {
@@ -1384,6 +1745,8 @@
         "Static Site Generator"
       ],
       "year_created": 2018,
+      "author": "VuePress Team",
+      "author_url": "https://github.com/vuepress",
       "year_created_source": "https://www.npmjs.com/package/vuepress?activeTab=versions"
     },
     {
@@ -1394,15 +1757,20 @@
         "Static Site Generator"
       ],
       "year_created": 2020,
+      "author": "VitePress Team",
+      "author_url": "https://github.com/vuejs/vitepress",
       "year_created_source": "https://www.npmjs.com/package/vitepress?activeTab=versions"
     }
   ],
+
   "W": [
     {
       "name": "webpack",
       "url": "https://webpack.js.org",
       "type": "Build Tool",
       "year_created": 2012,
+      "author": "Tobias Koppers, Sean Larkin, and Webpack contributors",
+      "author_url": "https://webpack.js.org/team/",
       "year_created_source": "https://www.npmjs.com/package/webpack?activeTab=versions"
     },
     {
@@ -1410,6 +1778,8 @@
       "url": "https://en.wikipedia.org/wiki/WebSocket",
       "type": "Technology",
       "year_created": 2011,
+      "author": "IETF",
+      "author_url": "https://www.ietf.org/",
       "year_created_source": "https://en.wikipedia.org/wiki/WebSocket"
     },
     {
@@ -1417,6 +1787,8 @@
       "url": "https://w3c.github.io/webrtc-pc/",
       "type": "Web API",
       "year_created": 2011,
+      "author": "World Wide Web Consortium (W3C)",
+      "author_url": "https://www.w3.org/",
       "year_created_source": "https://www.w3.org/standards/history/webrtc/"
     }
   ],
@@ -1426,6 +1798,8 @@
       "url": "https://xstate.js.org",
       "type": "State Management Library",
       "year_created": 2017,
+      "author": "David Khourshid and XState contributors",
+      "author_url": "https://github.com/davidkpiano",
       "year_created_source": "https://www.npmjs.com/package/xstate?activeTab=versions"
     },
     {
@@ -1433,6 +1807,8 @@
       "url": "https://xstyled.dev/",
       "type": "CSS Framework",
       "year_created": 2019,
+      "author": "Brent Jackson and xstyled contributors",
+      "author_url": "https://github.com/smooth-code",
       "year_created_source": "https://www.npmjs.com/package/@xstyled/styled-components?activeTab=versions"
     }
   ],
@@ -1442,6 +1818,8 @@
       "url": "https://yarnpkg.com",
       "type": "Package Manager",
       "year_created": 2016,
+      "author": "Yarn Contributors",
+      "author_url": "https://github.com/yarnpkg",
       "year_created_source": "https://en.wikipedia.org/wiki/Yarn_(package_manager)"
     },
     {
@@ -1449,6 +1827,8 @@
       "url": "https://github.com/jquense/yup",
       "type": "Data Validation Library",
       "year_created": 2015,
+      "author": "Jason Quense",
+      "author_url": "https://github.com/jquense",
       "year_created_source": "https://github.com/jquense/yup/releases/tag/v0.6.0"
     },
     {
@@ -1456,6 +1836,8 @@
       "url": "https://yeoman.io/",
       "type": "Library",
       "year_created": 2014,
+      "author": "Yeoman Team",
+      "author_url": "https://yeoman.io/community.html",
       "year_created_source": "https://www.npmjs.com/package/yo?activeTab=versions"
     }
   ],
@@ -1465,6 +1847,8 @@
       "url": "https://en.wikipedia.org/wiki/Z-order#z-index",
       "type": "CSS Methodology",
       "year_created": 1997,
+      "author": "World Wide Web Consortium (W3C)",
+      "author_url": "https://www.w3.org/",
       "year_created_source": "https://www.w3.org/TR/WD-CSS2-971104/cover.html"
     },
     {
@@ -1472,6 +1856,8 @@
       "url": "https://zod.dev",
       "type": "Data Validation Library",
       "year_created": 2020,
+      "author": "Vercel, Leonardo Faria",
+      "author_url": "https://vercel.com/",
       "year_created_source": "https://www.npmjs.com/package/zod?activeTab=versions"
     },
     {
@@ -1479,6 +1865,8 @@
       "url": "https://docs.pmnd.rs/zustand/getting-started/introduction",
       "type": "State Management Library",
       "year_created": 2019,
+      "author": "Paul Mendez and zustand contributors",
+      "author_url": "https://github.com/pmndrs/zustand",
       "year_created_source": "https://www.npmjs.com/package/zustand?activeTab=versions"
     }
   ]

@@ -20,6 +20,16 @@ function getAdditionalInfo(term) {
   return dateInfo;
 }
 
+function getAuthorInfo(term) {
+  let authorName = term?.author;
+  let authorUrl = term.author_url;
+
+  if (authorName === undefined) {
+    return null;
+  }
+  return `[${authorName}](${authorUrl})`;
+}
+
 const subHeading = `<div align="center">
 List by
 <a href="README.md">Alphabetical order</a> |
@@ -87,9 +97,13 @@ for (const key in data) {
         ? term.type.join(', ')
         : term.type;
       let dateInfo = getAdditionalInfo(term);
+      let authorInfo = getAuthorInfo(term);
+      console.log(JSON.stringify(term.name),authorInfo)
       return `- ${nameWithLink}${
         types
-          ? `: ${types}${dateInfo ? ` ${dateInfo}` : ''}`
+          ? `: ${types} ${
+              (authorInfo!==null) ? `by ${authorInfo}` : ``
+            } ${dateInfo ? ` ${dateInfo}` : ''}`
           : ''
       }`;
     })
