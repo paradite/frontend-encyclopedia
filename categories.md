@@ -155,6 +155,9 @@ List by
 - [Viewer.js](https://fengyuanchen.github.io/viewerjs/) by Fengyuan Chen, Contributors ([2015](https://www.npmjs.com/package/viewerjs?activeTab=versions))
 - [yo](https://yeoman.io/) by Yeoman Team ([2014](https://www.npmjs.com/package/yo?activeTab=versions))
 
+### Library for Ethereum Blockchain
+- [Ethers.js](https://docs.ethers.io/v5/) by ethers.io contributors ([2018](https://www.npmjs.com/package/ethers))
+
 ### Linter
 - [ESLint](https://eslint.org) by ESLint Team ([2013](https://eslint.org/docs/latest/about/))
 - [TSLint](https://palantir.github.io/tslint) by Palantir Technologies, Contributors ([2013](https://www.npmjs.com/package/tslint?activeTab=versions) - [2019](https://github.com/palantir/tslint/issues/4534))
@@ -297,7 +300,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 

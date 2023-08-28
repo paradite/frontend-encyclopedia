@@ -60,6 +60,7 @@ List by
 - [Enzyme](https://enzymejs.github.io/enzyme/): Testing Library by Airbnb ([2015](https://www.npmjs.com/package/enzyme?activeTab=versions), Last release was in 2019.)
 - [ES2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022): Specification by Ecma International ([2022](https://en.wikipedia.org/wiki/ECMAScript_version_history#ES2022))
 - [ESLint](https://eslint.org): Linter by ESLint Team ([2013](https://eslint.org/docs/latest/about/))
+- [Ethers.js](https://docs.ethers.io/v5/): Library for Ethereum Blockchain by ethers.io contributors ([2018](https://www.npmjs.com/package/ethers))
 - [Evergreen](https://evergreen.segment.com/): UI Components Library by Segment ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
 
 ### F
@@ -268,7 +269,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 

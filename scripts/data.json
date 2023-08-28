@@ -424,7 +424,16 @@
       "author": "Apache Software Foundation",
       "author_url": "https://www.apache.org/",
       "year_created_source": "https://www.npmjs.com/package/echarts?activeTab=versions"
-    }
+    },
+    {
+      "name": "Ethers.js",
+      "url": "https://docs.ethers.io/v5/",
+      "type": "Ethereum Blockchain Interaction Library",
+      "year_created": 2018,
+      "author": "ethers.io contributors",
+      "author_url": "https://github.com/ethers-io/ethers.js",
+      "year_created_source": "https://www.npmjs.com/package/ethers"
+    }    
   ],
   "F": [
     {

@@ -209,6 +209,7 @@ List by
 - [day.js](https://day.js.org): Date & Time Library by iamkun ([2018](https://www.npmjs.com/package/dayjs?activeTab=versions))
 - [docz](https://www.docz.site/): Documentation Library by docz Contributors ([2018](https://www.npmjs.com/package/docz?activeTab=versions))
 - [Evergreen](https://evergreen.segment.com/): UI Components Library by Segment ([2018](https://www.npmjs.com/package/evergreen-ui?activeTab=versions))
+- [Ethers.js](https://docs.ethers.io/v5/): Library for Ethereum Blockchain by ethers.io contributors ([2018](https://www.npmjs.com/package/ethers))
 - [React Bootstrap](https://react-bootstrap.netlify.app/): UI Components Library by React Bootstrap Team ([2018](https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library by Testing Library Team ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [Rebass](https://rebassjs.org/): UI Components Library by Rebass Team ([2018](https://www.npmjs.com/package/rebass?activeTab=versions))
@@ -274,7 +275,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 
