@@ -238,7 +238,7 @@ List by
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework by Andy Brewer ([2020](https://github.com/andybrewer/mvp/releases))
 - [Playwright](https://playwright.dev): Testing Library by Microsoft ([2020](https://github.com/microsoft/playwright/tags?after=v0.11.0))
 - [Radix UI](https://www.radix-ui.com/primitives): UI Components Library by Modulz ([2020](https://www.radix-ui.com/primitives/docs/overview/releases#december-15-2020))
-- [React Query](https://react-query.tanstack.com/): State Management Library by TanStack ([2020](https://github.com/tannerlinsley/react-query/releases))
+- [React Query](https://react-query.tanstack.com/): State Management Library by TanStack ([2020](https://github.com/TanStack/query))
 - [Supabase](https://supabase.com/): Backend-as-a-Service by Supabase Team ([2020](https://supabase.com/changelog))
 - [Vite](https://vitejs.dev): Build Tool by Evan You, Vite Team ([2020](https://www.npmjs.com/package/vite?activeTab=versions))
 - [VitePress](https://vitepress.vuejs.org): Documentation Library, Static Site Generator by VitePress Team ([2020](https://www.npmjs.com/package/vitepress?activeTab=versions))

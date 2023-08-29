@@ -1312,7 +1312,7 @@
       "year_created": 2020,
       "author": "TanStack",
       "author_url": "https://tanstack.com/",
-      "year_created_source": "https://github.com/tannerlinsley/react-query/releases"
+      "year_created_source": "https://github.com/TanStack/query"
     },
     {
       "name": "React-Toastify",

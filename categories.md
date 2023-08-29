@@ -184,7 +184,7 @@ List by
 
 ### State Management Library
 - [Pinia](https://pinia.vuejs.org/) by Eduardo San Martin Morote ([2019](https://www.npmjs.com/package/pinia?activeTab=versions))
-- [React Query](https://react-query.tanstack.com/) by TanStack ([2020](https://github.com/tannerlinsley/react-query/releases))
+- [React Query](https://react-query.tanstack.com/) by TanStack ([2020](https://github.com/TanStack/query))
 - [Redux Toolkit](https://redux-toolkit.js.org/) by Redux Team ([2019](https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions))
 - [Redux-Saga](https://redux-saga.js.org) by Yassine Elouafi ([2015](https://www.npmjs.com/package/redux-saga?activeTab=versions))
 - [Redux](https://redux.js.org) by Dan Abramov ([2011](https://www.npmjs.com/package/redux?activeTab=versions))
