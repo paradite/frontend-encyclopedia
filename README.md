@@ -170,6 +170,7 @@ List by
 - [React Bootstrap](https://react-bootstrap.netlify.app/): UI Components Library by React Bootstrap Team ([2018](https://github.com/react-bootstrap/react-bootstrap/blob/master/CHANGELOG.md#100-beta0-2018-09-13))
 - [React Hook Form](https://react-hook-form.com/): UI Library by React Hook Form Team ([2019](https://www.npmjs.com/package/react-hook-form?activeTab=versions))
 - [React Native](https://reactnative.dev): Framework by Facebook ([2015](https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/))
+- [React Query](https://react-query.tanstack.com/): Data Fetching Library by TanStack ([2020](https://github.com/tannerlinsley/react-query/releases))
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/): Testing Library by Testing Library Team ([2018](https://www.npmjs.com/package/react-testing-library?activeTab=versions))
 - [react-icons](https://react-icons.github.io/react-icons/): Icon Library by React Icons Team ([2016](https://www.npmjs.com/package/react-icons?activeTab=versions))
 - [React-Toastify](https://www.npmjs.com/package/react-toastify): UI Library by Furkan Özden ([2017](https://www.npmjs.com/package/react-toastify?activeTab=versions))
@@ -268,7 +269,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 

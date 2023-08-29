@@ -49,6 +49,9 @@ List by
 ### Code Formatter
 - [Prettier](https://prettier.io) by James Long ([2017](https://archive.jlongster.com/prettier-1.0))
 
+### Data Fetching Library
+- [React Query](https://react-query.tanstack.com/) by TanStack ([2020](https://github.com/tannerlinsley/react-query/releases))
+
 ### Data Format
 - [JSON](https://en.wikipedia.org/wiki/JSON) by Douglas Crockford ([2001](https://en.wikipedia.org/wiki/JSON))
 - [SVG](https://en.wikipedia.org/wiki/SVG) by World Wide Web Consortium (W3C) ([2001](https://en.wikipedia.org/wiki/SVG))
@@ -297,7 +300,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 

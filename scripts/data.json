@@ -607,7 +607,7 @@
       "type": "Library",
       "year_created": 2013,
       "year_created_source": "https://github.com/greensock/GSAP/tags?after=1.9.2"
-    }   
+    }
   ],
   "H": [
     {
@@ -1313,7 +1313,7 @@
       "author": "TanStack",
       "author_url": "https://tanstack.com/",
       "year_created_source": "https://github.com/tannerlinsley/react-query/releases"
-    },    
+    },
     {
       "name": "React-Toastify",
       "url": "https://www.npmjs.com/package/react-toastify",
