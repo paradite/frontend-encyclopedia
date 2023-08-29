@@ -91,6 +91,7 @@ List by
 - [Heroicons](https://heroicons.com/): Icon Library by Tailwind Labs ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [Highcharts](https://www.highcharts.com/): UI Library by Highsoft AS ([2014](https://www.npmjs.com/package/highcharts?activeTab=versions))
 - [HTML](https://en.wikipedia.org/wiki/HTML): Language by Tim Berners-Lee ([1993](https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html))
+- [HTMLX](https://htmx.org/): Library by Carson Gross ([2020](https://www.npmjs.com/package/htmx.org?activeTab=versions))
 - [Hugo](https://gohugo.io): Static Site Generator by Bjørn Erik Pedersen and contributors ([2013](https://github.com/gohugoio/hugo/tags?after=v0.11))
 
 ### I
@@ -268,7 +269,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 
