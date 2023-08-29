@@ -1308,7 +1308,7 @@
     {
       "name": "React Query",
       "url": "https://react-query.tanstack.com/",
-      "type": "Data Fetching Library",
+      "type": "State Management Library",
       "year_created": 2020,
       "author": "TanStack",
       "author_url": "https://tanstack.com/",
