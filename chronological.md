@@ -233,6 +233,7 @@ List by
 ### 2020
 - [Chakra UI](https://chakra-ui.com): UI Components Library by Chakra UI Team ([2020](https://www.npmjs.com/package/@chakra-ui/react?activeTab=versions))
 - [Deno](https://deno.land/): Runtime Environment by Deno Land ([2020](https://deno.com/blog/v1))
+- [HTMX](https://htmx.org/): Library by Carson Gross ([2020](https://www.npmjs.com/package/htmx.org?activeTab=versions))
 - [Headless UI](https://headlessui.com/): UI Components Library by Tailwind Labs ([2020](https://github.com/tailwindlabs/headlessui/blob/main/packages/@headlessui-react/CHANGELOG.md#011---2020-09-24))
 - [Heroicons](https://heroicons.com/): Icon Library by Tailwind Labs ([2020](https://github.com/tailwindlabs/heroicons/blob/master/CHANGELOG.md#020---2020-05-18))
 - [MVP.css](https://andybrewer.github.io/mvp/): CSS Framework by Andy Brewer ([2020](https://github.com/andybrewer/mvp/releases))
@@ -274,7 +275,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 

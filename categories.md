@@ -136,6 +136,7 @@ List by
 - [Cropper.js](https://fengyuanchen.github.io/cropperjs/) by Fengyuan Chen ([2015](https://www.npmjs.com/package/cropperjs?activeTab=versions))
 - [Framer Motion](https://www.framer.com/motion/) ([2019](https://github.com/framer/motion/tags?after=v0.0.8))
 - [Greensock Animation Platform (GSAP)](https://greensock.com/gsap/) ([2013](https://github.com/greensock/GSAP/tags?after=1.9.2))
+- [HTMX](https://htmx.org/) by Carson Gross ([2020](https://www.npmjs.com/package/htmx.org?activeTab=versions))
 - [jsdoc](https://jsdoc.app/) by jsdoc ([2015](https://www.npmjs.com/package/jsdoc?activeTab=versions))
 - [jsPDF](https://rawgit.com/MrRio/jsPDF/master/docs/index.html) by jsdoc ([2014](https://www.npmjs.com/package/jspdf?activeTab=versions))
 - [Node Cron](https://github.com/node-cron/node-cron) by Felix Böhm ([2016](https://www.npmjs.com/package/node-cron?activeTab=versions))
@@ -297,7 +298,7 @@ List by
 
 ## Stats
 
-- Total terms: 198
+- Total terms: 199
 
 ## Contributing
 
