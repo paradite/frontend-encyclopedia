@@ -87,6 +87,7 @@ List by
 |[Flow](https://flow.org/) | Type Checker | Facebook | [2014](https://www.npmjs.com/package/flow-bin?activeTab=versions) |  |
 |[Flowbite](https://flowbite.com/) | UI Components Library | Themesberg | [2021](https://github.com/themesberg/flowbite/tags?after=v1.3.0) |  |
 |[Flutter](https://flutter.dev) | Framework | Google | [2017](https://en.wikipedia.org/wiki/Flutter_(software)) |  |
+|[FlyonUI](https://flyonui.com/) | UI Components Library | ThemeSelection | [2024](https://github.com/themeselection/flyonui) |  |
 |[Font Awesome](https://fontawesome.com) | Icon Library | Fonticons, Inc. | [2012](https://fontawesome.com/versions) |  |
 |[Formik](https://formik.org/) | UI Library | Jared Palmer | [2017](https://www.npmjs.com/package/formik?activeTab=versions) |  |
 |[Foundation](https://get.foundation) | UI Components Library | ZURB | [2011](https://github.com/foundation/foundation-sites/tags?after=v2.2) |  |
