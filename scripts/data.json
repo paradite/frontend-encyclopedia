@@ -1242,6 +1242,13 @@
       "year_created_source": "https://www.npmjs.com/package/@reduxjs/toolkit?activeTab=versions"
     },
     {
+      "name": "Redux Persist",
+      "url": "https://github.com/rt2zz/redux-persist",
+      "type": "Persist & Rehydration Library",
+      "year_created": 2015,
+      "year_created_source": "https://www.npmjs.com/package/redux-persist?activeTab=versions"
+    }, 
+    {
       "name": "reveal.js",
       "url": "https://revealjs.com/",
       "type": "Framework",
@@ -1549,6 +1556,13 @@
       "author": "World Wide Web Consortium (W3C)",
       "author_url": "https://www.w3.org/",
       "year_created_source": "https://www.w3.org/standards/history/service-workers/"
+    },
+    {
+      "name": "Swiper",
+      "url": "https://swiperjs.com/swiper-api",
+      "type": "Carousel Library",
+      "year_created": 2014,
+      "year_created_source": "https://www.npmjs.com/package/swiper?activeTab=versions"
     }
   ],
   "T": [
